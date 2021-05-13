@@ -4,14 +4,14 @@
 
 ## Table of Contents
 - [What's new?](#whats-new)
-  - [1.14+](#114)
-  - [1.13](#113)
+  - [1.14+ Changes](#114)
+  - [1.13 Changes](#113)
 - [Known Issues](#issues)
 - [Credits/Disclaimers](#credit)
 - [Version History](#version)
 ## <a name="whats-new"></a>What's new?
 
-#### A lot. Like, a lot alot.
+#### A lot. Like, a lot a lot.
 
 ### <a name="114"></a>1.14+ Changes
 
