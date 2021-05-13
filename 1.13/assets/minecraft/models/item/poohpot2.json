@@ -1,38 +1,122 @@
 {
-	"__comment": "Designed by Mouskegamer with Cubik Studio - https://cubik.studio",
-	"textures": {
-		"texture": "custom/poohpot2"
-	},
-	"elements": [ 	 
-		{
-			"__comment": "Box1",
-			"from": [ -13, -13, 8.5 ],
-			"to": [ 29, 29, 8.501 ],
-			"faces": {
-				"down": { "uv": [ 0, 0, 1.5, 3 ], "texture": "#texture" },
-				"up": { "uv": [ 0, 0, 1.5, 3 ], "texture": "#texture" },
-				"north": { "uv": [ 0, 0, 16, 16 ], "texture": "#texture" },
-				"south": { "uv": [ 16, 0, 0, 16 ], "texture": "#texture" },
-				"west": { "uv": [ 0, 0, 1.5, 3 ], "texture": "#texture" },
-				"east": { "uv": [ 0, 0, 1.5, 3 ], "texture": "#texture" }
-			}
-		}
-	],
-	"display": {
-		"firstperson_righthand": {
-			"translation":  [ -3, 5, 0 ],
-			"scale":  [ 0.4, 0.4, 0.4 ]
-		},
-		"firstperson_lefthand": {
-			"translation":  [ -3, 5, 0 ],
-			"scale":  [ 0.4, 0.4, 0.4 ]
-		},
-		"gui": {
-			"scale":  [ 0.4, 0.4, 0.4 ]
-		},
-		"head": {
-			"translation":  [ 0, 30, 0 ],
-			"scale":  [ 2.3, 2.3, 2.3 ]
-		}
-	}
+  "__comment": "Designed_by_Mouskegamer_with_Cubik_Studio_-_https://cubik.studio",
+  "textures": {
+    "texture": "custom/poohpot2"
+  },
+  "elements": [
+    {
+      "__comment": "Box1",
+      "from": [
+        -13,
+        -13,
+        8.5
+      ],
+      "to": [
+        29,
+        29,
+        8.501
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            0,
+            0,
+            1.5,
+            3
+          ],
+          "texture": "#texture"
+        },
+        "up": {
+          "uv": [
+            0,
+            0,
+            1.5,
+            3
+          ],
+          "texture": "#texture"
+        },
+        "north": {
+          "uv": [
+            0,
+            0,
+            16,
+            16
+          ],
+          "texture": "#texture"
+        },
+        "south": {
+          "uv": [
+            16,
+            0,
+            0,
+            16
+          ],
+          "texture": "#texture"
+        },
+        "west": {
+          "uv": [
+            0,
+            0,
+            1.5,
+            3
+          ],
+          "texture": "#texture"
+        },
+        "east": {
+          "uv": [
+            0,
+            0,
+            1.5,
+            3
+          ],
+          "texture": "#texture"
+        }
+      }
+    }
+  ],
+  "display": {
+    "firstperson_righthand": {
+      "translation": [
+        -3,
+        5,
+        0
+      ],
+      "scale": [
+        0.4,
+        0.4,
+        0.4
+      ]
+    },
+    "firstperson_lefthand": {
+      "translation": [
+        -3,
+        5,
+        0
+      ],
+      "scale": [
+        0.4,
+        0.4,
+        0.4
+      ]
+    },
+    "gui": {
+      "scale": [
+        0.4,
+        0.4,
+        0.4
+      ]
+    },
+    "head": {
+      "translation": [
+        0,
+        30,
+        0
+      ],
+      "scale": [
+        2.3,
+        2.3,
+        2.3
+      ]
+    }
+  }
 }

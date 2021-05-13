@@ -1,100 +1,408 @@
 {
-	"__comment": "Designed by Slinx with Cubik Studio - https://cubik.studio",
-	"textures": {
-		"particle": "blocks/e_particle",
-		"texture": "custom/lafittelanding",
-		"black": "custom/wool_colored_black",
-		"log1": "blocks/log_spruce_top",
-		"log2": "blocks/log_spruce"
-	},
-	"elements": [
-		{
-			"__comment": "Cube1",
-			"from": [ 7, -6, 4.5 ],
-			"to": [ 9, 12, 28.5 ],
-			"faces": {
-				"down": { "uv": [ 0, 13.5, 16, 13 ], "texture": "#texture", "rotation": 270 },
-				"up": { "uv": [ 0, 2.5, 16, 3 ], "texture": "#texture", "rotation": 270 },
-				"north": { "uv": [ 0, 2, 0.5, 14 ], "texture": "#texture" },
-				"south": { "uv": [ 15.5, 2, 16, 14 ], "texture": "#texture" },
-				"west": { "uv": [ 0, 2, 16, 14 ], "texture": "#texture" },
-				"east": { "uv": [ 0, 2, 16, 14 ], "texture": "#texture" }
-			}
-		},
-		{
-			"__comment": "Cube3",
-			"from": [ 7.5, 12, 26 ],
-			"to": [ 8.5, 16, 27 ],
-			"faces": {
-				"down": { "uv": [ 0, 0, 1, 1 ], "texture": "#black" },
-				"up": { "uv": [ 0, 0, 1, 1 ], "texture": "#black" },
-				"north": { "uv": [ 15, 0, 16, 16 ], "texture": "#black" },
-				"south": { "uv": [ 15, 0, 16, 16 ], "texture": "#black" },
-				"west": { "uv": [ 15, 0, 16, 16 ], "texture": "#black" },
-				"east": { "uv": [ 15, 0, 16, 16 ], "texture": "#black" }
-			}
-		},
-		{
-			"__comment": "Cube3",
-			"from": [ 7.5, 12, 6 ],
-			"to": [ 8.5, 16, 7 ],
-			"faces": {
-				"down": { "uv": [ 0, 0, 1, 1 ], "texture": "#black" },
-				"up": { "uv": [ 0, 0, 1, 1 ], "texture": "#black" },
-				"north": { "uv": [ 15, 0, 16, 16 ], "texture": "#black" },
-				"south": { "uv": [ 15, 0, 16, 16 ], "texture": "#black" },
-				"west": { "uv": [ 15, 0, 16, 16 ], "texture": "#black" },
-				"east": { "uv": [ 15, 0, 16, 16 ], "texture": "#black" }
-			}
-		},
-		{
-			"__comment": "Cube5",
-			"from": [ 5, 16, -16 ],
-			"to": [ 11, 22, 32 ],
-			"faces": {
-				"down": { "uv": [ 5, 0, 11, 16 ], "texture": "#log2" },
-				"up": { "uv": [ 5, 0, 11, 16 ], "texture": "#log2" },
-				"north": { "uv": [ 0, 0, 16, 16 ], "texture": "#log2" },
-				"south": { "uv": [ 0, 0, 16, 16 ], "texture": "#log1" },
-				"west": { "uv": [ 5, 0, 11, 16 ], "texture": "#log2", "rotation": 90 },
-				"east": { "uv": [ 5, 0, 11, 16 ], "texture": "#log2", "rotation": 90 }
-			}
-		}
-	],
-	"display": {
-		"thirdperson_righthand": {
-			"rotation":  [ -88, -36, -92 ],
-			"translation":  [ 0, 1.3913, 2.0869 ],
-			"scale":  [ 0.2695, 0.2695, 0.2695 ]
-		},
-		"thirdperson_lefthand": {
-			"rotation":  [ -88, -36, -92 ],
-			"translation":  [ 0, 1.3913, 2.0869 ],
-			"scale":  [ 0.2695, 0.2695, 0.2695 ]
-		},
-		"firstperson_righthand": {
-			"rotation":  [ 20, -167, 36 ],
-			"translation":  [ 0, 0, -1.391 ],
-			"scale":  [ 0.2695, 0.2695, 0.2695 ]
-		},
-		"firstperson_lefthand": {
-			"rotation":  [ 20, -167, 36 ],
-			"translation":  [ 0, 0, -1.391 ],
-			"scale":  [ 0.2695, 0.2695, 0.2695 ]
-		},
-		"gui": {
-			"rotation":  [ 0, 90, 0 ],
-			"scale":  [ 0.2695, 0.2695, 0.2695 ]
-		},
-		"head": {
-			"rotation":  [ 0, 180, 0 ],
-			"translation":  [ 0, -15.3, 0 ],
-			"scale":  [ 1.5652, 1.5652, 1.5652 ]
-		},
-		"ground": {
-			"rotation":  [ 0, 0, 92 ],
-			"translation":  [ 0, 5.5652, 0 ],
-			"scale":  [ 0.4869, 0.4869, 0.4869 ]
-		}
-	}
+  "__comment": "Designed_by_Slinx_with_Cubik_Studio_-_https://cubik.studio",
+  "textures": {
+    "particle": "block/e_particle",
+    "texture": "custom/lafittelanding",
+    "black": "custom/wool_colored_black",
+    "log1": "block/spruce_log_top",
+    "log2": "block/spruce_log"
+  },
+  "elements": [
+    {
+      "__comment": "Cube1",
+      "from": [
+        7,
+        -6,
+        4.5
+      ],
+      "to": [
+        9,
+        12,
+        28.5
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            0,
+            13.5,
+            16,
+            13
+          ],
+          "texture": "#texture",
+          "rotation": 270
+        },
+        "up": {
+          "uv": [
+            0,
+            2.5,
+            16,
+            3
+          ],
+          "texture": "#texture",
+          "rotation": 270
+        },
+        "north": {
+          "uv": [
+            0,
+            2,
+            0.5,
+            14
+          ],
+          "texture": "#texture"
+        },
+        "south": {
+          "uv": [
+            15.5,
+            2,
+            16,
+            14
+          ],
+          "texture": "#texture"
+        },
+        "west": {
+          "uv": [
+            0,
+            2,
+            16,
+            14
+          ],
+          "texture": "#texture"
+        },
+        "east": {
+          "uv": [
+            0,
+            2,
+            16,
+            14
+          ],
+          "texture": "#texture"
+        }
+      }
+    },
+    {
+      "__comment": "Cube3",
+      "from": [
+        7.5,
+        12,
+        26
+      ],
+      "to": [
+        8.5,
+        16,
+        27
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            0,
+            0,
+            1,
+            1
+          ],
+          "texture": "#black"
+        },
+        "up": {
+          "uv": [
+            0,
+            0,
+            1,
+            1
+          ],
+          "texture": "#black"
+        },
+        "north": {
+          "uv": [
+            15,
+            0,
+            16,
+            16
+          ],
+          "texture": "#black"
+        },
+        "south": {
+          "uv": [
+            15,
+            0,
+            16,
+            16
+          ],
+          "texture": "#black"
+        },
+        "west": {
+          "uv": [
+            15,
+            0,
+            16,
+            16
+          ],
+          "texture": "#black"
+        },
+        "east": {
+          "uv": [
+            15,
+            0,
+            16,
+            16
+          ],
+          "texture": "#black"
+        }
+      }
+    },
+    {
+      "__comment": "Cube3",
+      "from": [
+        7.5,
+        12,
+        6
+      ],
+      "to": [
+        8.5,
+        16,
+        7
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            0,
+            0,
+            1,
+            1
+          ],
+          "texture": "#black"
+        },
+        "up": {
+          "uv": [
+            0,
+            0,
+            1,
+            1
+          ],
+          "texture": "#black"
+        },
+        "north": {
+          "uv": [
+            15,
+            0,
+            16,
+            16
+          ],
+          "texture": "#black"
+        },
+        "south": {
+          "uv": [
+            15,
+            0,
+            16,
+            16
+          ],
+          "texture": "#black"
+        },
+        "west": {
+          "uv": [
+            15,
+            0,
+            16,
+            16
+          ],
+          "texture": "#black"
+        },
+        "east": {
+          "uv": [
+            15,
+            0,
+            16,
+            16
+          ],
+          "texture": "#black"
+        }
+      }
+    },
+    {
+      "__comment": "Cube5",
+      "from": [
+        5,
+        16,
+        -16
+      ],
+      "to": [
+        11,
+        22,
+        32
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            5,
+            0,
+            11,
+            16
+          ],
+          "texture": "#log2"
+        },
+        "up": {
+          "uv": [
+            5,
+            0,
+            11,
+            16
+          ],
+          "texture": "#log2"
+        },
+        "north": {
+          "uv": [
+            0,
+            0,
+            16,
+            16
+          ],
+          "texture": "#log2"
+        },
+        "south": {
+          "uv": [
+            0,
+            0,
+            16,
+            16
+          ],
+          "texture": "#log1"
+        },
+        "west": {
+          "uv": [
+            5,
+            0,
+            11,
+            16
+          ],
+          "texture": "#log2",
+          "rotation": 90
+        },
+        "east": {
+          "uv": [
+            5,
+            0,
+            11,
+            16
+          ],
+          "texture": "#log2",
+          "rotation": 90
+        }
+      }
+    }
+  ],
+  "display": {
+    "thirdperson_righthand": {
+      "rotation": [
+        -88,
+        -36,
+        -92
+      ],
+      "translation": [
+        0,
+        1.3913,
+        2.0869
+      ],
+      "scale": [
+        0.2695,
+        0.2695,
+        0.2695
+      ]
+    },
+    "thirdperson_lefthand": {
+      "rotation": [
+        -88,
+        -36,
+        -92
+      ],
+      "translation": [
+        0,
+        1.3913,
+        2.0869
+      ],
+      "scale": [
+        0.2695,
+        0.2695,
+        0.2695
+      ]
+    },
+    "firstperson_righthand": {
+      "rotation": [
+        20,
+        -167,
+        36
+      ],
+      "translation": [
+        0,
+        0,
+        -1.391
+      ],
+      "scale": [
+        0.2695,
+        0.2695,
+        0.2695
+      ]
+    },
+    "firstperson_lefthand": {
+      "rotation": [
+        20,
+        -167,
+        36
+      ],
+      "translation": [
+        0,
+        0,
+        -1.391
+      ],
+      "scale": [
+        0.2695,
+        0.2695,
+        0.2695
+      ]
+    },
+    "gui": {
+      "rotation": [
+        0,
+        90,
+        0
+      ],
+      "scale": [
+        0.2695,
+        0.2695,
+        0.2695
+      ]
+    },
+    "head": {
+      "rotation": [
+        0,
+        180,
+        0
+      ],
+      "translation": [
+        0,
+        -15.3,
+        0
+      ],
+      "scale": [
+        1.5652,
+        1.5652,
+        1.5652
+      ]
+    },
+    "ground": {
+      "rotation": [
+        0,
+        0,
+        92
+      ],
+      "translation": [
+        0,
+        5.5652,
+        0
+      ],
+      "scale": [
+        0.4869,
+        0.4869,
+        0.4869
+      ]
+    }
+  }
 }

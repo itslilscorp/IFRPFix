@@ -1,652 +1,652 @@
 {
-    "parent": "item/handheld",
-    "textures": {
-        "layer0": "items/iron_pickaxe"
-    },
-    "overrides": [
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "item/iron_pickaxe"
+  },
+  "overrides": [
     {
-        "predicate": {
-            "damage": 0.004,
-            "damaged": 1
+      "predicate": {
+        "damage": 0.004,
+        "damaged": 1
       },
       "model": "item/pokemon/001"
     },
     {
-          "predicate": {
-            "damage": 0.008,
-            "damaged": 1
-          },
-            "model": "item/hat/tophatbrown"
+      "predicate": {
+        "damage": 0.008,
+        "damaged": 1
+      },
+      "model": "item/hat/tophatbrown"
     },
     {
-          "predicate": {
-            "damage": 0.012,
-            "damaged": 1
-          },
-            "model": "item/pet/bb8"
+      "predicate": {
+        "damage": 0.012,
+        "damaged": 1
+      },
+      "model": "item/pet/bb8"
     },
     {
-          "predicate": {
-            "damage": 0.016,
-            "damaged": 1
-          },
-            "model": "item/tiki_fountain"
+      "predicate": {
+        "damage": 0.016,
+        "damaged": 1
+      },
+      "model": "item/tiki_fountain"
     },
     {
-          "predicate": {
-            "damage": 0.02,
-            "damaged": 1
-          },
-            "model": "item/tiki_enter_sign"
+      "predicate": {
+        "damage": 0.02,
+        "damaged": 1
+      },
+      "model": "item/tiki_enter_sign"
     },
     {
-          "predicate": {
-            "damage": 0.024,
-            "damaged": 1
-          },
-            "model": "item/brickhead/mickey"
+      "predicate": {
+        "damage": 0.024,
+        "damaged": 1
+      },
+      "model": "item/brickhead/mickey"
     },
     {
-          "predicate": {
-            "damage": 0.028,
-            "damaged": 1
-          },
-            "model": "item/brickhead/minnie"
+      "predicate": {
+        "damage": 0.028,
+        "damaged": 1
+      },
+      "model": "item/brickhead/minnie"
     },
     {
-          "predicate": {
-            "damage": 0.032,
-            "damaged": 1
-          },
-            "model": "item/brickhead/elsa"
+      "predicate": {
+        "damage": 0.032,
+        "damaged": 1
+      },
+      "model": "item/brickhead/elsa"
     },
     {
-          "predicate": {
-            "damage": 0.036,
-            "damaged": 1
-          },
-            "model": "item/brickhead/bob"
+      "predicate": {
+        "damage": 0.036,
+        "damaged": 1
+      },
+      "model": "item/brickhead/bob"
     },
     {
-          "predicate": {
-            "damage": 0.040,
-            "damaged": 1
-          },
-            "model": "item/brickhead/ariel"
+      "predicate": {
+        "damage": 0.040,
+        "damaged": 1
+      },
+      "model": "item/brickhead/ariel"
     },
     {
-          "predicate": {
-            "damage": 0.044,
-            "damaged": 1
-          },
-            "model": "item/brickhead/thanos"
+      "predicate": {
+        "damage": 0.044,
+        "damaged": 1
+      },
+      "model": "item/brickhead/thanos"
     },
     {
-          "predicate": {
-            "damage": 0.048,
-            "damaged": 1
-          },
-            "model": "item/brickhead/iron"
+      "predicate": {
+        "damage": 0.048,
+        "damaged": 1
+      },
+      "model": "item/brickhead/iron"
     },
     {
-          "predicate": {
-            "damage": 0.052,
-            "damaged": 1
-          },
-            "model": "item/brickhead/spiderman"
+      "predicate": {
+        "damage": 0.052,
+        "damaged": 1
+      },
+      "model": "item/brickhead/spiderman"
     },
     {
-          "predicate": {
-            "damage": 0.056,
-            "damaged": 1
-          },
-            "model": "item/brickhead/spidertom"
+      "predicate": {
+        "damage": 0.056,
+        "damaged": 1
+      },
+      "model": "item/brickhead/spidertom"
     },
     {
-          "predicate": {
-            "damage": 0.060,
-            "damaged": 1
-          },
-            "model": "item/brickhead/peter"
+      "predicate": {
+        "damage": 0.060,
+        "damaged": 1
+      },
+      "model": "item/brickhead/peter"
     },
     {
-          "predicate": {
-            "damage": 0.064,
-            "damaged": 1
-          },
-            "model": "item/brickhead/kuzco"
+      "predicate": {
+        "damage": 0.064,
+        "damaged": 1
+      },
+      "model": "item/brickhead/kuzco"
     },
     {
-          "predicate": {
-            "damage": 0.068,
-            "damaged": 1
-          },
-            "model": "item/brickhead/porg"
+      "predicate": {
+        "damage": 0.068,
+        "damaged": 1
+      },
+      "model": "item/brickhead/porg"
     },
     {
-          "predicate": {
-            "damage": 0.072,
-            "damaged": 1
-          },
-            "model": "item/brickhead/yoda"
+      "predicate": {
+        "damage": 0.072,
+        "damaged": 1
+      },
+      "model": "item/brickhead/yoda"
     },
     {
-          "predicate": {
-            "damage": 0.076,
-            "damaged": 1
-          },
-            "model": "item/brickhead/buzz"
+      "predicate": {
+        "damage": 0.076,
+        "damaged": 1
+      },
+      "model": "item/brickhead/buzz"
     },
     {
-          "predicate": {
-            "damage": 0.080,
-            "damaged": 1
-          },
-            "model": "item/brickhead/deadpool"
+      "predicate": {
+        "damage": 0.080,
+        "damaged": 1
+      },
+      "model": "item/brickhead/deadpool"
     },
     {
-          "predicate": {
-            "damage": 0.084,
-            "damaged": 1
-          },
-            "model": "item/brickhead/groot"
+      "predicate": {
+        "damage": 0.084,
+        "damaged": 1
+      },
+      "model": "item/brickhead/groot"
     },
     {
-          "predicate": {
-            "damage": 0.088,
-            "damaged": 1
-          },
-            "model": "item/brickhead/rocket"
+      "predicate": {
+        "damage": 0.088,
+        "damaged": 1
+      },
+      "model": "item/brickhead/rocket"
     },
     {
-          "predicate": {
-            "damage": 0.092,
-            "damaged": 1
-          },
-            "model": "item/brickhead/rey"
+      "predicate": {
+        "damage": 0.092,
+        "damaged": 1
+      },
+      "model": "item/brickhead/rey"
     },
     {
-          "predicate": {
-            "damage": 0.096,
-            "damaged": 1
-          },
-            "model": "item/brickhead/vision"
+      "predicate": {
+        "damage": 0.096,
+        "damaged": 1
+      },
+      "model": "item/brickhead/vision"
     },
     {
-          "predicate": {
-            "damage": 0.100,
-            "damaged": 1
-          },
-            "model": "item/brickhead/donald"
+      "predicate": {
+        "damage": 0.100,
+        "damaged": 1
+      },
+      "model": "item/brickhead/donald"
     },
     {
-          "predicate": {
-            "damage": 0.104,
-            "damaged": 1
-          },
-            "model": "item/tropical_sign"
+      "predicate": {
+        "damage": 0.104,
+        "damaged": 1
+      },
+      "model": "item/tropical_sign"
     },
     {
-          "predicate": {
-            "damage": 0.108,
-            "damaged": 1
-          },
-            "model": "item/brickhead/chell"
+      "predicate": {
+        "damage": 0.108,
+        "damaged": 1
+      },
+      "model": "item/brickhead/chell"
     },
     {
-          "predicate": {
-            "damage": 0.112,
-            "damaged": 1
-          },
-            "model": "item/brickhead/eboy"
+      "predicate": {
+        "damage": 0.112,
+        "damaged": 1
+      },
+      "model": "item/brickhead/eboy"
     },
     {
-          "predicate": {
-            "damage": 0.116,
-            "damaged": 1
-          },
-            "model": "item/brickhead/todoroki"
+      "predicate": {
+        "damage": 0.116,
+        "damaged": 1
+      },
+      "model": "item/brickhead/todoroki"
     },
     {
-          "predicate": {
-            "damage": 0.120,
-            "damaged": 1
-          },
-            "model": "item/brickhead/nemo"
+      "predicate": {
+        "damage": 0.120,
+        "damaged": 1
+      },
+      "model": "item/brickhead/nemo"
     },
     {
-          "predicate": {
-            "damage": 0.124,
-            "damaged": 1
-          },
-            "model": "item/brickhead/dory"
+      "predicate": {
+        "damage": 0.124,
+        "damaged": 1
+      },
+      "model": "item/brickhead/dory"
     },
     {
-          "predicate": {
-            "damage": 0.128,
-            "damaged": 1
-          },
-            "model": "item/brickhead/kastle"
+      "predicate": {
+        "damage": 0.128,
+        "damaged": 1
+      },
+      "model": "item/brickhead/kastle"
     },
     {
-          "predicate": {
-            "damage": 0.132,
-            "damaged": 1
-          },
-            "model": "item/brickhead/froppy"
+      "predicate": {
+        "damage": 0.132,
+        "damaged": 1
+      },
+      "model": "item/brickhead/froppy"
     },
     {
-          "predicate": {
-            "damage": 0.136,
-            "damaged": 1
-          },
-            "model": "item/brickhead/oswald"
+      "predicate": {
+        "damage": 0.136,
+        "damaged": 1
+      },
+      "model": "item/brickhead/oswald"
     },
     {
-          "predicate": {
-            "damage": 0.140,
-            "damaged": 1
-          },
-            "model": "item/brickhead/judy"
+      "predicate": {
+        "damage": 0.140,
+        "damaged": 1
+      },
+      "model": "item/brickhead/judy"
     },
     {
-          "predicate": {
-            "damage": 0.144,
-            "damaged": 1
-          },
-            "model": "item/brickhead/piglet"
+      "predicate": {
+        "damage": 0.144,
+        "damaged": 1
+      },
+      "model": "item/brickhead/piglet"
     },
     {
-          "predicate": {
-            "damage": 0.148,
-            "damaged": 1
-          },
-            "model": "item/brickhead/roger"
+      "predicate": {
+        "damage": 0.148,
+        "damaged": 1
+      },
+      "model": "item/brickhead/roger"
     },
     {
-          "predicate": {
-            "damage": 0.152,
-            "damaged": 1
-          },
-            "model": "item/brickhead/brer"
+      "predicate": {
+        "damage": 0.152,
+        "damaged": 1
+      },
+      "model": "item/brickhead/brer"
     },
     {
-          "predicate": {
-            "damage": 0.156,
-            "damaged": 1
-          },
-            "model": "item/brickhead/cap"
+      "predicate": {
+        "damage": 0.156,
+        "damaged": 1
+      },
+      "model": "item/brickhead/cap"
     },
     {
-          "predicate": {
-            "damage": 0.160,
-            "damaged": 1
-          },
-            "model": "item/brickhead/kirishima"
+      "predicate": {
+        "damage": 0.160,
+        "damaged": 1
+      },
+      "model": "item/brickhead/kirishima"
     },
     {
-          "predicate": {
-            "damage": 0.164,
-            "damaged": 1
-          },
-            "model": "item/brickhead/steve"
+      "predicate": {
+        "damage": 0.164,
+        "damaged": 1
+      },
+      "model": "item/brickhead/steve"
     },
     {
-          "predicate": {
-            "damage": 0.168,
-            "damaged": 1
-          },
-            "model": "item/death_star"
+      "predicate": {
+        "damage": 0.168,
+        "damaged": 1
+      },
+      "model": "item/death_star"
     },
     {
-          "predicate": {
-            "damage": 0.172,
-            "damaged": 1
-          },
-            "model": "item/brickhead/james"
+      "predicate": {
+        "damage": 0.172,
+        "damaged": 1
+      },
+      "model": "item/brickhead/james"
     },
     {
-          "predicate": {
-            "damage": 0.176,
-            "damaged": 1
-          },
-            "model": "item/brickhead/babyyoda"
+      "predicate": {
+        "damage": 0.176,
+        "damaged": 1
+      },
+      "model": "item/brickhead/babyyoda"
     },
     {
-          "predicate": {
-            "damage": 0.180,
-            "damaged": 1
-          },
-            "model": "item/brickhead/uraraka"
+      "predicate": {
+        "damage": 0.180,
+        "damaged": 1
+      },
+      "model": "item/brickhead/uraraka"
     },
     {
-          "predicate": {
-            "damage": 0.184,
-            "damaged": 1
-          },
-            "model": "item/brickhead/bakugo"
+      "predicate": {
+        "damage": 0.184,
+        "damaged": 1
+      },
+      "model": "item/brickhead/bakugo"
     },
     {
-          "predicate": {
-            "damage": 0.188,
-            "damaged": 1
-          },
-            "model": "item/buzz_circle"
+      "predicate": {
+        "damage": 0.188,
+        "damaged": 1
+      },
+      "model": "item/buzz_circle"
     },
     {
-          "predicate": {
-            "damage": 0.192,
-            "damaged": 1
-          },
-            "model": "item/buzz_square"
+      "predicate": {
+        "damage": 0.192,
+        "damaged": 1
+      },
+      "model": "item/buzz_square"
     },
     {
-          "predicate": {
-            "damage": 0.196,
-            "damaged": 1
-          },
-            "model": "item/buzz_diamond"
+      "predicate": {
+        "damage": 0.196,
+        "damaged": 1
+      },
+      "model": "item/buzz_diamond"
     },
     {
-          "predicate": {
-            "damage": 0.200,
-            "damaged": 1
-          },
-            "model": "item/buzz_triangle"
+      "predicate": {
+        "damage": 0.200,
+        "damaged": 1
+      },
+      "model": "item/buzz_triangle"
     },
     {
-          "predicate": {
-            "damage": 0.204,
-            "damaged": 1
-          },
-            "model": "item/brickhead/koala"
+      "predicate": {
+        "damage": 0.204,
+        "damaged": 1
+      },
+      "model": "item/brickhead/koala"
     },
     {
-          "predicate": {
-            "damage": 0.208,
-            "damaged": 1
-          },
-            "model": "item/brickhead/matt"
+      "predicate": {
+        "damage": 0.208,
+        "damaged": 1
+      },
+      "model": "item/brickhead/matt"
     },
     {
-          "predicate": {
-            "damage": 0.212,
-            "damaged": 1
-          },
-            "model": "item/brickhead/anakin"
+      "predicate": {
+        "damage": 0.212,
+        "damaged": 1
+      },
+      "model": "item/brickhead/anakin"
     },
     {
-          "predicate": {
-            "damage": 0.216,
-            "damaged": 1
-          },
-            "model": "item/brickhead/greenalien"
+      "predicate": {
+        "damage": 0.216,
+        "damaged": 1
+      },
+      "model": "item/brickhead/greenalien"
     },
     {
-          "predicate": {
-            "damage": 0.220,
-            "damaged": 1
-          },
-            "model": "item/brickhead/constance"
+      "predicate": {
+        "damage": 0.220,
+        "damaged": 1
+      },
+      "model": "item/brickhead/constance"
     },
     {
-          "predicate": {
-            "damage": 0.224,
-            "damaged": 1
-          },
-            "model": "item/brickhead/tulip"
+      "predicate": {
+        "damage": 0.224,
+        "damaged": 1
+      },
+      "model": "item/brickhead/tulip"
     },
     {
-          "predicate": {
-            "damage": 0.228,
-            "damaged": 1
-          },
-            "model": "item/brickhead/fantasia"
+      "predicate": {
+        "damage": 0.228,
+        "damaged": 1
+      },
+      "model": "item/brickhead/fantasia"
     },
     {
-          "predicate": {
-            "damage": 0.232,
-            "damaged": 1
-          },
-            "model": "item/brickhead/ricky"
+      "predicate": {
+        "damage": 0.232,
+        "damaged": 1
+      },
+      "model": "item/brickhead/ricky"
     },
     {
-          "predicate": {
-            "damage": 0.236,
-            "damaged": 1
-          },
-            "model": "item/brickhead/stitch"
+      "predicate": {
+        "damage": 0.236,
+        "damaged": 1
+      },
+      "model": "item/brickhead/stitch"
     },
     {
-          "predicate": {
-            "damage": 0.240,
-            "damaged": 1
-          },
-            "model": "item/brickhead/cricket"
+      "predicate": {
+        "damage": 0.240,
+        "damaged": 1
+      },
+      "model": "item/brickhead/cricket"
     },
     {
-          "predicate": {
-            "damage": 0.244,
-            "damaged": 1
-          },
-            "model": "item/brickhead/tim"
+      "predicate": {
+        "damage": 0.244,
+        "damaged": 1
+      },
+      "model": "item/brickhead/tim"
     },
     {
-          "predicate": {
-            "damage": 0.248,
-            "damaged": 1
-          },
-            "model": "item/brickhead/scorbunny"
+      "predicate": {
+        "damage": 0.248,
+        "damaged": 1
+      },
+      "model": "item/brickhead/scorbunny"
     },
     {
-          "predicate": {
-            "damage": 0.252,
-            "damaged": 1
-          },
-            "model": "item/brickhead/sonic"
+      "predicate": {
+        "damage": 0.252,
+        "damaged": 1
+      },
+      "model": "item/brickhead/sonic"
     },
     {
-          "predicate": {
-            "damage": 0.256,
-            "damaged": 1
-          },
-            "model": "item/brickhead/mabel"
+      "predicate": {
+        "damage": 0.256,
+        "damaged": 1
+      },
+      "model": "item/brickhead/mabel"
     },
     {
-          "predicate": {
-            "damage": 0.260,
-            "damaged": 1
-          },
-            "model": "item/brickhead/dipper"
+      "predicate": {
+        "damage": 0.260,
+        "damaged": 1
+      },
+      "model": "item/brickhead/dipper"
     },
     {
-          "predicate": {
-            "damage": 0.264,
-            "damaged": 1
-          },
-            "model": "item/brickhead/aero"
+      "predicate": {
+        "damage": 0.264,
+        "damaged": 1
+      },
+      "model": "item/brickhead/aero"
     },
     {
-          "predicate": {
-            "damage": 0.268,
-            "damaged": 1
-          },
-            "model": "item/brickhead/genie"
+      "predicate": {
+        "damage": 0.268,
+        "damaged": 1
+      },
+      "model": "item/brickhead/genie"
     },
     {
-          "predicate": {
-            "damage": 0.272,
-            "damaged": 1
-          },
-            "model": "item/brickhead/palutena"
+      "predicate": {
+        "damage": 0.272,
+        "damaged": 1
+      },
+      "model": "item/brickhead/palutena"
     },
     {
-          "predicate": {
-            "damage": 0.276,
-            "damaged": 1
-          },
-            "model": "item/brickhead/boba"
+      "predicate": {
+        "damage": 0.276,
+        "damaged": 1
+      },
+      "model": "item/brickhead/boba"
     },
     {
-          "predicate": {
-            "damage": 0.280,
-            "damaged": 1
-          },
-            "model": "item/brickhead/leia"
+      "predicate": {
+        "damage": 0.280,
+        "damaged": 1
+      },
+      "model": "item/brickhead/leia"
     },
     {
-          "predicate": {
-            "damage": 0.284,
-            "damaged": 1
-          },
-            "model": "item/brickhead/mando"
+      "predicate": {
+        "damage": 0.284,
+        "damaged": 1
+      },
+      "model": "item/brickhead/mando"
     },
     {
-          "predicate": {
-            "damage": 0.288,
-            "damaged": 1
-          },
-            "model": "item/brickhead/scrooge"
+      "predicate": {
+        "damage": 0.288,
+        "damaged": 1
+      },
+      "model": "item/brickhead/scrooge"
     },
     {
-          "predicate": {
-            "damage": 0.292,
-            "damaged": 1
-          },
-            "model": "item/brickhead/launchpad"
+      "predicate": {
+        "damage": 0.292,
+        "damaged": 1
+      },
+      "model": "item/brickhead/launchpad"
     },
     {
-          "predicate": {
-            "damage": 0.296,
-            "damaged": 1
-          },
-            "model": "item/brickhead/anna"
+      "predicate": {
+        "damage": 0.296,
+        "damaged": 1
+      },
+      "model": "item/brickhead/anna"
     },
     {
-          "predicate": {
-            "damage": 0.300,
-            "damaged": 1
-          },
-            "model": "item/brickhead/dapper1"
+      "predicate": {
+        "damage": 0.300,
+        "damaged": 1
+      },
+      "model": "item/brickhead/dapper1"
     },
     {
-          "predicate": {
-            "damage": 0.304,
-            "damaged": 1
-          },
-            "model": "item/brickhead/dapper2"
+      "predicate": {
+        "damage": 0.304,
+        "damaged": 1
+      },
+      "model": "item/brickhead/dapper2"
     },
     {
-          "predicate": {
-            "damage": 0.308,
-            "damaged": 1
-          },
-            "model": "item/brickhead/dapper3"
+      "predicate": {
+        "damage": 0.308,
+        "damaged": 1
+      },
+      "model": "item/brickhead/dapper3"
     },
     {
-          "predicate": {
-            "damage": 0.312,
-            "damaged": 1
-          },
-            "model": "item/brickhead/dapper4"
+      "predicate": {
+        "damage": 0.312,
+        "damaged": 1
+      },
+      "model": "item/brickhead/dapper4"
     },
     {
-          "predicate": {
-            "damage": 0.316,
-            "damaged": 1
-          },
-            "model": "item/brickhead/ursula"
+      "predicate": {
+        "damage": 0.316,
+        "damaged": 1
+      },
+      "model": "item/brickhead/ursula"
     },
     {
-          "predicate": {
-            "damage": 0.320,
-            "damaged": 1
-          },
-            "model": "item/brickhead/herc"
+      "predicate": {
+        "damage": 0.320,
+        "damaged": 1
+      },
+      "model": "item/brickhead/herc"
     },
     {
-          "predicate": {
-            "damage": 0.324,
-            "damaged": 1
-          },
-            "model": "item/brickhead/tink"
+      "predicate": {
+        "damage": 0.324,
+        "damaged": 1
+      },
+      "model": "item/brickhead/tink"
     },
     {
-          "predicate": {
-            "damage": 0.328,
-            "damaged": 1
-          },
-            "model": "item/brickhead/grad_mickey"
+      "predicate": {
+        "damage": 0.328,
+        "damaged": 1
+      },
+      "model": "item/brickhead/grad_mickey"
     },
     {
-          "predicate": {
-            "damage": 0.332,
-            "damaged": 1
-          },
-            "model": "item/brickhead/belle"
+      "predicate": {
+        "damage": 0.332,
+        "damaged": 1
+      },
+      "model": "item/brickhead/belle"
     },
     {
-          "predicate": {
-            "damage": 0.336,
-            "damaged": 1
-          },
-            "model": "item/brickhead/hamilton"
+      "predicate": {
+        "damage": 0.336,
+        "damaged": 1
+      },
+      "model": "item/brickhead/hamilton"
     },
     {
-          "predicate": {
-            "damage": 0.340,
-            "damaged": 1
-          },
-            "model": "item/brickhead/katara"
+      "predicate": {
+        "damage": 0.340,
+        "damaged": 1
+      },
+      "model": "item/brickhead/katara"
     },
     {
-          "predicate": {
-            "damage": 0.344,
-            "damaged": 1
-          },
-            "model": "item/brickhead/aang"
+      "predicate": {
+        "damage": 0.344,
+        "damaged": 1
+      },
+      "model": "item/brickhead/aang"
     },
     {
-          "predicate": {
-            "damage": 0.348,
-            "damaged": 1
-          },
-            "model": "item/brickhead/moana"
+      "predicate": {
+        "damage": 0.348,
+        "damaged": 1
+      },
+      "model": "item/brickhead/moana"
     },
     {
-          "predicate": {
-            "damage": 0.352,
-            "damaged": 1
-          },
-            "model": "item/brickhead/heihei"
+      "predicate": {
+        "damage": 0.352,
+        "damaged": 1
+      },
+      "model": "item/brickhead/heihei"
     },
     {
-          "predicate": {
-            "damage": 0.356,
-            "damaged": 1
-          },
-            "model": "item/brickhead/tylee"
+      "predicate": {
+        "damage": 0.356,
+        "damaged": 1
+      },
+      "model": "item/brickhead/tylee"
     },
     {
-          "predicate": {
-            "damage": 0.360,
-            "damaged": 1
-          },
-            "model": "item/brickhead/sokka"
+      "predicate": {
+        "damage": 0.360,
+        "damaged": 1
+      },
+      "model": "item/brickhead/sokka"
     },
     {
-          "predicate": {
-            "damage": 0.364,
-            "damaged": 1
-          },
-            "model": "item/brickhead/baymax"
+      "predicate": {
+        "damage": 0.364,
+        "damaged": 1
+      },
+      "model": "item/brickhead/baymax"
     },
     {
-          "predicate": {
-            "damage": 0.368,
-            "damaged": 1
-          },
-            "model": "item/brickhead/toad"
+      "predicate": {
+        "damage": 0.368,
+        "damaged": 1
+      },
+      "model": "item/brickhead/toad"
     }
-    ]
+  ]
 }

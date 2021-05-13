@@ -1,32 +1,104 @@
 {
-	"__comment": "Designed by Mouskegamer with Cubik Studio - https://cubik.studio",
-	"textures": {
-		"particle": "blocks/e_particle",
-		"texture": "custom/rides"
-	},
-	"elements": [ 	 
-		{
-			"__comment": "Box1",
-			"from": [ -8, -9.5, 4.5 ],
-			"to": [ 24, 22.5, 4.501 ],
-			"faces": {
-				"down": { "uv": [ 0, 0, 3.5, 2 ], "texture": "#texture" },
-				"up": { "uv": [ 0, 0, 3.5, 2 ], "texture": "#texture" },
-				"north": { "uv": [ 0, 0, 13.5, 1.5 ], "texture": "#texture" },
-				"south": { "uv": [ 0, 0, 16, 16 ], "texture": "#texture" },
-				"west": { "uv": [ 0, 0, 1.5, 2 ], "texture": "#texture" },
-				"east": { "uv": [ 0, 0, 1.5, 2 ], "texture": "#texture" }
-			}
-		}
-	],
-	"display": {
-		"gui": {
-			"scale":  [ 0.6, 0.6, 0.6 ]
-		},
-		"head": {
-			"rotation":  [ 0, 180, 0 ],
-			"translation":  [ 0, 7, -12 ],
-			"scale":  [ 3.3, 3.3, 3.3 ]
-		}
-	}
+  "__comment": "Designed_by_Mouskegamer_with_Cubik_Studio_-_https://cubik.studio",
+  "textures": {
+    "particle": "block/e_particle",
+    "texture": "custom/rides"
+  },
+  "elements": [
+    {
+      "__comment": "Box1",
+      "from": [
+        -8,
+        -9.5,
+        4.5
+      ],
+      "to": [
+        24,
+        22.5,
+        4.501
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            0,
+            0,
+            3.5,
+            2
+          ],
+          "texture": "#texture"
+        },
+        "up": {
+          "uv": [
+            0,
+            0,
+            3.5,
+            2
+          ],
+          "texture": "#texture"
+        },
+        "north": {
+          "uv": [
+            0,
+            0,
+            13.5,
+            1.5
+          ],
+          "texture": "#texture"
+        },
+        "south": {
+          "uv": [
+            0,
+            0,
+            16,
+            16
+          ],
+          "texture": "#texture"
+        },
+        "west": {
+          "uv": [
+            0,
+            0,
+            1.5,
+            2
+          ],
+          "texture": "#texture"
+        },
+        "east": {
+          "uv": [
+            0,
+            0,
+            1.5,
+            2
+          ],
+          "texture": "#texture"
+        }
+      }
+    }
+  ],
+  "display": {
+    "gui": {
+      "scale": [
+        0.6,
+        0.6,
+        0.6
+      ]
+    },
+    "head": {
+      "rotation": [
+        0,
+        180,
+        0
+      ],
+      "translation": [
+        0,
+        7,
+        -12
+      ],
+      "scale": [
+        3.3,
+        3.3,
+        3.3
+      ]
+    }
+  }
 }

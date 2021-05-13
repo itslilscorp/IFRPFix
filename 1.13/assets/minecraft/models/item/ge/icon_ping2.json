@@ -1,40 +1,132 @@
 {
-	"__comment": "Designed by Mouskegamer with Cubik Studio - https://cubik.studio",
-	"textures": {
-		"texture": "custom/ge_icons"
-	},
-	"elements": [ 	 
-		{
-			"__comment": "Box1",
-			"from": [ 0, 0, 0 ],
-			"to": [ 16, 16, 16 ],
-			"faces": {
-				"down": { "uv": [ 0, 0, 0.5, 3.5 ], "texture": "#texture" },
-				"up": { "uv": [ 0, 0, 0.5, 3.5 ], "texture": "#texture" },
-				"north": { "uv": [ 4, 12, 8, 16 ], "texture": "#texture" },
-				"south": { "uv": [ 0, 0, 0.5, 2.5 ], "texture": "#texture" },
-				"west": { "uv": [ 0, 0, 0.5, 3 ], "texture": "#texture" },
-				"east": { "uv": [ 0, 0, 0.5, 4 ], "texture": "#texture" }
-			}
-		}
-	],
-	"display": {
-		"firstperson_righthand": {
-			"rotation":  [ 0, 147, 0 ],
-			"translation":  [ 0.0013, 5.5652, 0 ],
-			"scale":  [ 0.2, 0.2, 0.2 ]
-		},
-		"firstperson_lefthand": {
-			"rotation":  [ 0, 147, 0 ],
-			"translation":  [ 0.0013, 5.5652, 0 ],
-			"scale":  [ 0.2, 0.2, 0.2 ]
-		},
-		"gui": {
-			"rotation":  [ 0, -180, 0 ]
-		},
-		"fixed": {
-			"translation":  [ 0, 0, 8.6521 ],
-			"scale":  [ 1.5, 1.5, 1 ]
-		}
-	}
+  "__comment": "Designed_by_Mouskegamer_with_Cubik_Studio_-_https://cubik.studio",
+  "textures": {
+    "texture": "custom/ge_icons"
+  },
+  "elements": [
+    {
+      "__comment": "Box1",
+      "from": [
+        0,
+        0,
+        0
+      ],
+      "to": [
+        16,
+        16,
+        16
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            0,
+            0,
+            0.5,
+            3.5
+          ],
+          "texture": "#texture"
+        },
+        "up": {
+          "uv": [
+            0,
+            0,
+            0.5,
+            3.5
+          ],
+          "texture": "#texture"
+        },
+        "north": {
+          "uv": [
+            4,
+            12,
+            8,
+            16
+          ],
+          "texture": "#texture"
+        },
+        "south": {
+          "uv": [
+            0,
+            0,
+            0.5,
+            2.5
+          ],
+          "texture": "#texture"
+        },
+        "west": {
+          "uv": [
+            0,
+            0,
+            0.5,
+            3
+          ],
+          "texture": "#texture"
+        },
+        "east": {
+          "uv": [
+            0,
+            0,
+            0.5,
+            4
+          ],
+          "texture": "#texture"
+        }
+      }
+    }
+  ],
+  "display": {
+    "firstperson_righthand": {
+      "rotation": [
+        0,
+        147,
+        0
+      ],
+      "translation": [
+        0.0013,
+        5.5652,
+        0
+      ],
+      "scale": [
+        0.2,
+        0.2,
+        0.2
+      ]
+    },
+    "firstperson_lefthand": {
+      "rotation": [
+        0,
+        147,
+        0
+      ],
+      "translation": [
+        0.0013,
+        5.5652,
+        0
+      ],
+      "scale": [
+        0.2,
+        0.2,
+        0.2
+      ]
+    },
+    "gui": {
+      "rotation": [
+        0,
+        -180,
+        0
+      ]
+    },
+    "fixed": {
+      "translation": [
+        0,
+        0,
+        8.6521
+      ],
+      "scale": [
+        1.5,
+        1.5,
+        1
+      ]
+    }
+  }
 }
