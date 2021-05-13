@@ -94,7 +94,7 @@ I did not create any of the original textures or models - those were created by 
 
 The main lot of conversion from 1.12 over to 1.13 was done through a [resource pack converter](https://github.com/agentdid127/ResourcePackConverter) made by [@agentdid127](https://github.com/agentdid127).
 
-While I discovered this myself before seeing it, user @Kumki Sakura🌸#9388 (on discord) found the issue with certain animated textures not working on versions higher than 1.12.2. I figured it wouldn't be right if I didn't credit them anyways.
+While I discovered this myself before seeing it, user @Kumki Sakura🌸#9388 (on discord) found the issue with certain animated textures not working on versions higher than 1.12.2. I figured it wouldn't be right if I didn't credit them also.
 ![image](https://user-images.githubusercontent.com/84101121/118082611-7b932900-b38b-11eb-991d-e59b156481d6.png)
 
 
