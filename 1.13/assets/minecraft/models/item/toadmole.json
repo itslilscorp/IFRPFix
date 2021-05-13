@@ -1,0 +1,28 @@
+{
+	"__comment": "Designed by Mouskegamer with Cubik Studio - https://cubik.studio",
+	"textures": {
+		"particle": "blocks/e_particle",
+		"texture": "custom/toadmole"
+	},
+	"elements": [ 	 
+		{
+			"__comment": "Box1",
+			"from": [ -14.5, -9, -2 ],
+			"to": [ 31.5, 29, -1 ],
+			"faces": {
+				"down": { "uv": [ 0, 0, 16, 0.5 ], "texture": "#texture" },
+				"up": { "uv": [ 0, 0, 16, 0.5 ], "texture": "#texture" },
+				"north": { "uv": [ 0, 0, 16, 16 ], "texture": "#texture" },
+				"south": { "uv": [ 0, 0, 16, 0.5 ], "texture": "#texture" },
+				"west": { "uv": [ 0, 0, 16, 0.5 ], "texture": "#texture" },
+				"east": { "uv": [ 0, 0, 16, 0.5 ], "texture": "#texture" }
+			}
+		}
+	],
+	"display": {
+		"head": {
+			"translation":  [ -37, -12, 39 ],
+			"scale":  [ 3, 3, 3 ]
+		}
+	}
+}

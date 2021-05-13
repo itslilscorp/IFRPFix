@@ -1,0 +1,56 @@
+{
+	"__comment": "Designed by Mouskegamer with Cubik Studio - https://cubik.studio",
+	"textures": {
+		"particle": "blocks/e_particle",
+		"texture": "custom/journal3"
+	},
+	"elements": [ 	 
+		{
+			"__comment": "Box1",
+			"from": [ 3.5, 0, 1 ],
+			"to": [ 11, 11.5, 2 ],
+			"faces": {
+				"down": { "uv": [ 16, 12, 13.5, 13 ], "texture": "#texture" },
+				"up": { "uv": [ 16, 4, 13.5, 5.5 ], "texture": "#texture" },
+				"north": { "uv": [ 3.5, 0, 13.5, 16 ], "texture": "#texture" },
+				"south": { "uv": [ 13.5, 0, 4, 16 ], "texture": "#texture" },
+				"west": { "uv": [ 15, 3, 16, 15 ], "texture": "#texture" },
+				"east": { "uv": [ 2.5, 0, 3.5, 16 ], "texture": "#texture" }
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"rotation":  [ 0, 180, 0 ],
+			"translation":  [ 0, 6.2608, -4 ],
+			"scale":  [ 0.8, 0.8, 0.8 ]
+		},
+		"thirdperson_lefthand": {
+			"rotation":  [ 0, 180, 0 ],
+			"translation":  [ 0, 6.2608, -4 ],
+			"scale":  [ 0.8, 0.8, 0.8 ]
+		},
+		"firstperson_righthand": {
+			"rotation":  [ 0, 180, 0 ],
+			"translation":  [ -1.391, 6.2608, 0 ],
+			"scale":  [ 0.4, 0.4, 0.4 ]
+		},
+		"firstperson_lefthand": {
+			"rotation":  [ 0, 180, 0 ],
+			"translation":  [ -0.695, 6.2608, 0 ],
+			"scale":  [ 0.4, 0.4, 0.4 ]
+		},
+		"gui": {
+			"rotation":  [ 0, -180, 0 ],
+			"translation":  [ -1.25, 3.2, 0 ],
+			"scale":  [ 1.4, 1.4, 1.4 ]
+		},
+		"ground": {
+			"translation":  [ 1.25, 6.9565, 6.9565 ]
+		},
+		"fixed": {
+			"translation":  [ 1.5, 4, 12.521 ],
+			"scale":  [ 2, 2, 2 ]
+		}
+	}
+}

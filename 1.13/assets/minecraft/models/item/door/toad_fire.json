@@ -1,0 +1,55 @@
+{
+	"__comment": "Designed by Mouskegamer with Cubik Studio - https://cubik.studio",
+	"textures": {
+		"particle": "custom/mrtoaddoors",
+		"texture": "blocks/fire_layer_0",
+		"texture1": "blocks/hardened_clay_stained_brown"
+	},
+	"elements": [ 	 
+		{
+			"__comment": "Box1",
+			"from": [ -2, 0, 6.5 ],
+			"to": [ 12.5, 24, 7 ],
+			"faces": {
+				"down": { "uv": [ 0, 1.5, 6.5, 2 ], "texture": "#particle" },
+				"up": { "uv": [ 0, 1.5, 6.5, 2 ], "texture": "#particle" },
+				"north": { "uv": [ 0, 0.499999, 6.5, 16 ], "texture": "#particle" },
+				"south": { "uv": [ 6.5, 0.5, 0, 16 ], "texture": "#particle" },
+				"west": { "uv": [ 6.5, 0.5, 6, 16 ], "texture": "#particle" },
+				"east": { "uv": [ 0, 0.5, 0.5, 16 ], "texture": "#particle" }
+			}
+		},
+		{
+			"__comment": "Box1",
+			"from": [ -2, 6, 6.4 ],
+			"to": [ 3, 18, 6.401 ],
+			"faces": {
+				"down": { "uv": [ 0, 1.5, 6.5, 2 ], "texture": "#texture" },
+				"up": { "uv": [ 0, 0, 1, 0.5 ], "texture": "#texture" },
+				"north": { "uv": [ 0, 0.499999, 8, 16 ], "texture": "#texture" },
+				"south": { "uv": [ 0, 0, 0.5, 0.5 ], "texture": "#texture" },
+				"west": { "uv": [ 6.5, 0.5, 6, 16 ], "texture": "#texture" },
+				"east": { "uv": [ 0, 0.5, 0.5, 16 ], "texture": "#texture" }
+			}
+		},
+		{
+			"__comment": "Box1",
+			"from": [ -2, 6, 7 ],
+			"to": [ 3, 18, 7.001 ],
+			"faces": {
+				"down": { "uv": [ 0, 1.5, 6.5, 2 ], "texture": "#texture" },
+				"up": { "uv": [ 0, 0, 1, 0.5 ], "texture": "#texture" },
+				"north": { "uv": [ 0, 0, 0.5, 0.5 ], "texture": "#texture" },
+				"south": { "uv": [ 8, 0.499999, 16, 16 ], "texture": "#texture" },
+				"west": { "uv": [ 6.5, 0.5, 6, 16 ], "texture": "#texture" },
+				"east": { "uv": [ 0, 0.5, 0.5, 16 ], "texture": "#texture" }
+			}
+		}
+	],
+	"display": {
+		"head": {
+			"translation":  [ -12.17, -25, 2.75 ],
+			"scale":  [ 2.6, 2.6, 2.6 ]
+		}
+	}
+}

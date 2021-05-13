@@ -1,0 +1,67 @@
+{
+	"__comment": "Designed by Slinx with Cubik Studio - https://cubik.studio",
+	"textures": {
+		"particle": "blocks/concrete_powder_red",
+		"ref": "trolley",
+		"red": "blocks/wool_colored_red",
+		"snow": "blocks/snow",
+		"orange": "blocks/concrete_orange",
+		"silver": "blocks/stone_slab_top",
+		"black": "blocks/concrete_black",
+		"grate": "blocks/quartz_block_lines",
+		"teal": "blocks/prismarine_bricks",
+		"yellow": "blocks/hardened_clay_stained_yellow",
+		"nether": "blocks/netherrack",
+		"blink": "custom/controlpanel_green",
+		"brown": "blocks/hardened_clay_stained_black",
+		"trolley": "custom/dca_trolley"
+	},
+	"elements": [
+		{
+			"__comment": "Cube668",
+			"from": [ 1.5, 22, -12 ],
+			"to": [ 14.5, 24.5, -11.5 ],
+			"faces": {
+				"down": { "uv": [ 0, 0, 1.5, 1 ], "texture": "#trolley" },
+				"up": { "uv": [ 0, 0, 1.5, 1 ], "texture": "#trolley" },
+				"north": { "uv": [ 0, 0, 16, 3 ], "texture": "#trolley" },
+				"south": { "uv": [ 0, 0, 1.5, 1 ], "texture": "#trolley" },
+				"west": { "uv": [ 0, 0, 1.5, 1 ], "texture": "#trolley" },
+				"east": { "uv": [ 0, 0, 1.5, 1 ], "texture": "#trolley" }
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"scale":  [ 0.2, 0.2, 0.2 ]
+		},
+		"thirdperson_lefthand": {
+			"scale":  [ 0.2, 0.2, 0.2 ]
+		},
+		"firstperson_righthand": {
+			"rotation":  [ 20, 3, 0 ],
+			"translation":  [ 0, 2.0869, 0 ],
+			"scale":  [ 0.2, 0.2, 0.2 ]
+		},
+		"firstperson_lefthand": {
+			"rotation":  [ 20, 3, 0 ],
+			"translation":  [ 0, 2.0869, 0 ],
+			"scale":  [ 0.2, 0.2, 0.2 ]
+		},
+		"gui": {
+			"rotation":  [ 0, 159, 0 ],
+			"scale":  [ 0.2, 0.2, 0.2 ]
+		},
+		"head": {
+			"translation":  [ 0, -18.08, 0 ],
+			"scale":  [ 3.2, 3.2, 3.2 ]
+		},
+		"ground": {
+			"translation":  [ 0, 4.8695, 0 ],
+			"scale":  [ 0.2, 0.2, 0.2 ]
+		},
+		"fixed": {
+			"scale":  [ 0.7, 0.7, 0.7 ]
+		}
+	}
+}
