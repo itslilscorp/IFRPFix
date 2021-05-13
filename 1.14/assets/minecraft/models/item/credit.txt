@@ -1,0 +1,27 @@
+Dear person reading this,
+
+Hi there! This text document is used to give explicit credit to the creators of a few of our models aside from ourselves. These models will likely be redone in the future by one of us, and some have
+received minor modifications from us, but these models include:
+
+- Peter Pan's Flight Ship (GamerKM)
+
+- Barrel (GamerKM)
+
+- Mask base model (GamerKM)
+
+- Various "Glow Sword" items (GamerKM)
+
+- Original glow texture base (GamerKM, redone by Mouskegamer)
+
+- "Walkman blue" textures (GamerKM)
+
+- Various unused textures files (GamerKM)
+
+The various glow swords will likely be removed entirely in the future, and some have already been done from scratch or recreated by one of us. Each of these is used with EXPLICIT permission from the
+original creators. There may be some created by GamerKM that go unused. I may have missed a model or texture as well- if you find one I did miss, feel free to message me on Discord! Mouskegamer#0001
+
+The reason this credits file was created was due to questions from guests about our relation to the "Haxiclesticks" server. Our current map has no relation to that server or world- this was created
+completely from scratch. The models, however, were left over assets from when the server hosted the original world for GamerKM in 2018!
+
+ImagineFun does not condone the use of these or any other assets without permission from the original creators. All other models in this pack are made by Mouskegamer, SlinxMC,
+and MidnightB. Thank you for your support!
