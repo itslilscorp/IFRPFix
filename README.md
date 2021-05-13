@@ -20,9 +20,11 @@ A lot. Like, a lot alot. (Okay, maybe not that much).
 
 ## Credits/Disclaimers
 
-*I did not create any of the original textures or models - those were created by the staff at [Imagine Fun](https://imaginefun.net/).
-*The main lot of conversion from 1.12 over to 1.13 was done through a [resource pack converter](https://github.com/agentdid127/ResourcePackConverter) made by [@agentdid127](https://github.com/agentdid127).
-*While I discovered this myself before seeing it, user @Kumki Sakura🌸#9388 (on discord) found the issue with certain animated textures not working on versions higher than 1.12.2. I figured it wouldn't be right if I didn't credit them anyways.
+I did not create any of the original textures or models - those were created by the staff at [Imagine Fun](https://imaginefun.net/).
+
+The main lot of conversion from 1.12 over to 1.13 was done through a [resource pack converter](https://github.com/agentdid127/ResourcePackConverter) made by [@agentdid127](https://github.com/agentdid127).
+
+While I discovered this myself before seeing it, user @Kumki Sakura🌸#9388 (on discord) found the issue with certain animated textures not working on versions higher than 1.12.2. I figured it wouldn't be right if I didn't credit them anyways.
 
 ## Version History
 
