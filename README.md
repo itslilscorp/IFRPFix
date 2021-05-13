@@ -84,7 +84,9 @@
 - #### Due to the way Minecraft handles rendering entities through transparent entities on 1.13-1.14, Tink doesn't show up in her lantern when it becomes translucent.
   - 1.12, 1.15-1.16 ![image](https://user-images.githubusercontent.com/84101121/118096527-78099d00-b39f-11eb-94c2-234f55472b67.png)
   - 1.13-1.14 ![image](https://user-images.githubusercontent.com/84101121/118096510-70e28f00-b39f-11eb-8436-2d5bee2e726e.png)
-
+- #### Due to the way Minecraft handles rendering transparent paintings in 1.15+, some paintings that were previously invisible now appear black.
+  - 1.14- ![image](https://user-images.githubusercontent.com/84101121/118100844-ec930a80-b3a4-11eb-920d-3385a18fab40.png)
+  - 1.15+ ![image](https://user-images.githubusercontent.com/84101121/118100872-f61c7280-b3a4-11eb-8610-d0fa2633e045.png)
 
 ## <a name="credit"></a>Credits/Disclaimers
 
