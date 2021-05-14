@@ -9,7 +9,7 @@
     "black": "block/black_concrete",
     "red2": "block/red_wool",
     "yellow": "block/yellow_wool",
-    "white": "block/snow_block",
+    "white": "block/snow",
     "hardened": "block/terracotta",
     "blue2": "block/blue_wool",
     "logo": "custom/caseyjr_logo",

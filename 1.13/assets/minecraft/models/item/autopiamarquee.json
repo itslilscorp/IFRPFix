@@ -3,7 +3,7 @@
   "textures": {
     "particle": "block/light_blue_terracotta",
     "gray": "block/light_blue_terracotta",
-    "white": "block/snow_block",
+    "white": "block/snow",
     "red": "block/redstone_block"
   },
   "elements": [

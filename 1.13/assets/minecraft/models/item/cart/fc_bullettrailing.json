@@ -3,7 +3,7 @@
   "textures": {
     "silver": "block/clay",
     "black": "block/black_concrete_powder",
-    "white": "block/snow_block"
+    "white": "block/snow"
   },
   "elements": [
     {

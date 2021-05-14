@@ -2,7 +2,7 @@
   "__comment": "Designed_by_Slinx_with_Cubik_Studio_-_https://cubik.studio",
   "textures": {
     "particle": "block/e_particle",
-    "white": "block/snow_block",
+    "white": "block/snow",
     "black": "block/black_concrete",
     "red": "block/red_wool",
     "purple": "block/purple_terracotta",

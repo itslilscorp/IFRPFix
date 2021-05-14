@@ -4,7 +4,7 @@
     "particle": "block/e_particle",
     "coal_block": "block/coal_block",
     "yellow": "block/yellow_concrete_powder",
-    "snow": "block/snow_block"
+    "snow": "block/snow"
   },
   "elements": [
     {

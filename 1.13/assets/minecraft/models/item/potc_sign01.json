@@ -5,7 +5,7 @@
     "black": "block/black_concrete",
     "red": "block/red_wool",
     "yellow": "block/coal_ore",
-    "white": "block/snow_block",
+    "white": "block/snow",
     "brown": "block/black_terracotta",
     "glass": "block/orange_stained_glass",
     "lightbrown": "block/brown_terracotta"

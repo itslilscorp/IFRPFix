@@ -3,7 +3,7 @@
   "textures": {
     "particle": "block/e_particle",
     "texture1": "block/lapis_block",
-    "texture2": "block/snow_block"
+    "texture2": "block/snow"
   },
   "elements": [
     {

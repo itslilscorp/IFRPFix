@@ -5,7 +5,7 @@
     "darkgray": "block/gray_concrete",
     "silver": "block/clay",
     "blue": "block/lapis_block",
-    "white": "block/snow_block"
+    "white": "block/snow"
   },
   "elements": [
     {

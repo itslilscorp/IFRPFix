@@ -3,7 +3,7 @@
   "textures": {
     "texture": "block/bone_block_side",
     "texture1": "block/red_wool",
-    "texture2": "block/snow_block",
+    "texture2": "block/snow",
     "texture3": "block/black_wool",
     "texture4": "block/light_blue_wool",
     "texture5": "block/birch_planks",

@@ -4,7 +4,7 @@
     "particle": "block/stone_slab_top",
     "concrete": "block/andesite",
     "silver": "block/stone_slab_top",
-    "white": "block/snow_block",
+    "white": "block/snow",
     "black": "block/black_concrete",
     "red": "block/redstone_block"
   },

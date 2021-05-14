@@ -1,7 +1,7 @@
 {
   "__comment": "Designed_by_Slinx_for_ImagineFun",
   "textures": {
-    "particle": "block/snow_block",
+    "particle": "block/snow",
     "darkblue": "block/lapis_block",
     "lightblue": "block/prismarine_bricks",
     "clay": "block/clay"

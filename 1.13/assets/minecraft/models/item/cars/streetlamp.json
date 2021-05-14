@@ -4,7 +4,7 @@
     "particle": "block/anvil",
     "gray": "block/gray_concrete_powder",
     "silver": "block/clay",
-    "white": "block/snow_block"
+    "white": "block/snow"
   },
   "elements": [
     {

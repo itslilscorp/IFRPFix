@@ -7,7 +7,7 @@
     "silver": "block/clay",
     "paint": "block/emerald_block",
     "brake": "block/netherrack",
-    "white": "block/snow_block",
+    "white": "block/snow",
     "custom": "custom/autopia_cars",
     "safety": "custom/safety",
     "orange": "block/orange_wool"

@@ -6,7 +6,7 @@
     "red": "block/nether_wart_block",
     "darkblue": "block/blue_terracotta",
     "black": "block/black_concrete_powder",
-    "white": "block/snow_block"
+    "white": "block/snow"
   },
   "elements": [
     {

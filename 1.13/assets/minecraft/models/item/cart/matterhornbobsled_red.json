@@ -3,7 +3,7 @@
   "textures": {
     "color": "block/red_wool",
     "black": "block/black_concrete",
-    "white": "block/snow_block",
+    "white": "block/snow",
     "gray": "block/stone_slab_top",
     "colordark": "block/red_terracotta",
     "safety": "custom/safety"

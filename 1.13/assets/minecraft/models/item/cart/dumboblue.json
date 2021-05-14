@@ -10,7 +10,7 @@
     "black": "block/black_wool",
     "pink": "block/pink_terracotta",
     "tan": "block/white_terracotta",
-    "white": "block/snow_block",
+    "white": "block/snow",
     "safety": "custom/safety"
   },
   "elements": [

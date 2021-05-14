@@ -1,7 +1,7 @@
 {
   "__comment": "Designed_by_Mouskegamer_with_Cubik_Studio_-_https://cubik.studio",
   "textures": {
-    "texture": "block/snow_block",
+    "texture": "block/snow",
     "texture2": "block/quartz_block_bottom",
     "texture3": "block/black_wool",
     "texture4": "block/light_blue_terracotta",

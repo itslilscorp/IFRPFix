@@ -7,7 +7,7 @@
     "stoneslab": "block/stone_slab_top",
     "bone": "block/bone_block_side",
     "black": "block/black_concrete",
-    "white": "block/snow_block",
+    "white": "block/snow",
     "red": "block/red_wool",
     "cobble": "block/cobblestone"
   },

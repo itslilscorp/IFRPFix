@@ -63,7 +63,9 @@
   - Before ![image](https://user-images.githubusercontent.com/84101121/118092948-bea8c880-b39a-11eb-95ab-78c832e3ebd9.png)
   - After ![image](https://user-images.githubusercontent.com/84101121/118092961-c2d4e600-b39a-11eb-87d1-52dc3f3afad1.png)
 
-#### After this, there were still some messy textures, but I was easily able to track down snow as the culprit. The conversion has snow changing to snow_block in 1.13, but this broke all the textures, so I just inserted the texture so the game was happy. The alternative of this was finding each texture that uses snow and changing the line, but I figured this was easier.
+#### After this, there were still some messy textures, but I was easily able to track down snow as the culprit. The conversion has snow changing to snow_block in 1.13, but this broke all the snow textures, ~~so I just inserted the texture so the game was happy. The alternative of this was finding each texture that uses snow and changing the line, but I figured this was easier.~~
+
+#### Edit 5/14/21: I went back and realized it would be best to not include a Minecraft texture - so now every model which uses snow_block instead uses snow so they appear correctly.
 - #### Cars Land (Lights)
   - Before ![image](https://user-images.githubusercontent.com/84101121/118094492-cec1a780-b39c-11eb-81db-4fcc6ddc30d2.png)
   - After ![image](https://user-images.githubusercontent.com/84101121/118094505-d3865b80-b39c-11eb-8120-e38c774609d4.png)

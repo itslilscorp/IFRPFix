@@ -2,7 +2,7 @@
   "__comment": "Designed_by_LongtheNinja_with_Cubik_Studio_-_https://cubik.studio",
   "textures": {
     "texture1": "block/iron_door_bottom",
-    "particle": "block/snow_block",
+    "particle": "block/snow",
     "texture": "block/cyan_terracotta",
     "texture2": "block/black_wool"
   },

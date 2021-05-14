@@ -5,7 +5,7 @@
     "green": "block/green_terracotta",
     "yellow": "block/yellow_terracotta",
     "red": "block/red_wool",
-    "white": "block/snow_block",
+    "white": "block/snow",
     "black": "block/black_concrete"
   },
   "elements": [

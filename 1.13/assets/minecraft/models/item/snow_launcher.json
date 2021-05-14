@@ -5,7 +5,7 @@
     "texture1": "block/white_concrete_powder",
     "texture2": "block/light_blue_concrete_powder",
     "texture3": "block/cyan_wool",
-    "texture4": "block/snow_block",
+    "texture4": "block/snow",
     "particle": "block/light_gray_wool"
   },
   "elements": [

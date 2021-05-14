@@ -3,7 +3,7 @@
   "textures": {
     "arch": "custom/hm_arch",
     "darkgreen": "block/dark_prismarine",
-    "white": "block/snow_block"
+    "white": "block/snow"
   },
   "elements": [
     {

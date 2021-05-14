@@ -5,7 +5,7 @@
     "yellow": "block/yellow_concrete",
     "orange": "block/orange_concrete",
     "mushroom": "block/white_terracotta",
-    "white": "block/snow_block"
+    "white": "block/snow"
   },
   "elements": [
     {

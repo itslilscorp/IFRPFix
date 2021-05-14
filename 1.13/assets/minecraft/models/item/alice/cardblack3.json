@@ -3,7 +3,7 @@
   "textures": {
     "particle": "block/black_wool",
     "texture": "block/white_terracotta",
-    "texture1": "block/snow_block",
+    "texture1": "block/snow",
     "texture2": "block/black_wool",
     "texture3": "block/spruce_planks",
     "texture4": "block/red_wool"

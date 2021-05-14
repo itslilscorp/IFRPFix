@@ -1,7 +1,7 @@
 {
   "__comment": "Designed_by_Slinx_with_Cubik_Studio_-_https://cubik.studio",
   "textures": {
-    "particle": "block/snow_block",
+    "particle": "block/snow",
     "jungle": "block/jungle_planks",
     "spruce": "block/spruce_planks",
     "purewhite": "block/quartz_block_bottom",

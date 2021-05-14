@@ -6,7 +6,7 @@
     "4": "block/orange_terracotta",
     "5": "block/black_wool",
     "7": "block/packed_ice",
-    "wool_black": "block/snow_block"
+    "wool_black": "block/snow"
   },
   "elements": [
     {

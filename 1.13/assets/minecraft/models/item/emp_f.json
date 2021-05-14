@@ -4,7 +4,7 @@
     "particle": "block/quartz_block_bottom",
     "texture2": "block/stone",
     "texture5": "block/cyan_concrete_powder",
-    "texture6": "block/snow_block",
+    "texture6": "block/snow",
     "texture4": "block/acacia_log"
   },
   "elements": [

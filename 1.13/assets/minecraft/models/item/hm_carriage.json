@@ -3,7 +3,7 @@
   "textures": {
     "particle": "block/e_particle",
     "quartz": "block/quartz_block_top",
-    "snow": "block/snow_block",
+    "snow": "block/snow",
     "black": "block/black_wool",
     "quartz_chiseled": "block/chiseled_quartz_block",
     "planks": "block/jungle_planks",

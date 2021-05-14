@@ -4,7 +4,7 @@
     "particle": "block/blue_wool",
     "texture": "block/quartz_block_bottom",
     "texture1": "block/polished_andesite",
-    "texture3": "block/snow_block"
+    "texture3": "block/snow"
   },
   "elements": [
     {
