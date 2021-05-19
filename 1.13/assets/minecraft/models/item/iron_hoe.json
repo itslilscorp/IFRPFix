@@ -1337,7 +1337,7 @@
         "damaged": 0,
         "damage": 0.664
       },
-      "model": "item/pet/au_white"
+      "model": "item/pet/mickey_grad"
     },
     {
       "_cmd_": "give_@p_minecraft:iron_shovel_1_166_{Unbreakable:1}",

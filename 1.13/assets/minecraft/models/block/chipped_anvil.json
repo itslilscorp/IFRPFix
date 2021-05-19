@@ -4,7 +4,7 @@
     "particle": "block/e_particle",
     "black": "block/black_wool",
     "lightblue": "block/light_blue_wool",
-    "white": "block/snow_block",
+    "white": "block/snow",
     "lime": "block/lime_wool",
     "panel": "custom/controlpanel_green",
     "concreteblack": "block/black_concrete",
