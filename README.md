@@ -1,5 +1,7 @@
 # Imagine Fun Resource Pack Fix
 
+![image](https://lingtalfi.com/services/pngtext?color=cc0000&size=25&text=Please%20let%20me%20know%20if%20any%20issues%20are%20found%20so%20they%20can%20be%20fixed%20ASAP)
+
 #### It's widely known by anyone that plays on Imagine Fun that the best way to experience the server is on 1.12. This is in part due to the fact that the resource packs on higher versions aren't as complete as the one on the original version. I've sought to try and bring the resource pack for the other versions since then up to speed with 1.12.
 
 ## Table of Contents
