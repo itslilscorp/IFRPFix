@@ -83,7 +83,7 @@
 
 ## <a name="issues"></a>Known Issues
 
-- #### Due to the way Minecraft handles rendering entities through transparent entities on 1.13-1.14, Tink doesn't show up in her lantern when it becomes translucent.
+- #### Due to the way Minecraft handles rendering entities through transparent entities on 1.13-1.14, Tink doesn't show up in her lantern outside Peter Pan when it becomes translucent. The one closer to Fantasyland's entrance seems unaffected by this.
   - 1.12, 1.15-1.16 ![image](https://user-images.githubusercontent.com/84101121/118096527-78099d00-b39f-11eb-94c2-234f55472b67.png)
   - 1.13-1.14 ![image](https://user-images.githubusercontent.com/84101121/118096510-70e28f00-b39f-11eb-8436-2d5bee2e726e.png)
 - #### Due to the way Minecraft handles rendering transparent paintings in 1.15+, some paintings that were previously invisible now appear black.
