@@ -102,5 +102,9 @@ While I discovered this myself before seeing it, user @Kumki Sakura🌸#9388 (on
 
 ## <a name="version"></a>Version History
 
-* 0.1
-    * Initial Release - Updated Pack as of 5/13/21
+* 1.0.0
+    * Initial Release - Updated Pack as of 5/13/21.
+* 1.0.1
+    * Snow Update - Fixed models using snow in 1.13 by modifying model files rather than adding a snow texture.
+* 1.1.0
+    * Enchanting Update - Updated Pack as of 5/18/21 (and maybe fixed a few more 1.13 snow-using models I missed before).
