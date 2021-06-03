@@ -2,6 +2,8 @@
 
 ![image](https://lingtalfi.com/services/pngtext?color=cc0000&size=25&text=Please%20let%20me%20know%20if%20any%20issues%20are%20found%20so%20they%20can%20be%20fixed%20ASAP)
 
+#### Note: While originally I based the 1.14+ versions on IF's 1.16 pack which seemed pretty good, I felt it would be better (and possibly more "full-proof") if I went and used the more trusted 1.12 version as the basis for all conversions. Any references to using the 1.16 pack as a basis are outdated as they all use 1.12 as a basis now. I've tried to update all references to the old process, but I figured I'd leave this here as clarification anyways.
+
 #### It's widely known by anyone that plays on Imagine Fun that the best way to experience the server is on 1.12. This is in part due to the fact that the resource packs on higher versions aren't as complete as the one on the original version. I've sought to try and bring the resource pack for the other versions since then up to speed with 1.12.
 
 ## Table of Contents
@@ -75,7 +77,7 @@
   - Before ![image](https://user-images.githubusercontent.com/84101121/118094678-0a5c7180-b39d-11eb-83fb-3fe5133c5e6f.png)
   - After ![image](https://user-images.githubusercontent.com/84101121/118094696-10525280-b39d-11eb-8c6a-58bbe939a6de.png)
 
-#### The final touches on this version were just swapping some of the item models (specifically, diamond pickaxe, shovel, and sword) for the 1.16 ones rather than the converted 1.12 ones. This fixed the remainder of the models that would simply not show up at all.
+#### ~~The final touches on this version were just swapping some of the item models (specifically, diamond pickaxe, shovel, and sword) for the 1.16 ones rather than the converted 1.12 ones.~~ Since all versions of the pack were made without the use of the 1.16 version, I went into the files to find the issues here. Each item model seemed to have its own issue ranging from referenced models having capitalized letters to the converter refusing to convert a couple model names. Remedying these errors fixed the remainder of the models that would simply not show up at all.
 - #### May the 4th signage (while this signage is no longer present, the same principle applies for the current signage in its place)
   - Before ![image](https://user-images.githubusercontent.com/84101121/118095639-52c85f00-b39e-11eb-9bd4-3de541cacb0f.png)
   - After ![image](https://user-images.githubusercontent.com/84101121/118095672-59ef6d00-b39e-11eb-9f97-23dcab03754d.png)
