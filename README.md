@@ -17,7 +17,7 @@
 
 ### <a name="114"></a>1.14+ Changes
 
-#### The current 1.16 version of the pack served as a great start for getting a pack working across these versions. The majority of the issues that needed fixing here were some missing textures where animated textures should be (*cough cough radiator springs racers*). This was largely caused by an extra comma added to the end of the mcmeta file describing these textures' animations.
+#### ~~The current 1.16 version of the pack served as a great start for getting a pack working across these versions.~~ All versions of the pack including 1.14+ ones are now based on the official 1.12 version. However, worth noting is that the 1.14-1.16 versions of the pack are extremely similar and can be used interchangeably (assuming you ignore the version incompatibility warning). The majority of the issues that needed fixing here were some missing textures where animated textures should be (*cough cough radiator springs racers*). This was largely caused by an extra comma added to the end of the mcmeta file describing these textures' animations.
 - #### Mack's eyes
   - Before ![image](https://user-images.githubusercontent.com/84101121/118085177-f0686200-b38f-11eb-9651-508a3b8b938a.png)
   - After ![image](https://user-images.githubusercontent.com/84101121/118085193-f8280680-b38f-11eb-8560-0515274abb64.png)
@@ -76,7 +76,7 @@
   - After ![image](https://user-images.githubusercontent.com/84101121/118094696-10525280-b39d-11eb-8c6a-58bbe939a6de.png)
 
 #### The final touches on this version were just swapping some of the item models (specifically, diamond pickaxe, shovel, and sword) for the 1.16 ones rather than the converted 1.12 ones. This fixed the remainder of the models that would simply not show up at all.
-- #### May the 4th signage
+- #### May the 4th signage (while this signage is no longer present, the same principle applies for the current signage in its place)
   - Before ![image](https://user-images.githubusercontent.com/84101121/118095639-52c85f00-b39e-11eb-9bd4-3de541cacb0f.png)
   - After ![image](https://user-images.githubusercontent.com/84101121/118095672-59ef6d00-b39e-11eb-9f97-23dcab03754d.png)
 - #### Loungefly Backpacks
@@ -110,3 +110,5 @@ While I discovered this myself before seeing it, user @Kumki Sakura🌸#9388 (on
     * Snow Update - Fixed models using snow in 1.13 by modifying model files rather than adding a snow texture.
 * 1.1.0
     * Enchanting Update - Updated Pack as of 5/18/21 (and maybe fixed a few more 1.13 snow-using models I missed before).
+* 1.2.0
+    * Pride Update - Updated Pack as of 6/1/21 and based all ports on 1.12 rather than 1.16.
