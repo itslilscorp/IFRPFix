@@ -1,1 +1,416 @@
-{"entry.whistle":{"sounds":[{"name":"entrywhistle","stream":false}],"category":"master"},"entry.generic":{"sounds":[{"name":"entrysound","stream":false}],"category":"master"},"fastpass.redeem":{"sounds":[{"name":"fastpass","stream":false}],"category":"master"},"ge.steam":{"sounds":[{"name":"steam","stream":false}],"category":"master"},"stormtrooper":{"sounds":[{"name":"stormtrooper","stream":false}],"category":"master"},"blue_clash":{"sounds":[{"name":"blue_clash","stream":false}],"category":"master"},"blue_disable":{"sounds":[{"name":"blue_disable","stream":false}],"category":"master"},"blue_enable":{"sounds":[{"name":"blue_enable","stream":false}],"category":"master"},"blue_hum":{"sounds":[{"name":"blue_hum","stream":false}],"category":"master"},"blue_swing":{"sounds":[{"name":"blue_swing","stream":false}],"category":"master"},"green_clash":{"sounds":[{"name":"green_clash","stream":false}],"category":"master"},"green_disable":{"sounds":[{"name":"green_disable","stream":false}],"category":"master"},"green_enable":{"sounds":[{"name":"green_enable","stream":false}],"category":"master"},"green_hum":{"sounds":[{"name":"green_hum","stream":false}],"category":"master"},"green_swing":{"sounds":[{"name":"green_swing","stream":false}],"category":"master"},"purple_clash":{"sounds":[{"name":"purple_clash","stream":false}],"category":"master"},"purple_disable":{"sounds":[{"name":"purple_disable","stream":false}],"category":"master"},"purple_enable":{"sounds":[{"name":"purple_enable","stream":false}],"category":"master"},"purple_hum":{"sounds":[{"name":"purple_hum","stream":false}],"category":"master"},"purple_swing":{"sounds":[{"name":"purple_swing","stream":false}],"category":"master"},"red_clash":{"sounds":[{"name":"red_clash","stream":false}],"category":"master"},"red_hum":{"sounds":[{"name":"red_hum","stream":false}],"category":"master"},"red_enable":{"sounds":[{"name":"red_enable","stream":false}],"category":"master"},"red_swing":{"sounds":[{"name":"red_swing","stream":false}],"category":"master"},"white_clash":{"sounds":[{"name":"white_clash","stream":false}],"category":"master"},"white_disable":{"sounds":[{"name":"white_disable","stream":false}],"category":"master"},"white_enable":{"sounds":[{"name":"white_enable","stream":false}],"category":"master"},"white_hum":{"sounds":[{"name":"white_hum","stream":false}],"category":"master"},"white_swing":{"sounds":[{"name":"white_swing","stream":false}],"category":"master"},"yellow_clash":{"sounds":[{"name":"yellow_clash","stream":false}],"category":"master"},"yellow_disable":{"sounds":[{"name":"yellow_disable","stream":false}],"category":"master"},"yellow_enable":{"sounds":[{"name":"yellow_enable","stream":false}],"category":"master"},"yellow_hum":{"sounds":[{"name":"yellow_hum","stream":false}],"category":"master"},"yellow_swing":{"sounds":[{"name":"yellow_swing","stream":false}],"category":"master"},"han_blaster":{"sounds":[{"name":"han_blaster","stream":false}],"category":"master"},"kylo_clash":{"sounds":[{"name":"kylo_clash","stream":false}],"category":"master"},"kylo_disable":{"sounds":[{"name":"kylo_disable","stream":false}],"category":"master"},"kylo_enable":{"sounds":[{"name":"kylo_enable","stream":false}],"category":"master"},"kylo_hum":{"sounds":[{"name":"kylo_hum","stream":false}],"category":"master"},"kylo_swing":{"sounds":[{"name":"kylo_swing","stream":false}],"category":"master"},"thanossnap":{"sounds":[{"name":"thanossnap","stream":false}],"category":"master"},"chewieblast":{"sounds":[{"name":"chewieblast","stream":false}],"category":"master"},"trolley_1":{"sounds":[{"name":"trolley_1","stream":false}],"category":"master"},"trolley_2":{"sounds":[{"name":"trolley_2","stream":false}],"category":"master"},"beepbeep":{"sounds":[{"name":"beepbeep","stream":false}],"category":"master"},"fart":{"sounds":[{"name":"fart","stream":false}],"category":"master"}}
+{
+  "entry.whistle": {
+    "sounds": [
+      {
+        "name": "entrywhistle",
+        "stream": false
+      }
+    ],
+    "category": "master"
+  },
+  "entry.generic": {
+    "sounds": [
+      {
+        "name": "entrysound",
+        "stream": false
+      }
+    ],
+    "category": "master"
+  },
+  "fastpass.redeem": {
+    "sounds": [
+      {
+        "name": "fastpass",
+        "stream": false
+      }
+    ],
+    "category": "master"
+  },
+  "ge.steam": {
+    "sounds": [
+      {
+        "name": "steam",
+        "stream": false
+      }
+    ],
+    "category": "master"
+  },
+  "stormtrooper": {
+    "sounds": [
+      {
+        "name": "stormtrooper",
+        "stream": false
+      }
+    ],
+    "category": "master"
+  },
+  "blue_clash": {
+    "sounds": [
+      {
+        "name": "blue_clash",
+        "stream": false
+      }
+    ],
+    "category": "master"
+  },
+  "blue_disable": {
+    "sounds": [
+      {
+        "name": "blue_disable",
+        "stream": false
+      }
+    ],
+    "category": "master"
+  },
+  "blue_enable": {
+    "sounds": [
+      {
+        "name": "blue_enable",
+        "stream": false
+      }
+    ],
+    "category": "master"
+  },
+  "blue_hum": {
+    "sounds": [
+      {
+        "name": "blue_hum",
+        "stream": false
+      }
+    ],
+    "category": "master"
+  },
+  "blue_swing": {
+    "sounds": [
+      {
+        "name": "blue_swing",
+        "stream": false
+      }
+    ],
+    "category": "master"
+  },
+  "green_clash": {
+    "sounds": [
+      {
+        "name": "green_clash",
+        "stream": false
+      }
+    ],
+    "category": "master"
+  },
+  "green_disable": {
+    "sounds": [
+      {
+        "name": "green_disable",
+        "stream": false
+      }
+    ],
+    "category": "master"
+  },
+  "green_enable": {
+    "sounds": [
+      {
+        "name": "green_enable",
+        "stream": false
+      }
+    ],
+    "category": "master"
+  },
+  "green_hum": {
+    "sounds": [
+      {
+        "name": "green_hum",
+        "stream": false
+      }
+    ],
+    "category": "master"
+  },
+  "green_swing": {
+    "sounds": [
+      {
+        "name": "green_swing",
+        "stream": false
+      }
+    ],
+    "category": "master"
+  },
+  "purple_clash": {
+    "sounds": [
+      {
+        "name": "purple_clash",
+        "stream": false
+      }
+    ],
+    "category": "master"
+  },
+  "purple_disable": {
+    "sounds": [
+      {
+        "name": "purple_disable",
+        "stream": false
+      }
+    ],
+    "category": "master"
+  },
+  "purple_enable": {
+    "sounds": [
+      {
+        "name": "purple_enable",
+        "stream": false
+      }
+    ],
+    "category": "master"
+  },
+  "purple_hum": {
+    "sounds": [
+      {
+        "name": "purple_hum",
+        "stream": false
+      }
+    ],
+    "category": "master"
+  },
+  "purple_swing": {
+    "sounds": [
+      {
+        "name": "purple_swing",
+        "stream": false
+      }
+    ],
+    "category": "master"
+  },
+  "red_clash": {
+    "sounds": [
+      {
+        "name": "red_clash",
+        "stream": false
+      }
+    ],
+    "category": "master"
+  },
+  "red_hum": {
+    "sounds": [
+      {
+        "name": "red_hum",
+        "stream": false
+      }
+    ],
+    "category": "master"
+  },
+  "red_enable": {
+    "sounds": [
+      {
+        "name": "red_enable",
+        "stream": false
+      }
+    ],
+    "category": "master"
+  },
+  "red_swing": {
+    "sounds": [
+      {
+        "name": "red_swing",
+        "stream": false
+      }
+    ],
+    "category": "master"
+  },
+  "white_clash": {
+    "sounds": [
+      {
+        "name": "white_clash",
+        "stream": false
+      }
+    ],
+    "category": "master"
+  },
+  "white_disable": {
+    "sounds": [
+      {
+        "name": "white_disable",
+        "stream": false
+      }
+    ],
+    "category": "master"
+  },
+  "white_enable": {
+    "sounds": [
+      {
+        "name": "white_enable",
+        "stream": false
+      }
+    ],
+    "category": "master"
+  },
+  "white_hum": {
+    "sounds": [
+      {
+        "name": "white_hum",
+        "stream": false
+      }
+    ],
+    "category": "master"
+  },
+  "white_swing": {
+    "sounds": [
+      {
+        "name": "white_swing",
+        "stream": false
+      }
+    ],
+    "category": "master"
+  },
+  "yellow_clash": {
+    "sounds": [
+      {
+        "name": "yellow_clash",
+        "stream": false
+      }
+    ],
+    "category": "master"
+  },
+  "yellow_disable": {
+    "sounds": [
+      {
+        "name": "yellow_disable",
+        "stream": false
+      }
+    ],
+    "category": "master"
+  },
+  "yellow_enable": {
+    "sounds": [
+      {
+        "name": "yellow_enable",
+        "stream": false
+      }
+    ],
+    "category": "master"
+  },
+  "yellow_hum": {
+    "sounds": [
+      {
+        "name": "yellow_hum",
+        "stream": false
+      }
+    ],
+    "category": "master"
+  },
+  "yellow_swing": {
+    "sounds": [
+      {
+        "name": "yellow_swing",
+        "stream": false
+      }
+    ],
+    "category": "master"
+  },
+  "han_blaster": {
+    "sounds": [
+      {
+        "name": "han_blaster",
+        "stream": false
+      }
+    ],
+    "category": "master"
+  },
+  "kylo_clash": {
+    "sounds": [
+      {
+        "name": "kylo_clash",
+        "stream": false
+      }
+    ],
+    "category": "master"
+  },
+  "kylo_disable": {
+    "sounds": [
+      {
+        "name": "kylo_disable",
+        "stream": false
+      }
+    ],
+    "category": "master"
+  },
+  "kylo_enable": {
+    "sounds": [
+      {
+        "name": "kylo_enable",
+        "stream": false
+      }
+    ],
+    "category": "master"
+  },
+  "kylo_hum": {
+    "sounds": [
+      {
+        "name": "kylo_hum",
+        "stream": false
+      }
+    ],
+    "category": "master"
+  },
+  "kylo_swing": {
+    "sounds": [
+      {
+        "name": "kylo_swing",
+        "stream": false
+      }
+    ],
+    "category": "master"
+  },
+  "thanossnap": {
+    "sounds": [
+      {
+        "name": "thanossnap",
+        "stream": false
+      }
+    ],
+    "category": "master"
+  },
+  "chewieblast": {
+    "sounds": [
+      {
+        "name": "chewieblast",
+        "stream": false
+      }
+    ],
+    "category": "master"
+  },
+  "trolley_1": {
+    "sounds": [
+      {
+        "name": "trolley_1",
+        "stream": false
+      }
+    ],
+    "category": "master"
+  },
+  "trolley_2": {
+    "sounds": [
+      {
+        "name": "trolley_2",
+        "stream": false
+      }
+    ],
+    "category": "master"
+  },
+  "beepbeep": {
+    "sounds": [
+      {
+        "name": "beepbeep",
+        "stream": false
+      }
+    ],
+    "category": "master"
+  },
+  "fart": {
+    "sounds": [
+      {
+        "name": "fart",
+        "stream": false
+      }
+    ],
+    "category": "master"
+  }
+}

@@ -1,1 +1,6518 @@
-{"textures":{"Cyan":"custom/wool_colored_cyan","Leaftxt":"custom/wool_colored_green","Red":"custom/wool_colored_red","Vines":"custom/hardened_clay_stained_lime","Yellow":"custom/wool_colored_yellow","particle":"block/e_particle","texture":"block/e_texture"},"elements":[{"from":[1.3,13.3,15.2],"to":[1.9,13.6,15.8],"faces":{"down":{"uv":[1,0.3999996,1.6,1],"texture":"#Leaftxt"},"up":{"uv":[1,15,1.6,15.6],"texture":"#Leaftxt"},"north":{"uv":[14.4,2.7,15,3],"texture":"#Leaftxt"},"south":{"uv":[1,2.7,1.6,3],"texture":"#Leaftxt"},"west":{"uv":[15,2.7,15.6,3],"texture":"#Leaftxt"},"east":{"uv":[0.4,2.7,1,3],"texture":"#Leaftxt"}}},{"from":[1.6,10.3,15.5],"to":[1.9,10.6,16.7],"faces":{"down":{"uv":[1.3,0,1.6,0.7000008],"texture":"#Leaftxt"},"up":{"uv":[1.3,15.3,1.6,16],"texture":"#Leaftxt"},"north":{"uv":[14.4,5.7,14.7,6],"texture":"#Leaftxt"},"south":{"uv":[1.3,5.7,1.6,6],"texture":"#Leaftxt"},"west":{"uv":[15.3,5.7,16,6],"texture":"#Leaftxt"},"east":{"uv":[0,5.7,0.7000008,6],"texture":"#Leaftxt"}}},{"from":[1.9,10.6,15.2],"to":[2.2,10.9,17],"faces":{"down":{"uv":[1.6,0,1.9,1],"texture":"#Leaftxt"},"up":{"uv":[1.6,15,1.9,16],"texture":"#Leaftxt"},"north":{"uv":[14.1,5.4,14.4,5.7],"texture":"#Leaftxt"},"south":{"uv":[1.6,5.4,1.9,5.7],"texture":"#Leaftxt"},"west":{"uv":[15,5.4,16,5.7],"texture":"#Leaftxt"},"east":{"uv":[0,5.4,1,5.7],"texture":"#Leaftxt"}}},{"from":[1.9,10.9,14.9],"to":[2.2,11.2,17.3],"faces":{"down":{"uv":[1.6,0,1.9,1.299999],"texture":"#Leaftxt"},"up":{"uv":[1.6,14.7,1.9,16],"texture":"#Leaftxt"},"north":{"uv":[14.1,5.099999,14.4,5.4],"texture":"#Leaftxt"},"south":{"uv":[1.6,5.099999,1.9,5.4],"texture":"#Leaftxt"},"west":{"uv":[14.7,5.099999,16,5.4],"texture":"#Leaftxt"},"east":{"uv":[0,5.099999,1.299999,5.4],"texture":"#Leaftxt"}}},{"from":[1.9,11.2,14.6],"to":[2.2,13,15.2],"faces":{"down":{"uv":[1.6,1,1.9,1.6],"texture":"#Leaftxt"},"up":{"uv":[1.6,14.4,1.9,15],"texture":"#Leaftxt"},"north":{"uv":[14.1,3.3,14.4,5.1],"texture":"#Leaftxt"},"south":{"uv":[1.6,3.3,1.9,5.1],"texture":"#Leaftxt"},"west":{"uv":[14.4,3.3,15,5.1],"texture":"#Leaftxt"},"east":{"uv":[1,3.3,1.6,5.1],"texture":"#Leaftxt"}}},{"from":[1.6,13,14.9],"to":[2.2,13.3,17.3],"faces":{"down":{"uv":[1.3,0,1.9,1.299999],"texture":"#Leaftxt"},"up":{"uv":[1.3,14.7,1.9,16],"texture":"#Leaftxt"},"north":{"uv":[14.1,2.999999,14.7,3.299999],"texture":"#Leaftxt"},"south":{"uv":[1.3,2.999999,1.9,3.299999],"texture":"#Leaftxt"},"west":{"uv":[14.7,2.999999,16,3.299999],"texture":"#Leaftxt"},"east":{"uv":[0,2.999999,1.299999,3.299999],"texture":"#Leaftxt"}}},{"from":[1.3,9.099999,15.8],"to":[1.6,10.3,16.4],"faces":{"down":{"uv":[1,0,1.3,0.3999996],"texture":"#Leaftxt"},"up":{"uv":[1,15.6,1.3,16],"texture":"#Leaftxt"},"north":{"uv":[14.7,6.000001,15,7.200001],"texture":"#Leaftxt"},"south":{"uv":[1,6.000001,1.3,7.200001],"texture":"#Leaftxt"},"west":{"uv":[15.6,6.000001,16,7.200001],"texture":"#Leaftxt"},"east":{"uv":[0,6.000001,0.3999996,7.200001],"texture":"#Leaftxt"}}},{"from":[1.3,13.3,16.4],"to":[1.9,13.6,17],"faces":{"down":{"uv":[1,15.2,1.6,15.8],"texture":"#Leaftxt"},"up":{"uv":[1,0.2000008,1.6,0.8000011],"texture":"#Leaftxt"},"north":{"uv":[14.4,2.7,15,3],"texture":"#Leaftxt"},"south":{"uv":[1,2.7,1.6,3],"texture":"#Leaftxt"},"west":{"uv":[0.2000008,2.7,0.8000011,3],"texture":"#Leaftxt"},"east":{"uv":[15.2,2.7,15.8,3],"texture":"#Leaftxt"}}},{"from":[1.6,11.5,14.3],"to":[2.2,12.7,14.6],"faces":{"down":{"uv":[1.3,1.599999,1.9,1.9],"texture":"#Leaftxt"},"up":{"uv":[1.3,14.1,1.9,14.4],"texture":"#Leaftxt"},"north":{"uv":[14.1,3.6,14.7,4.8],"texture":"#Leaftxt"},"south":{"uv":[1.3,3.6,1.9,4.8],"texture":"#Leaftxt"},"west":{"uv":[14.1,3.6,14.4,4.8],"texture":"#Leaftxt"},"east":{"uv":[1.6,3.6,1.9,4.8],"texture":"#Leaftxt"}}},{"from":[1.6,11.8,17.6],"to":[2.2,12.7,17.9],"faces":{"down":{"uv":[1.3,14.3,1.9,14.6],"texture":"#Leaftxt"},"up":{"uv":[1.3,1.4,1.9,1.7],"texture":"#Leaftxt"},"north":{"uv":[14.1,3.6,14.7,4.5],"texture":"#Leaftxt"},"south":{"uv":[1.3,3.6,1.9,4.5],"texture":"#Leaftxt"},"west":{"uv":[1.4,3.6,1.699999,4.5],"texture":"#Leaftxt"},"east":{"uv":[14.3,3.6,14.6,4.5],"texture":"#Leaftxt"}}},{"from":[1.6,10.6,15.2],"to":[1.9,10.9,15.5],"faces":{"down":{"uv":[1.3,0.6999998,1.6,1],"texture":"#Leaftxt"},"up":{"uv":[1.3,15,1.6,15.3],"texture":"#Leaftxt"},"north":{"uv":[14.4,5.4,14.7,5.7],"texture":"#Leaftxt"},"south":{"uv":[1.3,5.4,1.6,5.7],"texture":"#Leaftxt"},"west":{"uv":[15,5.4,15.3,5.7],"texture":"#Leaftxt"},"east":{"uv":[0.7,5.4,1,5.7],"texture":"#Leaftxt"}}},{"from":[1.6,10.6,16.7],"to":[1.9,10.9,17],"faces":{"down":{"uv":[1.3,15.2,1.6,15.5],"texture":"#Leaftxt"},"up":{"uv":[1.3,0.5,1.6,0.8000002],"texture":"#Leaftxt"},"north":{"uv":[14.4,5.4,14.7,5.7],"texture":"#Leaftxt"},"south":{"uv":[1.3,5.4,1.6,5.7],"texture":"#Leaftxt"},"west":{"uv":[0.5,5.4,0.7999992,5.7],"texture":"#Leaftxt"},"east":{"uv":[15.2,5.4,15.5,5.7],"texture":"#Leaftxt"}}},{"from":[1.6,10.9,17],"to":[1.9,11.2,17.3],"faces":{"down":{"uv":[1.3,14.9,1.6,15.2],"texture":"#Leaftxt"},"up":{"uv":[1.3,0.7999992,1.6,1.099999],"texture":"#Leaftxt"},"north":{"uv":[14.4,5.099999,14.7,5.4],"texture":"#Leaftxt"},"south":{"uv":[1.3,5.099999,1.6,5.4],"texture":"#Leaftxt"},"west":{"uv":[0.7999992,5.099999,1.099998,5.4],"texture":"#Leaftxt"},"east":{"uv":[14.9,5.099999,15.2,5.4],"texture":"#Leaftxt"}}},{"from":[1.6,12.7,14.6],"to":[1.9,13,14.9],"faces":{"down":{"uv":[1.3,1.3,1.6,1.6],"texture":"#Leaftxt"},"up":{"uv":[1.3,14.4,1.6,14.7],"texture":"#Leaftxt"},"north":{"uv":[14.4,3.3,14.7,3.6],"texture":"#Leaftxt"},"south":{"uv":[1.3,3.3,1.6,3.6],"texture":"#Leaftxt"},"west":{"uv":[14.4,3.3,14.7,3.6],"texture":"#Leaftxt"},"east":{"uv":[1.3,3.3,1.6,3.6],"texture":"#Leaftxt"}}},{"from":[1.6,12.7,17.3],"to":[1.9,13,17.6],"faces":{"down":{"uv":[1.3,14.6,1.6,14.9],"texture":"#Leaftxt"},"up":{"uv":[1.3,1.1,1.6,1.400001],"texture":"#Leaftxt"},"north":{"uv":[14.4,3.3,14.7,3.6],"texture":"#Leaftxt"},"south":{"uv":[1.3,3.3,1.6,3.6],"texture":"#Leaftxt"},"west":{"uv":[1.1,3.3,1.4,3.6],"texture":"#Leaftxt"},"east":{"uv":[14.6,3.3,14.9,3.6],"texture":"#Leaftxt"}}},{"from":[2.2,11.2,14.9],"to":[2.5,13,17.3],"faces":{"down":{"uv":[1.9,0,2.2,1.299999],"texture":"#Leaftxt"},"up":{"uv":[1.9,14.7,2.2,16],"texture":"#Leaftxt"},"north":{"uv":[13.8,3.3,14.1,5.1],"texture":"#Leaftxt"},"south":{"uv":[1.9,3.3,2.2,5.1],"texture":"#Leaftxt"},"west":{"uv":[14.7,3.3,16,5.1],"texture":"#Leaftxt"},"east":{"uv":[0,3.3,1.299999,5.1],"texture":"#Leaftxt"}}},{"from":[2.2,13,15.2],"to":[2.5,13.3,17],"faces":{"down":{"uv":[1.9,0,2.2,1],"texture":"#Leaftxt"},"up":{"uv":[1.9,15,2.2,16],"texture":"#Leaftxt"},"north":{"uv":[13.8,2.999999,14.1,3.299999],"texture":"#Leaftxt"},"south":{"uv":[1.9,2.999999,2.2,3.299999],"texture":"#Leaftxt"},"west":{"uv":[15,2.999999,16,3.299999],"texture":"#Leaftxt"},"east":{"uv":[0,2.999999,1,3.299999],"texture":"#Leaftxt"}}},{"from":[2.2,11.5,17.3],"to":[2.5,12.7,17.6],"faces":{"down":{"uv":[1.9,14.6,2.2,14.9],"texture":"#Leaftxt"},"up":{"uv":[1.9,1.1,2.2,1.400001],"texture":"#Leaftxt"},"north":{"uv":[13.8,3.6,14.1,4.8],"texture":"#Leaftxt"},"south":{"uv":[1.9,3.6,2.2,4.8],"texture":"#Leaftxt"},"west":{"uv":[1.1,3.6,1.4,4.8],"texture":"#Leaftxt"},"east":{"uv":[14.6,3.6,14.9,4.8],"texture":"#Leaftxt"}}},{"from":[2.2,11.5,14.6],"to":[2.5,12.7,14.9],"faces":{"down":{"uv":[1.9,1.3,2.2,1.6],"texture":"#Leaftxt"},"up":{"uv":[1.9,14.4,2.2,14.7],"texture":"#Leaftxt"},"north":{"uv":[13.8,3.6,14.1,4.8],"texture":"#Leaftxt"},"south":{"uv":[1.9,3.6,2.2,4.8],"texture":"#Leaftxt"},"west":{"uv":[14.4,3.6,14.7,4.8],"texture":"#Leaftxt"},"east":{"uv":[1.3,3.6,1.6,4.8],"texture":"#Leaftxt"}}},{"from":[1.9,11.2,17],"to":[2.2,13,17.6],"faces":{"down":{"uv":[1.6,14.6,1.9,15.2],"texture":"#Leaftxt"},"up":{"uv":[1.6,0.7999992,1.9,1.4],"texture":"#Leaftxt"},"north":{"uv":[14.1,3.3,14.4,5.1],"texture":"#Leaftxt"},"south":{"uv":[1.6,3.3,1.9,5.1],"texture":"#Leaftxt"},"west":{"uv":[0.7999992,3.3,1.4,5.1],"texture":"#Leaftxt"},"east":{"uv":[14.6,3.3,15.2,5.1],"texture":"#Leaftxt"}}},{"from":[1.9,12.7,15.2],"to":[2.2,13,17],"faces":{"down":{"uv":[1.6,0,1.9,1],"texture":"#Leaftxt"},"up":{"uv":[1.6,15,1.9,16],"texture":"#Leaftxt"},"north":{"uv":[14.1,3.3,14.4,3.6],"texture":"#Leaftxt"},"south":{"uv":[1.6,3.3,1.9,3.6],"texture":"#Leaftxt"},"west":{"uv":[15,3.3,16,3.6],"texture":"#Leaftxt"},"east":{"uv":[0,3.3,1,3.6],"texture":"#Leaftxt"}}},{"from":[2.2,10.9,15.2],"to":[2.5,11.2,17],"faces":{"down":{"uv":[1.9,0,2.2,1],"texture":"#Leaftxt"},"up":{"uv":[1.9,15,2.2,16],"texture":"#Leaftxt"},"north":{"uv":[13.8,5.099999,14.1,5.4],"texture":"#Leaftxt"},"south":{"uv":[1.9,5.099999,2.2,5.4],"texture":"#Leaftxt"},"west":{"uv":[15,5.099999,16,5.4],"texture":"#Leaftxt"},"east":{"uv":[0,5.099999,1,5.4],"texture":"#Leaftxt"}}},{"from":[2.5,11.5,15.2],"to":[2.8,12.7,17],"faces":{"down":{"uv":[2.2,0,2.5,1],"texture":"#Leaftxt"},"up":{"uv":[2.2,15,2.5,16],"texture":"#Leaftxt"},"north":{"uv":[13.5,3.6,13.8,4.8],"texture":"#Leaftxt"},"south":{"uv":[2.2,3.6,2.5,4.8],"texture":"#Leaftxt"},"west":{"uv":[15,3.6,16,4.8],"texture":"#Leaftxt"},"east":{"uv":[0,3.6,1,4.8],"texture":"#Leaftxt"}}},{"from":[2.5,10.9,15.8],"to":[2.8,11.5,16.4],"faces":{"down":{"uv":[2.2,0,2.5,0.3999996],"texture":"#Leaftxt"},"up":{"uv":[2.2,15.6,2.5,16],"texture":"#Leaftxt"},"north":{"uv":[13.5,4.799999,13.8,5.4],"texture":"#Leaftxt"},"south":{"uv":[2.2,4.799999,2.5,5.4],"texture":"#Leaftxt"},"west":{"uv":[15.6,4.799999,16,5.4],"texture":"#Leaftxt"},"east":{"uv":[0,4.799999,0.3999996,5.4],"texture":"#Leaftxt"}}},{"from":[2.2,10.6,15.8],"to":[2.5,10.9,16.4],"faces":{"down":{"uv":[1.9,0,2.2,0.3999996],"texture":"#Leaftxt"},"up":{"uv":[1.9,15.6,2.2,16],"texture":"#Leaftxt"},"north":{"uv":[13.8,5.4,14.1,5.7],"texture":"#Leaftxt"},"south":{"uv":[1.9,5.4,2.2,5.7],"texture":"#Leaftxt"},"west":{"uv":[15.6,5.4,16,5.7],"texture":"#Leaftxt"},"east":{"uv":[0,5.4,0.3999996,5.7],"texture":"#Leaftxt"}}},{"from":[1.9,10.3,15.8],"to":[2.2,10.6,16.4],"faces":{"down":{"uv":[1.6,0,1.9,0.3999996],"texture":"#Leaftxt"},"up":{"uv":[1.6,15.6,1.9,16],"texture":"#Leaftxt"},"north":{"uv":[14.1,5.7,14.4,6],"texture":"#Leaftxt"},"south":{"uv":[1.6,5.7,1.9,6],"texture":"#Leaftxt"},"west":{"uv":[15.6,5.7,16,6],"texture":"#Leaftxt"},"east":{"uv":[0,5.7,0.3999996,6],"texture":"#Leaftxt"}}},{"from":[1.6,10,15.8],"to":[1.9,10.3,16.4],"faces":{"down":{"uv":[1.3,0,1.6,0.3999996],"texture":"#Leaftxt"},"up":{"uv":[1.3,15.6,1.6,16],"texture":"#Leaftxt"},"north":{"uv":[14.4,6,14.7,6.3],"texture":"#Leaftxt"},"south":{"uv":[1.3,6,1.6,6.3],"texture":"#Leaftxt"},"west":{"uv":[15.6,6,16,6.3],"texture":"#Leaftxt"},"east":{"uv":[0,6,0.3999996,6.3],"texture":"#Leaftxt"}}},{"from":[1,8.8,15.5],"to":[1.3,9.1,16.7],"faces":{"down":{"uv":[0.6999998,0,0.9999998,0.7000008],"texture":"#Leaftxt"},"up":{"uv":[0.6999998,15.3,0.9999998,16],"texture":"#Leaftxt"},"north":{"uv":[15,7.2,15.3,7.5],"texture":"#Leaftxt"},"south":{"uv":[0.6999998,7.2,0.9999998,7.5],"texture":"#Leaftxt"},"west":{"uv":[15.3,7.2,16,7.5],"texture":"#Leaftxt"},"east":{"uv":[0,7.2,0.7000008,7.5],"texture":"#Leaftxt"}}},{"from":[0.7,8.5,14.9],"to":[1,8.8,17.3],"faces":{"down":{"uv":[0.4000001,0,0.7000001,1.299999],"texture":"#Leaftxt"},"up":{"uv":[0.4000001,14.7,0.7000001,16],"texture":"#Leaftxt"},"north":{"uv":[15.3,7.5,15.6,7.8],"texture":"#Leaftxt"},"south":{"uv":[0.4000001,7.5,0.7000001,7.8],"texture":"#Leaftxt"},"west":{"uv":[14.7,7.5,16,7.8],"texture":"#Leaftxt"},"east":{"uv":[0,7.5,1.299999,7.8],"texture":"#Leaftxt"}}},{"from":[0.7,7.3,14.6],"to":[1,8.5,17.6],"faces":{"down":{"uv":[0.4000001,0,0.7000001,1.6],"texture":"#Leaftxt"},"up":{"uv":[0.4000001,14.4,0.7000001,16],"texture":"#Leaftxt"},"north":{"uv":[15.3,7.8,15.6,9],"texture":"#Leaftxt"},"south":{"uv":[0.4000001,7.8,0.7000001,9],"texture":"#Leaftxt"},"west":{"uv":[14.4,7.8,16,9],"texture":"#Leaftxt"},"east":{"uv":[0,7.8,1.6,9],"texture":"#Leaftxt"}}},{"from":[0.7,7,14.3],"to":[1,7.3,17.9],"faces":{"down":{"uv":[0.4000001,0,0.7000001,1.9],"texture":"#Leaftxt"},"up":{"uv":[0.4000001,14.1,0.7000001,16],"texture":"#Leaftxt"},"north":{"uv":[15.3,9,15.6,9.3],"texture":"#Leaftxt"},"south":{"uv":[0.4000001,9,0.7000001,9.3],"texture":"#Leaftxt"},"west":{"uv":[14.1,9,16,9.3],"texture":"#Leaftxt"},"east":{"uv":[0,9,1.9,9.3],"texture":"#Leaftxt"}}},{"from":[0.7,6.7,14.6],"to":[1,7,17.6],"faces":{"down":{"uv":[0.4000001,0,0.7000001,1.6],"texture":"#Leaftxt"},"up":{"uv":[0.4000001,14.4,0.7000001,16],"texture":"#Leaftxt"},"north":{"uv":[15.3,9.3,15.6,9.6],"texture":"#Leaftxt"},"south":{"uv":[0.4000001,9.3,0.7000001,9.6],"texture":"#Leaftxt"},"west":{"uv":[14.4,9.3,16,9.6],"texture":"#Leaftxt"},"east":{"uv":[0,9.3,1.6,9.6],"texture":"#Leaftxt"}}},{"from":[0.4,6.4,14.9],"to":[0.7,6.7,17.3],"faces":{"down":{"uv":[0.0999999,0,0.3999999,1.299999],"texture":"#Leaftxt"},"up":{"uv":[0.0999999,14.7,0.3999999,16],"texture":"#Leaftxt"},"north":{"uv":[15.6,9.599999,15.9,9.9],"texture":"#Leaftxt"},"south":{"uv":[0.0999999,9.599999,0.3999999,9.9],"texture":"#Leaftxt"},"west":{"uv":[14.7,9.599999,16,9.9],"texture":"#Leaftxt"},"east":{"uv":[0,9.599999,1.299999,9.9],"texture":"#Leaftxt"}}},{"from":[0.09999999,6.1,15.5],"to":[0.4,6.4,16.7],"faces":{"down":{"uv":[0,0,0.1000002,0.7000008],"texture":"#Leaftxt"},"up":{"uv":[0,15.3,0.1000002,16],"texture":"#Leaftxt"},"north":{"uv":[15.9,9.900001,16,10.2],"texture":"#Leaftxt"},"south":{"uv":[0,9.900001,0.1000002,10.2],"texture":"#Leaftxt"},"west":{"uv":[15.3,9.900001,16,10.2],"texture":"#Leaftxt"},"east":{"uv":[0,9.900001,0.7000008,10.2],"texture":"#Leaftxt"}}},{"from":[0.4,6.7,14.6],"to":[0.7,7,15.5],"faces":{"down":{"uv":[0.0999999,0.7000008,0.3999999,1.6],"texture":"#Leaftxt"},"up":{"uv":[0.0999999,14.4,0.3999999,15.3],"texture":"#Leaftxt"},"north":{"uv":[15.6,9.3,15.9,9.6],"texture":"#Leaftxt"},"south":{"uv":[0.0999999,9.3,0.3999999,9.6],"texture":"#Leaftxt"},"west":{"uv":[14.4,9.3,15.3,9.6],"texture":"#Leaftxt"},"east":{"uv":[0.7000003,9.3,1.6,9.6],"texture":"#Leaftxt"}}},{"from":[0.4,6.7,16.7],"to":[0.7,7,17.6],"faces":{"down":{"uv":[0.0999999,14.6,0.3999999,15.5],"texture":"#Leaftxt"},"up":{"uv":[0.0999999,0.5,0.3999999,1.4],"texture":"#Leaftxt"},"north":{"uv":[15.6,9.3,15.9,9.6],"texture":"#Leaftxt"},"south":{"uv":[0.0999999,9.3,0.3999999,9.6],"texture":"#Leaftxt"},"west":{"uv":[0.5,9.3,1.4,9.6],"texture":"#Leaftxt"},"east":{"uv":[14.6,9.3,15.5,9.6],"texture":"#Leaftxt"}}},{"from":[1,7,14.9],"to":[1.3,8.5,17.3],"faces":{"down":{"uv":[0.6999998,0,0.9999998,1.299999],"texture":"#Leaftxt"},"up":{"uv":[0.6999998,14.7,0.9999998,16],"texture":"#Leaftxt"},"north":{"uv":[15,7.8,15.3,9.3],"texture":"#Leaftxt"},"south":{"uv":[0.6999998,7.8,0.9999998,9.3],"texture":"#Leaftxt"},"west":{"uv":[14.7,7.8,16,9.3],"texture":"#Leaftxt"},"east":{"uv":[0,7.8,1.299999,9.3],"texture":"#Leaftxt"}}},{"from":[1,8.5,15.2],"to":[1.3,8.8,17],"faces":{"down":{"uv":[0.6999998,0,0.9999998,1],"texture":"#Leaftxt"},"up":{"uv":[0.6999998,15,0.9999998,16],"texture":"#Leaftxt"},"north":{"uv":[15,7.5,15.3,7.8],"texture":"#Leaftxt"},"south":{"uv":[0.6999998,7.5,0.9999998,7.8],"texture":"#Leaftxt"},"west":{"uv":[15,7.5,16,7.8],"texture":"#Leaftxt"},"east":{"uv":[0,7.5,1,7.8],"texture":"#Leaftxt"}}},{"from":[0.7,6.4,15.2],"to":[1,6.7,17],"faces":{"down":{"uv":[0.4000001,0,0.7000001,1],"texture":"#Leaftxt"},"up":{"uv":[0.4000001,15,0.7000001,16],"texture":"#Leaftxt"},"north":{"uv":[15.3,9.599999,15.6,9.9],"texture":"#Leaftxt"},"south":{"uv":[0.4000001,9.599999,0.7000001,9.9],"texture":"#Leaftxt"},"west":{"uv":[15,9.599999,16,9.9],"texture":"#Leaftxt"},"east":{"uv":[0,9.599999,1,9.9],"texture":"#Leaftxt"}}},{"from":[0.4,6.1,15.8],"to":[0.7,6.4,16.4],"faces":{"down":{"uv":[0.0999999,0,0.3999999,0.3999996],"texture":"#Leaftxt"},"up":{"uv":[0.0999999,15.6,0.3999999,16],"texture":"#Leaftxt"},"north":{"uv":[15.6,9.900001,15.9,10.2],"texture":"#Leaftxt"},"south":{"uv":[0.0999999,9.900001,0.3999999,10.2],"texture":"#Leaftxt"},"west":{"uv":[15.6,9.900001,16,10.2],"texture":"#Leaftxt"},"east":{"uv":[0,9.900001,0.3999996,10.2],"texture":"#Leaftxt"}}},{"from":[1,6.7,15.5],"to":[1.3,7,16.7],"faces":{"down":{"uv":[0.6999998,0,0.9999998,0.7000008],"texture":"#Leaftxt"},"up":{"uv":[0.6999998,15.3,0.9999998,16],"texture":"#Leaftxt"},"north":{"uv":[15,9.3,15.3,9.6],"texture":"#Leaftxt"},"south":{"uv":[0.6999998,9.3,0.9999998,9.6],"texture":"#Leaftxt"},"west":{"uv":[15.3,9.3,16,9.6],"texture":"#Leaftxt"},"east":{"uv":[0,9.3,0.7000008,9.6],"texture":"#Leaftxt"}}},{"from":[1.3,9.7,15.2],"to":[1.6,10.3,15.8],"faces":{"down":{"uv":[0,3.5,0.5,4.5],"texture":"#Leaftxt","rotation":180},"up":{"uv":[0,11.5,0.5,12.5],"texture":"#Leaftxt","rotation":180},"north":{"uv":[0,4.5,0.5,5.5],"texture":"#Leaftxt"},"south":{"uv":[15.5,4.5,16,5.5],"texture":"#Leaftxt"},"west":{"uv":[3.5,4.5,4.5,5.5],"texture":"#Leaftxt"},"east":{"uv":[11.5,4.5,12.5,5.5],"texture":"#Leaftxt"}}},{"from":[1.3,10,14.3],"to":[1.6,10.3,15.2],"faces":{"down":{"uv":[0,1,0.5,2],"texture":"#Leaftxt","rotation":180},"up":{"uv":[0,14,0.5,15],"texture":"#Leaftxt","rotation":180},"north":{"uv":[0,4.5,0.5,5],"texture":"#Leaftxt"},"south":{"uv":[15.5,4.5,16,5],"texture":"#Leaftxt"},"west":{"uv":[1,4.5,2,5],"texture":"#Leaftxt"},"east":{"uv":[14,4.5,15,5],"texture":"#Leaftxt"}}},{"from":[1.3,10.3,13.7],"to":[1.6,10.6,14.9],"faces":{"down":{"uv":[0,0.5,0.5,1.5],"texture":"#Leaftxt","rotation":180},"up":{"uv":[0,14.5,0.5,15.5],"texture":"#Leaftxt","rotation":180},"north":{"uv":[0,4,0.5,4.5],"texture":"#Leaftxt"},"south":{"uv":[15.5,4,16,4.5],"texture":"#Leaftxt"},"west":{"uv":[0.5,4,1.5,4.5],"texture":"#Leaftxt"},"east":{"uv":[14.5,4,15.5,4.5],"texture":"#Leaftxt"}}},{"from":[1,10.6,13.7],"to":[1.6,10.9,14.6],"faces":{"down":{"uv":[15,0,15.5,1],"texture":"#Leaftxt","rotation":180},"up":{"uv":[15,15,15.5,16],"texture":"#Leaftxt","rotation":180},"north":{"uv":[15,3.5,15.5,4],"texture":"#Leaftxt"},"south":{"uv":[0.5,3.5,1,4],"texture":"#Leaftxt"},"west":{"uv":[0,3.5,1,4],"texture":"#Leaftxt"},"east":{"uv":[15,3.5,16,4],"texture":"#Leaftxt"}}},{"from":[1,10.9,13.1],"to":[1.3,11.2,14],"faces":{"down":{"uv":[15,14.5,15.5,16],"texture":"#Leaftxt","rotation":180},"up":{"uv":[15,0,15.5,1.5],"texture":"#Leaftxt","rotation":180},"north":{"uv":[15,3,15.5,3.5],"texture":"#Leaftxt"},"south":{"uv":[0.5,3,1,3.5],"texture":"#Leaftxt"},"west":{"uv":[14.5,3,16,3.5],"texture":"#Leaftxt"},"east":{"uv":[0,3,1.5,3.5],"texture":"#Leaftxt"}}},{"from":[1,11.2,12.8],"to":[1.3,11.5,13.4],"faces":{"down":{"uv":[15,14,15.5,15],"texture":"#Leaftxt","rotation":180},"up":{"uv":[15,1,15.5,2],"texture":"#Leaftxt","rotation":180},"north":{"uv":[15,2.5,15.5,3],"texture":"#Leaftxt"},"south":{"uv":[0.5,2.5,1,3],"texture":"#Leaftxt"},"west":{"uv":[14,2.5,15,3],"texture":"#Leaftxt"},"east":{"uv":[1,2.5,2,3],"texture":"#Leaftxt"}}},{"from":[0.7,11.5,12.8],"to":[1.3,11.8,13.1],"faces":{"down":{"uv":[15,14,15.5,14.5],"texture":"#Leaftxt","rotation":180},"up":{"uv":[15,1.5,15.5,2],"texture":"#Leaftxt","rotation":180},"north":{"uv":[15,2,15.5,2.5],"texture":"#Leaftxt"},"south":{"uv":[0.5,2,1,2.5],"texture":"#Leaftxt"},"west":{"uv":[14,2,14.5,2.5],"texture":"#Leaftxt"},"east":{"uv":[1.5,2,2,2.5],"texture":"#Leaftxt"}}},{"from":[0.7,11.8,12.5],"to":[1,12.4,12.8],"faces":{"down":{"uv":[15,13.5,15.5,14],"texture":"#Leaftxt","rotation":180},"up":{"uv":[15,2,15.5,2.5],"texture":"#Leaftxt","rotation":180},"north":{"uv":[15,1,15.5,2],"texture":"#Leaftxt"},"south":{"uv":[0.5,1,1,2],"texture":"#Leaftxt"},"west":{"uv":[13.5,1,14,2],"texture":"#Leaftxt"},"east":{"uv":[2,1,2.5,2],"texture":"#Leaftxt"}}},{"from":[0.4,12.1,12.2],"to":[1,12.4,12.5],"faces":{"down":{"uv":[15,13,15.5,13.5],"texture":"#Leaftxt","rotation":180},"up":{"uv":[15,2.5,15.5,3],"texture":"#Leaftxt","rotation":180},"north":{"uv":[15,1,15.5,1.5],"texture":"#Leaftxt"},"south":{"uv":[0.5,1,1,1.5],"texture":"#Leaftxt"},"west":{"uv":[13,1,13.5,1.5],"texture":"#Leaftxt"},"east":{"uv":[2.5,1,3,1.5],"texture":"#Leaftxt"}}},{"from":[1.3,9.7,16.4],"to":[1.6,10.3,17],"faces":{"down":{"uv":[1,15.2,1.3,15.8],"texture":"#Leaftxt"},"up":{"uv":[1,0.2000008,1.3,0.8000011],"texture":"#Leaftxt"},"north":{"uv":[14.7,6,15,6.6],"texture":"#Leaftxt"},"south":{"uv":[1,6,1.3,6.6],"texture":"#Leaftxt"},"west":{"uv":[0.2000008,6,0.8000011,6.6],"texture":"#Leaftxt"},"east":{"uv":[15.2,6,15.8,6.6],"texture":"#Leaftxt"}}},{"from":[1.3,10,17],"to":[1.6,10.3,17.6],"faces":{"down":{"uv":[1,14.6,1.3,15.2],"texture":"#Leaftxt"},"up":{"uv":[1,0.7999992,1.3,1.4],"texture":"#Leaftxt"},"north":{"uv":[14.7,6,15,6.3],"texture":"#Leaftxt"},"south":{"uv":[1,6,1.3,6.3],"texture":"#Leaftxt"},"west":{"uv":[0.7999992,6,1.4,6.3],"texture":"#Leaftxt"},"east":{"uv":[14.6,6,15.2,6.3],"texture":"#Leaftxt"}}},{"from":[1.3,10.3,17.3],"to":[1.6,10.6,17.9],"faces":{"down":{"uv":[1,14.3,1.3,14.9],"texture":"#Leaftxt"},"up":{"uv":[1,1.1,1.3,1.700001],"texture":"#Leaftxt"},"north":{"uv":[14.7,5.7,15,6],"texture":"#Leaftxt"},"south":{"uv":[1,5.7,1.3,6],"texture":"#Leaftxt"},"west":{"uv":[1.1,5.7,1.700001,6],"texture":"#Leaftxt"},"east":{"uv":[14.3,5.7,14.9,6],"texture":"#Leaftxt"}}},{"from":[1.3,10.6,17.6],"to":[1.6,10.9,18.5],"faces":{"down":{"uv":[1,13.7,1.3,14.6],"texture":"#Leaftxt"},"up":{"uv":[1,1.4,1.3,2.299999],"texture":"#Leaftxt"},"north":{"uv":[14.7,5.4,15,5.7],"texture":"#Leaftxt"},"south":{"uv":[1,5.4,1.3,5.7],"texture":"#Leaftxt"},"west":{"uv":[1.4,5.4,2.299999,5.7],"texture":"#Leaftxt"},"east":{"uv":[13.7,5.4,14.6,5.7],"texture":"#Leaftxt"}}},{"from":[1,10.9,18.2],"to":[1.3,11.2,19.1],"faces":{"down":{"uv":[0.6999998,13.1,0.9999998,14],"texture":"#Leaftxt"},"up":{"uv":[0.6999998,2,0.9999998,2.9],"texture":"#Leaftxt"},"north":{"uv":[15,5.099999,15.3,5.4],"texture":"#Leaftxt"},"south":{"uv":[0.6999998,5.099999,0.9999998,5.4],"texture":"#Leaftxt"},"west":{"uv":[2,5.099999,2.9,5.4],"texture":"#Leaftxt"},"east":{"uv":[13.1,5.099999,14,5.4],"texture":"#Leaftxt"}}},{"from":[1,11.2,18.8],"to":[1.3,11.5,19.4],"faces":{"down":{"uv":[0.6999998,12.8,0.9999998,13.4],"texture":"#Leaftxt"},"up":{"uv":[0.6999998,2.6,0.9999998,3.200001],"texture":"#Leaftxt"},"north":{"uv":[15,4.8,15.3,5.1],"texture":"#Leaftxt"},"south":{"uv":[0.6999998,4.8,0.9999998,5.1],"texture":"#Leaftxt"},"west":{"uv":[2.6,4.8,3.200001,5.1],"texture":"#Leaftxt"},"east":{"uv":[12.8,4.8,13.4,5.1],"texture":"#Leaftxt"}}},{"from":[0.7,11.5,19.1],"to":[1.3,11.8,19.4],"faces":{"down":{"uv":[0.4000001,12.8,1,13.1],"texture":"#Leaftxt"},"up":{"uv":[0.4000001,2.9,1,3.2],"texture":"#Leaftxt"},"north":{"uv":[15,4.5,15.6,4.8],"texture":"#Leaftxt"},"south":{"uv":[0.4000001,4.5,1,4.8],"texture":"#Leaftxt"},"west":{"uv":[2.9,4.5,3.199999,4.8],"texture":"#Leaftxt"},"east":{"uv":[12.8,4.5,13.1,4.8],"texture":"#Leaftxt"}}},{"from":[0.7,11.8,19.4],"to":[1,12.4,19.7],"faces":{"down":{"uv":[0.4000001,12.5,0.7000001,12.8],"texture":"#Leaftxt"},"up":{"uv":[0.4000001,3.200001,0.7000001,3.500001],"texture":"#Leaftxt"},"north":{"uv":[15.3,3.9,15.6,4.5],"texture":"#Leaftxt"},"south":{"uv":[0.4000001,3.9,0.7000001,4.5],"texture":"#Leaftxt"},"west":{"uv":[3.200001,3.9,3.5,4.5],"texture":"#Leaftxt"},"east":{"uv":[12.5,3.9,12.8,4.5],"texture":"#Leaftxt"}}},{"from":[0.4,12.1,19.7],"to":[1,12.4,20],"faces":{"down":{"uv":[0.0999999,12.2,0.6999999,12.5],"texture":"#Leaftxt"},"up":{"uv":[0.0999999,3.5,0.6999999,3.8],"texture":"#Leaftxt"},"north":{"uv":[15.3,3.9,15.9,4.2],"texture":"#Leaftxt"},"south":{"uv":[0.0999999,3.9,0.6999999,4.2],"texture":"#Leaftxt"},"west":{"uv":[3.5,3.9,3.799999,4.2],"texture":"#Leaftxt"},"east":{"uv":[12.2,3.9,12.5,4.2],"texture":"#Leaftxt"}}},{"from":[1.3,9.099999,14.9],"to":[1.6,9.4,15.8],"faces":{"down":{"uv":[0,4,0.5,5.5],"texture":"#Leaftxt","rotation":180},"up":{"uv":[0,10.5,0.5,12],"texture":"#Leaftxt","rotation":180},"north":{"uv":[0,6,0.5,6.5],"texture":"#Leaftxt"},"south":{"uv":[15.5,6,16,6.5],"texture":"#Leaftxt"},"west":{"uv":[4,6,5.5,6.5],"texture":"#Leaftxt"},"east":{"uv":[10.5,6,12,6.5],"texture":"#Leaftxt"}}},{"from":[1,8.8,14.3],"to":[1.3,9.1,15.2],"faces":{"down":{"uv":[15.5,0.5,16,2],"texture":"#Leaftxt","rotation":180},"up":{"uv":[15.5,14,16,15.5],"texture":"#Leaftxt","rotation":180},"north":{"uv":[15.5,6.5,16,7],"texture":"#Leaftxt"},"south":{"uv":[0,6.5,0.5,7],"texture":"#Leaftxt"},"west":{"uv":[0.5,6.5,2,7],"texture":"#Leaftxt"},"east":{"uv":[14,6.5,15.5,7],"texture":"#Leaftxt"}}},{"from":[0.7,8.5,13.4],"to":[1,8.8,14.6],"faces":{"down":{"uv":[15,0,15.5,1],"texture":"#Leaftxt","rotation":180},"up":{"uv":[15,15,15.5,16],"texture":"#Leaftxt","rotation":180},"north":{"uv":[15,7,15.5,7.5],"texture":"#Leaftxt"},"south":{"uv":[0.5,7,1,7.5],"texture":"#Leaftxt"},"west":{"uv":[0,7,1,7.5],"texture":"#Leaftxt"},"east":{"uv":[15,7,16,7.5],"texture":"#Leaftxt"}}},{"from":[0.4,8.2,13.1],"to":[1,8.5,14.3],"faces":{"down":{"uv":[14.5,0,15.5,0.5],"texture":"#Leaftxt","rotation":180},"up":{"uv":[14.5,15.5,15.5,16],"texture":"#Leaftxt","rotation":180},"north":{"uv":[14.5,7.5,15.5,8],"texture":"#Leaftxt"},"south":{"uv":[0.5,7.5,1.5,8],"texture":"#Leaftxt"},"west":{"uv":[0,7.5,0.5,8],"texture":"#Leaftxt"},"east":{"uv":[15.5,7.5,16,8],"texture":"#Leaftxt"}}},{"from":[0.4,7.9,12.8],"to":[0.7,8.2,14],"faces":{"down":{"uv":[14.5,14,15,16],"texture":"#Leaftxt","rotation":180},"up":{"uv":[14.5,0,15,2],"texture":"#Leaftxt","rotation":180},"north":{"uv":[14.5,8,15,8.5],"texture":"#Leaftxt"},"south":{"uv":[1,8,1.5,8.5],"texture":"#Leaftxt"},"west":{"uv":[14,8,16,8.5],"texture":"#Leaftxt"},"east":{"uv":[0,8,2,8.5],"texture":"#Leaftxt"}}},{"from":[0.09999999,7.6,12.2],"to":[0.7,7.9,13.4],"faces":{"down":{"uv":[14,13,15,15],"texture":"#Leaftxt","rotation":180},"up":{"uv":[14,1,15,3],"texture":"#Leaftxt","rotation":180},"north":{"uv":[14,8.5,15,9],"texture":"#Leaftxt"},"south":{"uv":[1,8.5,2,9],"texture":"#Leaftxt"},"west":{"uv":[13,8.5,15,9],"texture":"#Leaftxt"},"east":{"uv":[1,8.5,3,9],"texture":"#Leaftxt"}}},{"from":[-0.2,7.9,11.9],"to":[0.4,8.2,12.5],"faces":{"down":{"uv":[13.5,12.5,14.5,13.5],"texture":"#Leaftxt","rotation":180},"up":{"uv":[13.5,2.5,14.5,3.5],"texture":"#Leaftxt","rotation":180},"north":{"uv":[13.5,8,14.5,8.5],"texture":"#Leaftxt"},"south":{"uv":[1.5,8,2.5,8.5],"texture":"#Leaftxt"},"west":{"uv":[12.5,8,13.5,8.5],"texture":"#Leaftxt"},"east":{"uv":[2.5,8,3.5,8.5],"texture":"#Leaftxt"}}},{"from":[1.3,9.099999,16.4],"to":[1.6,9.4,17.3],"faces":{"down":{"uv":[1,14.9,1.3,15.8],"texture":"#Leaftxt"},"up":{"uv":[1,0.2000008,1.3,1.1],"texture":"#Leaftxt"},"north":{"uv":[14.7,6.900001,15,7.200001],"texture":"#Leaftxt"},"south":{"uv":[1,6.900001,1.3,7.200001],"texture":"#Leaftxt"},"west":{"uv":[0.2000008,6.900001,1.1,7.200001],"texture":"#Leaftxt"},"east":{"uv":[14.9,6.900001,15.8,7.200001],"texture":"#Leaftxt"}}},{"from":[1,8.8,17],"to":[1.3,9.1,17.9],"faces":{"down":{"uv":[0.6999998,14.3,0.9999998,15.2],"texture":"#Leaftxt"},"up":{"uv":[0.6999998,0.7999992,0.9999998,1.699999],"texture":"#Leaftxt"},"north":{"uv":[15,7.2,15.3,7.5],"texture":"#Leaftxt"},"south":{"uv":[0.6999998,7.2,0.9999998,7.5],"texture":"#Leaftxt"},"west":{"uv":[0.7999992,7.2,1.699999,7.5],"texture":"#Leaftxt"},"east":{"uv":[14.3,7.2,15.2,7.5],"texture":"#Leaftxt"}}},{"from":[0.7,8.5,17.6],"to":[1,8.8,18.8],"faces":{"down":{"uv":[0.4000001,13.4,0.7000001,14.6],"texture":"#Leaftxt"},"up":{"uv":[0.4000001,1.4,0.7000001,2.599999],"texture":"#Leaftxt"},"north":{"uv":[15.3,7.5,15.6,7.8],"texture":"#Leaftxt"},"south":{"uv":[0.4000001,7.5,0.7000001,7.8],"texture":"#Leaftxt"},"west":{"uv":[1.4,7.5,2.6,7.8],"texture":"#Leaftxt"},"east":{"uv":[13.4,7.5,14.6,7.8],"texture":"#Leaftxt"}}},{"from":[0.4,8.2,17.9],"to":[1,8.5,19.1],"faces":{"down":{"uv":[0.0999999,13.1,0.6999999,14.3],"texture":"#Leaftxt"},"up":{"uv":[0.0999999,1.700001,0.6999999,2.900001],"texture":"#Leaftxt"},"north":{"uv":[15.3,7.8,15.9,8.1],"texture":"#Leaftxt"},"south":{"uv":[0.0999999,7.8,0.6999999,8.1],"texture":"#Leaftxt"},"west":{"uv":[1.700001,7.8,2.900002,8.1],"texture":"#Leaftxt"},"east":{"uv":[13.1,7.8,14.3,8.1],"texture":"#Leaftxt"}}},{"from":[0.4,7.9,18.2],"to":[0.7,8.2,19.4],"faces":{"down":{"uv":[0.0999999,12.8,0.3999999,14],"texture":"#Leaftxt"},"up":{"uv":[0.0999999,2,0.3999999,3.2],"texture":"#Leaftxt"},"north":{"uv":[15.6,8.099999,15.9,8.4],"texture":"#Leaftxt"},"south":{"uv":[0.0999999,8.099999,0.3999999,8.4],"texture":"#Leaftxt"},"west":{"uv":[2,8.099999,3.200001,8.4],"texture":"#Leaftxt"},"east":{"uv":[12.8,8.099999,14,8.4],"texture":"#Leaftxt"}}},{"from":[0.09999999,7.6,18.8],"to":[0.7,7.9,20],"faces":{"down":{"uv":[0,12.2,0.4000002,13.4],"texture":"#Leaftxt"},"up":{"uv":[0,2.6,0.4000002,3.8],"texture":"#Leaftxt"},"north":{"uv":[15.6,8.400001,16,8.700001],"texture":"#Leaftxt"},"south":{"uv":[0,8.400001,0.4000002,8.700001],"texture":"#Leaftxt"},"west":{"uv":[2.6,8.400001,3.800001,8.700001],"texture":"#Leaftxt"},"east":{"uv":[12.2,8.400001,13.4,8.700001],"texture":"#Leaftxt"}}},{"from":[-0.2,7.9,19.7],"to":[0.4,8.2,20.3],"faces":{"down":{"uv":[0,11.9,0.1,12.5],"texture":"#Leaftxt"},"up":{"uv":[0,3.5,0.1,4.1],"texture":"#Leaftxt"},"north":{"uv":[15.9,8.099999,16,8.4],"texture":"#Leaftxt"},"south":{"uv":[0,8.099999,0.1,8.4],"texture":"#Leaftxt"},"west":{"uv":[3.5,8.099999,4.1,8.4],"texture":"#Leaftxt"},"east":{"uv":[11.9,8.099999,12.5,8.4],"texture":"#Leaftxt"}}},{"from":[0.7,9.099999,15.8],"to":[1.3,9.4,16.4],"faces":{"down":{"uv":[0.4000001,0,1,0.3999996],"texture":"#Leaftxt"},"up":{"uv":[0.4000001,15.6,1,16],"texture":"#Leaftxt"},"north":{"uv":[15,6.900001,15.6,7.200001],"texture":"#Leaftxt"},"south":{"uv":[0.4000001,6.900001,1,7.200001],"texture":"#Leaftxt"},"west":{"uv":[15.6,6.900001,16,7.200001],"texture":"#Leaftxt"},"east":{"uv":[0,6.900001,0.3999996,7.200001],"texture":"#Leaftxt"}}},{"from":[-0.5,8.8,15.5],"to":[0.7,9.1,16.7],"faces":{"down":{"uv":[0,0,0.3999999,0.7000008],"texture":"#Leaftxt"},"up":{"uv":[0,15.3,0.3999999,16],"texture":"#Leaftxt"},"north":{"uv":[15.6,7.2,16,7.5],"texture":"#Leaftxt"},"south":{"uv":[0,7.2,0.3999999,7.5],"texture":"#Leaftxt"},"west":{"uv":[15.3,7.2,16,7.5],"texture":"#Leaftxt"},"east":{"uv":[0,7.2,0.7000008,7.5],"texture":"#Leaftxt"}}},{"from":[-1.1,8.5,15.5],"to":[-0.5,8.8,16.7],"faces":{"down":{"uv":[14.6,0,15.2,0.7000008],"texture":"#Red"},"up":{"uv":[14.6,15.3,15.2,16],"texture":"#Red"},"north":{"uv":[0.7999992,7.5,1.4,7.8],"texture":"#Red"},"south":{"uv":[14.6,7.5,15.2,7.8],"texture":"#Red"},"west":{"uv":[15.3,7.5,16,7.8],"texture":"#Red"},"east":{"uv":[0,7.5,0.7000008,7.8],"texture":"#Red"}}},{"from":[0.4,9.099999,15.5],"to":[1.3,9.7,15.8],"faces":{"down":{"uv":[0.0999999,0.4000006,0.9999999,0.7000008],"texture":"#Leaftxt"},"up":{"uv":[0.0999999,15.3,0.9999999,15.6],"texture":"#Leaftxt"},"north":{"uv":[15,6.6,15.9,7.200001],"texture":"#Leaftxt"},"south":{"uv":[0.0999999,6.6,0.9999999,7.200001],"texture":"#Leaftxt"},"west":{"uv":[15.3,6.6,15.6,7.200001],"texture":"#Leaftxt"},"east":{"uv":[0.4000008,6.6,0.7000008,7.200001],"texture":"#Leaftxt"}}},{"from":[-0.5,8.8,15.2],"to":[0.7,9.400001,15.5],"faces":{"down":{"uv":[0,0.6999998,0.3999999,1],"texture":"#Leaftxt"},"up":{"uv":[0,15,0.3999999,15.3],"texture":"#Leaftxt"},"north":{"uv":[15.6,6.9,16,7.5],"texture":"#Leaftxt"},"south":{"uv":[0,6.9,0.3999999,7.5],"texture":"#Leaftxt"},"west":{"uv":[15,6.9,15.3,7.5],"texture":"#Leaftxt"},"east":{"uv":[0.7,6.9,1,7.5],"texture":"#Leaftxt"}}},{"from":[-1.1,8.5,15.2],"to":[-0.5,9.1,15.5],"faces":{"down":{"uv":[14.6,0.6999998,15.2,1],"texture":"#Red"},"up":{"uv":[14.6,15,15.2,15.3],"texture":"#Red"},"north":{"uv":[0.7999992,7.2,1.4,7.8],"texture":"#Red"},"south":{"uv":[14.6,7.2,15.2,7.8],"texture":"#Red"},"west":{"uv":[15,7.2,15.3,7.8],"texture":"#Red"},"east":{"uv":[0.7,7.2,1,7.8],"texture":"#Red"}}},{"from":[0.7,8.8,15.2],"to":[1,9.1,17],"faces":{"down":{"uv":[0.4000001,0,0.7000001,1],"texture":"#Leaftxt"},"up":{"uv":[0.4000001,15,0.7000001,16],"texture":"#Leaftxt"},"north":{"uv":[15.3,7.2,15.6,7.5],"texture":"#Leaftxt"},"south":{"uv":[0.4000001,7.2,0.7000001,7.5],"texture":"#Leaftxt"},"west":{"uv":[15,7.2,16,7.5],"texture":"#Leaftxt"},"east":{"uv":[0,7.2,1,7.5],"texture":"#Leaftxt"}}},{"from":[-1.1,8.5,16.7],"to":[-0.5,9.1,17],"faces":{"down":{"uv":[14.6,15.2,15.2,15.5],"texture":"#Red"},"up":{"uv":[14.6,0.5,15.2,0.8000002],"texture":"#Red"},"north":{"uv":[0.7999992,7.2,1.4,7.8],"texture":"#Red"},"south":{"uv":[14.6,7.2,15.2,7.8],"texture":"#Red"},"west":{"uv":[0.5,7.2,0.7999992,7.8],"texture":"#Red"},"east":{"uv":[15.2,7.2,15.5,7.8],"texture":"#Red"}}},{"from":[-0.5,8.8,16.7],"to":[0.7,9.400001,17],"faces":{"down":{"uv":[0,15.2,0.3999999,15.5],"texture":"#Leaftxt"},"up":{"uv":[0,0.5,0.3999999,0.8000002],"texture":"#Leaftxt"},"north":{"uv":[15.6,6.9,16,7.5],"texture":"#Leaftxt"},"south":{"uv":[0,6.9,0.3999999,7.5],"texture":"#Leaftxt"},"west":{"uv":[0.5,6.9,0.7999992,7.5],"texture":"#Leaftxt"},"east":{"uv":[15.2,6.9,15.5,7.5],"texture":"#Leaftxt"}}},{"from":[0.4,9.099999,16.4],"to":[1.3,9.7,16.7],"faces":{"down":{"uv":[0.0999999,15.5,0.9999999,15.8],"texture":"#Leaftxt"},"up":{"uv":[0.0999999,0.2000008,0.9999999,0.500001],"texture":"#Leaftxt"},"north":{"uv":[15,6.6,15.9,7.200001],"texture":"#Leaftxt"},"south":{"uv":[0.0999999,6.6,0.9999999,7.200001],"texture":"#Leaftxt"},"west":{"uv":[0.2000008,6.6,0.5,7.200001],"texture":"#Leaftxt"},"east":{"uv":[15.5,6.6,15.8,7.200001],"texture":"#Leaftxt"}}},{"from":[-0.5,8.5,15.5],"to":[0.1,8.8,16.7],"faces":{"down":{"uv":[0,0,0.1,0.5],"texture":"#Red"},"up":{"uv":[0,15.5,0.1,16],"texture":"#Red"},"north":{"uv":[15.9,7.2,16,7.5],"texture":"#Red"},"south":{"uv":[0,7.2,0.1,7.5],"texture":"#Red"},"west":{"uv":[15.5,7.2,16,7.5],"texture":"#Red"},"east":{"uv":[0,7.2,0.5,7.5],"texture":"#Red"}}},{"from":[1.5,9,15.5],"to":[3,9.5,16.5],"faces":{"down":{"uv":[1.5,0,3,0.5],"texture":"#Vines"},"up":{"uv":[1.5,15.5,3,16],"texture":"#Vines"},"north":{"uv":[13,6.5,14.5,7],"texture":"#Vines"},"south":{"uv":[1.5,6.5,3,7],"texture":"#Vines"},"west":{"uv":[15.5,6.5,16,7],"texture":"#Vines"},"east":{"uv":[0,6.5,0.5,7],"texture":"#Vines"}}},{"from":[2,8.5,15.5],"to":[3.5,9,16.5],"faces":{"down":{"uv":[2,0,3.5,0.5],"texture":"#Vines"},"up":{"uv":[2,15.5,3.5,16],"texture":"#Vines"},"north":{"uv":[12.5,7,14,7.5],"texture":"#Vines"},"south":{"uv":[2,7,3.5,7.5],"texture":"#Vines"},"west":{"uv":[15.5,7,16,7.5],"texture":"#Vines"},"east":{"uv":[0,7,0.5,7.5],"texture":"#Vines"}}},{"from":[3,4.5,15.5],"to":[3.5,8,16.5],"faces":{"down":{"uv":[3,0,3.5,0.5],"texture":"#Vines"},"up":{"uv":[3,15.5,3.5,16],"texture":"#Vines"},"north":{"uv":[12.5,8,13,11.5],"texture":"#Vines"},"south":{"uv":[3,8,3.5,11.5],"texture":"#Vines"},"west":{"uv":[15.5,8,16,11.5],"texture":"#Vines"},"east":{"uv":[0,8,0.5,11.5],"texture":"#Vines"}}},{"from":[2.5,8,15.5],"to":[3.5,8.5,16.5],"faces":{"down":{"uv":[2.5,9,3.5,10],"texture":"#Vines"},"up":{"uv":[2.5,6,3.5,7],"texture":"#Vines"},"north":{"uv":[12.5,7.5,13.5,8],"texture":"#Vines"},"south":{"uv":[2.5,7.5,3.5,8],"texture":"#Vines"},"west":{"uv":[6,7.5,7,8],"texture":"#Vines"},"east":{"uv":[9,7.5,10,8],"texture":"#Vines"}}},{"from":[3.5,4,15.5],"to":[4,5.5,16.5],"faces":{"down":{"uv":[3.5,0,4,0.5],"texture":"#Vines"},"up":{"uv":[3.5,15.5,4,16],"texture":"#Vines"},"north":{"uv":[12,10.5,12.5,12],"texture":"#Vines"},"south":{"uv":[3.5,10.5,4,12],"texture":"#Vines"},"west":{"uv":[15.5,10.5,16,12],"texture":"#Vines"},"east":{"uv":[0,10.5,0.5,12],"texture":"#Vines"}}},{"from":[4,3.5,15.5],"to":[4.5,4.5,16.5],"faces":{"down":{"uv":[4,0,4.5,0.5],"texture":"#Vines"},"up":{"uv":[4,15.5,4.5,16],"texture":"#Vines"},"north":{"uv":[11.5,11.5,12,12.5],"texture":"#Vines"},"south":{"uv":[4,11.5,4.5,12.5],"texture":"#Vines"},"west":{"uv":[15.5,11.5,16,12.5],"texture":"#Vines"},"east":{"uv":[0,11.5,0.5,12.5],"texture":"#Vines"}}},{"from":[4.5,3.5,15.5],"to":[5.5,4,16.5],"faces":{"down":{"uv":[4.5,0,5.5,0.5],"texture":"#Vines"},"up":{"uv":[4.5,15.5,5.5,16],"texture":"#Vines"},"north":{"uv":[10.5,12,11.5,12.5],"texture":"#Vines"},"south":{"uv":[4.5,12,5.5,12.5],"texture":"#Vines"},"west":{"uv":[15.5,12,16,12.5],"texture":"#Vines"},"east":{"uv":[0,12,0.5,12.5],"texture":"#Vines"}}},{"from":[3.5,6.5,15.5],"to":[4,8.5,16.5],"faces":{"down":{"uv":[3.5,0,4,0.5],"texture":"#Vines"},"up":{"uv":[3.5,15.5,4,16],"texture":"#Vines"},"north":{"uv":[12,7.5,12.5,9.5],"texture":"#Vines"},"south":{"uv":[3.5,7.5,4,9.5],"texture":"#Vines"},"west":{"uv":[15.5,7.5,16,9.5],"texture":"#Vines"},"east":{"uv":[0,7.5,0.5,9.5],"texture":"#Vines"}}},{"from":[1.5,9.5,15.5],"to":[2.5,10,16.5],"faces":{"down":{"uv":[1.5,0,2.5,0.5],"texture":"#Vines"},"up":{"uv":[1.5,15.5,2.5,16],"texture":"#Vines"},"north":{"uv":[13.5,6,14.5,6.5],"texture":"#Vines"},"south":{"uv":[1.5,6,2.5,6.5],"texture":"#Vines"},"west":{"uv":[15.5,6,16,6.5],"texture":"#Vines"},"east":{"uv":[0,6,0.5,6.5],"texture":"#Vines"}}}],"display":{"gui":{"rotation":[0,90,0],"translation":[0,-2.086,0],"scale":[0.4,0.4,0.37]},"head":{"rotation":[0,-90,0],"translation":[24.347,6.9608,7.67],"scale":[3,3,3]},"ground":{"translation":[0,4.1739,0]},"fixed":{"rotation":[0,-90,0],"scale":[0.4782,0.513,0.4521]}}}
+{
+  "__comment": "Designed_by_Ghasper_with_Cubik_Studio_-_https://cubik.studio",
+  "textures": {
+    "particle": "block/e_particle",
+    "texture": "block/e_texture",
+    "Leaftxt": "custom/wool_colored_green",
+    "Vines": "custom/hardened_clay_stained_lime",
+    "Red": "custom/wool_colored_red",
+    "Cyan": "custom/wool_colored_cyan",
+    "Yellow": "custom/wool_colored_yellow"
+  },
+  "elements": [
+    {
+      "__comment": "White_Flower",
+      "from": [
+        1.3,
+        13.3,
+        15.2
+      ],
+      "to": [
+        1.9,
+        13.6,
+        15.8
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            1,
+            0.3999996,
+            1.6,
+            1
+          ],
+          "texture": "#Leaftxt"
+        },
+        "up": {
+          "uv": [
+            1,
+            15,
+            1.6,
+            15.6
+          ],
+          "texture": "#Leaftxt"
+        },
+        "north": {
+          "uv": [
+            14.4,
+            2.7,
+            15,
+            3
+          ],
+          "texture": "#Leaftxt"
+        },
+        "south": {
+          "uv": [
+            1,
+            2.7,
+            1.6,
+            3
+          ],
+          "texture": "#Leaftxt"
+        },
+        "west": {
+          "uv": [
+            15,
+            2.7,
+            15.6,
+            3
+          ],
+          "texture": "#Leaftxt"
+        },
+        "east": {
+          "uv": [
+            0.4,
+            2.7,
+            1,
+            3
+          ],
+          "texture": "#Leaftxt"
+        }
+      }
+    },
+    {
+      "__comment": "White_Flower1",
+      "from": [
+        1.6,
+        10.3,
+        15.5
+      ],
+      "to": [
+        1.9,
+        10.6,
+        16.7
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            1.3,
+            0,
+            1.6,
+            0.7000008
+          ],
+          "texture": "#Leaftxt"
+        },
+        "up": {
+          "uv": [
+            1.3,
+            15.3,
+            1.6,
+            16
+          ],
+          "texture": "#Leaftxt"
+        },
+        "north": {
+          "uv": [
+            14.4,
+            5.7,
+            14.7,
+            6
+          ],
+          "texture": "#Leaftxt"
+        },
+        "south": {
+          "uv": [
+            1.3,
+            5.7,
+            1.6,
+            6
+          ],
+          "texture": "#Leaftxt"
+        },
+        "west": {
+          "uv": [
+            15.3,
+            5.7,
+            16,
+            6
+          ],
+          "texture": "#Leaftxt"
+        },
+        "east": {
+          "uv": [
+            0,
+            5.7,
+            0.7000008,
+            6
+          ],
+          "texture": "#Leaftxt"
+        }
+      }
+    },
+    {
+      "__comment": "White_Flower2",
+      "from": [
+        1.9,
+        10.6,
+        15.2
+      ],
+      "to": [
+        2.2,
+        10.9,
+        17
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            1.6,
+            0,
+            1.9,
+            1
+          ],
+          "texture": "#Leaftxt"
+        },
+        "up": {
+          "uv": [
+            1.6,
+            15,
+            1.9,
+            16
+          ],
+          "texture": "#Leaftxt"
+        },
+        "north": {
+          "uv": [
+            14.1,
+            5.4,
+            14.4,
+            5.7
+          ],
+          "texture": "#Leaftxt"
+        },
+        "south": {
+          "uv": [
+            1.6,
+            5.4,
+            1.9,
+            5.7
+          ],
+          "texture": "#Leaftxt"
+        },
+        "west": {
+          "uv": [
+            15,
+            5.4,
+            16,
+            5.7
+          ],
+          "texture": "#Leaftxt"
+        },
+        "east": {
+          "uv": [
+            0,
+            5.4,
+            1,
+            5.7
+          ],
+          "texture": "#Leaftxt"
+        }
+      }
+    },
+    {
+      "__comment": "White_Flower3",
+      "from": [
+        1.9,
+        10.9,
+        14.9
+      ],
+      "to": [
+        2.2,
+        11.2,
+        17.3
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            1.6,
+            0,
+            1.9,
+            1.299999
+          ],
+          "texture": "#Leaftxt"
+        },
+        "up": {
+          "uv": [
+            1.6,
+            14.7,
+            1.9,
+            16
+          ],
+          "texture": "#Leaftxt"
+        },
+        "north": {
+          "uv": [
+            14.1,
+            5.099999,
+            14.4,
+            5.4
+          ],
+          "texture": "#Leaftxt"
+        },
+        "south": {
+          "uv": [
+            1.6,
+            5.099999,
+            1.9,
+            5.4
+          ],
+          "texture": "#Leaftxt"
+        },
+        "west": {
+          "uv": [
+            14.7,
+            5.099999,
+            16,
+            5.4
+          ],
+          "texture": "#Leaftxt"
+        },
+        "east": {
+          "uv": [
+            0,
+            5.099999,
+            1.299999,
+            5.4
+          ],
+          "texture": "#Leaftxt"
+        }
+      }
+    },
+    {
+      "__comment": "White_Flower4",
+      "from": [
+        1.9,
+        11.2,
+        14.6
+      ],
+      "to": [
+        2.2,
+        13,
+        15.2
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            1.6,
+            1,
+            1.9,
+            1.6
+          ],
+          "texture": "#Leaftxt"
+        },
+        "up": {
+          "uv": [
+            1.6,
+            14.4,
+            1.9,
+            15
+          ],
+          "texture": "#Leaftxt"
+        },
+        "north": {
+          "uv": [
+            14.1,
+            3.3,
+            14.4,
+            5.1
+          ],
+          "texture": "#Leaftxt"
+        },
+        "south": {
+          "uv": [
+            1.6,
+            3.3,
+            1.9,
+            5.1
+          ],
+          "texture": "#Leaftxt"
+        },
+        "west": {
+          "uv": [
+            14.4,
+            3.3,
+            15,
+            5.1
+          ],
+          "texture": "#Leaftxt"
+        },
+        "east": {
+          "uv": [
+            1,
+            3.3,
+            1.6,
+            5.1
+          ],
+          "texture": "#Leaftxt"
+        }
+      }
+    },
+    {
+      "__comment": "White_Flower5",
+      "from": [
+        1.6,
+        13,
+        14.9
+      ],
+      "to": [
+        2.2,
+        13.3,
+        17.3
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            1.3,
+            0,
+            1.9,
+            1.299999
+          ],
+          "texture": "#Leaftxt"
+        },
+        "up": {
+          "uv": [
+            1.3,
+            14.7,
+            1.9,
+            16
+          ],
+          "texture": "#Leaftxt"
+        },
+        "north": {
+          "uv": [
+            14.1,
+            2.999999,
+            14.7,
+            3.299999
+          ],
+          "texture": "#Leaftxt"
+        },
+        "south": {
+          "uv": [
+            1.3,
+            2.999999,
+            1.9,
+            3.299999
+          ],
+          "texture": "#Leaftxt"
+        },
+        "west": {
+          "uv": [
+            14.7,
+            2.999999,
+            16,
+            3.299999
+          ],
+          "texture": "#Leaftxt"
+        },
+        "east": {
+          "uv": [
+            0,
+            2.999999,
+            1.299999,
+            3.299999
+          ],
+          "texture": "#Leaftxt"
+        }
+      }
+    },
+    {
+      "__comment": "White_Flower6",
+      "from": [
+        1.3,
+        9.099999,
+        15.8
+      ],
+      "to": [
+        1.6,
+        10.3,
+        16.4
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            1,
+            0,
+            1.3,
+            0.3999996
+          ],
+          "texture": "#Leaftxt"
+        },
+        "up": {
+          "uv": [
+            1,
+            15.6,
+            1.3,
+            16
+          ],
+          "texture": "#Leaftxt"
+        },
+        "north": {
+          "uv": [
+            14.7,
+            6.000001,
+            15,
+            7.200001
+          ],
+          "texture": "#Leaftxt"
+        },
+        "south": {
+          "uv": [
+            1,
+            6.000001,
+            1.3,
+            7.200001
+          ],
+          "texture": "#Leaftxt"
+        },
+        "west": {
+          "uv": [
+            15.6,
+            6.000001,
+            16,
+            7.200001
+          ],
+          "texture": "#Leaftxt"
+        },
+        "east": {
+          "uv": [
+            0,
+            6.000001,
+            0.3999996,
+            7.200001
+          ],
+          "texture": "#Leaftxt"
+        }
+      }
+    },
+    {
+      "__comment": "White_Flower7",
+      "from": [
+        1.3,
+        13.3,
+        16.4
+      ],
+      "to": [
+        1.9,
+        13.6,
+        17
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            1,
+            15.2,
+            1.6,
+            15.8
+          ],
+          "texture": "#Leaftxt"
+        },
+        "up": {
+          "uv": [
+            1,
+            0.2000008,
+            1.6,
+            0.8000011
+          ],
+          "texture": "#Leaftxt"
+        },
+        "north": {
+          "uv": [
+            14.4,
+            2.7,
+            15,
+            3
+          ],
+          "texture": "#Leaftxt"
+        },
+        "south": {
+          "uv": [
+            1,
+            2.7,
+            1.6,
+            3
+          ],
+          "texture": "#Leaftxt"
+        },
+        "west": {
+          "uv": [
+            0.2000008,
+            2.7,
+            0.8000011,
+            3
+          ],
+          "texture": "#Leaftxt"
+        },
+        "east": {
+          "uv": [
+            15.2,
+            2.7,
+            15.8,
+            3
+          ],
+          "texture": "#Leaftxt"
+        }
+      }
+    },
+    {
+      "__comment": "White_Flower8",
+      "from": [
+        1.6,
+        11.5,
+        14.3
+      ],
+      "to": [
+        2.2,
+        12.7,
+        14.6
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            1.3,
+            1.599999,
+            1.9,
+            1.9
+          ],
+          "texture": "#Leaftxt"
+        },
+        "up": {
+          "uv": [
+            1.3,
+            14.1,
+            1.9,
+            14.4
+          ],
+          "texture": "#Leaftxt"
+        },
+        "north": {
+          "uv": [
+            14.1,
+            3.6,
+            14.7,
+            4.8
+          ],
+          "texture": "#Leaftxt"
+        },
+        "south": {
+          "uv": [
+            1.3,
+            3.6,
+            1.9,
+            4.8
+          ],
+          "texture": "#Leaftxt"
+        },
+        "west": {
+          "uv": [
+            14.1,
+            3.6,
+            14.4,
+            4.8
+          ],
+          "texture": "#Leaftxt"
+        },
+        "east": {
+          "uv": [
+            1.6,
+            3.6,
+            1.9,
+            4.8
+          ],
+          "texture": "#Leaftxt"
+        }
+      }
+    },
+    {
+      "__comment": "White_Flower9",
+      "from": [
+        1.6,
+        11.8,
+        17.6
+      ],
+      "to": [
+        2.2,
+        12.7,
+        17.9
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            1.3,
+            14.3,
+            1.9,
+            14.6
+          ],
+          "texture": "#Leaftxt"
+        },
+        "up": {
+          "uv": [
+            1.3,
+            1.4,
+            1.9,
+            1.7
+          ],
+          "texture": "#Leaftxt"
+        },
+        "north": {
+          "uv": [
+            14.1,
+            3.6,
+            14.7,
+            4.5
+          ],
+          "texture": "#Leaftxt"
+        },
+        "south": {
+          "uv": [
+            1.3,
+            3.6,
+            1.9,
+            4.5
+          ],
+          "texture": "#Leaftxt"
+        },
+        "west": {
+          "uv": [
+            1.4,
+            3.6,
+            1.699999,
+            4.5
+          ],
+          "texture": "#Leaftxt"
+        },
+        "east": {
+          "uv": [
+            14.3,
+            3.6,
+            14.6,
+            4.5
+          ],
+          "texture": "#Leaftxt"
+        }
+      }
+    },
+    {
+      "__comment": "White_Flower10",
+      "from": [
+        1.6,
+        10.6,
+        15.2
+      ],
+      "to": [
+        1.9,
+        10.9,
+        15.5
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            1.3,
+            0.6999998,
+            1.6,
+            1
+          ],
+          "texture": "#Leaftxt"
+        },
+        "up": {
+          "uv": [
+            1.3,
+            15,
+            1.6,
+            15.3
+          ],
+          "texture": "#Leaftxt"
+        },
+        "north": {
+          "uv": [
+            14.4,
+            5.4,
+            14.7,
+            5.7
+          ],
+          "texture": "#Leaftxt"
+        },
+        "south": {
+          "uv": [
+            1.3,
+            5.4,
+            1.6,
+            5.7
+          ],
+          "texture": "#Leaftxt"
+        },
+        "west": {
+          "uv": [
+            15,
+            5.4,
+            15.3,
+            5.7
+          ],
+          "texture": "#Leaftxt"
+        },
+        "east": {
+          "uv": [
+            0.7,
+            5.4,
+            1,
+            5.7
+          ],
+          "texture": "#Leaftxt"
+        }
+      }
+    },
+    {
+      "__comment": "White_Flower11",
+      "from": [
+        1.6,
+        10.6,
+        16.7
+      ],
+      "to": [
+        1.9,
+        10.9,
+        17
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            1.3,
+            15.2,
+            1.6,
+            15.5
+          ],
+          "texture": "#Leaftxt"
+        },
+        "up": {
+          "uv": [
+            1.3,
+            0.5,
+            1.6,
+            0.8000002
+          ],
+          "texture": "#Leaftxt"
+        },
+        "north": {
+          "uv": [
+            14.4,
+            5.4,
+            14.7,
+            5.7
+          ],
+          "texture": "#Leaftxt"
+        },
+        "south": {
+          "uv": [
+            1.3,
+            5.4,
+            1.6,
+            5.7
+          ],
+          "texture": "#Leaftxt"
+        },
+        "west": {
+          "uv": [
+            0.5,
+            5.4,
+            0.7999992,
+            5.7
+          ],
+          "texture": "#Leaftxt"
+        },
+        "east": {
+          "uv": [
+            15.2,
+            5.4,
+            15.5,
+            5.7
+          ],
+          "texture": "#Leaftxt"
+        }
+      }
+    },
+    {
+      "__comment": "White_Flower12",
+      "from": [
+        1.6,
+        10.9,
+        17
+      ],
+      "to": [
+        1.9,
+        11.2,
+        17.3
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            1.3,
+            14.9,
+            1.6,
+            15.2
+          ],
+          "texture": "#Leaftxt"
+        },
+        "up": {
+          "uv": [
+            1.3,
+            0.7999992,
+            1.6,
+            1.099999
+          ],
+          "texture": "#Leaftxt"
+        },
+        "north": {
+          "uv": [
+            14.4,
+            5.099999,
+            14.7,
+            5.4
+          ],
+          "texture": "#Leaftxt"
+        },
+        "south": {
+          "uv": [
+            1.3,
+            5.099999,
+            1.6,
+            5.4
+          ],
+          "texture": "#Leaftxt"
+        },
+        "west": {
+          "uv": [
+            0.7999992,
+            5.099999,
+            1.099998,
+            5.4
+          ],
+          "texture": "#Leaftxt"
+        },
+        "east": {
+          "uv": [
+            14.9,
+            5.099999,
+            15.2,
+            5.4
+          ],
+          "texture": "#Leaftxt"
+        }
+      }
+    },
+    {
+      "__comment": "White_Flower13",
+      "from": [
+        1.6,
+        12.7,
+        14.6
+      ],
+      "to": [
+        1.9,
+        13,
+        14.9
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            1.3,
+            1.3,
+            1.6,
+            1.6
+          ],
+          "texture": "#Leaftxt"
+        },
+        "up": {
+          "uv": [
+            1.3,
+            14.4,
+            1.6,
+            14.7
+          ],
+          "texture": "#Leaftxt"
+        },
+        "north": {
+          "uv": [
+            14.4,
+            3.3,
+            14.7,
+            3.6
+          ],
+          "texture": "#Leaftxt"
+        },
+        "south": {
+          "uv": [
+            1.3,
+            3.3,
+            1.6,
+            3.6
+          ],
+          "texture": "#Leaftxt"
+        },
+        "west": {
+          "uv": [
+            14.4,
+            3.3,
+            14.7,
+            3.6
+          ],
+          "texture": "#Leaftxt"
+        },
+        "east": {
+          "uv": [
+            1.3,
+            3.3,
+            1.6,
+            3.6
+          ],
+          "texture": "#Leaftxt"
+        }
+      }
+    },
+    {
+      "__comment": "White_Flower14",
+      "from": [
+        1.6,
+        12.7,
+        17.3
+      ],
+      "to": [
+        1.9,
+        13,
+        17.6
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            1.3,
+            14.6,
+            1.6,
+            14.9
+          ],
+          "texture": "#Leaftxt"
+        },
+        "up": {
+          "uv": [
+            1.3,
+            1.1,
+            1.6,
+            1.400001
+          ],
+          "texture": "#Leaftxt"
+        },
+        "north": {
+          "uv": [
+            14.4,
+            3.3,
+            14.7,
+            3.6
+          ],
+          "texture": "#Leaftxt"
+        },
+        "south": {
+          "uv": [
+            1.3,
+            3.3,
+            1.6,
+            3.6
+          ],
+          "texture": "#Leaftxt"
+        },
+        "west": {
+          "uv": [
+            1.1,
+            3.3,
+            1.4,
+            3.6
+          ],
+          "texture": "#Leaftxt"
+        },
+        "east": {
+          "uv": [
+            14.6,
+            3.3,
+            14.9,
+            3.6
+          ],
+          "texture": "#Leaftxt"
+        }
+      }
+    },
+    {
+      "__comment": "White_Flower15",
+      "from": [
+        2.2,
+        11.2,
+        14.9
+      ],
+      "to": [
+        2.5,
+        13,
+        17.3
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            1.9,
+            0,
+            2.2,
+            1.299999
+          ],
+          "texture": "#Leaftxt"
+        },
+        "up": {
+          "uv": [
+            1.9,
+            14.7,
+            2.2,
+            16
+          ],
+          "texture": "#Leaftxt"
+        },
+        "north": {
+          "uv": [
+            13.8,
+            3.3,
+            14.1,
+            5.1
+          ],
+          "texture": "#Leaftxt"
+        },
+        "south": {
+          "uv": [
+            1.9,
+            3.3,
+            2.2,
+            5.1
+          ],
+          "texture": "#Leaftxt"
+        },
+        "west": {
+          "uv": [
+            14.7,
+            3.3,
+            16,
+            5.1
+          ],
+          "texture": "#Leaftxt"
+        },
+        "east": {
+          "uv": [
+            0,
+            3.3,
+            1.299999,
+            5.1
+          ],
+          "texture": "#Leaftxt"
+        }
+      }
+    },
+    {
+      "__comment": "White_Flower16",
+      "from": [
+        2.2,
+        13,
+        15.2
+      ],
+      "to": [
+        2.5,
+        13.3,
+        17
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            1.9,
+            0,
+            2.2,
+            1
+          ],
+          "texture": "#Leaftxt"
+        },
+        "up": {
+          "uv": [
+            1.9,
+            15,
+            2.2,
+            16
+          ],
+          "texture": "#Leaftxt"
+        },
+        "north": {
+          "uv": [
+            13.8,
+            2.999999,
+            14.1,
+            3.299999
+          ],
+          "texture": "#Leaftxt"
+        },
+        "south": {
+          "uv": [
+            1.9,
+            2.999999,
+            2.2,
+            3.299999
+          ],
+          "texture": "#Leaftxt"
+        },
+        "west": {
+          "uv": [
+            15,
+            2.999999,
+            16,
+            3.299999
+          ],
+          "texture": "#Leaftxt"
+        },
+        "east": {
+          "uv": [
+            0,
+            2.999999,
+            1,
+            3.299999
+          ],
+          "texture": "#Leaftxt"
+        }
+      }
+    },
+    {
+      "__comment": "White_Flower17",
+      "from": [
+        2.2,
+        11.5,
+        17.3
+      ],
+      "to": [
+        2.5,
+        12.7,
+        17.6
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            1.9,
+            14.6,
+            2.2,
+            14.9
+          ],
+          "texture": "#Leaftxt"
+        },
+        "up": {
+          "uv": [
+            1.9,
+            1.1,
+            2.2,
+            1.400001
+          ],
+          "texture": "#Leaftxt"
+        },
+        "north": {
+          "uv": [
+            13.8,
+            3.6,
+            14.1,
+            4.8
+          ],
+          "texture": "#Leaftxt"
+        },
+        "south": {
+          "uv": [
+            1.9,
+            3.6,
+            2.2,
+            4.8
+          ],
+          "texture": "#Leaftxt"
+        },
+        "west": {
+          "uv": [
+            1.1,
+            3.6,
+            1.4,
+            4.8
+          ],
+          "texture": "#Leaftxt"
+        },
+        "east": {
+          "uv": [
+            14.6,
+            3.6,
+            14.9,
+            4.8
+          ],
+          "texture": "#Leaftxt"
+        }
+      }
+    },
+    {
+      "__comment": "White_Flower18",
+      "from": [
+        2.2,
+        11.5,
+        14.6
+      ],
+      "to": [
+        2.5,
+        12.7,
+        14.9
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            1.9,
+            1.3,
+            2.2,
+            1.6
+          ],
+          "texture": "#Leaftxt"
+        },
+        "up": {
+          "uv": [
+            1.9,
+            14.4,
+            2.2,
+            14.7
+          ],
+          "texture": "#Leaftxt"
+        },
+        "north": {
+          "uv": [
+            13.8,
+            3.6,
+            14.1,
+            4.8
+          ],
+          "texture": "#Leaftxt"
+        },
+        "south": {
+          "uv": [
+            1.9,
+            3.6,
+            2.2,
+            4.8
+          ],
+          "texture": "#Leaftxt"
+        },
+        "west": {
+          "uv": [
+            14.4,
+            3.6,
+            14.7,
+            4.8
+          ],
+          "texture": "#Leaftxt"
+        },
+        "east": {
+          "uv": [
+            1.3,
+            3.6,
+            1.6,
+            4.8
+          ],
+          "texture": "#Leaftxt"
+        }
+      }
+    },
+    {
+      "__comment": "White_Flower19",
+      "from": [
+        1.9,
+        11.2,
+        17
+      ],
+      "to": [
+        2.2,
+        13,
+        17.6
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            1.6,
+            14.6,
+            1.9,
+            15.2
+          ],
+          "texture": "#Leaftxt"
+        },
+        "up": {
+          "uv": [
+            1.6,
+            0.7999992,
+            1.9,
+            1.4
+          ],
+          "texture": "#Leaftxt"
+        },
+        "north": {
+          "uv": [
+            14.1,
+            3.3,
+            14.4,
+            5.1
+          ],
+          "texture": "#Leaftxt"
+        },
+        "south": {
+          "uv": [
+            1.6,
+            3.3,
+            1.9,
+            5.1
+          ],
+          "texture": "#Leaftxt"
+        },
+        "west": {
+          "uv": [
+            0.7999992,
+            3.3,
+            1.4,
+            5.1
+          ],
+          "texture": "#Leaftxt"
+        },
+        "east": {
+          "uv": [
+            14.6,
+            3.3,
+            15.2,
+            5.1
+          ],
+          "texture": "#Leaftxt"
+        }
+      }
+    },
+    {
+      "__comment": "White_Flower20",
+      "from": [
+        1.9,
+        12.7,
+        15.2
+      ],
+      "to": [
+        2.2,
+        13,
+        17
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            1.6,
+            0,
+            1.9,
+            1
+          ],
+          "texture": "#Leaftxt"
+        },
+        "up": {
+          "uv": [
+            1.6,
+            15,
+            1.9,
+            16
+          ],
+          "texture": "#Leaftxt"
+        },
+        "north": {
+          "uv": [
+            14.1,
+            3.3,
+            14.4,
+            3.6
+          ],
+          "texture": "#Leaftxt"
+        },
+        "south": {
+          "uv": [
+            1.6,
+            3.3,
+            1.9,
+            3.6
+          ],
+          "texture": "#Leaftxt"
+        },
+        "west": {
+          "uv": [
+            15,
+            3.3,
+            16,
+            3.6
+          ],
+          "texture": "#Leaftxt"
+        },
+        "east": {
+          "uv": [
+            0,
+            3.3,
+            1,
+            3.6
+          ],
+          "texture": "#Leaftxt"
+        }
+      }
+    },
+    {
+      "__comment": "White_Flower21",
+      "from": [
+        2.2,
+        10.9,
+        15.2
+      ],
+      "to": [
+        2.5,
+        11.2,
+        17
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            1.9,
+            0,
+            2.2,
+            1
+          ],
+          "texture": "#Leaftxt"
+        },
+        "up": {
+          "uv": [
+            1.9,
+            15,
+            2.2,
+            16
+          ],
+          "texture": "#Leaftxt"
+        },
+        "north": {
+          "uv": [
+            13.8,
+            5.099999,
+            14.1,
+            5.4
+          ],
+          "texture": "#Leaftxt"
+        },
+        "south": {
+          "uv": [
+            1.9,
+            5.099999,
+            2.2,
+            5.4
+          ],
+          "texture": "#Leaftxt"
+        },
+        "west": {
+          "uv": [
+            15,
+            5.099999,
+            16,
+            5.4
+          ],
+          "texture": "#Leaftxt"
+        },
+        "east": {
+          "uv": [
+            0,
+            5.099999,
+            1,
+            5.4
+          ],
+          "texture": "#Leaftxt"
+        }
+      }
+    },
+    {
+      "__comment": "White_Flower22",
+      "from": [
+        2.5,
+        11.5,
+        15.2
+      ],
+      "to": [
+        2.8,
+        12.7,
+        17
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            2.2,
+            0,
+            2.5,
+            1
+          ],
+          "texture": "#Leaftxt"
+        },
+        "up": {
+          "uv": [
+            2.2,
+            15,
+            2.5,
+            16
+          ],
+          "texture": "#Leaftxt"
+        },
+        "north": {
+          "uv": [
+            13.5,
+            3.6,
+            13.8,
+            4.8
+          ],
+          "texture": "#Leaftxt"
+        },
+        "south": {
+          "uv": [
+            2.2,
+            3.6,
+            2.5,
+            4.8
+          ],
+          "texture": "#Leaftxt"
+        },
+        "west": {
+          "uv": [
+            15,
+            3.6,
+            16,
+            4.8
+          ],
+          "texture": "#Leaftxt"
+        },
+        "east": {
+          "uv": [
+            0,
+            3.6,
+            1,
+            4.8
+          ],
+          "texture": "#Leaftxt"
+        }
+      }
+    },
+    {
+      "__comment": "White_Flower23",
+      "from": [
+        2.5,
+        10.9,
+        15.8
+      ],
+      "to": [
+        2.8,
+        11.5,
+        16.4
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            2.2,
+            0,
+            2.5,
+            0.3999996
+          ],
+          "texture": "#Leaftxt"
+        },
+        "up": {
+          "uv": [
+            2.2,
+            15.6,
+            2.5,
+            16
+          ],
+          "texture": "#Leaftxt"
+        },
+        "north": {
+          "uv": [
+            13.5,
+            4.799999,
+            13.8,
+            5.4
+          ],
+          "texture": "#Leaftxt"
+        },
+        "south": {
+          "uv": [
+            2.2,
+            4.799999,
+            2.5,
+            5.4
+          ],
+          "texture": "#Leaftxt"
+        },
+        "west": {
+          "uv": [
+            15.6,
+            4.799999,
+            16,
+            5.4
+          ],
+          "texture": "#Leaftxt"
+        },
+        "east": {
+          "uv": [
+            0,
+            4.799999,
+            0.3999996,
+            5.4
+          ],
+          "texture": "#Leaftxt"
+        }
+      }
+    },
+    {
+      "__comment": "White_Flower24",
+      "from": [
+        2.2,
+        10.6,
+        15.8
+      ],
+      "to": [
+        2.5,
+        10.9,
+        16.4
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            1.9,
+            0,
+            2.2,
+            0.3999996
+          ],
+          "texture": "#Leaftxt"
+        },
+        "up": {
+          "uv": [
+            1.9,
+            15.6,
+            2.2,
+            16
+          ],
+          "texture": "#Leaftxt"
+        },
+        "north": {
+          "uv": [
+            13.8,
+            5.4,
+            14.1,
+            5.7
+          ],
+          "texture": "#Leaftxt"
+        },
+        "south": {
+          "uv": [
+            1.9,
+            5.4,
+            2.2,
+            5.7
+          ],
+          "texture": "#Leaftxt"
+        },
+        "west": {
+          "uv": [
+            15.6,
+            5.4,
+            16,
+            5.7
+          ],
+          "texture": "#Leaftxt"
+        },
+        "east": {
+          "uv": [
+            0,
+            5.4,
+            0.3999996,
+            5.7
+          ],
+          "texture": "#Leaftxt"
+        }
+      }
+    },
+    {
+      "__comment": "White_Flower25",
+      "from": [
+        1.9,
+        10.3,
+        15.8
+      ],
+      "to": [
+        2.2,
+        10.6,
+        16.4
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            1.6,
+            0,
+            1.9,
+            0.3999996
+          ],
+          "texture": "#Leaftxt"
+        },
+        "up": {
+          "uv": [
+            1.6,
+            15.6,
+            1.9,
+            16
+          ],
+          "texture": "#Leaftxt"
+        },
+        "north": {
+          "uv": [
+            14.1,
+            5.7,
+            14.4,
+            6
+          ],
+          "texture": "#Leaftxt"
+        },
+        "south": {
+          "uv": [
+            1.6,
+            5.7,
+            1.9,
+            6
+          ],
+          "texture": "#Leaftxt"
+        },
+        "west": {
+          "uv": [
+            15.6,
+            5.7,
+            16,
+            6
+          ],
+          "texture": "#Leaftxt"
+        },
+        "east": {
+          "uv": [
+            0,
+            5.7,
+            0.3999996,
+            6
+          ],
+          "texture": "#Leaftxt"
+        }
+      }
+    },
+    {
+      "__comment": "White_Flower26",
+      "from": [
+        1.6,
+        10,
+        15.8
+      ],
+      "to": [
+        1.9,
+        10.3,
+        16.4
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            1.3,
+            0,
+            1.6,
+            0.3999996
+          ],
+          "texture": "#Leaftxt"
+        },
+        "up": {
+          "uv": [
+            1.3,
+            15.6,
+            1.6,
+            16
+          ],
+          "texture": "#Leaftxt"
+        },
+        "north": {
+          "uv": [
+            14.4,
+            6,
+            14.7,
+            6.3
+          ],
+          "texture": "#Leaftxt"
+        },
+        "south": {
+          "uv": [
+            1.3,
+            6,
+            1.6,
+            6.3
+          ],
+          "texture": "#Leaftxt"
+        },
+        "west": {
+          "uv": [
+            15.6,
+            6,
+            16,
+            6.3
+          ],
+          "texture": "#Leaftxt"
+        },
+        "east": {
+          "uv": [
+            0,
+            6,
+            0.3999996,
+            6.3
+          ],
+          "texture": "#Leaftxt"
+        }
+      }
+    },
+    {
+      "__comment": "White_Flower27",
+      "from": [
+        1,
+        8.8,
+        15.5
+      ],
+      "to": [
+        1.3,
+        9.1,
+        16.7
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            0.6999998,
+            0,
+            0.9999998,
+            0.7000008
+          ],
+          "texture": "#Leaftxt"
+        },
+        "up": {
+          "uv": [
+            0.6999998,
+            15.3,
+            0.9999998,
+            16
+          ],
+          "texture": "#Leaftxt"
+        },
+        "north": {
+          "uv": [
+            15,
+            7.2,
+            15.3,
+            7.5
+          ],
+          "texture": "#Leaftxt"
+        },
+        "south": {
+          "uv": [
+            0.6999998,
+            7.2,
+            0.9999998,
+            7.5
+          ],
+          "texture": "#Leaftxt"
+        },
+        "west": {
+          "uv": [
+            15.3,
+            7.2,
+            16,
+            7.5
+          ],
+          "texture": "#Leaftxt"
+        },
+        "east": {
+          "uv": [
+            0,
+            7.2,
+            0.7000008,
+            7.5
+          ],
+          "texture": "#Leaftxt"
+        }
+      }
+    },
+    {
+      "__comment": "White_Flower28",
+      "from": [
+        0.7,
+        8.5,
+        14.9
+      ],
+      "to": [
+        1,
+        8.8,
+        17.3
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            0.4000001,
+            0,
+            0.7000001,
+            1.299999
+          ],
+          "texture": "#Leaftxt"
+        },
+        "up": {
+          "uv": [
+            0.4000001,
+            14.7,
+            0.7000001,
+            16
+          ],
+          "texture": "#Leaftxt"
+        },
+        "north": {
+          "uv": [
+            15.3,
+            7.5,
+            15.6,
+            7.8
+          ],
+          "texture": "#Leaftxt"
+        },
+        "south": {
+          "uv": [
+            0.4000001,
+            7.5,
+            0.7000001,
+            7.8
+          ],
+          "texture": "#Leaftxt"
+        },
+        "west": {
+          "uv": [
+            14.7,
+            7.5,
+            16,
+            7.8
+          ],
+          "texture": "#Leaftxt"
+        },
+        "east": {
+          "uv": [
+            0,
+            7.5,
+            1.299999,
+            7.8
+          ],
+          "texture": "#Leaftxt"
+        }
+      }
+    },
+    {
+      "__comment": "White_Flower29",
+      "from": [
+        0.7,
+        7.3,
+        14.6
+      ],
+      "to": [
+        1,
+        8.5,
+        17.6
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            0.4000001,
+            0,
+            0.7000001,
+            1.6
+          ],
+          "texture": "#Leaftxt"
+        },
+        "up": {
+          "uv": [
+            0.4000001,
+            14.4,
+            0.7000001,
+            16
+          ],
+          "texture": "#Leaftxt"
+        },
+        "north": {
+          "uv": [
+            15.3,
+            7.8,
+            15.6,
+            9
+          ],
+          "texture": "#Leaftxt"
+        },
+        "south": {
+          "uv": [
+            0.4000001,
+            7.8,
+            0.7000001,
+            9
+          ],
+          "texture": "#Leaftxt"
+        },
+        "west": {
+          "uv": [
+            14.4,
+            7.8,
+            16,
+            9
+          ],
+          "texture": "#Leaftxt"
+        },
+        "east": {
+          "uv": [
+            0,
+            7.8,
+            1.6,
+            9
+          ],
+          "texture": "#Leaftxt"
+        }
+      }
+    },
+    {
+      "__comment": "White_Flower30",
+      "from": [
+        0.7,
+        7,
+        14.3
+      ],
+      "to": [
+        1,
+        7.3,
+        17.9
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            0.4000001,
+            0,
+            0.7000001,
+            1.9
+          ],
+          "texture": "#Leaftxt"
+        },
+        "up": {
+          "uv": [
+            0.4000001,
+            14.1,
+            0.7000001,
+            16
+          ],
+          "texture": "#Leaftxt"
+        },
+        "north": {
+          "uv": [
+            15.3,
+            9,
+            15.6,
+            9.3
+          ],
+          "texture": "#Leaftxt"
+        },
+        "south": {
+          "uv": [
+            0.4000001,
+            9,
+            0.7000001,
+            9.3
+          ],
+          "texture": "#Leaftxt"
+        },
+        "west": {
+          "uv": [
+            14.1,
+            9,
+            16,
+            9.3
+          ],
+          "texture": "#Leaftxt"
+        },
+        "east": {
+          "uv": [
+            0,
+            9,
+            1.9,
+            9.3
+          ],
+          "texture": "#Leaftxt"
+        }
+      }
+    },
+    {
+      "__comment": "White_Flower31",
+      "from": [
+        0.7,
+        6.7,
+        14.6
+      ],
+      "to": [
+        1,
+        7,
+        17.6
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            0.4000001,
+            0,
+            0.7000001,
+            1.6
+          ],
+          "texture": "#Leaftxt"
+        },
+        "up": {
+          "uv": [
+            0.4000001,
+            14.4,
+            0.7000001,
+            16
+          ],
+          "texture": "#Leaftxt"
+        },
+        "north": {
+          "uv": [
+            15.3,
+            9.3,
+            15.6,
+            9.6
+          ],
+          "texture": "#Leaftxt"
+        },
+        "south": {
+          "uv": [
+            0.4000001,
+            9.3,
+            0.7000001,
+            9.6
+          ],
+          "texture": "#Leaftxt"
+        },
+        "west": {
+          "uv": [
+            14.4,
+            9.3,
+            16,
+            9.6
+          ],
+          "texture": "#Leaftxt"
+        },
+        "east": {
+          "uv": [
+            0,
+            9.3,
+            1.6,
+            9.6
+          ],
+          "texture": "#Leaftxt"
+        }
+      }
+    },
+    {
+      "__comment": "White_Flower32",
+      "from": [
+        0.4,
+        6.4,
+        14.9
+      ],
+      "to": [
+        0.7,
+        6.7,
+        17.3
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            0.0999999,
+            0,
+            0.3999999,
+            1.299999
+          ],
+          "texture": "#Leaftxt"
+        },
+        "up": {
+          "uv": [
+            0.0999999,
+            14.7,
+            0.3999999,
+            16
+          ],
+          "texture": "#Leaftxt"
+        },
+        "north": {
+          "uv": [
+            15.6,
+            9.599999,
+            15.9,
+            9.9
+          ],
+          "texture": "#Leaftxt"
+        },
+        "south": {
+          "uv": [
+            0.0999999,
+            9.599999,
+            0.3999999,
+            9.9
+          ],
+          "texture": "#Leaftxt"
+        },
+        "west": {
+          "uv": [
+            14.7,
+            9.599999,
+            16,
+            9.9
+          ],
+          "texture": "#Leaftxt"
+        },
+        "east": {
+          "uv": [
+            0,
+            9.599999,
+            1.299999,
+            9.9
+          ],
+          "texture": "#Leaftxt"
+        }
+      }
+    },
+    {
+      "__comment": "White_Flower33",
+      "from": [
+        0.09999999,
+        6.1,
+        15.5
+      ],
+      "to": [
+        0.4,
+        6.4,
+        16.7
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            0,
+            0,
+            0.1000002,
+            0.7000008
+          ],
+          "texture": "#Leaftxt"
+        },
+        "up": {
+          "uv": [
+            0,
+            15.3,
+            0.1000002,
+            16
+          ],
+          "texture": "#Leaftxt"
+        },
+        "north": {
+          "uv": [
+            15.9,
+            9.900001,
+            16,
+            10.2
+          ],
+          "texture": "#Leaftxt"
+        },
+        "south": {
+          "uv": [
+            0,
+            9.900001,
+            0.1000002,
+            10.2
+          ],
+          "texture": "#Leaftxt"
+        },
+        "west": {
+          "uv": [
+            15.3,
+            9.900001,
+            16,
+            10.2
+          ],
+          "texture": "#Leaftxt"
+        },
+        "east": {
+          "uv": [
+            0,
+            9.900001,
+            0.7000008,
+            10.2
+          ],
+          "texture": "#Leaftxt"
+        }
+      }
+    },
+    {
+      "__comment": "White_Flower34",
+      "from": [
+        0.4,
+        6.7,
+        14.6
+      ],
+      "to": [
+        0.7,
+        7,
+        15.5
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            0.0999999,
+            0.7000008,
+            0.3999999,
+            1.6
+          ],
+          "texture": "#Leaftxt"
+        },
+        "up": {
+          "uv": [
+            0.0999999,
+            14.4,
+            0.3999999,
+            15.3
+          ],
+          "texture": "#Leaftxt"
+        },
+        "north": {
+          "uv": [
+            15.6,
+            9.3,
+            15.9,
+            9.6
+          ],
+          "texture": "#Leaftxt"
+        },
+        "south": {
+          "uv": [
+            0.0999999,
+            9.3,
+            0.3999999,
+            9.6
+          ],
+          "texture": "#Leaftxt"
+        },
+        "west": {
+          "uv": [
+            14.4,
+            9.3,
+            15.3,
+            9.6
+          ],
+          "texture": "#Leaftxt"
+        },
+        "east": {
+          "uv": [
+            0.7000003,
+            9.3,
+            1.6,
+            9.6
+          ],
+          "texture": "#Leaftxt"
+        }
+      }
+    },
+    {
+      "__comment": "White_Flower35",
+      "from": [
+        0.4,
+        6.7,
+        16.7
+      ],
+      "to": [
+        0.7,
+        7,
+        17.6
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            0.0999999,
+            14.6,
+            0.3999999,
+            15.5
+          ],
+          "texture": "#Leaftxt"
+        },
+        "up": {
+          "uv": [
+            0.0999999,
+            0.5,
+            0.3999999,
+            1.4
+          ],
+          "texture": "#Leaftxt"
+        },
+        "north": {
+          "uv": [
+            15.6,
+            9.3,
+            15.9,
+            9.6
+          ],
+          "texture": "#Leaftxt"
+        },
+        "south": {
+          "uv": [
+            0.0999999,
+            9.3,
+            0.3999999,
+            9.6
+          ],
+          "texture": "#Leaftxt"
+        },
+        "west": {
+          "uv": [
+            0.5,
+            9.3,
+            1.4,
+            9.6
+          ],
+          "texture": "#Leaftxt"
+        },
+        "east": {
+          "uv": [
+            14.6,
+            9.3,
+            15.5,
+            9.6
+          ],
+          "texture": "#Leaftxt"
+        }
+      }
+    },
+    {
+      "__comment": "White_Flower36",
+      "from": [
+        1,
+        7,
+        14.9
+      ],
+      "to": [
+        1.3,
+        8.5,
+        17.3
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            0.6999998,
+            0,
+            0.9999998,
+            1.299999
+          ],
+          "texture": "#Leaftxt"
+        },
+        "up": {
+          "uv": [
+            0.6999998,
+            14.7,
+            0.9999998,
+            16
+          ],
+          "texture": "#Leaftxt"
+        },
+        "north": {
+          "uv": [
+            15,
+            7.8,
+            15.3,
+            9.3
+          ],
+          "texture": "#Leaftxt"
+        },
+        "south": {
+          "uv": [
+            0.6999998,
+            7.8,
+            0.9999998,
+            9.3
+          ],
+          "texture": "#Leaftxt"
+        },
+        "west": {
+          "uv": [
+            14.7,
+            7.8,
+            16,
+            9.3
+          ],
+          "texture": "#Leaftxt"
+        },
+        "east": {
+          "uv": [
+            0,
+            7.8,
+            1.299999,
+            9.3
+          ],
+          "texture": "#Leaftxt"
+        }
+      }
+    },
+    {
+      "__comment": "White_Flower37",
+      "from": [
+        1,
+        8.5,
+        15.2
+      ],
+      "to": [
+        1.3,
+        8.8,
+        17
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            0.6999998,
+            0,
+            0.9999998,
+            1
+          ],
+          "texture": "#Leaftxt"
+        },
+        "up": {
+          "uv": [
+            0.6999998,
+            15,
+            0.9999998,
+            16
+          ],
+          "texture": "#Leaftxt"
+        },
+        "north": {
+          "uv": [
+            15,
+            7.5,
+            15.3,
+            7.8
+          ],
+          "texture": "#Leaftxt"
+        },
+        "south": {
+          "uv": [
+            0.6999998,
+            7.5,
+            0.9999998,
+            7.8
+          ],
+          "texture": "#Leaftxt"
+        },
+        "west": {
+          "uv": [
+            15,
+            7.5,
+            16,
+            7.8
+          ],
+          "texture": "#Leaftxt"
+        },
+        "east": {
+          "uv": [
+            0,
+            7.5,
+            1,
+            7.8
+          ],
+          "texture": "#Leaftxt"
+        }
+      }
+    },
+    {
+      "__comment": "White_Flower38",
+      "from": [
+        0.7,
+        6.4,
+        15.2
+      ],
+      "to": [
+        1,
+        6.7,
+        17
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            0.4000001,
+            0,
+            0.7000001,
+            1
+          ],
+          "texture": "#Leaftxt"
+        },
+        "up": {
+          "uv": [
+            0.4000001,
+            15,
+            0.7000001,
+            16
+          ],
+          "texture": "#Leaftxt"
+        },
+        "north": {
+          "uv": [
+            15.3,
+            9.599999,
+            15.6,
+            9.9
+          ],
+          "texture": "#Leaftxt"
+        },
+        "south": {
+          "uv": [
+            0.4000001,
+            9.599999,
+            0.7000001,
+            9.9
+          ],
+          "texture": "#Leaftxt"
+        },
+        "west": {
+          "uv": [
+            15,
+            9.599999,
+            16,
+            9.9
+          ],
+          "texture": "#Leaftxt"
+        },
+        "east": {
+          "uv": [
+            0,
+            9.599999,
+            1,
+            9.9
+          ],
+          "texture": "#Leaftxt"
+        }
+      }
+    },
+    {
+      "__comment": "White_Flower39",
+      "from": [
+        0.4,
+        6.1,
+        15.8
+      ],
+      "to": [
+        0.7,
+        6.4,
+        16.4
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            0.0999999,
+            0,
+            0.3999999,
+            0.3999996
+          ],
+          "texture": "#Leaftxt"
+        },
+        "up": {
+          "uv": [
+            0.0999999,
+            15.6,
+            0.3999999,
+            16
+          ],
+          "texture": "#Leaftxt"
+        },
+        "north": {
+          "uv": [
+            15.6,
+            9.900001,
+            15.9,
+            10.2
+          ],
+          "texture": "#Leaftxt"
+        },
+        "south": {
+          "uv": [
+            0.0999999,
+            9.900001,
+            0.3999999,
+            10.2
+          ],
+          "texture": "#Leaftxt"
+        },
+        "west": {
+          "uv": [
+            15.6,
+            9.900001,
+            16,
+            10.2
+          ],
+          "texture": "#Leaftxt"
+        },
+        "east": {
+          "uv": [
+            0,
+            9.900001,
+            0.3999996,
+            10.2
+          ],
+          "texture": "#Leaftxt"
+        }
+      }
+    },
+    {
+      "__comment": "White_Flower40",
+      "from": [
+        1,
+        6.7,
+        15.5
+      ],
+      "to": [
+        1.3,
+        7,
+        16.7
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            0.6999998,
+            0,
+            0.9999998,
+            0.7000008
+          ],
+          "texture": "#Leaftxt"
+        },
+        "up": {
+          "uv": [
+            0.6999998,
+            15.3,
+            0.9999998,
+            16
+          ],
+          "texture": "#Leaftxt"
+        },
+        "north": {
+          "uv": [
+            15,
+            9.3,
+            15.3,
+            9.6
+          ],
+          "texture": "#Leaftxt"
+        },
+        "south": {
+          "uv": [
+            0.6999998,
+            9.3,
+            0.9999998,
+            9.6
+          ],
+          "texture": "#Leaftxt"
+        },
+        "west": {
+          "uv": [
+            15.3,
+            9.3,
+            16,
+            9.6
+          ],
+          "texture": "#Leaftxt"
+        },
+        "east": {
+          "uv": [
+            0,
+            9.3,
+            0.7000008,
+            9.6
+          ],
+          "texture": "#Leaftxt"
+        }
+      }
+    },
+    {
+      "__comment": "White_Flower41",
+      "from": [
+        1.3,
+        9.7,
+        15.2
+      ],
+      "to": [
+        1.6,
+        10.3,
+        15.8
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            0,
+            3.5,
+            0.5,
+            4.5
+          ],
+          "texture": "#Leaftxt",
+          "rotation": 180
+        },
+        "up": {
+          "uv": [
+            0,
+            11.5,
+            0.5,
+            12.5
+          ],
+          "texture": "#Leaftxt",
+          "rotation": 180
+        },
+        "north": {
+          "uv": [
+            0,
+            4.5,
+            0.5,
+            5.5
+          ],
+          "texture": "#Leaftxt"
+        },
+        "south": {
+          "uv": [
+            15.5,
+            4.5,
+            16,
+            5.5
+          ],
+          "texture": "#Leaftxt"
+        },
+        "west": {
+          "uv": [
+            3.5,
+            4.5,
+            4.5,
+            5.5
+          ],
+          "texture": "#Leaftxt"
+        },
+        "east": {
+          "uv": [
+            11.5,
+            4.5,
+            12.5,
+            5.5
+          ],
+          "texture": "#Leaftxt"
+        }
+      }
+    },
+    {
+      "__comment": "White_Flower42",
+      "from": [
+        1.3,
+        10,
+        14.3
+      ],
+      "to": [
+        1.6,
+        10.3,
+        15.2
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            0,
+            1,
+            0.5,
+            2
+          ],
+          "texture": "#Leaftxt",
+          "rotation": 180
+        },
+        "up": {
+          "uv": [
+            0,
+            14,
+            0.5,
+            15
+          ],
+          "texture": "#Leaftxt",
+          "rotation": 180
+        },
+        "north": {
+          "uv": [
+            0,
+            4.5,
+            0.5,
+            5
+          ],
+          "texture": "#Leaftxt"
+        },
+        "south": {
+          "uv": [
+            15.5,
+            4.5,
+            16,
+            5
+          ],
+          "texture": "#Leaftxt"
+        },
+        "west": {
+          "uv": [
+            1,
+            4.5,
+            2,
+            5
+          ],
+          "texture": "#Leaftxt"
+        },
+        "east": {
+          "uv": [
+            14,
+            4.5,
+            15,
+            5
+          ],
+          "texture": "#Leaftxt"
+        }
+      }
+    },
+    {
+      "__comment": "White_Flower43",
+      "from": [
+        1.3,
+        10.3,
+        13.7
+      ],
+      "to": [
+        1.6,
+        10.6,
+        14.9
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            0,
+            0.5,
+            0.5,
+            1.5
+          ],
+          "texture": "#Leaftxt",
+          "rotation": 180
+        },
+        "up": {
+          "uv": [
+            0,
+            14.5,
+            0.5,
+            15.5
+          ],
+          "texture": "#Leaftxt",
+          "rotation": 180
+        },
+        "north": {
+          "uv": [
+            0,
+            4,
+            0.5,
+            4.5
+          ],
+          "texture": "#Leaftxt"
+        },
+        "south": {
+          "uv": [
+            15.5,
+            4,
+            16,
+            4.5
+          ],
+          "texture": "#Leaftxt"
+        },
+        "west": {
+          "uv": [
+            0.5,
+            4,
+            1.5,
+            4.5
+          ],
+          "texture": "#Leaftxt"
+        },
+        "east": {
+          "uv": [
+            14.5,
+            4,
+            15.5,
+            4.5
+          ],
+          "texture": "#Leaftxt"
+        }
+      }
+    },
+    {
+      "__comment": "White_Flower44",
+      "from": [
+        1,
+        10.6,
+        13.7
+      ],
+      "to": [
+        1.6,
+        10.9,
+        14.6
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            15,
+            0,
+            15.5,
+            1
+          ],
+          "texture": "#Leaftxt",
+          "rotation": 180
+        },
+        "up": {
+          "uv": [
+            15,
+            15,
+            15.5,
+            16
+          ],
+          "texture": "#Leaftxt",
+          "rotation": 180
+        },
+        "north": {
+          "uv": [
+            15,
+            3.5,
+            15.5,
+            4
+          ],
+          "texture": "#Leaftxt"
+        },
+        "south": {
+          "uv": [
+            0.5,
+            3.5,
+            1,
+            4
+          ],
+          "texture": "#Leaftxt"
+        },
+        "west": {
+          "uv": [
+            0,
+            3.5,
+            1,
+            4
+          ],
+          "texture": "#Leaftxt"
+        },
+        "east": {
+          "uv": [
+            15,
+            3.5,
+            16,
+            4
+          ],
+          "texture": "#Leaftxt"
+        }
+      }
+    },
+    {
+      "__comment": "White_Flower45",
+      "from": [
+        1,
+        10.9,
+        13.1
+      ],
+      "to": [
+        1.3,
+        11.2,
+        14
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            15,
+            14.5,
+            15.5,
+            16
+          ],
+          "texture": "#Leaftxt",
+          "rotation": 180
+        },
+        "up": {
+          "uv": [
+            15,
+            0,
+            15.5,
+            1.5
+          ],
+          "texture": "#Leaftxt",
+          "rotation": 180
+        },
+        "north": {
+          "uv": [
+            15,
+            3,
+            15.5,
+            3.5
+          ],
+          "texture": "#Leaftxt"
+        },
+        "south": {
+          "uv": [
+            0.5,
+            3,
+            1,
+            3.5
+          ],
+          "texture": "#Leaftxt"
+        },
+        "west": {
+          "uv": [
+            14.5,
+            3,
+            16,
+            3.5
+          ],
+          "texture": "#Leaftxt"
+        },
+        "east": {
+          "uv": [
+            0,
+            3,
+            1.5,
+            3.5
+          ],
+          "texture": "#Leaftxt"
+        }
+      }
+    },
+    {
+      "__comment": "White_Flower46",
+      "from": [
+        1,
+        11.2,
+        12.8
+      ],
+      "to": [
+        1.3,
+        11.5,
+        13.4
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            15,
+            14,
+            15.5,
+            15
+          ],
+          "texture": "#Leaftxt",
+          "rotation": 180
+        },
+        "up": {
+          "uv": [
+            15,
+            1,
+            15.5,
+            2
+          ],
+          "texture": "#Leaftxt",
+          "rotation": 180
+        },
+        "north": {
+          "uv": [
+            15,
+            2.5,
+            15.5,
+            3
+          ],
+          "texture": "#Leaftxt"
+        },
+        "south": {
+          "uv": [
+            0.5,
+            2.5,
+            1,
+            3
+          ],
+          "texture": "#Leaftxt"
+        },
+        "west": {
+          "uv": [
+            14,
+            2.5,
+            15,
+            3
+          ],
+          "texture": "#Leaftxt"
+        },
+        "east": {
+          "uv": [
+            1,
+            2.5,
+            2,
+            3
+          ],
+          "texture": "#Leaftxt"
+        }
+      }
+    },
+    {
+      "__comment": "White_Flower47",
+      "from": [
+        0.7,
+        11.5,
+        12.8
+      ],
+      "to": [
+        1.3,
+        11.8,
+        13.1
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            15,
+            14,
+            15.5,
+            14.5
+          ],
+          "texture": "#Leaftxt",
+          "rotation": 180
+        },
+        "up": {
+          "uv": [
+            15,
+            1.5,
+            15.5,
+            2
+          ],
+          "texture": "#Leaftxt",
+          "rotation": 180
+        },
+        "north": {
+          "uv": [
+            15,
+            2,
+            15.5,
+            2.5
+          ],
+          "texture": "#Leaftxt"
+        },
+        "south": {
+          "uv": [
+            0.5,
+            2,
+            1,
+            2.5
+          ],
+          "texture": "#Leaftxt"
+        },
+        "west": {
+          "uv": [
+            14,
+            2,
+            14.5,
+            2.5
+          ],
+          "texture": "#Leaftxt"
+        },
+        "east": {
+          "uv": [
+            1.5,
+            2,
+            2,
+            2.5
+          ],
+          "texture": "#Leaftxt"
+        }
+      }
+    },
+    {
+      "__comment": "White_Flower48",
+      "from": [
+        0.7,
+        11.8,
+        12.5
+      ],
+      "to": [
+        1,
+        12.4,
+        12.8
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            15,
+            13.5,
+            15.5,
+            14
+          ],
+          "texture": "#Leaftxt",
+          "rotation": 180
+        },
+        "up": {
+          "uv": [
+            15,
+            2,
+            15.5,
+            2.5
+          ],
+          "texture": "#Leaftxt",
+          "rotation": 180
+        },
+        "north": {
+          "uv": [
+            15,
+            1,
+            15.5,
+            2
+          ],
+          "texture": "#Leaftxt"
+        },
+        "south": {
+          "uv": [
+            0.5,
+            1,
+            1,
+            2
+          ],
+          "texture": "#Leaftxt"
+        },
+        "west": {
+          "uv": [
+            13.5,
+            1,
+            14,
+            2
+          ],
+          "texture": "#Leaftxt"
+        },
+        "east": {
+          "uv": [
+            2,
+            1,
+            2.5,
+            2
+          ],
+          "texture": "#Leaftxt"
+        }
+      }
+    },
+    {
+      "__comment": "White_Flower49",
+      "from": [
+        0.4,
+        12.1,
+        12.2
+      ],
+      "to": [
+        1,
+        12.4,
+        12.5
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            15,
+            13,
+            15.5,
+            13.5
+          ],
+          "texture": "#Leaftxt",
+          "rotation": 180
+        },
+        "up": {
+          "uv": [
+            15,
+            2.5,
+            15.5,
+            3
+          ],
+          "texture": "#Leaftxt",
+          "rotation": 180
+        },
+        "north": {
+          "uv": [
+            15,
+            1,
+            15.5,
+            1.5
+          ],
+          "texture": "#Leaftxt"
+        },
+        "south": {
+          "uv": [
+            0.5,
+            1,
+            1,
+            1.5
+          ],
+          "texture": "#Leaftxt"
+        },
+        "west": {
+          "uv": [
+            13,
+            1,
+            13.5,
+            1.5
+          ],
+          "texture": "#Leaftxt"
+        },
+        "east": {
+          "uv": [
+            2.5,
+            1,
+            3,
+            1.5
+          ],
+          "texture": "#Leaftxt"
+        }
+      }
+    },
+    {
+      "__comment": "White_Flower50",
+      "from": [
+        1.3,
+        9.7,
+        16.4
+      ],
+      "to": [
+        1.6,
+        10.3,
+        17
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            1,
+            15.2,
+            1.3,
+            15.8
+          ],
+          "texture": "#Leaftxt"
+        },
+        "up": {
+          "uv": [
+            1,
+            0.2000008,
+            1.3,
+            0.8000011
+          ],
+          "texture": "#Leaftxt"
+        },
+        "north": {
+          "uv": [
+            14.7,
+            6,
+            15,
+            6.6
+          ],
+          "texture": "#Leaftxt"
+        },
+        "south": {
+          "uv": [
+            1,
+            6,
+            1.3,
+            6.6
+          ],
+          "texture": "#Leaftxt"
+        },
+        "west": {
+          "uv": [
+            0.2000008,
+            6,
+            0.8000011,
+            6.6
+          ],
+          "texture": "#Leaftxt"
+        },
+        "east": {
+          "uv": [
+            15.2,
+            6,
+            15.8,
+            6.6
+          ],
+          "texture": "#Leaftxt"
+        }
+      }
+    },
+    {
+      "__comment": "White_Flower51",
+      "from": [
+        1.3,
+        10,
+        17
+      ],
+      "to": [
+        1.6,
+        10.3,
+        17.6
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            1,
+            14.6,
+            1.3,
+            15.2
+          ],
+          "texture": "#Leaftxt"
+        },
+        "up": {
+          "uv": [
+            1,
+            0.7999992,
+            1.3,
+            1.4
+          ],
+          "texture": "#Leaftxt"
+        },
+        "north": {
+          "uv": [
+            14.7,
+            6,
+            15,
+            6.3
+          ],
+          "texture": "#Leaftxt"
+        },
+        "south": {
+          "uv": [
+            1,
+            6,
+            1.3,
+            6.3
+          ],
+          "texture": "#Leaftxt"
+        },
+        "west": {
+          "uv": [
+            0.7999992,
+            6,
+            1.4,
+            6.3
+          ],
+          "texture": "#Leaftxt"
+        },
+        "east": {
+          "uv": [
+            14.6,
+            6,
+            15.2,
+            6.3
+          ],
+          "texture": "#Leaftxt"
+        }
+      }
+    },
+    {
+      "__comment": "White_Flower52",
+      "from": [
+        1.3,
+        10.3,
+        17.3
+      ],
+      "to": [
+        1.6,
+        10.6,
+        17.9
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            1,
+            14.3,
+            1.3,
+            14.9
+          ],
+          "texture": "#Leaftxt"
+        },
+        "up": {
+          "uv": [
+            1,
+            1.1,
+            1.3,
+            1.700001
+          ],
+          "texture": "#Leaftxt"
+        },
+        "north": {
+          "uv": [
+            14.7,
+            5.7,
+            15,
+            6
+          ],
+          "texture": "#Leaftxt"
+        },
+        "south": {
+          "uv": [
+            1,
+            5.7,
+            1.3,
+            6
+          ],
+          "texture": "#Leaftxt"
+        },
+        "west": {
+          "uv": [
+            1.1,
+            5.7,
+            1.700001,
+            6
+          ],
+          "texture": "#Leaftxt"
+        },
+        "east": {
+          "uv": [
+            14.3,
+            5.7,
+            14.9,
+            6
+          ],
+          "texture": "#Leaftxt"
+        }
+      }
+    },
+    {
+      "__comment": "White_Flower53",
+      "from": [
+        1.3,
+        10.6,
+        17.6
+      ],
+      "to": [
+        1.6,
+        10.9,
+        18.5
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            1,
+            13.7,
+            1.3,
+            14.6
+          ],
+          "texture": "#Leaftxt"
+        },
+        "up": {
+          "uv": [
+            1,
+            1.4,
+            1.3,
+            2.299999
+          ],
+          "texture": "#Leaftxt"
+        },
+        "north": {
+          "uv": [
+            14.7,
+            5.4,
+            15,
+            5.7
+          ],
+          "texture": "#Leaftxt"
+        },
+        "south": {
+          "uv": [
+            1,
+            5.4,
+            1.3,
+            5.7
+          ],
+          "texture": "#Leaftxt"
+        },
+        "west": {
+          "uv": [
+            1.4,
+            5.4,
+            2.299999,
+            5.7
+          ],
+          "texture": "#Leaftxt"
+        },
+        "east": {
+          "uv": [
+            13.7,
+            5.4,
+            14.6,
+            5.7
+          ],
+          "texture": "#Leaftxt"
+        }
+      }
+    },
+    {
+      "__comment": "White_Flower54",
+      "from": [
+        1,
+        10.9,
+        18.2
+      ],
+      "to": [
+        1.3,
+        11.2,
+        19.1
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            0.6999998,
+            13.1,
+            0.9999998,
+            14
+          ],
+          "texture": "#Leaftxt"
+        },
+        "up": {
+          "uv": [
+            0.6999998,
+            2,
+            0.9999998,
+            2.9
+          ],
+          "texture": "#Leaftxt"
+        },
+        "north": {
+          "uv": [
+            15,
+            5.099999,
+            15.3,
+            5.4
+          ],
+          "texture": "#Leaftxt"
+        },
+        "south": {
+          "uv": [
+            0.6999998,
+            5.099999,
+            0.9999998,
+            5.4
+          ],
+          "texture": "#Leaftxt"
+        },
+        "west": {
+          "uv": [
+            2,
+            5.099999,
+            2.9,
+            5.4
+          ],
+          "texture": "#Leaftxt"
+        },
+        "east": {
+          "uv": [
+            13.1,
+            5.099999,
+            14,
+            5.4
+          ],
+          "texture": "#Leaftxt"
+        }
+      }
+    },
+    {
+      "__comment": "White_Flower55",
+      "from": [
+        1,
+        11.2,
+        18.8
+      ],
+      "to": [
+        1.3,
+        11.5,
+        19.4
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            0.6999998,
+            12.8,
+            0.9999998,
+            13.4
+          ],
+          "texture": "#Leaftxt"
+        },
+        "up": {
+          "uv": [
+            0.6999998,
+            2.6,
+            0.9999998,
+            3.200001
+          ],
+          "texture": "#Leaftxt"
+        },
+        "north": {
+          "uv": [
+            15,
+            4.8,
+            15.3,
+            5.1
+          ],
+          "texture": "#Leaftxt"
+        },
+        "south": {
+          "uv": [
+            0.6999998,
+            4.8,
+            0.9999998,
+            5.1
+          ],
+          "texture": "#Leaftxt"
+        },
+        "west": {
+          "uv": [
+            2.6,
+            4.8,
+            3.200001,
+            5.1
+          ],
+          "texture": "#Leaftxt"
+        },
+        "east": {
+          "uv": [
+            12.8,
+            4.8,
+            13.4,
+            5.1
+          ],
+          "texture": "#Leaftxt"
+        }
+      }
+    },
+    {
+      "__comment": "White_Flower56",
+      "from": [
+        0.7,
+        11.5,
+        19.1
+      ],
+      "to": [
+        1.3,
+        11.8,
+        19.4
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            0.4000001,
+            12.8,
+            1,
+            13.1
+          ],
+          "texture": "#Leaftxt"
+        },
+        "up": {
+          "uv": [
+            0.4000001,
+            2.9,
+            1,
+            3.2
+          ],
+          "texture": "#Leaftxt"
+        },
+        "north": {
+          "uv": [
+            15,
+            4.5,
+            15.6,
+            4.8
+          ],
+          "texture": "#Leaftxt"
+        },
+        "south": {
+          "uv": [
+            0.4000001,
+            4.5,
+            1,
+            4.8
+          ],
+          "texture": "#Leaftxt"
+        },
+        "west": {
+          "uv": [
+            2.9,
+            4.5,
+            3.199999,
+            4.8
+          ],
+          "texture": "#Leaftxt"
+        },
+        "east": {
+          "uv": [
+            12.8,
+            4.5,
+            13.1,
+            4.8
+          ],
+          "texture": "#Leaftxt"
+        }
+      }
+    },
+    {
+      "__comment": "White_Flower57",
+      "from": [
+        0.7,
+        11.8,
+        19.4
+      ],
+      "to": [
+        1,
+        12.4,
+        19.7
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            0.4000001,
+            12.5,
+            0.7000001,
+            12.8
+          ],
+          "texture": "#Leaftxt"
+        },
+        "up": {
+          "uv": [
+            0.4000001,
+            3.200001,
+            0.7000001,
+            3.500001
+          ],
+          "texture": "#Leaftxt"
+        },
+        "north": {
+          "uv": [
+            15.3,
+            3.9,
+            15.6,
+            4.5
+          ],
+          "texture": "#Leaftxt"
+        },
+        "south": {
+          "uv": [
+            0.4000001,
+            3.9,
+            0.7000001,
+            4.5
+          ],
+          "texture": "#Leaftxt"
+        },
+        "west": {
+          "uv": [
+            3.200001,
+            3.9,
+            3.5,
+            4.5
+          ],
+          "texture": "#Leaftxt"
+        },
+        "east": {
+          "uv": [
+            12.5,
+            3.9,
+            12.8,
+            4.5
+          ],
+          "texture": "#Leaftxt"
+        }
+      }
+    },
+    {
+      "__comment": "White_Flower58",
+      "from": [
+        0.4,
+        12.1,
+        19.7
+      ],
+      "to": [
+        1,
+        12.4,
+        20
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            0.0999999,
+            12.2,
+            0.6999999,
+            12.5
+          ],
+          "texture": "#Leaftxt"
+        },
+        "up": {
+          "uv": [
+            0.0999999,
+            3.5,
+            0.6999999,
+            3.8
+          ],
+          "texture": "#Leaftxt"
+        },
+        "north": {
+          "uv": [
+            15.3,
+            3.9,
+            15.9,
+            4.2
+          ],
+          "texture": "#Leaftxt"
+        },
+        "south": {
+          "uv": [
+            0.0999999,
+            3.9,
+            0.6999999,
+            4.2
+          ],
+          "texture": "#Leaftxt"
+        },
+        "west": {
+          "uv": [
+            3.5,
+            3.9,
+            3.799999,
+            4.2
+          ],
+          "texture": "#Leaftxt"
+        },
+        "east": {
+          "uv": [
+            12.2,
+            3.9,
+            12.5,
+            4.2
+          ],
+          "texture": "#Leaftxt"
+        }
+      }
+    },
+    {
+      "__comment": "White_Flower59",
+      "from": [
+        1.3,
+        9.099999,
+        14.9
+      ],
+      "to": [
+        1.6,
+        9.4,
+        15.8
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            0,
+            4,
+            0.5,
+            5.5
+          ],
+          "texture": "#Leaftxt",
+          "rotation": 180
+        },
+        "up": {
+          "uv": [
+            0,
+            10.5,
+            0.5,
+            12
+          ],
+          "texture": "#Leaftxt",
+          "rotation": 180
+        },
+        "north": {
+          "uv": [
+            0,
+            6,
+            0.5,
+            6.5
+          ],
+          "texture": "#Leaftxt"
+        },
+        "south": {
+          "uv": [
+            15.5,
+            6,
+            16,
+            6.5
+          ],
+          "texture": "#Leaftxt"
+        },
+        "west": {
+          "uv": [
+            4,
+            6,
+            5.5,
+            6.5
+          ],
+          "texture": "#Leaftxt"
+        },
+        "east": {
+          "uv": [
+            10.5,
+            6,
+            12,
+            6.5
+          ],
+          "texture": "#Leaftxt"
+        }
+      }
+    },
+    {
+      "__comment": "White_Flower60",
+      "from": [
+        1,
+        8.8,
+        14.3
+      ],
+      "to": [
+        1.3,
+        9.1,
+        15.2
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            15.5,
+            0.5,
+            16,
+            2
+          ],
+          "texture": "#Leaftxt",
+          "rotation": 180
+        },
+        "up": {
+          "uv": [
+            15.5,
+            14,
+            16,
+            15.5
+          ],
+          "texture": "#Leaftxt",
+          "rotation": 180
+        },
+        "north": {
+          "uv": [
+            15.5,
+            6.5,
+            16,
+            7
+          ],
+          "texture": "#Leaftxt"
+        },
+        "south": {
+          "uv": [
+            0,
+            6.5,
+            0.5,
+            7
+          ],
+          "texture": "#Leaftxt"
+        },
+        "west": {
+          "uv": [
+            0.5,
+            6.5,
+            2,
+            7
+          ],
+          "texture": "#Leaftxt"
+        },
+        "east": {
+          "uv": [
+            14,
+            6.5,
+            15.5,
+            7
+          ],
+          "texture": "#Leaftxt"
+        }
+      }
+    },
+    {
+      "__comment": "White_Flower61",
+      "from": [
+        0.7,
+        8.5,
+        13.4
+      ],
+      "to": [
+        1,
+        8.8,
+        14.6
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            15,
+            0,
+            15.5,
+            1
+          ],
+          "texture": "#Leaftxt",
+          "rotation": 180
+        },
+        "up": {
+          "uv": [
+            15,
+            15,
+            15.5,
+            16
+          ],
+          "texture": "#Leaftxt",
+          "rotation": 180
+        },
+        "north": {
+          "uv": [
+            15,
+            7,
+            15.5,
+            7.5
+          ],
+          "texture": "#Leaftxt"
+        },
+        "south": {
+          "uv": [
+            0.5,
+            7,
+            1,
+            7.5
+          ],
+          "texture": "#Leaftxt"
+        },
+        "west": {
+          "uv": [
+            0,
+            7,
+            1,
+            7.5
+          ],
+          "texture": "#Leaftxt"
+        },
+        "east": {
+          "uv": [
+            15,
+            7,
+            16,
+            7.5
+          ],
+          "texture": "#Leaftxt"
+        }
+      }
+    },
+    {
+      "__comment": "White_Flower62",
+      "from": [
+        0.4,
+        8.2,
+        13.1
+      ],
+      "to": [
+        1,
+        8.5,
+        14.3
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            14.5,
+            0,
+            15.5,
+            0.5
+          ],
+          "texture": "#Leaftxt",
+          "rotation": 180
+        },
+        "up": {
+          "uv": [
+            14.5,
+            15.5,
+            15.5,
+            16
+          ],
+          "texture": "#Leaftxt",
+          "rotation": 180
+        },
+        "north": {
+          "uv": [
+            14.5,
+            7.5,
+            15.5,
+            8
+          ],
+          "texture": "#Leaftxt"
+        },
+        "south": {
+          "uv": [
+            0.5,
+            7.5,
+            1.5,
+            8
+          ],
+          "texture": "#Leaftxt"
+        },
+        "west": {
+          "uv": [
+            0,
+            7.5,
+            0.5,
+            8
+          ],
+          "texture": "#Leaftxt"
+        },
+        "east": {
+          "uv": [
+            15.5,
+            7.5,
+            16,
+            8
+          ],
+          "texture": "#Leaftxt"
+        }
+      }
+    },
+    {
+      "__comment": "White_Flower63",
+      "from": [
+        0.4,
+        7.9,
+        12.8
+      ],
+      "to": [
+        0.7,
+        8.2,
+        14
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            14.5,
+            14,
+            15,
+            16
+          ],
+          "texture": "#Leaftxt",
+          "rotation": 180
+        },
+        "up": {
+          "uv": [
+            14.5,
+            0,
+            15,
+            2
+          ],
+          "texture": "#Leaftxt",
+          "rotation": 180
+        },
+        "north": {
+          "uv": [
+            14.5,
+            8,
+            15,
+            8.5
+          ],
+          "texture": "#Leaftxt"
+        },
+        "south": {
+          "uv": [
+            1,
+            8,
+            1.5,
+            8.5
+          ],
+          "texture": "#Leaftxt"
+        },
+        "west": {
+          "uv": [
+            14,
+            8,
+            16,
+            8.5
+          ],
+          "texture": "#Leaftxt"
+        },
+        "east": {
+          "uv": [
+            0,
+            8,
+            2,
+            8.5
+          ],
+          "texture": "#Leaftxt"
+        }
+      }
+    },
+    {
+      "__comment": "White_Flower64",
+      "from": [
+        0.09999999,
+        7.6,
+        12.2
+      ],
+      "to": [
+        0.7,
+        7.9,
+        13.4
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            14,
+            13,
+            15,
+            15
+          ],
+          "texture": "#Leaftxt",
+          "rotation": 180
+        },
+        "up": {
+          "uv": [
+            14,
+            1,
+            15,
+            3
+          ],
+          "texture": "#Leaftxt",
+          "rotation": 180
+        },
+        "north": {
+          "uv": [
+            14,
+            8.5,
+            15,
+            9
+          ],
+          "texture": "#Leaftxt"
+        },
+        "south": {
+          "uv": [
+            1,
+            8.5,
+            2,
+            9
+          ],
+          "texture": "#Leaftxt"
+        },
+        "west": {
+          "uv": [
+            13,
+            8.5,
+            15,
+            9
+          ],
+          "texture": "#Leaftxt"
+        },
+        "east": {
+          "uv": [
+            1,
+            8.5,
+            3,
+            9
+          ],
+          "texture": "#Leaftxt"
+        }
+      }
+    },
+    {
+      "__comment": "White_Flower65",
+      "from": [
+        -0.2,
+        7.9,
+        11.9
+      ],
+      "to": [
+        0.4,
+        8.2,
+        12.5
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            13.5,
+            12.5,
+            14.5,
+            13.5
+          ],
+          "texture": "#Leaftxt",
+          "rotation": 180
+        },
+        "up": {
+          "uv": [
+            13.5,
+            2.5,
+            14.5,
+            3.5
+          ],
+          "texture": "#Leaftxt",
+          "rotation": 180
+        },
+        "north": {
+          "uv": [
+            13.5,
+            8,
+            14.5,
+            8.5
+          ],
+          "texture": "#Leaftxt"
+        },
+        "south": {
+          "uv": [
+            1.5,
+            8,
+            2.5,
+            8.5
+          ],
+          "texture": "#Leaftxt"
+        },
+        "west": {
+          "uv": [
+            12.5,
+            8,
+            13.5,
+            8.5
+          ],
+          "texture": "#Leaftxt"
+        },
+        "east": {
+          "uv": [
+            2.5,
+            8,
+            3.5,
+            8.5
+          ],
+          "texture": "#Leaftxt"
+        }
+      }
+    },
+    {
+      "__comment": "White_Flower66",
+      "from": [
+        1.3,
+        9.099999,
+        16.4
+      ],
+      "to": [
+        1.6,
+        9.4,
+        17.3
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            1,
+            14.9,
+            1.3,
+            15.8
+          ],
+          "texture": "#Leaftxt"
+        },
+        "up": {
+          "uv": [
+            1,
+            0.2000008,
+            1.3,
+            1.1
+          ],
+          "texture": "#Leaftxt"
+        },
+        "north": {
+          "uv": [
+            14.7,
+            6.900001,
+            15,
+            7.200001
+          ],
+          "texture": "#Leaftxt"
+        },
+        "south": {
+          "uv": [
+            1,
+            6.900001,
+            1.3,
+            7.200001
+          ],
+          "texture": "#Leaftxt"
+        },
+        "west": {
+          "uv": [
+            0.2000008,
+            6.900001,
+            1.1,
+            7.200001
+          ],
+          "texture": "#Leaftxt"
+        },
+        "east": {
+          "uv": [
+            14.9,
+            6.900001,
+            15.8,
+            7.200001
+          ],
+          "texture": "#Leaftxt"
+        }
+      }
+    },
+    {
+      "__comment": "White_Flower67",
+      "from": [
+        1,
+        8.8,
+        17
+      ],
+      "to": [
+        1.3,
+        9.1,
+        17.9
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            0.6999998,
+            14.3,
+            0.9999998,
+            15.2
+          ],
+          "texture": "#Leaftxt"
+        },
+        "up": {
+          "uv": [
+            0.6999998,
+            0.7999992,
+            0.9999998,
+            1.699999
+          ],
+          "texture": "#Leaftxt"
+        },
+        "north": {
+          "uv": [
+            15,
+            7.2,
+            15.3,
+            7.5
+          ],
+          "texture": "#Leaftxt"
+        },
+        "south": {
+          "uv": [
+            0.6999998,
+            7.2,
+            0.9999998,
+            7.5
+          ],
+          "texture": "#Leaftxt"
+        },
+        "west": {
+          "uv": [
+            0.7999992,
+            7.2,
+            1.699999,
+            7.5
+          ],
+          "texture": "#Leaftxt"
+        },
+        "east": {
+          "uv": [
+            14.3,
+            7.2,
+            15.2,
+            7.5
+          ],
+          "texture": "#Leaftxt"
+        }
+      }
+    },
+    {
+      "__comment": "White_Flower68",
+      "from": [
+        0.7,
+        8.5,
+        17.6
+      ],
+      "to": [
+        1,
+        8.8,
+        18.8
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            0.4000001,
+            13.4,
+            0.7000001,
+            14.6
+          ],
+          "texture": "#Leaftxt"
+        },
+        "up": {
+          "uv": [
+            0.4000001,
+            1.4,
+            0.7000001,
+            2.599999
+          ],
+          "texture": "#Leaftxt"
+        },
+        "north": {
+          "uv": [
+            15.3,
+            7.5,
+            15.6,
+            7.8
+          ],
+          "texture": "#Leaftxt"
+        },
+        "south": {
+          "uv": [
+            0.4000001,
+            7.5,
+            0.7000001,
+            7.8
+          ],
+          "texture": "#Leaftxt"
+        },
+        "west": {
+          "uv": [
+            1.4,
+            7.5,
+            2.6,
+            7.8
+          ],
+          "texture": "#Leaftxt"
+        },
+        "east": {
+          "uv": [
+            13.4,
+            7.5,
+            14.6,
+            7.8
+          ],
+          "texture": "#Leaftxt"
+        }
+      }
+    },
+    {
+      "__comment": "White_Flower69",
+      "from": [
+        0.4,
+        8.2,
+        17.9
+      ],
+      "to": [
+        1,
+        8.5,
+        19.1
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            0.0999999,
+            13.1,
+            0.6999999,
+            14.3
+          ],
+          "texture": "#Leaftxt"
+        },
+        "up": {
+          "uv": [
+            0.0999999,
+            1.700001,
+            0.6999999,
+            2.900001
+          ],
+          "texture": "#Leaftxt"
+        },
+        "north": {
+          "uv": [
+            15.3,
+            7.8,
+            15.9,
+            8.1
+          ],
+          "texture": "#Leaftxt"
+        },
+        "south": {
+          "uv": [
+            0.0999999,
+            7.8,
+            0.6999999,
+            8.1
+          ],
+          "texture": "#Leaftxt"
+        },
+        "west": {
+          "uv": [
+            1.700001,
+            7.8,
+            2.900002,
+            8.1
+          ],
+          "texture": "#Leaftxt"
+        },
+        "east": {
+          "uv": [
+            13.1,
+            7.8,
+            14.3,
+            8.1
+          ],
+          "texture": "#Leaftxt"
+        }
+      }
+    },
+    {
+      "__comment": "White_Flower70",
+      "from": [
+        0.4,
+        7.9,
+        18.2
+      ],
+      "to": [
+        0.7,
+        8.2,
+        19.4
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            0.0999999,
+            12.8,
+            0.3999999,
+            14
+          ],
+          "texture": "#Leaftxt"
+        },
+        "up": {
+          "uv": [
+            0.0999999,
+            2,
+            0.3999999,
+            3.2
+          ],
+          "texture": "#Leaftxt"
+        },
+        "north": {
+          "uv": [
+            15.6,
+            8.099999,
+            15.9,
+            8.4
+          ],
+          "texture": "#Leaftxt"
+        },
+        "south": {
+          "uv": [
+            0.0999999,
+            8.099999,
+            0.3999999,
+            8.4
+          ],
+          "texture": "#Leaftxt"
+        },
+        "west": {
+          "uv": [
+            2,
+            8.099999,
+            3.200001,
+            8.4
+          ],
+          "texture": "#Leaftxt"
+        },
+        "east": {
+          "uv": [
+            12.8,
+            8.099999,
+            14,
+            8.4
+          ],
+          "texture": "#Leaftxt"
+        }
+      }
+    },
+    {
+      "__comment": "White_Flower71",
+      "from": [
+        0.09999999,
+        7.6,
+        18.8
+      ],
+      "to": [
+        0.7,
+        7.9,
+        20
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            0,
+            12.2,
+            0.4000002,
+            13.4
+          ],
+          "texture": "#Leaftxt"
+        },
+        "up": {
+          "uv": [
+            0,
+            2.6,
+            0.4000002,
+            3.8
+          ],
+          "texture": "#Leaftxt"
+        },
+        "north": {
+          "uv": [
+            15.6,
+            8.400001,
+            16,
+            8.700001
+          ],
+          "texture": "#Leaftxt"
+        },
+        "south": {
+          "uv": [
+            0,
+            8.400001,
+            0.4000002,
+            8.700001
+          ],
+          "texture": "#Leaftxt"
+        },
+        "west": {
+          "uv": [
+            2.6,
+            8.400001,
+            3.800001,
+            8.700001
+          ],
+          "texture": "#Leaftxt"
+        },
+        "east": {
+          "uv": [
+            12.2,
+            8.400001,
+            13.4,
+            8.700001
+          ],
+          "texture": "#Leaftxt"
+        }
+      }
+    },
+    {
+      "__comment": "White_Flower72",
+      "from": [
+        -0.2,
+        7.9,
+        19.7
+      ],
+      "to": [
+        0.4,
+        8.2,
+        20.3
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            0,
+            11.9,
+            0.1,
+            12.5
+          ],
+          "texture": "#Leaftxt"
+        },
+        "up": {
+          "uv": [
+            0,
+            3.5,
+            0.1,
+            4.1
+          ],
+          "texture": "#Leaftxt"
+        },
+        "north": {
+          "uv": [
+            15.9,
+            8.099999,
+            16,
+            8.4
+          ],
+          "texture": "#Leaftxt"
+        },
+        "south": {
+          "uv": [
+            0,
+            8.099999,
+            0.1,
+            8.4
+          ],
+          "texture": "#Leaftxt"
+        },
+        "west": {
+          "uv": [
+            3.5,
+            8.099999,
+            4.1,
+            8.4
+          ],
+          "texture": "#Leaftxt"
+        },
+        "east": {
+          "uv": [
+            11.9,
+            8.099999,
+            12.5,
+            8.4
+          ],
+          "texture": "#Leaftxt"
+        }
+      }
+    },
+    {
+      "__comment": "White_Bottom_Lip",
+      "from": [
+        0.7,
+        9.099999,
+        15.8
+      ],
+      "to": [
+        1.3,
+        9.4,
+        16.4
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            0.4000001,
+            0,
+            1,
+            0.3999996
+          ],
+          "texture": "#Leaftxt"
+        },
+        "up": {
+          "uv": [
+            0.4000001,
+            15.6,
+            1,
+            16
+          ],
+          "texture": "#Leaftxt"
+        },
+        "north": {
+          "uv": [
+            15,
+            6.900001,
+            15.6,
+            7.200001
+          ],
+          "texture": "#Leaftxt"
+        },
+        "south": {
+          "uv": [
+            0.4000001,
+            6.900001,
+            1,
+            7.200001
+          ],
+          "texture": "#Leaftxt"
+        },
+        "west": {
+          "uv": [
+            15.6,
+            6.900001,
+            16,
+            7.200001
+          ],
+          "texture": "#Leaftxt"
+        },
+        "east": {
+          "uv": [
+            0,
+            6.900001,
+            0.3999996,
+            7.200001
+          ],
+          "texture": "#Leaftxt"
+        }
+      }
+    },
+    {
+      "__comment": "White_Bottom_Lip1",
+      "from": [
+        -0.5,
+        8.8,
+        15.5
+      ],
+      "to": [
+        0.7,
+        9.1,
+        16.7
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            0,
+            0,
+            0.3999999,
+            0.7000008
+          ],
+          "texture": "#Leaftxt"
+        },
+        "up": {
+          "uv": [
+            0,
+            15.3,
+            0.3999999,
+            16
+          ],
+          "texture": "#Leaftxt"
+        },
+        "north": {
+          "uv": [
+            15.6,
+            7.2,
+            16,
+            7.5
+          ],
+          "texture": "#Leaftxt"
+        },
+        "south": {
+          "uv": [
+            0,
+            7.2,
+            0.3999999,
+            7.5
+          ],
+          "texture": "#Leaftxt"
+        },
+        "west": {
+          "uv": [
+            15.3,
+            7.2,
+            16,
+            7.5
+          ],
+          "texture": "#Leaftxt"
+        },
+        "east": {
+          "uv": [
+            0,
+            7.2,
+            0.7000008,
+            7.5
+          ],
+          "texture": "#Leaftxt"
+        }
+      }
+    },
+    {
+      "__comment": "White_Bottom_Lip2",
+      "from": [
+        -1.1,
+        8.5,
+        15.5
+      ],
+      "to": [
+        -0.5,
+        8.8,
+        16.7
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            14.6,
+            0,
+            15.2,
+            0.7000008
+          ],
+          "texture": "#Red"
+        },
+        "up": {
+          "uv": [
+            14.6,
+            15.3,
+            15.2,
+            16
+          ],
+          "texture": "#Red"
+        },
+        "north": {
+          "uv": [
+            0.7999992,
+            7.5,
+            1.4,
+            7.8
+          ],
+          "texture": "#Red"
+        },
+        "south": {
+          "uv": [
+            14.6,
+            7.5,
+            15.2,
+            7.8
+          ],
+          "texture": "#Red"
+        },
+        "west": {
+          "uv": [
+            15.3,
+            7.5,
+            16,
+            7.8
+          ],
+          "texture": "#Red"
+        },
+        "east": {
+          "uv": [
+            0,
+            7.5,
+            0.7000008,
+            7.8
+          ],
+          "texture": "#Red"
+        }
+      }
+    },
+    {
+      "__comment": "White_Bottom_Lip3",
+      "from": [
+        0.4,
+        9.099999,
+        15.5
+      ],
+      "to": [
+        1.3,
+        9.7,
+        15.8
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            0.0999999,
+            0.4000006,
+            0.9999999,
+            0.7000008
+          ],
+          "texture": "#Leaftxt"
+        },
+        "up": {
+          "uv": [
+            0.0999999,
+            15.3,
+            0.9999999,
+            15.6
+          ],
+          "texture": "#Leaftxt"
+        },
+        "north": {
+          "uv": [
+            15,
+            6.6,
+            15.9,
+            7.200001
+          ],
+          "texture": "#Leaftxt"
+        },
+        "south": {
+          "uv": [
+            0.0999999,
+            6.6,
+            0.9999999,
+            7.200001
+          ],
+          "texture": "#Leaftxt"
+        },
+        "west": {
+          "uv": [
+            15.3,
+            6.6,
+            15.6,
+            7.200001
+          ],
+          "texture": "#Leaftxt"
+        },
+        "east": {
+          "uv": [
+            0.4000008,
+            6.6,
+            0.7000008,
+            7.200001
+          ],
+          "texture": "#Leaftxt"
+        }
+      }
+    },
+    {
+      "__comment": "White_Bottom_Lip4",
+      "from": [
+        -0.5,
+        8.8,
+        15.2
+      ],
+      "to": [
+        0.7,
+        9.400001,
+        15.5
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            0,
+            0.6999998,
+            0.3999999,
+            1
+          ],
+          "texture": "#Leaftxt"
+        },
+        "up": {
+          "uv": [
+            0,
+            15,
+            0.3999999,
+            15.3
+          ],
+          "texture": "#Leaftxt"
+        },
+        "north": {
+          "uv": [
+            15.6,
+            6.9,
+            16,
+            7.5
+          ],
+          "texture": "#Leaftxt"
+        },
+        "south": {
+          "uv": [
+            0,
+            6.9,
+            0.3999999,
+            7.5
+          ],
+          "texture": "#Leaftxt"
+        },
+        "west": {
+          "uv": [
+            15,
+            6.9,
+            15.3,
+            7.5
+          ],
+          "texture": "#Leaftxt"
+        },
+        "east": {
+          "uv": [
+            0.7,
+            6.9,
+            1,
+            7.5
+          ],
+          "texture": "#Leaftxt"
+        }
+      }
+    },
+    {
+      "__comment": "White_Bottom_Lip5",
+      "from": [
+        -1.1,
+        8.5,
+        15.2
+      ],
+      "to": [
+        -0.5,
+        9.1,
+        15.5
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            14.6,
+            0.6999998,
+            15.2,
+            1
+          ],
+          "texture": "#Red"
+        },
+        "up": {
+          "uv": [
+            14.6,
+            15,
+            15.2,
+            15.3
+          ],
+          "texture": "#Red"
+        },
+        "north": {
+          "uv": [
+            0.7999992,
+            7.2,
+            1.4,
+            7.8
+          ],
+          "texture": "#Red"
+        },
+        "south": {
+          "uv": [
+            14.6,
+            7.2,
+            15.2,
+            7.8
+          ],
+          "texture": "#Red"
+        },
+        "west": {
+          "uv": [
+            15,
+            7.2,
+            15.3,
+            7.8
+          ],
+          "texture": "#Red"
+        },
+        "east": {
+          "uv": [
+            0.7,
+            7.2,
+            1,
+            7.8
+          ],
+          "texture": "#Red"
+        }
+      }
+    },
+    {
+      "__comment": "White_Bottom_Lip6",
+      "from": [
+        0.7,
+        8.8,
+        15.2
+      ],
+      "to": [
+        1,
+        9.1,
+        17
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            0.4000001,
+            0,
+            0.7000001,
+            1
+          ],
+          "texture": "#Leaftxt"
+        },
+        "up": {
+          "uv": [
+            0.4000001,
+            15,
+            0.7000001,
+            16
+          ],
+          "texture": "#Leaftxt"
+        },
+        "north": {
+          "uv": [
+            15.3,
+            7.2,
+            15.6,
+            7.5
+          ],
+          "texture": "#Leaftxt"
+        },
+        "south": {
+          "uv": [
+            0.4000001,
+            7.2,
+            0.7000001,
+            7.5
+          ],
+          "texture": "#Leaftxt"
+        },
+        "west": {
+          "uv": [
+            15,
+            7.2,
+            16,
+            7.5
+          ],
+          "texture": "#Leaftxt"
+        },
+        "east": {
+          "uv": [
+            0,
+            7.2,
+            1,
+            7.5
+          ],
+          "texture": "#Leaftxt"
+        }
+      }
+    },
+    {
+      "__comment": "White_Bottom_Lip7",
+      "from": [
+        -1.1,
+        8.5,
+        16.7
+      ],
+      "to": [
+        -0.5,
+        9.1,
+        17
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            14.6,
+            15.2,
+            15.2,
+            15.5
+          ],
+          "texture": "#Red"
+        },
+        "up": {
+          "uv": [
+            14.6,
+            0.5,
+            15.2,
+            0.8000002
+          ],
+          "texture": "#Red"
+        },
+        "north": {
+          "uv": [
+            0.7999992,
+            7.2,
+            1.4,
+            7.8
+          ],
+          "texture": "#Red"
+        },
+        "south": {
+          "uv": [
+            14.6,
+            7.2,
+            15.2,
+            7.8
+          ],
+          "texture": "#Red"
+        },
+        "west": {
+          "uv": [
+            0.5,
+            7.2,
+            0.7999992,
+            7.8
+          ],
+          "texture": "#Red"
+        },
+        "east": {
+          "uv": [
+            15.2,
+            7.2,
+            15.5,
+            7.8
+          ],
+          "texture": "#Red"
+        }
+      }
+    },
+    {
+      "__comment": "White_Bottom_Lip8",
+      "from": [
+        -0.5,
+        8.8,
+        16.7
+      ],
+      "to": [
+        0.7,
+        9.400001,
+        17
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            0,
+            15.2,
+            0.3999999,
+            15.5
+          ],
+          "texture": "#Leaftxt"
+        },
+        "up": {
+          "uv": [
+            0,
+            0.5,
+            0.3999999,
+            0.8000002
+          ],
+          "texture": "#Leaftxt"
+        },
+        "north": {
+          "uv": [
+            15.6,
+            6.9,
+            16,
+            7.5
+          ],
+          "texture": "#Leaftxt"
+        },
+        "south": {
+          "uv": [
+            0,
+            6.9,
+            0.3999999,
+            7.5
+          ],
+          "texture": "#Leaftxt"
+        },
+        "west": {
+          "uv": [
+            0.5,
+            6.9,
+            0.7999992,
+            7.5
+          ],
+          "texture": "#Leaftxt"
+        },
+        "east": {
+          "uv": [
+            15.2,
+            6.9,
+            15.5,
+            7.5
+          ],
+          "texture": "#Leaftxt"
+        }
+      }
+    },
+    {
+      "__comment": "White_Bottom_Lip9",
+      "from": [
+        0.4,
+        9.099999,
+        16.4
+      ],
+      "to": [
+        1.3,
+        9.7,
+        16.7
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            0.0999999,
+            15.5,
+            0.9999999,
+            15.8
+          ],
+          "texture": "#Leaftxt"
+        },
+        "up": {
+          "uv": [
+            0.0999999,
+            0.2000008,
+            0.9999999,
+            0.500001
+          ],
+          "texture": "#Leaftxt"
+        },
+        "north": {
+          "uv": [
+            15,
+            6.6,
+            15.9,
+            7.200001
+          ],
+          "texture": "#Leaftxt"
+        },
+        "south": {
+          "uv": [
+            0.0999999,
+            6.6,
+            0.9999999,
+            7.200001
+          ],
+          "texture": "#Leaftxt"
+        },
+        "west": {
+          "uv": [
+            0.2000008,
+            6.6,
+            0.5,
+            7.200001
+          ],
+          "texture": "#Leaftxt"
+        },
+        "east": {
+          "uv": [
+            15.5,
+            6.6,
+            15.8,
+            7.200001
+          ],
+          "texture": "#Leaftxt"
+        }
+      }
+    },
+    {
+      "__comment": "White_Bottom_Lip10",
+      "from": [
+        -0.5,
+        8.5,
+        15.5
+      ],
+      "to": [
+        0.1,
+        8.8,
+        16.7
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            0,
+            0,
+            0.1,
+            0.5
+          ],
+          "texture": "#Red"
+        },
+        "up": {
+          "uv": [
+            0,
+            15.5,
+            0.1,
+            16
+          ],
+          "texture": "#Red"
+        },
+        "north": {
+          "uv": [
+            15.9,
+            7.2,
+            16,
+            7.5
+          ],
+          "texture": "#Red"
+        },
+        "south": {
+          "uv": [
+            0,
+            7.2,
+            0.1,
+            7.5
+          ],
+          "texture": "#Red"
+        },
+        "west": {
+          "uv": [
+            15.5,
+            7.2,
+            16,
+            7.5
+          ],
+          "texture": "#Red"
+        },
+        "east": {
+          "uv": [
+            0,
+            7.2,
+            0.5,
+            7.5
+          ],
+          "texture": "#Red"
+        }
+      }
+    },
+    {
+      "__comment": "Box756",
+      "from": [
+        1.5,
+        9,
+        15.5
+      ],
+      "to": [
+        3,
+        9.5,
+        16.5
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            1.5,
+            0,
+            3,
+            0.5
+          ],
+          "texture": "#Vines"
+        },
+        "up": {
+          "uv": [
+            1.5,
+            15.5,
+            3,
+            16
+          ],
+          "texture": "#Vines"
+        },
+        "north": {
+          "uv": [
+            13,
+            6.5,
+            14.5,
+            7
+          ],
+          "texture": "#Vines"
+        },
+        "south": {
+          "uv": [
+            1.5,
+            6.5,
+            3,
+            7
+          ],
+          "texture": "#Vines"
+        },
+        "west": {
+          "uv": [
+            15.5,
+            6.5,
+            16,
+            7
+          ],
+          "texture": "#Vines"
+        },
+        "east": {
+          "uv": [
+            0,
+            6.5,
+            0.5,
+            7
+          ],
+          "texture": "#Vines"
+        }
+      }
+    },
+    {
+      "__comment": "Box757",
+      "from": [
+        2,
+        8.5,
+        15.5
+      ],
+      "to": [
+        3.5,
+        9,
+        16.5
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            2,
+            0,
+            3.5,
+            0.5
+          ],
+          "texture": "#Vines"
+        },
+        "up": {
+          "uv": [
+            2,
+            15.5,
+            3.5,
+            16
+          ],
+          "texture": "#Vines"
+        },
+        "north": {
+          "uv": [
+            12.5,
+            7,
+            14,
+            7.5
+          ],
+          "texture": "#Vines"
+        },
+        "south": {
+          "uv": [
+            2,
+            7,
+            3.5,
+            7.5
+          ],
+          "texture": "#Vines"
+        },
+        "west": {
+          "uv": [
+            15.5,
+            7,
+            16,
+            7.5
+          ],
+          "texture": "#Vines"
+        },
+        "east": {
+          "uv": [
+            0,
+            7,
+            0.5,
+            7.5
+          ],
+          "texture": "#Vines"
+        }
+      }
+    },
+    {
+      "__comment": "Box758",
+      "from": [
+        3,
+        4.5,
+        15.5
+      ],
+      "to": [
+        3.5,
+        8,
+        16.5
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            3,
+            0,
+            3.5,
+            0.5
+          ],
+          "texture": "#Vines"
+        },
+        "up": {
+          "uv": [
+            3,
+            15.5,
+            3.5,
+            16
+          ],
+          "texture": "#Vines"
+        },
+        "north": {
+          "uv": [
+            12.5,
+            8,
+            13,
+            11.5
+          ],
+          "texture": "#Vines"
+        },
+        "south": {
+          "uv": [
+            3,
+            8,
+            3.5,
+            11.5
+          ],
+          "texture": "#Vines"
+        },
+        "west": {
+          "uv": [
+            15.5,
+            8,
+            16,
+            11.5
+          ],
+          "texture": "#Vines"
+        },
+        "east": {
+          "uv": [
+            0,
+            8,
+            0.5,
+            11.5
+          ],
+          "texture": "#Vines"
+        }
+      }
+    },
+    {
+      "__comment": "Box759",
+      "from": [
+        2.5,
+        8,
+        15.5
+      ],
+      "to": [
+        3.5,
+        8.5,
+        16.5
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            2.5,
+            9,
+            3.5,
+            10
+          ],
+          "texture": "#Vines"
+        },
+        "up": {
+          "uv": [
+            2.5,
+            6,
+            3.5,
+            7
+          ],
+          "texture": "#Vines"
+        },
+        "north": {
+          "uv": [
+            12.5,
+            7.5,
+            13.5,
+            8
+          ],
+          "texture": "#Vines"
+        },
+        "south": {
+          "uv": [
+            2.5,
+            7.5,
+            3.5,
+            8
+          ],
+          "texture": "#Vines"
+        },
+        "west": {
+          "uv": [
+            6,
+            7.5,
+            7,
+            8
+          ],
+          "texture": "#Vines"
+        },
+        "east": {
+          "uv": [
+            9,
+            7.5,
+            10,
+            8
+          ],
+          "texture": "#Vines"
+        }
+      }
+    },
+    {
+      "__comment": "Box760",
+      "from": [
+        3.5,
+        4,
+        15.5
+      ],
+      "to": [
+        4,
+        5.5,
+        16.5
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            3.5,
+            0,
+            4,
+            0.5
+          ],
+          "texture": "#Vines"
+        },
+        "up": {
+          "uv": [
+            3.5,
+            15.5,
+            4,
+            16
+          ],
+          "texture": "#Vines"
+        },
+        "north": {
+          "uv": [
+            12,
+            10.5,
+            12.5,
+            12
+          ],
+          "texture": "#Vines"
+        },
+        "south": {
+          "uv": [
+            3.5,
+            10.5,
+            4,
+            12
+          ],
+          "texture": "#Vines"
+        },
+        "west": {
+          "uv": [
+            15.5,
+            10.5,
+            16,
+            12
+          ],
+          "texture": "#Vines"
+        },
+        "east": {
+          "uv": [
+            0,
+            10.5,
+            0.5,
+            12
+          ],
+          "texture": "#Vines"
+        }
+      }
+    },
+    {
+      "__comment": "Box761",
+      "from": [
+        4,
+        3.5,
+        15.5
+      ],
+      "to": [
+        4.5,
+        4.5,
+        16.5
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            4,
+            0,
+            4.5,
+            0.5
+          ],
+          "texture": "#Vines"
+        },
+        "up": {
+          "uv": [
+            4,
+            15.5,
+            4.5,
+            16
+          ],
+          "texture": "#Vines"
+        },
+        "north": {
+          "uv": [
+            11.5,
+            11.5,
+            12,
+            12.5
+          ],
+          "texture": "#Vines"
+        },
+        "south": {
+          "uv": [
+            4,
+            11.5,
+            4.5,
+            12.5
+          ],
+          "texture": "#Vines"
+        },
+        "west": {
+          "uv": [
+            15.5,
+            11.5,
+            16,
+            12.5
+          ],
+          "texture": "#Vines"
+        },
+        "east": {
+          "uv": [
+            0,
+            11.5,
+            0.5,
+            12.5
+          ],
+          "texture": "#Vines"
+        }
+      }
+    },
+    {
+      "__comment": "Box762",
+      "from": [
+        4.5,
+        3.5,
+        15.5
+      ],
+      "to": [
+        5.5,
+        4,
+        16.5
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            4.5,
+            0,
+            5.5,
+            0.5
+          ],
+          "texture": "#Vines"
+        },
+        "up": {
+          "uv": [
+            4.5,
+            15.5,
+            5.5,
+            16
+          ],
+          "texture": "#Vines"
+        },
+        "north": {
+          "uv": [
+            10.5,
+            12,
+            11.5,
+            12.5
+          ],
+          "texture": "#Vines"
+        },
+        "south": {
+          "uv": [
+            4.5,
+            12,
+            5.5,
+            12.5
+          ],
+          "texture": "#Vines"
+        },
+        "west": {
+          "uv": [
+            15.5,
+            12,
+            16,
+            12.5
+          ],
+          "texture": "#Vines"
+        },
+        "east": {
+          "uv": [
+            0,
+            12,
+            0.5,
+            12.5
+          ],
+          "texture": "#Vines"
+        }
+      }
+    },
+    {
+      "__comment": "Box763",
+      "from": [
+        3.5,
+        6.5,
+        15.5
+      ],
+      "to": [
+        4,
+        8.5,
+        16.5
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            3.5,
+            0,
+            4,
+            0.5
+          ],
+          "texture": "#Vines"
+        },
+        "up": {
+          "uv": [
+            3.5,
+            15.5,
+            4,
+            16
+          ],
+          "texture": "#Vines"
+        },
+        "north": {
+          "uv": [
+            12,
+            7.5,
+            12.5,
+            9.5
+          ],
+          "texture": "#Vines"
+        },
+        "south": {
+          "uv": [
+            3.5,
+            7.5,
+            4,
+            9.5
+          ],
+          "texture": "#Vines"
+        },
+        "west": {
+          "uv": [
+            15.5,
+            7.5,
+            16,
+            9.5
+          ],
+          "texture": "#Vines"
+        },
+        "east": {
+          "uv": [
+            0,
+            7.5,
+            0.5,
+            9.5
+          ],
+          "texture": "#Vines"
+        }
+      }
+    },
+    {
+      "__comment": "Box764",
+      "from": [
+        1.5,
+        9.5,
+        15.5
+      ],
+      "to": [
+        2.5,
+        10,
+        16.5
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            1.5,
+            0,
+            2.5,
+            0.5
+          ],
+          "texture": "#Vines"
+        },
+        "up": {
+          "uv": [
+            1.5,
+            15.5,
+            2.5,
+            16
+          ],
+          "texture": "#Vines"
+        },
+        "north": {
+          "uv": [
+            13.5,
+            6,
+            14.5,
+            6.5
+          ],
+          "texture": "#Vines"
+        },
+        "south": {
+          "uv": [
+            1.5,
+            6,
+            2.5,
+            6.5
+          ],
+          "texture": "#Vines"
+        },
+        "west": {
+          "uv": [
+            15.5,
+            6,
+            16,
+            6.5
+          ],
+          "texture": "#Vines"
+        },
+        "east": {
+          "uv": [
+            0,
+            6,
+            0.5,
+            6.5
+          ],
+          "texture": "#Vines"
+        }
+      }
+    }
+  ],
+  "display": {
+    "gui": {
+      "rotation": [
+        0,
+        90,
+        0
+      ],
+      "translation": [
+        0,
+        -2.086,
+        0
+      ],
+      "scale": [
+        0.4,
+        0.4,
+        0.37
+      ]
+    },
+    "head": {
+      "rotation": [
+        0,
+        -90,
+        0
+      ],
+      "translation": [
+        24.347,
+        6.9608,
+        7.67
+      ],
+      "scale": [
+        3,
+        3,
+        3
+      ]
+    },
+    "ground": {
+      "translation": [
+        0,
+        4.1739,
+        0
+      ]
+    },
+    "fixed": {
+      "rotation": [
+        0,
+        -90,
+        0
+      ],
+      "scale": [
+        0.4782,
+        0.513,
+        0.4521
+      ]
+    }
+  }
+}

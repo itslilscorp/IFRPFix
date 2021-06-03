@@ -12,7 +12,7 @@
       "model": "item/iron_shovel"
     },
     {
-      "_cmd_": "give_@p_minecraft:iron_shovel_1_1_{Unbreakable:1}",
+      "_cmd_": "give_@p_minecraft:iron_shovel_1_1_{unbreakable:1}",
       "predicate": {
         "damaged": 0,
         "damage": 0.004
@@ -20,7 +20,7 @@
       "model": "item/ge/saber_kylo"
     },
     {
-      "_cmd_": "give_@p_minecraft:iron_shovel_1_2_{Unbreakable:1}",
+      "_cmd_": "give_@p_minecraft:iron_shovel_1_2_{unbreakable:1}",
       "predicate": {
         "damaged": 0,
         "damage": 0.008
@@ -28,7 +28,7 @@
       "model": "item/ge/saber_kylo_partial"
     },
     {
-      "_cmd_": "give_@p_minecraft:iron_shovel_1_3_{Unbreakable:1}",
+      "_cmd_": "give_@p_minecraft:iron_shovel_1_3_{unbreakable:1}",
       "predicate": {
         "damaged": 0,
         "damage": 0.012
@@ -36,7 +36,7 @@
       "model": "item/ge/hilt_kylo"
     },
     {
-      "_cmd_": "give_@p_minecraft:iron_shovel_1_4_{Unbreakable:1}",
+      "_cmd_": "give_@p_minecraft:iron_shovel_1_4_{unbreakable:1}",
       "predicate": {
         "damaged": 0,
         "damage": 0.016
@@ -44,7 +44,7 @@
       "model": "item/ge/saber_luke"
     },
     {
-      "_cmd_": "give_@p_minecraft:iron_shovel_1_5_{Unbreakable:1}",
+      "_cmd_": "give_@p_minecraft:iron_shovel_1_5_{unbreakable:1}",
       "predicate": {
         "damaged": 0,
         "damage": 0.020
@@ -52,7 +52,7 @@
       "model": "item/ge/hilt_luke"
     },
     {
-      "_cmd_": "give_@p_minecraft:iron_shovel_1_6_{Unbreakable:1}",
+      "_cmd_": "give_@p_minecraft:iron_shovel_1_6_{unbreakable:1}",
       "predicate": {
         "damaged": 0,
         "damage": 0.024
@@ -60,7 +60,7 @@
       "model": "item/ge/saber_vader"
     },
     {
-      "_cmd_": "give_@p_minecraft:iron_shovel_1_7_{Unbreakable:1}",
+      "_cmd_": "give_@p_minecraft:iron_shovel_1_7_{unbreakable:1}",
       "predicate": {
         "damaged": 0,
         "damage": 0.028
@@ -68,7 +68,7 @@
       "model": "item/ge/hilt_vader"
     },
     {
-      "_cmd_": "give_@p_minecraft:iron_shovel_1_8_{Unbreakable:1}",
+      "_cmd_": "give_@p_minecraft:iron_shovel_1_8_{unbreakable:1}",
       "predicate": {
         "damaged": 0,
         "damage": 0.032
@@ -76,7 +76,7 @@
       "model": "item/players/mouske"
     },
     {
-      "_cmd_": "give_@p_minecraft:iron_shovel_1_9_{Unbreakable:1}",
+      "_cmd_": "give_@p_minecraft:iron_shovel_1_9_{unbreakable:1}",
       "predicate": {
         "damaged": 0,
         "damage": 0.036
@@ -84,7 +84,7 @@
       "model": "item/players/slinx"
     },
     {
-      "_cmd_": "give_@p_minecraft:iron_shovel_1_10_{Unbreakable:1}",
+      "_cmd_": "give_@p_minecraft:iron_shovel_1_10_{unbreakable:1}",
       "predicate": {
         "damaged": 0,
         "damage": 0.040
@@ -92,7 +92,7 @@
       "model": "item/players/imod"
     },
     {
-      "_cmd_": "give_@p_minecraft:iron_shovel_1_11_{Unbreakable:1}",
+      "_cmd_": "give_@p_minecraft:iron_shovel_1_11_{unbreakable:1}",
       "predicate": {
         "damaged": 0,
         "damage": 0.044
@@ -100,7 +100,7 @@
       "model": "item/players/mid"
     },
     {
-      "_cmd_": "give_@p_minecraft:iron_shovel_1_12_{Unbreakable:1}",
+      "_cmd_": "give_@p_minecraft:iron_shovel_1_12_{unbreakable:1}",
       "predicate": {
         "damaged": 0,
         "damage": 0.048
@@ -108,7 +108,7 @@
       "model": "item/players/fan"
     },
     {
-      "_cmd_": "give_@p_minecraft:iron_shovel_1_13_{Unbreakable:1}",
+      "_cmd_": "give_@p_minecraft:iron_shovel_1_13_{unbreakable:1}",
       "predicate": {
         "damaged": 0,
         "damage": 0.052
@@ -116,7 +116,7 @@
       "model": "item/players/flow"
     },
     {
-      "_cmd_": "give_@p_minecraft:iron_shovel_1_14_{Unbreakable:1}",
+      "_cmd_": "give_@p_minecraft:iron_shovel_1_14_{unbreakable:1}",
       "predicate": {
         "damaged": 0,
         "damage": 0.056
@@ -124,7 +124,7 @@
       "model": "item/sabers/rey_1"
     },
     {
-      "_cmd_": "give_@p_minecraft:iron_shovel_1_15_{Unbreakable:1}",
+      "_cmd_": "give_@p_minecraft:iron_shovel_1_15_{unbreakable:1}",
       "predicate": {
         "damaged": 0,
         "damage": 0.060
@@ -132,7 +132,7 @@
       "model": "item/sabers/rey_2"
     },
     {
-      "_cmd_": "give_@p_minecraft:iron_shovel_1_16_{Unbreakable:1}",
+      "_cmd_": "give_@p_minecraft:iron_shovel_1_16_{unbreakable:1}",
       "predicate": {
         "damaged": 0,
         "damage": 0.064
@@ -140,7 +140,7 @@
       "model": "item/sabers/rey_3"
     },
     {
-      "_cmd_": "give_@p_minecraft:iron_shovel_1_17_{Unbreakable:1}",
+      "_cmd_": "give_@p_minecraft:iron_shovel_1_17_{unbreakable:1}",
       "predicate": {
         "damaged": 0,
         "damage": 0.068
@@ -148,7 +148,7 @@
       "model": "item/sabers/rotj_1"
     },
     {
-      "_cmd_": "give_@p_minecraft:iron_shovel_1_18_{Unbreakable:1}",
+      "_cmd_": "give_@p_minecraft:iron_shovel_1_18_{unbreakable:1}",
       "predicate": {
         "damaged": 0,
         "damage": 0.072
@@ -156,7 +156,7 @@
       "model": "item/sabers/rotj_2"
     },
     {
-      "_cmd_": "give_@p_minecraft:iron_shovel_1_19_{Unbreakable:1}",
+      "_cmd_": "give_@p_minecraft:iron_shovel_1_19_{unbreakable:1}",
       "predicate": {
         "damaged": 0,
         "damage": 0.076
@@ -164,7 +164,7 @@
       "model": "item/cart/monorail_car_blue"
     },
     {
-      "_cmd_": "give_@p_minecraft:iron_shovel_1_20_{Unbreakable:1}",
+      "_cmd_": "give_@p_minecraft:iron_shovel_1_20_{unbreakable:1}",
       "predicate": {
         "damaged": 0,
         "damage": 0.080
@@ -172,7 +172,7 @@
       "model": "item/cart/monorail_car_betweener"
     },
     {
-      "_cmd_": "give_@p_minecraft:iron_shovel_1_21_{Unbreakable:1}",
+      "_cmd_": "give_@p_minecraft:iron_shovel_1_21_{unbreakable:1}",
       "predicate": {
         "damaged": 0,
         "damage": 0.084
@@ -180,7 +180,7 @@
       "model": "item/cart/monorail_cab_blue"
     },
     {
-      "_cmd_": "give_@p_minecraft:iron_shovel_1_22_{Unbreakable:1}",
+      "_cmd_": "give_@p_minecraft:iron_shovel_1_22_{unbreakable:1}",
       "predicate": {
         "damaged": 0,
         "damage": 0.088
@@ -188,7 +188,7 @@
       "model": "item/cart/grr_orange"
     },
     {
-      "_cmd_": "give_@p_minecraft:iron_shovel_1_23_{Unbreakable:1}",
+      "_cmd_": "give_@p_minecraft:iron_shovel_1_23_{unbreakable:1}",
       "predicate": {
         "damaged": 0,
         "damage": 0.092
@@ -196,7 +196,7 @@
       "model": "item/cart/grr_raft1"
     },
     {
-      "_cmd_": "give_@p_minecraft:iron_shovel_1_24_{Unbreakable:1}",
+      "_cmd_": "give_@p_minecraft:iron_shovel_1_24_{unbreakable:1}",
       "predicate": {
         "damaged": 0,
         "damage": 0.096
@@ -204,7 +204,7 @@
       "model": "item/cart/grr_raft2"
     },
     {
-      "_cmd_": "give_@p_minecraft:iron_shovel_1_25_{Unbreakable:1}",
+      "_cmd_": "give_@p_minecraft:iron_shovel_1_25_{unbreakable:1}",
       "predicate": {
         "damaged": 0,
         "damage": 0.100
@@ -212,7 +212,7 @@
       "model": "item/cart/grr_raft3"
     },
     {
-      "_cmd_": "give_@p_minecraft:iron_shovel_1_26_{Unbreakable:1}",
+      "_cmd_": "give_@p_minecraft:iron_shovel_1_26_{unbreakable:1}",
       "predicate": {
         "damaged": 0,
         "damage": 0.104
@@ -220,7 +220,7 @@
       "model": "item/cart/grr_raft4"
     },
     {
-      "_cmd_": "give_@p_minecraft:iron_shovel_1_27_{Unbreakable:1}",
+      "_cmd_": "give_@p_minecraft:iron_shovel_1_27_{unbreakable:1}",
       "predicate": {
         "damaged": 0,
         "damage": 0.108
@@ -228,7 +228,7 @@
       "model": "item/cart/grr_raft5"
     },
     {
-      "_cmd_": "give_@p_minecraft:iron_shovel_1_28_{Unbreakable:1}",
+      "_cmd_": "give_@p_minecraft:iron_shovel_1_28_{unbreakable:1}",
       "predicate": {
         "damaged": 0,
         "damage": 0.112
@@ -236,7 +236,7 @@
       "model": "item/pet/walle"
     },
     {
-      "_cmd_": "give_@p_minecraft:iron_shovel_1_29_{Unbreakable:1}",
+      "_cmd_": "give_@p_minecraft:iron_shovel_1_29_{unbreakable:1}",
       "predicate": {
         "damaged": 0,
         "damage": 0.116
@@ -244,7 +244,7 @@
       "model": "item/dca_trolley"
     },
     {
-      "_cmd_": "give_@p_minecraft:iron_shovel_1_30_{Unbreakable:1}",
+      "_cmd_": "give_@p_minecraft:iron_shovel_1_30_{unbreakable:1}",
       "predicate": {
         "damaged": 0,
         "damage": 0.120
@@ -252,7 +252,7 @@
       "model": "item/pet/walle"
     },
     {
-      "_cmd_": "give_@p_minecraft:iron_shovel_1_31_{Unbreakable:1}",
+      "_cmd_": "give_@p_minecraft:iron_shovel_1_31_{unbreakable:1}",
       "predicate": {
         "damaged": 0,
         "damage": 0.124
@@ -260,7 +260,7 @@
       "model": "item/dca_trolleybus"
     },
     {
-      "_cmd_": "give_@p_minecraft:iron_shovel_1_32_{Unbreakable:1}",
+      "_cmd_": "give_@p_minecraft:iron_shovel_1_32_{unbreakable:1}",
       "predicate": {
         "damaged": 0,
         "damage": 0.128
@@ -268,7 +268,7 @@
       "model": "item/cart/guardians_1"
     },
     {
-      "_cmd_": "give_@p_minecraft:iron_shovel_1_33_{Unbreakable:1}",
+      "_cmd_": "give_@p_minecraft:iron_shovel_1_33_{unbreakable:1}",
       "predicate": {
         "damaged": 0,
         "damage": 0.132
@@ -276,7 +276,7 @@
       "model": "item/cart/guardians_2"
     },
     {
-      "_cmd_": "give_@p_minecraft:iron_shovel_1_34_{Unbreakable:1}",
+      "_cmd_": "give_@p_minecraft:iron_shovel_1_34_{unbreakable:1}",
       "predicate": {
         "damaged": 0,
         "damage": 0.136
@@ -284,7 +284,7 @@
       "model": "item/ge/porg_mug"
     },
     {
-      "_cmd_": "give_@p_minecraft:iron_shovel_1_35_{Unbreakable:1}",
+      "_cmd_": "give_@p_minecraft:iron_shovel_1_35_{unbreakable:1}",
       "predicate": {
         "damaged": 0,
         "damage": 0.140
@@ -292,7 +292,7 @@
       "model": "item/flammenwerfer"
     },
     {
-      "_cmd_": "give_@p_minecraft:iron_shovel_1_36_{Unbreakable:1}",
+      "_cmd_": "give_@p_minecraft:iron_shovel_1_36_{unbreakable:1}",
       "predicate": {
         "damaged": 0,
         "damage": 0.144
@@ -300,7 +300,7 @@
       "model": "item/cart/pinocchio_cart"
     },
     {
-      "_cmd_": "give_@p_minecraft:iron_shovel_1_37_{Unbreakable:1}",
+      "_cmd_": "give_@p_minecraft:iron_shovel_1_37_{unbreakable:1}",
       "predicate": {
         "damaged": 0,
         "damage": 0.148
@@ -308,7 +308,7 @@
       "model": "item/tacticalcannon"
     },
     {
-      "_cmd_": "give_@p_minecraft:iron_shovel_1_38_{Unbreakable:1}",
+      "_cmd_": "give_@p_minecraft:iron_shovel_1_38_{unbreakable:1}",
       "predicate": {
         "damaged": 0,
         "damage": 0.152
@@ -316,7 +316,7 @@
       "model": "item/cart/junglecruise_boat_front"
     },
     {
-      "_cmd_": "give_@p_minecraft:iron_shovel_1_39_{Unbreakable:1}",
+      "_cmd_": "give_@p_minecraft:iron_shovel_1_39_{unbreakable:1}",
       "predicate": {
         "damaged": 0,
         "damage": 0.156
@@ -324,7 +324,7 @@
       "model": "item/cart/junglecruise_boat_rear"
     },
     {
-      "_cmd_": "give_@p_minecraft:iron_shovel_1_40_{Unbreakable:1}",
+      "_cmd_": "give_@p_minecraft:iron_shovel_1_40_{unbreakable:1}",
       "predicate": {
         "damaged": 0,
         "damage": 0.160
@@ -332,7 +332,7 @@
       "model": "item/cart/indy_jeep_base"
     },
     {
-      "_cmd_": "give_@p_minecraft:iron_shovel_1_41_{Unbreakable:1}",
+      "_cmd_": "give_@p_minecraft:iron_shovel_1_41_{unbreakable:1}",
       "predicate": {
         "damaged": 0,
         "damage": 0.164
@@ -340,7 +340,7 @@
       "model": "item/cart/indy_jeep_top"
     },
     {
-      "_cmd_": "give_@p_minecraft:iron_shovel_1_42_{Unbreakable:1}",
+      "_cmd_": "give_@p_minecraft:iron_shovel_1_42_{unbreakable:1}",
       "predicate": {
         "damaged": 0,
         "damage": 0.168
@@ -348,7 +348,7 @@
       "model": "item/sabers/maul_full"
     },
     {
-      "_cmd_": "give_@p_minecraft:iron_shovel_1_43_{Unbreakable:1}",
+      "_cmd_": "give_@p_minecraft:iron_shovel_1_43_{unbreakable:1}",
       "predicate": {
         "damaged": 0,
         "damage": 0.172
@@ -356,7 +356,7 @@
       "model": "item/sabers/maul_hilt"
     },
     {
-      "_cmd_": "give_@p_minecraft:iron_shovel_1_44_{Unbreakable:1}",
+      "_cmd_": "give_@p_minecraft:iron_shovel_1_44_{unbreakable:1}",
       "predicate": {
         "damaged": 0,
         "damage": 0.176
@@ -364,7 +364,7 @@
       "model": "item/cart/indy_jeep_top_green"
     },
     {
-      "_cmd_": "give_@p_minecraft:iron_shovel_1_45_{Unbreakable:1}",
+      "_cmd_": "give_@p_minecraft:iron_shovel_1_45_{unbreakable:1}",
       "predicate": {
         "damaged": 0,
         "damage": 0.180
@@ -372,7 +372,7 @@
       "model": "item/sabers/james_full"
     },
     {
-      "_cmd_": "give_@p_minecraft:iron_shovel_1_46_{Unbreakable:1}",
+      "_cmd_": "give_@p_minecraft:iron_shovel_1_46_{unbreakable:1}",
       "predicate": {
         "damaged": 0,
         "damage": 0.184
@@ -380,7 +380,7 @@
       "model": "item/sabers/james_hilt"
     },
     {
-      "_cmd_": "give_@p_minecraft:iron_shovel_1_47_{Unbreakable:1}",
+      "_cmd_": "give_@p_minecraft:iron_shovel_1_47_{unbreakable:1}",
       "predicate": {
         "damaged": 0,
         "damage": 0.188
@@ -388,7 +388,7 @@
       "model": "item/cart/alice_cart_purple"
     },
     {
-      "_cmd_": "give_@p_minecraft:iron_shovel_1_48_{Unbreakable:1}",
+      "_cmd_": "give_@p_minecraft:iron_shovel_1_48_{unbreakable:1}",
       "predicate": {
         "damaged": 0,
         "damage": 0.192
@@ -396,7 +396,7 @@
       "model": "item/scooter_america"
     },
     {
-      "_cmd_": "give_@p_minecraft:iron_shovel_1_49_{Unbreakable:1}",
+      "_cmd_": "give_@p_minecraft:iron_shovel_1_49_{unbreakable:1}",
       "predicate": {
         "damaged": 0,
         "damage": 0.196
@@ -404,7 +404,7 @@
       "model": "item/scooter_top"
     },
     {
-      "_cmd_": "give_@p_minecraft:iron_shovel_1_50_{Unbreakable:1}",
+      "_cmd_": "give_@p_minecraft:iron_shovel_1_50_{unbreakable:1}",
       "predicate": {
         "damaged": 0,
         "damage": 0.200
@@ -412,7 +412,7 @@
       "model": "item/players/cam"
     },
     {
-      "_cmd_": "give_@p_minecraft:iron_shovel_1_51_{Unbreakable:1}",
+      "_cmd_": "give_@p_minecraft:iron_shovel_1_51_{unbreakable:1}",
       "predicate": {
         "damaged": 0,
         "damage": 0.204
@@ -420,7 +420,7 @@
       "model": "item/players/matt"
     },
     {
-      "_cmd_": "give_@p_minecraft:iron_shovel_1_52_{Unbreakable:1}",
+      "_cmd_": "give_@p_minecraft:iron_shovel_1_52_{unbreakable:1}",
       "predicate": {
         "damaged": 0,
         "damage": 0.208
@@ -428,7 +428,7 @@
       "model": "item/vhs_aladdin"
     },
     {
-      "_cmd_": "give_@p_minecraft:iron_shovel_1_53_{Unbreakable:1}",
+      "_cmd_": "give_@p_minecraft:iron_shovel_1_53_{unbreakable:1}",
       "predicate": {
         "damaged": 0,
         "damage": 0.212
@@ -436,7 +436,7 @@
       "model": "item/trondisc"
     },
     {
-      "_cmd_": "give_@p_minecraft:iron_shovel_1_54_{Unbreakable:1}",
+      "_cmd_": "give_@p_minecraft:iron_shovel_1_54_{unbreakable:1}",
       "predicate": {
         "damaged": 0,
         "damage": 0.216
@@ -444,7 +444,7 @@
       "model": "item/vhs_pocahontas"
     },
     {
-      "_cmd_": "give_@p_minecraft:iron_shovel_1_55_{Unbreakable:1}",
+      "_cmd_": "give_@p_minecraft:iron_shovel_1_55_{unbreakable:1}",
       "predicate": {
         "damaged": 0,
         "damage": 0.220
@@ -452,7 +452,7 @@
       "model": "item/vhs_dlfun"
     },
     {
-      "_cmd_": "give_@p_minecraft:iron_shovel_1_56_{Unbreakable:1}",
+      "_cmd_": "give_@p_minecraft:iron_shovel_1_56_{unbreakable:1}",
       "predicate": {
         "damaged": 0,
         "damage": 0.224
@@ -460,7 +460,7 @@
       "model": "item/vhs_mulan"
     },
     {
-      "_cmd_": "give_@p_minecraft:iron_shovel_1_57_{Unbreakable:1}",
+      "_cmd_": "give_@p_minecraft:iron_shovel_1_57_{unbreakable:1}",
       "predicate": {
         "damaged": 0,
         "damage": 0.228
@@ -468,7 +468,7 @@
       "model": "item/vhs_tarzan"
     },
     {
-      "_cmd_": "give_@p_minecraft:iron_shovel_1_58_{Unbreakable:1}",
+      "_cmd_": "give_@p_minecraft:iron_shovel_1_58_{unbreakable:1}",
       "predicate": {
         "damaged": 0,
         "damage": 0.232
@@ -476,7 +476,7 @@
       "model": "item/vhs_tot"
     },
     {
-      "_cmd_": "give_@p_minecraft:iron_shovel_1_59_{Unbreakable:1}",
+      "_cmd_": "give_@p_minecraft:iron_shovel_1_59_{unbreakable:1}",
       "predicate": {
         "damaged": 0,
         "damage": 0.236
@@ -484,7 +484,7 @@
       "model": "item/pet/mushu"
     },
     {
-      "_cmd_": "give_@p_minecraft:iron_shovel_1_60_{Unbreakable:1}",
+      "_cmd_": "give_@p_minecraft:iron_shovel_1_60_{unbreakable:1}",
       "predicate": {
         "damaged": 0,
         "damage": 0.240
@@ -492,7 +492,7 @@
       "model": "item/pet/wheezy"
     },
     {
-      "_cmd_": "give_@p_minecraft:iron_shovel_1_61_{Unbreakable:1}",
+      "_cmd_": "give_@p_minecraft:iron_shovel_1_61_{unbreakable:1}",
       "predicate": {
         "damaged": 0,
         "damage": 0.244
@@ -500,7 +500,7 @@
       "model": "item/bubblegun"
     },
     {
-      "_cmd_": "give_@p_minecraft:iron_shovel_1_62_{Unbreakable:1}",
+      "_cmd_": "give_@p_minecraft:iron_shovel_1_62_{unbreakable:1}",
       "predicate": {
         "damaged": 0,
         "damage": 0.248
@@ -508,7 +508,7 @@
       "model": "item/bubblegun_dimmadome"
     },
     {
-      "_cmd_": "give_@p_minecraft:iron_shovel_1_63_{Unbreakable:1}",
+      "_cmd_": "give_@p_minecraft:iron_shovel_1_63_{unbreakable:1}",
       "predicate": {
         "damaged": 0,
         "damage": 0.252
@@ -516,7 +516,7 @@
       "model": "item/firework_launcher"
     },
     {
-      "_cmd_": "give_@p_minecraft:iron_shovel_1_64_{Unbreakable:1}",
+      "_cmd_": "give_@p_minecraft:iron_shovel_1_64_{unbreakable:1}",
       "predicate": {
         "damaged": 0,
         "damage": 0.256
@@ -524,7 +524,7 @@
       "model": "item/bubblegun_america"
     },
     {
-      "_cmd_": "give_@p_minecraft:iron_shovel_1_65_{Unbreakable:1}",
+      "_cmd_": "give_@p_minecraft:iron_shovel_1_65_{unbreakable:1}",
       "predicate": {
         "damaged": 0,
         "damage": 0.260
@@ -532,7 +532,7 @@
       "model": "item/melon_launcher"
     },
     {
-      "_cmd_": "give_@p_minecraft:iron_shovel_1_66_{Unbreakable:1}",
+      "_cmd_": "give_@p_minecraft:iron_shovel_1_66_{unbreakable:1}",
       "predicate": {
         "damaged": 0,
         "damage": 0.264
@@ -540,7 +540,7 @@
       "model": "item/cart/sw_blue_front"
     },
     {
-      "_cmd_": "give_@p_minecraft:iron_shovel_1_67_{Unbreakable:1}",
+      "_cmd_": "give_@p_minecraft:iron_shovel_1_67_{unbreakable:1}",
       "predicate": {
         "damaged": 0,
         "damage": 0.268
@@ -548,7 +548,7 @@
       "model": "item/cart/sw_blue_back"
     },
     {
-      "_cmd_": "give_@p_minecraft:iron_shovel_1_68_{Unbreakable:1}",
+      "_cmd_": "give_@p_minecraft:iron_shovel_1_68_{unbreakable:1}",
       "predicate": {
         "damaged": 0,
         "damage": 0.272
@@ -556,7 +556,7 @@
       "model": "item/players/portal"
     },
     {
-      "_cmd_": "give_@p_minecraft:iron_shovel_1_69_{Unbreakable:1}",
+      "_cmd_": "give_@p_minecraft:iron_shovel_1_69_{unbreakable:1}",
       "predicate": {
         "damaged": 0,
         "damage": 0.276
@@ -564,7 +564,7 @@
       "model": "item/players/couch"
     },
     {
-      "_cmd_": "give_@p_minecraft:iron_shovel_1_70_{Unbreakable:1}",
+      "_cmd_": "give_@p_minecraft:iron_shovel_1_70_{unbreakable:1}",
       "predicate": {
         "damaged": 0,
         "damage": 0.280
@@ -572,7 +572,7 @@
       "model": "item/players/pinhoarder"
     },
     {
-      "_cmd_": "give_@p_minecraft:iron_shovel_1_71_{Unbreakable:1}",
+      "_cmd_": "give_@p_minecraft:iron_shovel_1_71_{unbreakable:1}",
       "predicate": {
         "damaged": 0,
         "damage": 0.284
@@ -580,7 +580,7 @@
       "model": "item/look"
     },
     {
-      "_cmd_": "give_@p_minecraft:iron_shovel_1_72_{Unbreakable:1}",
+      "_cmd_": "give_@p_minecraft:iron_shovel_1_72_{unbreakable:1}",
       "predicate": {
         "damaged": 0,
         "damage": 0.288
@@ -588,7 +588,7 @@
       "model": "item/pet/bruni"
     },
     {
-      "_cmd_": "give_@p_minecraft:iron_shovel_1_73_{Unbreakable:1}",
+      "_cmd_": "give_@p_minecraft:iron_shovel_1_73_{unbreakable:1}",
       "predicate": {
         "damaged": 0,
         "damage": 0.292
@@ -596,7 +596,7 @@
       "model": "item/players/ghost_1"
     },
     {
-      "_cmd_": "give_@p_minecraft:iron_shovel_1_74_{Unbreakable:1}",
+      "_cmd_": "give_@p_minecraft:iron_shovel_1_74_{unbreakable:1}",
       "predicate": {
         "damaged": 0,
         "damage": 0.296
@@ -604,7 +604,7 @@
       "model": "item/players/ghost_2"
     },
     {
-      "_cmd_": "give_@p_minecraft:iron_shovel_1_75_{Unbreakable:1}",
+      "_cmd_": "give_@p_minecraft:iron_shovel_1_75_{unbreakable:1}",
       "predicate": {
         "damaged": 0,
         "damage": 0.300
@@ -612,7 +612,7 @@
       "model": "item/players/ghost_3"
     },
     {
-      "_cmd_": "give_@p_minecraft:iron_shovel_1_76_{Unbreakable:1}",
+      "_cmd_": "give_@p_minecraft:iron_shovel_1_76_{unbreakable:1}",
       "predicate": {
         "damaged": 0,
         "damage": 0.304
@@ -620,7 +620,7 @@
       "model": "item/cart/autopia_caraxle"
     },
     {
-      "_cmd_": "give_@p_minecraft:iron_shovel_1_77_{Unbreakable:1}",
+      "_cmd_": "give_@p_minecraft:iron_shovel_1_77_{unbreakable:1}",
       "predicate": {
         "damaged": 0,
         "damage": 0.308
@@ -628,7 +628,7 @@
       "model": "item/cart/autopia_car01"
     },
     {
-      "_cmd_": "give_@p_minecraft:iron_shovel_1_78_{Unbreakable:1}",
+      "_cmd_": "give_@p_minecraft:iron_shovel_1_78_{unbreakable:1}",
       "predicate": {
         "damaged": 0,
         "damage": 0.312
@@ -636,7 +636,7 @@
       "model": "item/spoon"
     },
     {
-      "_cmd_": "give_@p_minecraft:iron_shovel_1_79_{Unbreakable:1}",
+      "_cmd_": "give_@p_minecraft:iron_shovel_1_79_{unbreakable:1}",
       "predicate": {
         "damaged": 0,
         "damage": 0.316
@@ -644,7 +644,7 @@
       "model": "item/cart/autopia_car02"
     },
     {
-      "_cmd_": "give_@p_minecraft:iron_shovel_1_80_{Unbreakable:1}",
+      "_cmd_": "give_@p_minecraft:iron_shovel_1_80_{unbreakable:1}",
       "predicate": {
         "damaged": 0,
         "damage": 0.320
@@ -652,7 +652,7 @@
       "model": "item/cart/autopia_car03"
     },
     {
-      "_cmd_": "give_@p_minecraft:iron_shovel_1_81_{Unbreakable:1}",
+      "_cmd_": "give_@p_minecraft:iron_shovel_1_81_{unbreakable:1}",
       "predicate": {
         "damaged": 0,
         "damage": 0.324
@@ -660,7 +660,7 @@
       "model": "item/cart/autopia_car04"
     },
     {
-      "_cmd_": "give_@p_minecraft:iron_shovel_1_82_{Unbreakable:1}",
+      "_cmd_": "give_@p_minecraft:iron_shovel_1_82_{unbreakable:1}",
       "predicate": {
         "damaged": 0,
         "damage": 0.328
@@ -668,7 +668,7 @@
       "model": "item/cart/autopia_car05"
     },
     {
-      "_cmd_": "give_@p_minecraft:iron_shovel_1_83_{Unbreakable:1}",
+      "_cmd_": "give_@p_minecraft:iron_shovel_1_83_{unbreakable:1}",
       "predicate": {
         "damaged": 0,
         "damage": 0.332
@@ -676,7 +676,7 @@
       "model": "item/cart/autopia_car06"
     },
     {
-      "_cmd_": "give_@p_minecraft:iron_shovel_1_84_{Unbreakable:1}",
+      "_cmd_": "give_@p_minecraft:iron_shovel_1_84_{unbreakable:1}",
       "predicate": {
         "damaged": 0,
         "damage": 0.336
@@ -684,7 +684,7 @@
       "model": "item/pet/tiana"
     },
     {
-      "_cmd_": "give_@p_minecraft:iron_shovel_1_85_{Unbreakable:1}",
+      "_cmd_": "give_@p_minecraft:iron_shovel_1_85_{unbreakable:1}",
       "predicate": {
         "damaged": 0,
         "damage": 0.340
@@ -692,7 +692,7 @@
       "model": "item/autograph_book"
     },
     {
-      "_cmd_": "give_@p_minecraft:iron_shovel_1_86_{Unbreakable:1}",
+      "_cmd_": "give_@p_minecraft:iron_shovel_1_86_{unbreakable:1}",
       "predicate": {
         "damaged": 0,
         "damage": 0.344
@@ -700,7 +700,7 @@
       "model": "item/pet/nemo"
     },
     {
-      "_cmd_": "give_@p_minecraft:iron_shovel_1_87_{Unbreakable:1}",
+      "_cmd_": "give_@p_minecraft:iron_shovel_1_87_{unbreakable:1}",
       "predicate": {
         "damaged": 0,
         "damage": 0.348
@@ -708,7 +708,7 @@
       "model": "item/pet/bd1"
     },
     {
-      "_cmd_": "give_@p_minecraft:iron_shovel_1_88_{Unbreakable:1}",
+      "_cmd_": "give_@p_minecraft:iron_shovel_1_88_{unbreakable:1}",
       "predicate": {
         "damaged": 0,
         "damage": 0.352
@@ -716,7 +716,7 @@
       "model": "item/webslinger"
     },
     {
-      "_cmd_": "give_@p_minecraft:iron_shovel_1_89_{Unbreakable:1}",
+      "_cmd_": "give_@p_minecraft:iron_shovel_1_89_{unbreakable:1}",
       "predicate": {
         "damaged": 0,
         "damage": 0.356
@@ -724,7 +724,7 @@
       "model": "item/hawkeye_bow"
     },
     {
-      "_cmd_": "give_@p_minecraft:iron_shovel_1_90_{Unbreakable:1}",
+      "_cmd_": "give_@p_minecraft:iron_shovel_1_90_{unbreakable:1}",
       "predicate": {
         "damaged": 0,
         "damage": 0.360
@@ -732,7 +732,7 @@
       "model": "item/walkman"
     },
     {
-      "_cmd_": "give_@p_minecraft:iron_shovel_1_91_{Unbreakable:1}",
+      "_cmd_": "give_@p_minecraft:iron_shovel_1_91_{unbreakable:1}",
       "predicate": {
         "damaged": 0,
         "damage": 0.364
@@ -740,7 +740,7 @@
       "model": "item/pet/dory"
     },
     {
-      "_cmd_": "give_@p_minecraft:iron_shovel_1_92_{Unbreakable:1}",
+      "_cmd_": "give_@p_minecraft:iron_shovel_1_92_{unbreakable:1}",
       "predicate": {
         "damaged": 0,
         "damage": 0.368
@@ -748,7 +748,7 @@
       "model": "item/pet/gill"
     },
     {
-      "_cmd_": "give_@p_minecraft:iron_shovel_1_93_{Unbreakable:1}",
+      "_cmd_": "give_@p_minecraft:iron_shovel_1_93_{unbreakable:1}",
       "predicate": {
         "damaged": 0,
         "damage": 0.372
@@ -756,7 +756,7 @@
       "model": "item/players/pinsanta"
     },
     {
-      "_cmd_": "give_@p_minecraft:iron_shovel_1_94_{Unbreakable:1}",
+      "_cmd_": "give_@p_minecraft:iron_shovel_1_94_{unbreakable:1}",
       "predicate": {
         "damaged": 0,
         "damage": 0.376
@@ -764,7 +764,7 @@
       "model": "item/pet/shibe_1"
     },
     {
-      "_cmd_": "give_@p_minecraft:iron_shovel_1_95_{Unbreakable:1}",
+      "_cmd_": "give_@p_minecraft:iron_shovel_1_95_{unbreakable:1}",
       "predicate": {
         "damaged": 0,
         "damage": 0.380
@@ -772,7 +772,7 @@
       "model": "item/pet/shibe_2"
     },
     {
-      "_cmd_": "give_@p_minecraft:iron_shovel_1_96_{Unbreakable:1}",
+      "_cmd_": "give_@p_minecraft:iron_shovel_1_96_{unbreakable:1}",
       "predicate": {
         "damaged": 0,
         "damage": 0.384
@@ -780,7 +780,7 @@
       "model": "item/pet/shibe_3"
     },
     {
-      "_cmd_": "give_@p_minecraft:iron_shovel_1_97_{Unbreakable:1}",
+      "_cmd_": "give_@p_minecraft:iron_shovel_1_97_{unbreakable:1}",
       "predicate": {
         "damaged": 0,
         "damage": 0.388
@@ -788,7 +788,7 @@
       "model": "item/pet/shibe_ears"
     },
     {
-      "_cmd_": "give_@p_minecraft:iron_shovel_1_98_{Unbreakable:1}",
+      "_cmd_": "give_@p_minecraft:iron_shovel_1_98_{unbreakable:1}",
       "predicate": {
         "damaged": 0,
         "damage": 0.392
@@ -796,7 +796,7 @@
       "model": "item/pet/shibe_dimma"
     },
     {
-      "_cmd_": "give_@p_minecraft:iron_shovel_1_99_{Unbreakable:1}",
+      "_cmd_": "give_@p_minecraft:iron_shovel_1_99_{unbreakable:1}",
       "predicate": {
         "damaged": 0,
         "damage": 0.396
@@ -804,7 +804,7 @@
       "model": "item/pet/shibe_blueears"
     },
     {
-      "_cmd_": "give_@p_minecraft:iron_shovel_1_100_{Unbreakable:1}",
+      "_cmd_": "give_@p_minecraft:iron_shovel_1_100_{unbreakable:1}",
       "predicate": {
         "damaged": 0,
         "damage": 0.400
@@ -812,7 +812,7 @@
       "model": "item/pet/shibe_pinkears"
     },
     {
-      "_cmd_": "give_@p_minecraft:iron_shovel_1_101_{Unbreakable:1}",
+      "_cmd_": "give_@p_minecraft:iron_shovel_1_101_{unbreakable:1}",
       "predicate": {
         "damaged": 0,
         "damage": 0.404
@@ -820,7 +820,7 @@
       "model": "item/pet/shibe_redears"
     },
     {
-      "_cmd_": "give_@p_minecraft:iron_shovel_1_102_{Unbreakable:1}",
+      "_cmd_": "give_@p_minecraft:iron_shovel_1_102_{unbreakable:1}",
       "predicate": {
         "damaged": 0,
         "damage": 0.408
@@ -828,7 +828,7 @@
       "model": "item/pet/shibe_fez"
     },
     {
-      "_cmd_": "give_@p_minecraft:iron_shovel_1_103_{Unbreakable:1}",
+      "_cmd_": "give_@p_minecraft:iron_shovel_1_103_{unbreakable:1}",
       "predicate": {
         "damaged": 0,
         "damage": 0.412
@@ -836,7 +836,7 @@
       "model": "item/pet/shibe_crown"
     },
     {
-      "_cmd_": "give_@p_minecraft:iron_shovel_1_104_{Unbreakable:1}",
+      "_cmd_": "give_@p_minecraft:iron_shovel_1_104_{unbreakable:1}",
       "predicate": {
         "damaged": 0,
         "damage": 0.416
@@ -844,7 +844,7 @@
       "model": "item/pet/shibe_tophatred"
     },
     {
-      "_cmd_": "give_@p_minecraft:iron_shovel_1_105_{Unbreakable:1}",
+      "_cmd_": "give_@p_minecraft:iron_shovel_1_105_{unbreakable:1}",
       "predicate": {
         "damaged": 0,
         "damage": 0.420
@@ -852,7 +852,7 @@
       "model": "item/pet/shibe_h1"
     },
     {
-      "_cmd_": "give_@p_minecraft:iron_shovel_1_106_{Unbreakable:1}",
+      "_cmd_": "give_@p_minecraft:iron_shovel_1_106_{unbreakable:1}",
       "predicate": {
         "damaged": 0,
         "damage": 0.424
@@ -860,7 +860,7 @@
       "model": "item/pet/shibe_tophatyellow"
     },
     {
-      "_cmd_": "give_@p_minecraft:iron_shovel_1_107_{Unbreakable:1}",
+      "_cmd_": "give_@p_minecraft:iron_shovel_1_107_{unbreakable:1}",
       "predicate": {
         "damaged": 0,
         "damage": 0.428
@@ -868,7 +868,7 @@
       "model": "item/pet/shibe_tophatgreen"
     },
     {
-      "_cmd_": "give_@p_minecraft:iron_shovel_1_108_{Unbreakable:1}",
+      "_cmd_": "give_@p_minecraft:iron_shovel_1_108_{unbreakable:1}",
       "predicate": {
         "damaged": 0,
         "damage": 0.432
@@ -876,7 +876,7 @@
       "model": "item/pet/shibe_tophatblue"
     },
     {
-      "_cmd_": "give_@p_minecraft:iron_shovel_1_109_{Unbreakable:1}",
+      "_cmd_": "give_@p_minecraft:iron_shovel_1_109_{unbreakable:1}",
       "predicate": {
         "damaged": 0,
         "damage": 0.436
@@ -884,7 +884,7 @@
       "model": "item/pet/shibe_tophatpurple"
     },
     {
-      "_cmd_": "give_@p_minecraft:iron_shovel_1_110_{Unbreakable:1}",
+      "_cmd_": "give_@p_minecraft:iron_shovel_1_110_{unbreakable:1}",
       "predicate": {
         "damaged": 0,
         "damage": 0.440
@@ -892,7 +892,7 @@
       "model": "item/pet/shibe_h2"
     },
     {
-      "_cmd_": "give_@p_minecraft:iron_shovel_1_111_{Unbreakable:1}",
+      "_cmd_": "give_@p_minecraft:iron_shovel_1_111_{unbreakable:1}",
       "predicate": {
         "damaged": 0,
         "damage": 0.444
@@ -900,7 +900,7 @@
       "model": "item/pet/shibe_dapper"
     },
     {
-      "_cmd_": "give_@p_minecraft:iron_shovel_1_112_{Unbreakable:1}",
+      "_cmd_": "give_@p_minecraft:iron_shovel_1_112_{unbreakable:1}",
       "predicate": {
         "damaged": 0,
         "damage": 0.448
@@ -908,7 +908,7 @@
       "model": "item/pet/shibe_dapper2"
     },
     {
-      "_cmd_": "give_@p_minecraft:iron_shovel_1_113_{Unbreakable:1}",
+      "_cmd_": "give_@p_minecraft:iron_shovel_1_113_{unbreakable:1}",
       "predicate": {
         "damaged": 0,
         "damage": 0.452
@@ -916,7 +916,7 @@
       "model": "item/pet/shibe_dapper3"
     },
     {
-      "_cmd_": "give_@p_minecraft:iron_shovel_1_114_{Unbreakable:1}",
+      "_cmd_": "give_@p_minecraft:iron_shovel_1_114_{unbreakable:1}",
       "predicate": {
         "damaged": 0,
         "damage": 0.456
@@ -924,7 +924,7 @@
       "model": "item/pet/shibe_dapper4"
     },
     {
-      "_cmd_": "give_@p_minecraft:iron_shovel_1_115_{Unbreakable:1}",
+      "_cmd_": "give_@p_minecraft:iron_shovel_1_115_{unbreakable:1}",
       "predicate": {
         "damaged": 0,
         "damage": 0.460
@@ -932,7 +932,7 @@
       "model": "item/pet/shibe_dapper5"
     },
     {
-      "_cmd_": "give_@p_minecraft:iron_shovel_1_116_{Unbreakable:1}",
+      "_cmd_": "give_@p_minecraft:iron_shovel_1_116_{unbreakable:1}",
       "predicate": {
         "damaged": 0,
         "damage": 0.464
@@ -940,7 +940,7 @@
       "model": "item/pet/shibe_dapper6"
     },
     {
-      "_cmd_": "give_@p_minecraft:iron_shovel_1_117_{Unbreakable:1}",
+      "_cmd_": "give_@p_minecraft:iron_shovel_1_117_{unbreakable:1}",
       "predicate": {
         "damaged": 0,
         "damage": 0.468
@@ -948,7 +948,7 @@
       "model": "item/pet/squirt"
     },
     {
-      "_cmd_": "give_@p_minecraft:iron_shovel_1_118_{Unbreakable:1}",
+      "_cmd_": "give_@p_minecraft:iron_shovel_1_118_{unbreakable:1}",
       "predicate": {
         "damaged": 0,
         "damage": 0.472
@@ -956,7 +956,7 @@
       "model": "item/pet/bubblefish"
     },
     {
-      "_cmd_": "give_@p_minecraft:iron_shovel_1_119_{Unbreakable:1}",
+      "_cmd_": "give_@p_minecraft:iron_shovel_1_119_{unbreakable:1}",
       "predicate": {
         "damaged": 0,
         "damage": 0.476
@@ -964,7 +964,7 @@
       "model": "item/nemo/marlin_ride"
     },
     {
-      "_cmd_": "give_@p_minecraft:iron_shovel_1_120_{Unbreakable:1}",
+      "_cmd_": "give_@p_minecraft:iron_shovel_1_120_{unbreakable:1}",
       "predicate": {
         "damaged": 0,
         "damage": 0.480
@@ -972,7 +972,7 @@
       "model": "item/pet/shibe_surf"
     },
     {
-      "_cmd_": "give_@p_minecraft:iron_shovel_1_121_{Unbreakable:1}",
+      "_cmd_": "give_@p_minecraft:iron_shovel_1_121_{unbreakable:1}",
       "predicate": {
         "damaged": 0,
         "damage": 0.484
@@ -980,7 +980,7 @@
       "model": "item/magickey"
     },
     {
-      "_cmd_": "give_@p_minecraft:iron_shovel_1_122_{Unbreakable:1}",
+      "_cmd_": "give_@p_minecraft:iron_shovel_1_122_{unbreakable:1}",
       "predicate": {
         "damaged": 0,
         "damage": 0.488
@@ -988,7 +988,7 @@
       "model": "item/pet/shibe_gamer"
     },
     {
-      "_cmd_": "give_@p_minecraft:iron_shovel_1_123_{Unbreakable:1}",
+      "_cmd_": "give_@p_minecraft:iron_shovel_1_123_{unbreakable:1}",
       "predicate": {
         "damaged": 0,
         "damage": 0.492
@@ -996,7 +996,7 @@
       "model": "item/pet/shibe_rgb"
     },
     {
-      "_cmd_": "give_@p_minecraft:iron_shovel_1_124_{Unbreakable:1}",
+      "_cmd_": "give_@p_minecraft:iron_shovel_1_124_{unbreakable:1}",
       "predicate": {
         "damaged": 0,
         "damage": 0.496
@@ -1004,7 +1004,7 @@
       "model": "item/pet/shibe_hank"
     },
     {
-      "_cmd_": "give_@p_minecraft:iron_shovel_1_125_{Unbreakable:1}",
+      "_cmd_": "give_@p_minecraft:iron_shovel_1_125_{unbreakable:1}",
       "predicate": {
         "damaged": 0,
         "damage": 0.500
@@ -1012,7 +1012,7 @@
       "model": "item/pet/crush"
     },
     {
-      "_cmd_": "give_@p_minecraft:iron_shovel_1_126_{Unbreakable:1}",
+      "_cmd_": "give_@p_minecraft:iron_shovel_1_126_{unbreakable:1}",
       "predicate": {
         "damaged": 0,
         "damage": 0.504
@@ -1020,7 +1020,7 @@
       "model": "item/pet/turtle"
     },
     {
-      "_cmd_": "give_@p_minecraft:iron_shovel_1_127_{Unbreakable:1}",
+      "_cmd_": "give_@p_minecraft:iron_shovel_1_127_{unbreakable:1}",
       "predicate": {
         "damaged": 0,
         "damage": 0.508
@@ -1028,7 +1028,7 @@
       "model": "item/pet/dvcturtle"
     },
     {
-      "_cmd_": "give_@p_minecraft:iron_shovel_1_128_{Unbreakable:1}",
+      "_cmd_": "give_@p_minecraft:iron_shovel_1_128_{unbreakable:1}",
       "predicate": {
         "damaged": 0,
         "damage": 0.512
@@ -1036,7 +1036,7 @@
       "model": "item/cart/nemo_bot_1"
     },
     {
-      "_cmd_": "give_@p_minecraft:iron_shovel_1_129_{Unbreakable:1}",
+      "_cmd_": "give_@p_minecraft:iron_shovel_1_129_{unbreakable:1}",
       "predicate": {
         "damaged": 0,
         "damage": 0.516
@@ -1044,7 +1044,7 @@
       "model": "item/cart/nemo_bot_2"
     },
     {
-      "_cmd_": "give_@p_minecraft:iron_shovel_1_130_{Unbreakable:1}",
+      "_cmd_": "give_@p_minecraft:iron_shovel_1_130_{unbreakable:1}",
       "predicate": {
         "damaged": 0,
         "damage": 0.520
@@ -1052,7 +1052,7 @@
       "model": "item/cart/nemo_bot_3"
     },
     {
-      "_cmd_": "give_@p_minecraft:iron_shovel_1_131_{Unbreakable:1}",
+      "_cmd_": "give_@p_minecraft:iron_shovel_1_131_{unbreakable:1}",
       "predicate": {
         "damaged": 0,
         "damage": 0.524
@@ -1060,7 +1060,7 @@
       "model": "item/pet/lobster"
     },
     {
-      "_cmd_": "give_@p_minecraft:iron_shovel_1_132_{Unbreakable:1}",
+      "_cmd_": "give_@p_minecraft:iron_shovel_1_132_{unbreakable:1}",
       "predicate": {
         "damaged": 0,
         "damage": 0.528
@@ -1068,7 +1068,7 @@
       "model": "item/pet/ray"
     },
     {
-      "_cmd_": "give_@p_minecraft:iron_shovel_1_133_{Unbreakable:1}",
+      "_cmd_": "give_@p_minecraft:iron_shovel_1_133_{unbreakable:1}",
       "predicate": {
         "damaged": 0,
         "damage": 0.532
@@ -1076,7 +1076,7 @@
       "model": "item/pet/pearl"
     },
     {
-      "_cmd_": "give_@p_minecraft:iron_shovel_1_134_{Unbreakable:1}",
+      "_cmd_": "give_@p_minecraft:iron_shovel_1_134_{unbreakable:1}",
       "predicate": {
         "damaged": 0,
         "damage": 0.536
@@ -1084,7 +1084,7 @@
       "model": "item/pet/orangebird"
     },
     {
-      "_cmd_": "give_@p_minecraft:iron_shovel_1_135_{Unbreakable:1}",
+      "_cmd_": "give_@p_minecraft:iron_shovel_1_135_{unbreakable:1}",
       "predicate": {
         "damaged": 0,
         "damage": 0.540
@@ -1092,7 +1092,7 @@
       "model": "item/pet/figment"
     },
     {
-      "_cmd_": "give_@p_minecraft:iron_shovel_1_136_{Unbreakable:1}",
+      "_cmd_": "give_@p_minecraft:iron_shovel_1_136_{unbreakable:1}",
       "predicate": {
         "damaged": 0,
         "damage": 0.544
@@ -1100,7 +1100,7 @@
       "model": "item/cart/autopia_car07"
     },
     {
-      "_cmd_": "give_@p_minecraft:iron_shovel_1_137_{Unbreakable:1}",
+      "_cmd_": "give_@p_minecraft:iron_shovel_1_137_{unbreakable:1}",
       "predicate": {
         "damaged": 0,
         "damage": 0.548
@@ -1108,7 +1108,7 @@
       "model": "item/cart/autopia_car08"
     },
     {
-      "_cmd_": "give_@p_minecraft:iron_shovel_1_137_{Unbreakable:1}",
+      "_cmd_": "give_@p_minecraft:iron_shovel_1_137_{unbreakable:1}",
       "predicate": {
         "damaged": 0,
         "damage": 0.552
@@ -1116,7 +1116,7 @@
       "model": "item/cart/autopia_caraxle2"
     },
     {
-      "_cmd_": "give_@p_minecraft:iron_shovel_1_138_{Unbreakable:1}",
+      "_cmd_": "give_@p_minecraft:iron_shovel_1_138_{unbreakable:1}",
       "predicate": {
         "damaged": 0,
         "damage": 0.556
@@ -1124,7 +1124,7 @@
       "model": "item/players/jack"
     },
     {
-      "_cmd_": "give_@p_minecraft:iron_shovel_1_139_{Unbreakable:1}",
+      "_cmd_": "give_@p_minecraft:iron_shovel_1_139_{unbreakable:1}",
       "predicate": {
         "damaged": 0,
         "damage": 0.560
@@ -1132,7 +1132,7 @@
       "model": "item/cart/peoplemover_blue"
     },
     {
-      "_cmd_": "give_@p_minecraft:iron_shovel_1_140_{Unbreakable:1}",
+      "_cmd_": "give_@p_minecraft:iron_shovel_1_140_{unbreakable:1}",
       "predicate": {
         "damaged": 0,
         "damage": 0.564
@@ -1140,7 +1140,7 @@
       "model": "item/players/skellington"
     },
     {
-      "_cmd_": "give_@p_minecraft:iron_shovel_1_141_{Unbreakable:1}",
+      "_cmd_": "give_@p_minecraft:iron_shovel_1_141_{unbreakable:1}",
       "predicate": {
         "damaged": 0,
         "damage": 0.568
@@ -1148,7 +1148,7 @@
       "model": "item/players/lock"
     },
     {
-      "_cmd_": "give_@p_minecraft:iron_shovel_1_142_{Unbreakable:1}",
+      "_cmd_": "give_@p_minecraft:iron_shovel_1_142_{unbreakable:1}",
       "predicate": {
         "damaged": 0,
         "damage": 0.572
@@ -1156,7 +1156,7 @@
       "model": "item/players/shock"
     },
     {
-      "_cmd_": "give_@p_minecraft:iron_shovel_1_143_{Unbreakable:1}",
+      "_cmd_": "give_@p_minecraft:iron_shovel_1_143_{unbreakable:1}",
       "predicate": {
         "damaged": 0,
         "damage": 0.576
@@ -1164,7 +1164,7 @@
       "model": "item/players/barrel"
     },
     {
-      "_cmd_": "give_@p_minecraft:iron_shovel_1_144_{Unbreakable:1}",
+      "_cmd_": "give_@p_minecraft:iron_shovel_1_144_{unbreakable:1}",
       "predicate": {
         "damaged": 0,
         "damage": 0.580
@@ -1172,7 +1172,7 @@
       "model": "item/cars/guido"
     },
     {
-      "_cmd_": "give_@p_minecraft:iron_shovel_1_145_{Unbreakable:1}",
+      "_cmd_": "give_@p_minecraft:iron_shovel_1_145_{unbreakable:1}",
       "predicate": {
         "damaged": 0,
         "damage": 0.584
@@ -1180,7 +1180,7 @@
       "model": "item/cars/stanley_statue"
     },
     {
-      "_cmd_": "give_@p_minecraft:iron_shovel_1_146_{Unbreakable:1}",
+      "_cmd_": "give_@p_minecraft:iron_shovel_1_146_{unbreakable:1}",
       "predicate": {
         "damaged": 0,
         "damage": 0.588
@@ -1188,7 +1188,7 @@
       "model": "item/food/burger"
     },
     {
-      "_cmd_": "give_@p_minecraft:iron_shovel_1_147_{Unbreakable:1}",
+      "_cmd_": "give_@p_minecraft:iron_shovel_1_147_{unbreakable:1}",
       "predicate": {
         "damaged": 0,
         "damage": 0.592
@@ -1196,7 +1196,7 @@
       "model": "item/cars/doc_reg"
     },
     {
-      "_cmd_": "give_@p_minecraft:iron_shovel_1_148_{Unbreakable:1}",
+      "_cmd_": "give_@p_minecraft:iron_shovel_1_148_{unbreakable:1}",
       "predicate": {
         "damaged": 0,
         "damage": 0.596
@@ -1204,7 +1204,7 @@
       "model": "item/cars/doc_rsr"
     },
     {
-      "_cmd_": "give_@p_minecraft:iron_shovel_1_149_{Unbreakable:1}",
+      "_cmd_": "give_@p_minecraft:iron_shovel_1_149_{unbreakable:1}",
       "predicate": {
         "damaged": 0,
         "damage": 0.600
@@ -1212,7 +1212,7 @@
       "model": "item/pet/cuphead"
     },
     {
-      "_cmd_": "give_@p_minecraft:iron_shovel_1_150_{Unbreakable:1}",
+      "_cmd_": "give_@p_minecraft:iron_shovel_1_150_{unbreakable:1}",
       "predicate": {
         "damaged": 0,
         "damage": 0.604
@@ -1220,7 +1220,7 @@
       "model": "item/pet/au_black"
     },
     {
-      "_cmd_": "give_@p_minecraft:iron_shovel_1_151_{Unbreakable:1}",
+      "_cmd_": "give_@p_minecraft:iron_shovel_1_151_{unbreakable:1}",
       "predicate": {
         "damaged": 0,
         "damage": 0.608
@@ -1228,7 +1228,7 @@
       "model": "item/pet/au_blue"
     },
     {
-      "_cmd_": "give_@p_minecraft:iron_shovel_1_152_{Unbreakable:1}",
+      "_cmd_": "give_@p_minecraft:iron_shovel_1_152_{unbreakable:1}",
       "predicate": {
         "damaged": 0,
         "damage": 0.612
@@ -1236,7 +1236,7 @@
       "model": "item/pet/au_brown"
     },
     {
-      "_cmd_": "give_@p_minecraft:iron_shovel_1_153_{Unbreakable:1}",
+      "_cmd_": "give_@p_minecraft:iron_shovel_1_153_{unbreakable:1}",
       "predicate": {
         "damaged": 0,
         "damage": 0.616
@@ -1244,7 +1244,7 @@
       "model": "item/pet/au_cyan"
     },
     {
-      "_cmd_": "give_@p_minecraft:iron_shovel_1_154_{Unbreakable:1}",
+      "_cmd_": "give_@p_minecraft:iron_shovel_1_154_{unbreakable:1}",
       "predicate": {
         "damaged": 0,
         "damage": 0.620
@@ -1252,7 +1252,7 @@
       "model": "item/pet/au_gold"
     },
     {
-      "_cmd_": "give_@p_minecraft:iron_shovel_1_155_{Unbreakable:1}",
+      "_cmd_": "give_@p_minecraft:iron_shovel_1_155_{unbreakable:1}",
       "predicate": {
         "damaged": 0,
         "damage": 0.624
@@ -1260,7 +1260,7 @@
       "model": "item/pet/au_gray"
     },
     {
-      "_cmd_": "give_@p_minecraft:iron_shovel_1_156_{Unbreakable:1}",
+      "_cmd_": "give_@p_minecraft:iron_shovel_1_156_{unbreakable:1}",
       "predicate": {
         "damaged": 0,
         "damage": 0.628
@@ -1268,7 +1268,7 @@
       "model": "item/pet/au_green"
     },
     {
-      "_cmd_": "give_@p_minecraft:iron_shovel_1_157_{Unbreakable:1}",
+      "_cmd_": "give_@p_minecraft:iron_shovel_1_157_{unbreakable:1}",
       "predicate": {
         "damaged": 0,
         "damage": 0.632
@@ -1276,7 +1276,7 @@
       "model": "item/pet/au_lime"
     },
     {
-      "_cmd_": "give_@p_minecraft:iron_shovel_1_158_{Unbreakable:1}",
+      "_cmd_": "give_@p_minecraft:iron_shovel_1_158_{unbreakable:1}",
       "predicate": {
         "damaged": 0,
         "damage": 0.636
@@ -1284,7 +1284,7 @@
       "model": "item/pet/au_orange"
     },
     {
-      "_cmd_": "give_@p_minecraft:iron_shovel_1_159_{Unbreakable:1}",
+      "_cmd_": "give_@p_minecraft:iron_shovel_1_159_{unbreakable:1}",
       "predicate": {
         "damaged": 0,
         "damage": 0.640
@@ -1292,7 +1292,7 @@
       "model": "item/pet/au_peach"
     },
     {
-      "_cmd_": "give_@p_minecraft:iron_shovel_1_160_{Unbreakable:1}",
+      "_cmd_": "give_@p_minecraft:iron_shovel_1_160_{unbreakable:1}",
       "predicate": {
         "damaged": 0,
         "damage": 0.644
@@ -1300,7 +1300,7 @@
       "model": "item/pet/au_pink"
     },
     {
-      "_cmd_": "give_@p_minecraft:iron_shovel_1_161_{Unbreakable:1}",
+      "_cmd_": "give_@p_minecraft:iron_shovel_1_161_{unbreakable:1}",
       "predicate": {
         "damaged": 0,
         "damage": 0.648
@@ -1308,7 +1308,7 @@
       "model": "item/pet/au_purple"
     },
     {
-      "_cmd_": "give_@p_minecraft:iron_shovel_1_162_{Unbreakable:1}",
+      "_cmd_": "give_@p_minecraft:iron_shovel_1_162_{unbreakable:1}",
       "predicate": {
         "damaged": 0,
         "damage": 0.652
@@ -1316,7 +1316,7 @@
       "model": "item/pet/au_red"
     },
     {
-      "_cmd_": "give_@p_minecraft:iron_shovel_1_163_{Unbreakable:1}",
+      "_cmd_": "give_@p_minecraft:iron_shovel_1_163_{unbreakable:1}",
       "predicate": {
         "damaged": 0,
         "damage": 0.656
@@ -1324,7 +1324,7 @@
       "model": "item/pet/au_silver"
     },
     {
-      "_cmd_": "give_@p_minecraft:iron_shovel_1_164_{Unbreakable:1}",
+      "_cmd_": "give_@p_minecraft:iron_shovel_1_164_{unbreakable:1}",
       "predicate": {
         "damaged": 0,
         "damage": 0.660
@@ -1332,7 +1332,7 @@
       "model": "item/pet/au_teal"
     },
     {
-      "_cmd_": "give_@p_minecraft:iron_shovel_1_165_{Unbreakable:1}",
+      "_cmd_": "give_@p_minecraft:iron_shovel_1_165_{unbreakable:1}",
       "predicate": {
         "damaged": 0,
         "damage": 0.664
@@ -1340,7 +1340,7 @@
       "model": "item/pet/au_white"
     },
     {
-      "_cmd_": "give_@p_minecraft:iron_shovel_1_166_{Unbreakable:1}",
+      "_cmd_": "give_@p_minecraft:iron_shovel_1_166_{unbreakable:1}",
       "predicate": {
         "damaged": 0,
         "damage": 0.668
@@ -1348,7 +1348,7 @@
       "model": "item/pet/au_yellow"
     },
     {
-      "_cmd_": "give_@p_minecraft:iron_shovel_1_167_{Unbreakable:1}",
+      "_cmd_": "give_@p_minecraft:iron_shovel_1_167_{unbreakable:1}",
       "predicate": {
         "damaged": 0,
         "damage": 0.672
@@ -1356,7 +1356,7 @@
       "model": "item/pumpkinlauncher"
     },
     {
-      "_cmd_": "give_@p_minecraft:iron_shovel_1_168_{Unbreakable:1}",
+      "_cmd_": "give_@p_minecraft:iron_shovel_1_168_{unbreakable:1}",
       "predicate": {
         "damaged": 0,
         "damage": 0.676
@@ -1364,7 +1364,7 @@
       "model": "item/fireflower"
     },
     {
-      "_cmd_": "give_@p_minecraft:iron_shovel_1_169_{Unbreakable:1}",
+      "_cmd_": "give_@p_minecraft:iron_shovel_1_169_{unbreakable:1}",
       "predicate": {
         "damaged": 0,
         "damage": 0.680
@@ -1372,7 +1372,7 @@
       "model": "item/wabungus"
     },
     {
-      "_cmd_": "give_@p_minecraft:iron_shovel_1_170_{Unbreakable:1}",
+      "_cmd_": "give_@p_minecraft:iron_shovel_1_170_{unbreakable:1}",
       "predicate": {
         "damaged": 0,
         "damage": 0.684
@@ -1380,7 +1380,7 @@
       "model": "item/portalgun"
     },
     {
-      "_cmd_": "give_@p_minecraft:iron_shovel_1_171_{Unbreakable:1}",
+      "_cmd_": "give_@p_minecraft:iron_shovel_1_171_{unbreakable:1}",
       "predicate": {
         "damaged": 0,
         "damage": 0.688
@@ -1388,7 +1388,7 @@
       "model": "item/cars/frank"
     },
     {
-      "_cmd_": "give_@p_minecraft:iron_shovel_1_172_{Unbreakable:1}",
+      "_cmd_": "give_@p_minecraft:iron_shovel_1_172_{unbreakable:1}",
       "predicate": {
         "damaged": 0,
         "damage": 0.692
@@ -1396,7 +1396,7 @@
       "model": "item/cars/liz_1"
     },
     {
-      "_cmd_": "give_@p_minecraft:iron_shovel_1_173_{Unbreakable:1}",
+      "_cmd_": "give_@p_minecraft:iron_shovel_1_173_{unbreakable:1}",
       "predicate": {
         "damaged": 0,
         "damage": 0.696
@@ -1404,7 +1404,7 @@
       "model": "item/cars/liz_2"
     },
     {
-      "_cmd_": "give_@p_minecraft:iron_shovel_1_174_{Unbreakable:1}",
+      "_cmd_": "give_@p_minecraft:iron_shovel_1_174_{unbreakable:1}",
       "predicate": {
         "damaged": 0,
         "damage": 0.700
@@ -1412,7 +1412,7 @@
       "model": "item/newswire_mic"
     },
     {
-      "_cmd_": "give_@p_minecraft:iron_shovel_1_175_{Unbreakable:1}",
+      "_cmd_": "give_@p_minecraft:iron_shovel_1_175_{unbreakable:1}",
       "predicate": {
         "damaged": 0,
         "damage": 0.704
@@ -1420,7 +1420,7 @@
       "model": "item/pet/recognizer"
     },
     {
-      "_cmd_": "give_@p_minecraft:iron_shovel_1_176_{Unbreakable:1}",
+      "_cmd_": "give_@p_minecraft:iron_shovel_1_176_{unbreakable:1}",
       "predicate": {
         "damaged": 0,
         "damage": 0.708
@@ -1428,7 +1428,7 @@
       "model": "item/homerunbat"
     },
     {
-      "_cmd_": "give_@p_minecraft:iron_shovel_1_177_{Unbreakable:1}",
+      "_cmd_": "give_@p_minecraft:iron_shovel_1_177_{unbreakable:1}",
       "predicate": {
         "damaged": 0,
         "damage": 0.712
@@ -1436,7 +1436,7 @@
       "model": "item/wiisportbat"
     },
     {
-      "_cmd_": "give_@p_minecraft:iron_shovel_1_178_{Unbreakable:1}",
+      "_cmd_": "give_@p_minecraft:iron_shovel_1_178_{unbreakable:1}",
       "predicate": {
         "damaged": 0,
         "damage": 0.716
@@ -1444,7 +1444,7 @@
       "model": "item/pet/oneone"
     },
     {
-      "_cmd_": "give_@p_minecraft:iron_shovel_1_179_{Unbreakable:1}",
+      "_cmd_": "give_@p_minecraft:iron_shovel_1_179_{unbreakable:1}",
       "predicate": {
         "damaged": 0,
         "damage": 0.720
@@ -1452,7 +1452,7 @@
       "model": "item/triforce"
     },
     {
-      "_cmd_": "give_@p_minecraft:iron_shovel_1_180_{Unbreakable:1}",
+      "_cmd_": "give_@p_minecraft:iron_shovel_1_180_{unbreakable:1}",
       "predicate": {
         "damaged": 0,
         "damage": 0.724
@@ -1460,7 +1460,7 @@
       "model": "item/pet/oswald"
     },
     {
-      "_cmd_": "give_@p_minecraft:iron_shovel_1_181_{Unbreakable:1}",
+      "_cmd_": "give_@p_minecraft:iron_shovel_1_181_{unbreakable:1}",
       "predicate": {
         "damaged": 0,
         "damage": 0.728
@@ -1468,7 +1468,7 @@
       "model": "item/pet/woodstock"
     },
     {
-      "_cmd_": "give_@p_minecraft:iron_shovel_1_182_{Unbreakable:1}",
+      "_cmd_": "give_@p_minecraft:iron_shovel_1_182_{unbreakable:1}",
       "predicate": {
         "damaged": 0,
         "damage": 0.732
@@ -1476,7 +1476,7 @@
       "model": "item/portalrm"
     },
     {
-      "_cmd_": "give_@p_minecraft:iron_shovel_1_183_{Unbreakable:1}",
+      "_cmd_": "give_@p_minecraft:iron_shovel_1_183_{unbreakable:1}",
       "predicate": {
         "damaged": 0,
         "damage": 0.736
@@ -1484,7 +1484,7 @@
       "model": "item/pet/mike"
     },
     {
-      "_cmd_": "give_@p_minecraft:iron_shovel_1_184_{Unbreakable:1}",
+      "_cmd_": "give_@p_minecraft:iron_shovel_1_184_{unbreakable:1}",
       "predicate": {
         "damaged": 0,
         "damage": 0.740
@@ -1492,7 +1492,7 @@
       "model": "item/cart/peoplemover_red"
     },
     {
-      "_cmd_": "give_@p_minecraft:iron_shovel_1_185_{Unbreakable:1}",
+      "_cmd_": "give_@p_minecraft:iron_shovel_1_185_{unbreakable:1}",
       "predicate": {
         "damaged": 0,
         "damage": 0.744
@@ -1500,7 +1500,7 @@
       "model": "item/cart/peoplemover_yellow"
     },
     {
-      "_cmd_": "give_@p_minecraft:iron_shovel_1_186_{Unbreakable:1}",
+      "_cmd_": "give_@p_minecraft:iron_shovel_1_186_{unbreakable:1}",
       "predicate": {
         "damaged": 0,
         "damage": 0.748
@@ -1508,7 +1508,7 @@
       "model": "item/cart/peoplemover_teal"
     },
     {
-      "_cmd_": "give_@p_minecraft:iron_shovel_1_187_{Unbreakable:1}",
+      "_cmd_": "give_@p_minecraft:iron_shovel_1_187_{unbreakable:1}",
       "predicate": {
         "damaged": 0,
         "damage": 0.752
@@ -1516,7 +1516,7 @@
       "model": "item/lightcycle"
     },
     {
-      "_cmd_": "give_@p_minecraft:iron_shovel_1_188_{Unbreakable:1}",
+      "_cmd_": "give_@p_minecraft:iron_shovel_1_188_{unbreakable:1}",
       "predicate": {
         "damaged": 0,
         "damage": 0.756
@@ -1524,7 +1524,7 @@
       "model": "item/cars/sarge"
     },
     {
-      "_cmd_": "give_@p_minecraft:iron_shovel_1_189_{Unbreakable:1}",
+      "_cmd_": "give_@p_minecraft:iron_shovel_1_189_{unbreakable:1}",
       "predicate": {
         "damaged": 0,
         "damage": 0.760
@@ -1532,7 +1532,7 @@
       "model": "item/cars/filmore"
     },
     {
-      "_cmd_": "give_@p_minecraft:iron_shovel_1_190_{Unbreakable:1}",
+      "_cmd_": "give_@p_minecraft:iron_shovel_1_190_{unbreakable:1}",
       "predicate": {
         "damaged": 0,
         "damage": 0.764
@@ -1540,7 +1540,7 @@
       "model": "item/cars/carsland_cozycone_off"
     },
     {
-      "_cmd_": "give_@p_minecraft:iron_shovel_1_191_{Unbreakable:1}",
+      "_cmd_": "give_@p_minecraft:iron_shovel_1_191_{unbreakable:1}",
       "predicate": {
         "damaged": 0,
         "damage": 0.768
@@ -1548,7 +1548,7 @@
       "model": "item/cars/carsland_cozycone_on"
     },
     {
-      "_cmd_": "give_@p_minecraft:iron_shovel_1_192_{Unbreakable:1}",
+      "_cmd_": "give_@p_minecraft:iron_shovel_1_192_{unbreakable:1}",
       "predicate": {
         "damaged": 0,
         "damage": 0.772
@@ -1556,7 +1556,7 @@
       "model": "item/cars/mater"
     },
     {
-      "_cmd_": "give_@p_minecraft:iron_shovel_1_193_{Unbreakable:1}",
+      "_cmd_": "give_@p_minecraft:iron_shovel_1_193_{unbreakable:1}",
       "predicate": {
         "damaged": 0,
         "damage": 0.776
@@ -1564,7 +1564,7 @@
       "model": "item/pet/forky"
     },
     {
-      "_cmd_": "give_@p_minecraft:iron_shovel_1_194_{Unbreakable:1}",
+      "_cmd_": "give_@p_minecraft:iron_shovel_1_194_{unbreakable:1}",
       "predicate": {
         "damaged": 0,
         "damage": 0.780
@@ -1572,7 +1572,7 @@
       "model": "item/pet/goat"
     },
     {
-      "_cmd_": "give_@p_minecraft:iron_shovel_1_195_{Unbreakable:1}",
+      "_cmd_": "give_@p_minecraft:iron_shovel_1_195_{unbreakable:1}",
       "predicate": {
         "damaged": 0,
         "damage": 0.784
@@ -1580,7 +1580,7 @@
       "model": "item/lmgcam"
     },
     {
-      "_cmd_": "give_@p_minecraft:iron_shovel_1_196_{Unbreakable:1}",
+      "_cmd_": "give_@p_minecraft:iron_shovel_1_196_{unbreakable:1}",
       "predicate": {
         "damaged": 0,
         "damage": 0.788
@@ -1588,7 +1588,7 @@
       "model": "item/russowand"
     },
     {
-      "_cmd_": "give_@p_minecraft:iron_shovel_1_197_{Unbreakable:1}",
+      "_cmd_": "give_@p_minecraft:iron_shovel_1_197_{unbreakable:1}",
       "predicate": {
         "damaged": 0,
         "damage": 0.792
@@ -1596,7 +1596,7 @@
       "model": "item/cars/sheriff"
     },
     {
-      "_cmd_": "give_@p_minecraft:iron_shovel_1_198_{Unbreakable:1}",
+      "_cmd_": "give_@p_minecraft:iron_shovel_1_198_{unbreakable:1}",
       "predicate": {
         "damaged": 0,
         "damage": 0.796
@@ -1604,7 +1604,7 @@
       "model": "item/guitar"
     },
     {
-      "_cmd_": "give_@p_minecraft:iron_shovel_1_199_{Unbreakable:1}",
+      "_cmd_": "give_@p_minecraft:iron_shovel_1_199_{unbreakable:1}",
       "predicate": {
         "damaged": 0,
         "damage": 0.800
@@ -1612,7 +1612,7 @@
       "model": "item/cart/rr_1"
     },
     {
-      "_cmd_": "give_@p_minecraft:iron_shovel_1_200_{Unbreakable:1}",
+      "_cmd_": "give_@p_minecraft:iron_shovel_1_200_{unbreakable:1}",
       "predicate": {
         "damaged": 0,
         "damage": 0.804
@@ -1620,7 +1620,7 @@
       "model": "item/cart/rr_2"
     },
     {
-      "_cmd_": "give_@p_minecraft:iron_shovel_1_201_{Unbreakable:1}",
+      "_cmd_": "give_@p_minecraft:iron_shovel_1_201_{unbreakable:1}",
       "predicate": {
         "damaged": 0,
         "damage": 0.808
@@ -1628,7 +1628,7 @@
       "model": "item/cart/rr_3"
     },
     {
-      "_cmd_": "give_@p_minecraft:iron_shovel_1_202_{Unbreakable:1}",
+      "_cmd_": "give_@p_minecraft:iron_shovel_1_202_{unbreakable:1}",
       "predicate": {
         "damaged": 0,
         "damage": 0.812
@@ -1636,7 +1636,7 @@
       "model": "item/cart/rr_4"
     },
     {
-      "_cmd_": "give_@p_minecraft:iron_shovel_1_203_{Unbreakable:1}",
+      "_cmd_": "give_@p_minecraft:iron_shovel_1_203_{unbreakable:1}",
       "predicate": {
         "damaged": 0,
         "damage": 0.816
@@ -1644,7 +1644,7 @@
       "model": "item/cart/rr_5"
     },
     {
-      "_cmd_": "give_@p_minecraft:iron_shovel_1_204_{Unbreakable:1}",
+      "_cmd_": "give_@p_minecraft:iron_shovel_1_204_{unbreakable:1}",
       "predicate": {
         "damaged": 0,
         "damage": 0.820
@@ -1652,7 +1652,7 @@
       "model": "item/cars/lightning"
     },
     {
-      "_cmd_": "give_@p_minecraft:iron_shovel_1_205_{Unbreakable:1}",
+      "_cmd_": "give_@p_minecraft:iron_shovel_1_205_{unbreakable:1}",
       "predicate": {
         "damaged": 0,
         "damage": 0.824
@@ -1660,7 +1660,7 @@
       "model": "item/cars/tractor1"
     },
     {
-      "_cmd_": "give_@p_minecraft:iron_shovel_1_206_{Unbreakable:1}",
+      "_cmd_": "give_@p_minecraft:iron_shovel_1_206_{unbreakable:1}",
       "predicate": {
         "damaged": 0,
         "damage": 0.828
@@ -1668,7 +1668,7 @@
       "model": "item/cars/tractor2"
     },
     {
-      "_cmd_": "give_@p_minecraft:iron_shovel_1_207_{Unbreakable:1}",
+      "_cmd_": "give_@p_minecraft:iron_shovel_1_207_{unbreakable:1}",
       "predicate": {
         "damaged": 0,
         "damage": 0.832
@@ -1676,7 +1676,7 @@
       "model": "item/cars/tractor3"
     },
     {
-      "_cmd_": "give_@p_minecraft:iron_shovel_1_208_{Unbreakable:1}",
+      "_cmd_": "give_@p_minecraft:iron_shovel_1_208_{unbreakable:1}",
       "predicate": {
         "damaged": 0,
         "damage": 0.836
@@ -1684,7 +1684,7 @@
       "model": "item/cars/tractor4"
     },
     {
-      "_cmd_": "give_@p_minecraft:iron_shovel_1_210_{Unbreakable:1}",
+      "_cmd_": "give_@p_minecraft:iron_shovel_1_210_{unbreakable:1}",
       "predicate": {
         "damaged": 0,
         "damage": 0.840
@@ -1692,7 +1692,7 @@
       "model": "item/players/d_cam"
     },
     {
-      "_cmd_": "give_@p_minecraft:iron_shovel_1_211_{Unbreakable:1}",
+      "_cmd_": "give_@p_minecraft:iron_shovel_1_211_{unbreakable:1}",
       "predicate": {
         "damaged": 0,
         "damage": 0.844
@@ -1700,7 +1700,7 @@
       "model": "item/players/d_imod"
     },
     {
-      "_cmd_": "give_@p_minecraft:iron_shovel_1_212_{Unbreakable:1}",
+      "_cmd_": "give_@p_minecraft:iron_shovel_1_212_{unbreakable:1}",
       "predicate": {
         "damaged": 0,
         "damage": 0.848
@@ -1708,7 +1708,7 @@
       "model": "item/players/d_mid"
     },
     {
-      "_cmd_": "give_@p_minecraft:iron_shovel_1_213_{Unbreakable:1}",
+      "_cmd_": "give_@p_minecraft:iron_shovel_1_213_{unbreakable:1}",
       "predicate": {
         "damaged": 0,
         "damage": 0.852
@@ -1716,7 +1716,7 @@
       "model": "item/players/d_mouske"
     },
     {
-      "_cmd_": "give_@p_minecraft:iron_shovel_1_214_{Unbreakable:1}",
+      "_cmd_": "give_@p_minecraft:iron_shovel_1_214_{unbreakable:1}",
       "predicate": {
         "damaged": 0,
         "damage": 0.856
@@ -1724,7 +1724,7 @@
       "model": "item/players/d_slinx"
     },
     {
-      "_cmd_": "give_@p_minecraft:iron_shovel_1_215_{Unbreakable:1}",
+      "_cmd_": "give_@p_minecraft:iron_shovel_1_215_{unbreakable:1}",
       "predicate": {
         "damaged": 0,
         "damage": 0.860
@@ -1732,7 +1732,7 @@
       "model": "item/players/d_pin"
     },
     {
-      "_cmd_": "give_@p_minecraft:iron_shovel_1_216_{Unbreakable:1}",
+      "_cmd_": "give_@p_minecraft:iron_shovel_1_216_{unbreakable:1}",
       "predicate": {
         "damaged": 0,
         "damage": 0.864
@@ -1740,7 +1740,7 @@
       "model": "item/cart/trailer"
     },
     {
-      "_cmd_": "give_@p_minecraft:iron_shovel_1_217_{Unbreakable:1}",
+      "_cmd_": "give_@p_minecraft:iron_shovel_1_217_{unbreakable:1}",
       "predicate": {
         "damaged": 0,
         "damage": 0.868
@@ -1748,7 +1748,7 @@
       "model": "item/players/andy"
     },
     {
-      "_cmd_": "give_@p_minecraft:iron_shovel_1_218_{Unbreakable:1}",
+      "_cmd_": "give_@p_minecraft:iron_shovel_1_218_{unbreakable:1}",
       "predicate": {
         "damaged": 0,
         "damage": 0.872
@@ -1756,7 +1756,7 @@
       "model": "item/snowwand"
     },
     {
-      "_cmd_": "give_@p_minecraft:iron_shovel_1_219_{Unbreakable:1}",
+      "_cmd_": "give_@p_minecraft:iron_shovel_1_219_{unbreakable:1}",
       "predicate": {
         "damaged": 0,
         "damage": 0.876
@@ -1764,7 +1764,7 @@
       "model": "item/snowwandpride"
     },
     {
-      "_cmd_": "give_@p_minecraft:iron_shovel_1_220_{Unbreakable:1}",
+      "_cmd_": "give_@p_minecraft:iron_shovel_1_220_{unbreakable:1}",
       "predicate": {
         "damaged": 0,
         "damage": 0.880
@@ -1772,7 +1772,7 @@
       "model": "item/snowwanddimma"
     },
     {
-      "_cmd_": "give_@p_minecraft:iron_shovel_1_221_{Unbreakable:1}",
+      "_cmd_": "give_@p_minecraft:iron_shovel_1_221_{unbreakable:1}",
       "predicate": {
         "damaged": 0,
         "damage": 0.884
@@ -1780,7 +1780,7 @@
       "model": "item/cars/ramonebody"
     },
     {
-      "_cmd_": "give_@p_minecraft:iron_shovel_1_222_{Unbreakable:1}",
+      "_cmd_": "give_@p_minecraft:iron_shovel_1_222_{unbreakable:1}",
       "predicate": {
         "damaged": 0,
         "damage": 0.888
@@ -1788,7 +1788,7 @@
       "model": "item/cars/ramonewheels"
     },
     {
-      "_cmd_": "give_@p_minecraft:iron_shovel_1_223_{Unbreakable:1}",
+      "_cmd_": "give_@p_minecraft:iron_shovel_1_223_{unbreakable:1}",
       "predicate": {
         "damaged": 0,
         "damage": 0.892
@@ -1796,7 +1796,7 @@
       "model": "item/cars/ramonefull"
     },
     {
-      "_cmd_": "give_@p_minecraft:iron_shovel_1_224_{Unbreakable:1}",
+      "_cmd_": "give_@p_minecraft:iron_shovel_1_224_{unbreakable:1}",
       "predicate": {
         "damaged": 0,
         "damage": 0.896
@@ -1804,7 +1804,7 @@
       "model": "item/cars/luigifull"
     },
     {
-      "_cmd_": "give_@p_minecraft:iron_shovel_1_225_{Unbreakable:1}",
+      "_cmd_": "give_@p_minecraft:iron_shovel_1_225_{unbreakable:1}",
       "predicate": {
         "damaged": 0,
         "damage": 0.900
@@ -1812,7 +1812,7 @@
       "model": "item/cars/luigibody"
     },
     {
-      "_cmd_": "give_@p_minecraft:iron_shovel_1_226_{Unbreakable:1}",
+      "_cmd_": "give_@p_minecraft:iron_shovel_1_226_{unbreakable:1}",
       "predicate": {
         "damaged": 0,
         "damage": 0.904
@@ -1820,7 +1820,7 @@
       "model": "item/cars/luigiwheels"
     },
     {
-      "_cmd_": "give_@p_minecraft:iron_shovel_1_227_{Unbreakable:1}",
+      "_cmd_": "give_@p_minecraft:iron_shovel_1_227_{unbreakable:1}",
       "predicate": {
         "damaged": 0,
         "damage": 0.908
@@ -1828,7 +1828,7 @@
       "model": "item/cars/guido2"
     },
     {
-      "_cmd_": "give_@p_minecraft:iron_shovel_1_228_{Unbreakable:1}",
+      "_cmd_": "give_@p_minecraft:iron_shovel_1_228_{unbreakable:1}",
       "predicate": {
         "damaged": 0,
         "damage": 0.912
@@ -1836,7 +1836,7 @@
       "model": "item/cars/van"
     },
     {
-      "_cmd_": "give_@p_minecraft:iron_shovel_1_229_{Unbreakable:1}",
+      "_cmd_": "give_@p_minecraft:iron_shovel_1_229_{unbreakable:1}",
       "predicate": {
         "damaged": 0,
         "damage": 0.916
@@ -1844,7 +1844,7 @@
       "model": "item/gummiealbum"
     },
     {
-      "_cmd_": "give_@p_minecraft:iron_shovel_1_230_{Unbreakable:1}",
+      "_cmd_": "give_@p_minecraft:iron_shovel_1_230_{unbreakable:1}",
       "predicate": {
         "damaged": 0,
         "damage": 0.920
@@ -1852,7 +1852,7 @@
       "model": "item/cars/flo"
     },
     {
-      "_cmd_": "give_@p_minecraft:iron_shovel_1_231_{Unbreakable:1}",
+      "_cmd_": "give_@p_minecraft:iron_shovel_1_231_{unbreakable:1}",
       "predicate": {
         "damaged": 0,
         "damage": 0.924
@@ -1860,7 +1860,7 @@
       "model": "item/cars/minny"
     },
     {
-      "_cmd_": "give_@p_minecraft:iron_shovel_1_232_{Unbreakable:1}",
+      "_cmd_": "give_@p_minecraft:iron_shovel_1_232_{unbreakable:1}",
       "predicate": {
         "damaged": 0,
         "damage": 0.928
@@ -1868,7 +1868,7 @@
       "model": "item/cars/sally"
     },
     {
-      "_cmd_": "give_@p_minecraft:iron_shovel_1_233_{Unbreakable:1}",
+      "_cmd_": "give_@p_minecraft:iron_shovel_1_233_{unbreakable:1}",
       "predicate": {
         "damaged": 0,
         "damage": 0.932
@@ -1876,7 +1876,7 @@
       "model": "item/menorah"
     },
     {
-      "_cmd_": "give_@p_minecraft:iron_shovel_1_234_{Unbreakable:1}",
+      "_cmd_": "give_@p_minecraft:iron_shovel_1_234_{unbreakable:1}",
       "predicate": {
         "damaged": 0,
         "damage": 0.936
@@ -1884,7 +1884,7 @@
       "model": "item/pet/kkslider"
     },
     {
-      "_cmd_": "give_@p_minecraft:iron_shovel_1_235_{Unbreakable:1}",
+      "_cmd_": "give_@p_minecraft:iron_shovel_1_235_{unbreakable:1}",
       "predicate": {
         "damaged": 0,
         "damage": 0.940
@@ -1892,7 +1892,7 @@
       "model": "item/players/busta"
     },
     {
-      "_cmd_": "give_@p_minecraft:iron_shovel_1_236_{Unbreakable:1}",
+      "_cmd_": "give_@p_minecraft:iron_shovel_1_236_{unbreakable:1}",
       "predicate": {
         "damaged": 0,
         "damage": 0.944
@@ -1900,7 +1900,7 @@
       "model": "item/cart/poohbase"
     },
     {
-      "_cmd_": "give_@p_minecraft:iron_shovel_1_237_{Unbreakable:1}",
+      "_cmd_": "give_@p_minecraft:iron_shovel_1_237_{unbreakable:1}",
       "predicate": {
         "damaged": 0,
         "damage": 0.948
@@ -1908,7 +1908,7 @@
       "model": "item/cart/pooh"
     },
     {
-      "_cmd_": "give_@p_minecraft:iron_shovel_1_238_{Unbreakable:1}",
+      "_cmd_": "give_@p_minecraft:iron_shovel_1_238_{unbreakable:1}",
       "predicate": {
         "damaged": 0,
         "damage": 0.952
@@ -1916,7 +1916,7 @@
       "model": "item/present_launcher"
     },
     {
-      "_cmd_": "give_@p_minecraft:iron_shovel_1_239_{Unbreakable:1}",
+      "_cmd_": "give_@p_minecraft:iron_shovel_1_239_{unbreakable:1}",
       "predicate": {
         "damaged": 0,
         "damage": 0.956
@@ -1924,7 +1924,7 @@
       "model": "item/pet/remy"
     },
     {
-      "_cmd_": "give_@p_minecraft:iron_shovel_1_240_{Unbreakable:1}",
+      "_cmd_": "give_@p_minecraft:iron_shovel_1_240_{unbreakable:1}",
       "predicate": {
         "damaged": 0,
         "damage": 0.960
@@ -1932,7 +1932,7 @@
       "model": "item/pet/shibe_santa1"
     },
     {
-      "_cmd_": "give_@p_minecraft:iron_shovel_1_241_{Unbreakable:1}",
+      "_cmd_": "give_@p_minecraft:iron_shovel_1_241_{unbreakable:1}",
       "predicate": {
         "damaged": 0,
         "damage": 0.964
@@ -1940,7 +1940,7 @@
       "model": "item/pet/shibe_santa2"
     },
     {
-      "_cmd_": "give_@p_minecraft:iron_shovel_1_242_{Unbreakable:1}",
+      "_cmd_": "give_@p_minecraft:iron_shovel_1_242_{unbreakable:1}",
       "predicate": {
         "damaged": 0,
         "damage": 0.968
@@ -1948,7 +1948,7 @@
       "model": "item/pet/shibe_santa3"
     },
     {
-      "_cmd_": "give_@p_minecraft:iron_shovel_1_243_{Unbreakable:1}",
+      "_cmd_": "give_@p_minecraft:iron_shovel_1_243_{unbreakable:1}",
       "predicate": {
         "damaged": 0,
         "damage": 0.972
@@ -1956,7 +1956,7 @@
       "model": "item/snow_launcher"
     },
     {
-      "_cmd_": "give_@p_minecraft:iron_shovel_1_244_{Unbreakable:1}",
+      "_cmd_": "give_@p_minecraft:iron_shovel_1_244_{unbreakable:1}",
       "predicate": {
         "damaged": 0,
         "damage": 0.976
@@ -1964,7 +1964,7 @@
       "model": "item/pet/oswald_c"
     },
     {
-      "_cmd_": "give_@p_minecraft:iron_shovel_1_245_{Unbreakable:1}",
+      "_cmd_": "give_@p_minecraft:iron_shovel_1_245_{unbreakable:1}",
       "predicate": {
         "damaged": 0,
         "damage": 0.980
@@ -1972,7 +1972,7 @@
       "model": "item/a"
     },
     {
-      "_cmd_": "give_@p_minecraft:iron_shovel_1_246_{Unbreakable:1}",
+      "_cmd_": "give_@p_minecraft:iron_shovel_1_246_{unbreakable:1}",
       "predicate": {
         "damaged": 0,
         "damage": 0.984
@@ -1980,7 +1980,7 @@
       "model": "item/players/pinsleigh"
     },
     {
-      "_cmd_": "give_@p_minecraft:iron_shovel_1_247_{Unbreakable:1}",
+      "_cmd_": "give_@p_minecraft:iron_shovel_1_247_{unbreakable:1}",
       "predicate": {
         "damaged": 0,
         "damage": 0.988
@@ -1988,7 +1988,7 @@
       "model": "item/mug_holiday"
     },
     {
-      "_cmd_": "give_@p_minecraft:iron_shovel_1_248_{Unbreakable:1}",
+      "_cmd_": "give_@p_minecraft:iron_shovel_1_248_{unbreakable:1}",
       "predicate": {
         "damaged": 0,
         "damage": 0.992
@@ -1996,7 +1996,7 @@
       "model": "item/snowblaster"
     },
     {
-      "_cmd_": "give_@p_minecraft:iron_shovel_1_249_{Unbreakable:1}",
+      "_cmd_": "give_@p_minecraft:iron_shovel_1_249_{unbreakable:1}",
       "predicate": {
         "damaged": 0,
         "damage": 0.996

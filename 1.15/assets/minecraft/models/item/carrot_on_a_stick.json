@@ -1,1 +1,1645 @@
-{"textures":{"concrete_black":"block/black_concrete","hardened_clay_stained_yellow":"block/yellow_terracotta","particle":"block/e_particle","planks_jungle":"block/jungle_planks","stone_slab_top":"block/smooth_stone"},"elements":[{"from":[8,5,13.5],"to":[8.375,5.375,15.375],"faces":{"down":{"uv":[12.5,6,13,7],"texture":"#stone_slab_top"},"up":{"uv":[12.5,6,13,7],"texture":"#stone_slab_top"},"north":{"uv":[1,1,10.5,1.5],"texture":"#stone_slab_top"},"south":{"uv":[1,1,10.5,1.5],"texture":"#stone_slab_top"},"west":{"uv":[1,1,10.5,1.5],"texture":"#stone_slab_top"},"east":{"uv":[1,1,10.5,1.5],"texture":"#stone_slab_top"}}},{"from":[6.6,6,2],"to":[6.975,6.75,2.375],"rotation":{"origin":[6.6,6,2],"axis":"x","angle":22.5},"faces":{"down":{"uv":[6.5,14,7,14.5],"texture":"#concrete_black"},"up":{"uv":[6.5,1.5,7,2],"texture":"#concrete_black"},"north":{"uv":[9,9,9.5,10],"texture":"#concrete_black"},"south":{"uv":[6.5,9,7,10],"texture":"#concrete_black"},"west":{"uv":[1.5,9,2,10],"texture":"#concrete_black"},"east":{"uv":[14,9,14.5,10],"texture":"#concrete_black"}}},{"from":[7.7,5.4,3],"to":[8.7,6.4,25.5],"faces":{"down":{"uv":[7.7,0,8.7,13],"texture":"#concrete_black"},"up":{"uv":[7.7,3,8.7,16],"texture":"#concrete_black"},"north":{"uv":[7.3,9.6,8.3,10.6],"texture":"#concrete_black"},"south":{"uv":[7.7,9.6,8.7,10.6],"texture":"#concrete_black"},"west":{"uv":[3,9.6,16,10.6],"texture":"#concrete_black"},"east":{"uv":[0,9.6,13,10.6],"texture":"#concrete_black"}}},{"from":[7.25,5,12.375],"to":[9.125,6.125,13.5],"faces":{"down":{"uv":[8,3,8.5,4],"texture":"#hardened_clay_stained_yellow"},"up":{"uv":[8,12,8.5,13],"texture":"#hardened_clay_stained_yellow"},"north":{"uv":[7.5,15.5,8,16],"texture":"#hardened_clay_stained_yellow"},"south":{"uv":[7.5,15.5,8,16],"texture":"#hardened_clay_stained_yellow"},"west":{"uv":[7.5,15.5,8,16],"texture":"#hardened_clay_stained_yellow"},"east":{"uv":[7.5,15.5,8,16],"texture":"#hardened_clay_stained_yellow"}}},{"from":[8,5,24.375],"to":[8.375,5.375,25.125],"faces":{"down":{"uv":[8,3,8.5,4],"texture":"#hardened_clay_stained_yellow"},"up":{"uv":[8,12,8.5,13],"texture":"#hardened_clay_stained_yellow"},"north":{"uv":[7.5,15.5,8,16],"texture":"#hardened_clay_stained_yellow"},"south":{"uv":[7.5,15.5,8,16],"texture":"#hardened_clay_stained_yellow"},"west":{"uv":[7.5,15.5,8,16],"texture":"#hardened_clay_stained_yellow"},"east":{"uv":[7.5,15.5,8,16],"texture":"#hardened_clay_stained_yellow"}}},{"from":[8,5,19.125],"to":[8.375,5.375,20.25],"faces":{"down":{"uv":[8,3,8.5,4],"texture":"#hardened_clay_stained_yellow"},"up":{"uv":[8,12,8.5,13],"texture":"#hardened_clay_stained_yellow"},"north":{"uv":[7.5,15.5,8,16],"texture":"#hardened_clay_stained_yellow"},"south":{"uv":[7.5,15.5,8,16],"texture":"#hardened_clay_stained_yellow"},"west":{"uv":[7.5,15.5,8,16],"texture":"#hardened_clay_stained_yellow"},"east":{"uv":[7.5,15.5,8,16],"texture":"#hardened_clay_stained_yellow"}}},{"from":[8,5,20.25],"to":[8.375,5.375,24.375],"faces":{"down":{"uv":[12.5,6,13,7],"texture":"#stone_slab_top"},"up":{"uv":[12.5,6,13,7],"texture":"#stone_slab_top"},"north":{"uv":[1,1,15,1.5],"texture":"#stone_slab_top"},"south":{"uv":[1,1,15,1.5],"texture":"#stone_slab_top"},"west":{"uv":[1,1,15,1.5],"texture":"#stone_slab_top"},"east":{"uv":[1,1,15,1.5],"texture":"#stone_slab_top"}}},{"from":[8,5,16.5],"to":[8.375,5.375,19.125],"faces":{"down":{"uv":[12.5,6,13,7],"texture":"#stone_slab_top"},"up":{"uv":[12.5,6,13,7],"texture":"#stone_slab_top"},"north":{"uv":[1,1,12,1.5],"texture":"#stone_slab_top"},"south":{"uv":[1,1,12,1.5],"texture":"#stone_slab_top"},"west":{"uv":[1,1,12,1.5],"texture":"#stone_slab_top"},"east":{"uv":[1,1,12,1.5],"texture":"#stone_slab_top"}}},{"from":[8,5,15.375],"to":[8.375,5.375,16.5],"faces":{"down":{"uv":[8,3,8.5,4],"texture":"#hardened_clay_stained_yellow"},"up":{"uv":[8,12,8.5,13],"texture":"#hardened_clay_stained_yellow"},"north":{"uv":[7.5,15.5,8,16],"texture":"#hardened_clay_stained_yellow"},"south":{"uv":[7.5,15.5,8,16],"texture":"#hardened_clay_stained_yellow"},"west":{"uv":[7.5,15.5,8,16],"texture":"#hardened_clay_stained_yellow"},"east":{"uv":[7.5,15.5,8,16],"texture":"#hardened_clay_stained_yellow"}}},{"from":[7.5,3,-11.5],"to":[9,3.5,-3],"faces":{"down":{"uv":[7,16,16,12],"texture":"#planks_jungle"},"up":{"uv":[7,16,16,12],"texture":"#planks_jungle"},"north":{"uv":[6.5,12.5,9,13],"texture":"#planks_jungle"},"south":{"uv":[7,12.5,9.5,13],"texture":"#planks_jungle"},"west":{"uv":[7,12.5,9.5,13],"texture":"#planks_jungle"},"east":{"uv":[7,12.5,9.5,13],"texture":"#planks_jungle"}}},{"from":[7,4.5,3],"to":[9.5,6,12.5],"faces":{"down":{"uv":[7,3.5,9.5,13],"texture":"#planks_jungle"},"up":{"uv":[7,3,9.5,12.5],"texture":"#planks_jungle"},"north":{"uv":[6.5,10,9,11.5],"texture":"#planks_jungle"},"south":{"uv":[7,10,9.5,11.5],"texture":"#planks_jungle"},"west":{"uv":[3,10,12.5,11.5],"texture":"#planks_jungle"},"east":{"uv":[3.5,10,13,11.5],"texture":"#planks_jungle"}}},{"from":[7,4.5,1],"to":[9.5,6.5,3],"faces":{"down":{"uv":[7,13,9.5,15],"texture":"#planks_jungle"},"up":{"uv":[7,1,9.5,3],"texture":"#planks_jungle"},"north":{"uv":[6.5,9.5,9,11.5],"texture":"#planks_jungle"},"south":{"uv":[7,9.5,9.5,11.5],"texture":"#planks_jungle"},"west":{"uv":[1,9.5,3,11.5],"texture":"#planks_jungle"},"east":{"uv":[13,9.5,15,11.5],"texture":"#planks_jungle"}}},{"from":[7.5,4,2.5],"to":[9,4.5,3],"faces":{"down":{"uv":[0,0,16,16],"texture":"#hardened_clay_stained_yellow"},"up":{"uv":[0,0,16,16],"texture":"#hardened_clay_stained_yellow"},"north":{"uv":[0,0,16,16],"texture":"#hardened_clay_stained_yellow"},"south":{"uv":[0,0,16,16],"texture":"#hardened_clay_stained_yellow"},"west":{"uv":[0,0,16,16],"texture":"#hardened_clay_stained_yellow"},"east":{"uv":[0,0,16,16],"texture":"#hardened_clay_stained_yellow"}}},{"from":[7.5,3.5,1],"to":[9,4,2.5],"faces":{"down":{"uv":[0,0,16,16],"texture":"#hardened_clay_stained_yellow"},"up":{"uv":[0,0,16,16],"texture":"#hardened_clay_stained_yellow"},"north":{"uv":[0,0,16,16],"texture":"#hardened_clay_stained_yellow"},"south":{"uv":[0,0,16,16],"texture":"#hardened_clay_stained_yellow"},"west":{"uv":[0,0,16,16],"texture":"#hardened_clay_stained_yellow"},"east":{"uv":[0,0,16,16],"texture":"#hardened_clay_stained_yellow"}}},{"from":[7,3.5,-2],"to":[9.5,5.5,-0.5],"faces":{"down":{"uv":[10.5,14.5,16,13],"texture":"#planks_jungle"},"up":{"uv":[10.5,14.5,16,13],"texture":"#planks_jungle"},"north":{"uv":[6.5,10.5,9,12.5],"texture":"#planks_jungle"},"south":{"uv":[7,10.5,9.5,12.5],"texture":"#planks_jungle"},"west":{"uv":[7,10.5,9.5,12.5],"texture":"#planks_jungle"},"east":{"uv":[7,10.5,9.5,12.5],"texture":"#planks_jungle"}}},{"from":[7,4,-0.5],"to":[9.5,6,1],"faces":{"down":{"uv":[7,15,9.5,16],"texture":"#planks_jungle"},"up":{"uv":[7,0,9.5,1],"texture":"#planks_jungle"},"north":{"uv":[6.5,10,9,12],"texture":"#planks_jungle"},"south":{"uv":[7,10,9.5,12],"texture":"#planks_jungle"},"west":{"uv":[0,10,1,12],"texture":"#planks_jungle"},"east":{"uv":[15,10,16,12],"texture":"#planks_jungle"}}},{"from":[8,6.4,23],"to":[8.5,6.9,24],"faces":{"down":{"uv":[0,0,16,16],"texture":"#concrete_black"},"up":{"uv":[0,0,16,16],"texture":"#concrete_black"},"north":{"uv":[0,0,16,16],"texture":"#concrete_black"},"south":{"uv":[0,0,16,16],"texture":"#concrete_black"},"west":{"uv":[0,0,16,16],"texture":"#concrete_black"},"east":{"uv":[0,0,16,16],"texture":"#concrete_black"}}},{"from":[7.5,3.5,-12],"to":[9,6,-2],"faces":{"down":{"uv":[13,0,15,3],"texture":"#planks_jungle"},"up":{"uv":[13,0,15,3],"texture":"#planks_jungle"},"north":{"uv":[6.5,10,9,12.5],"texture":"#planks_jungle"},"south":{"uv":[7,10,9.5,12.5],"texture":"#planks_jungle"},"west":{"uv":[7,10,9.5,12.5],"texture":"#planks_jungle"},"east":{"uv":[7,10,9.5,12.5],"texture":"#planks_jungle"}}},{"from":[9,4,-11],"to":[9.5,5.5,-10],"faces":{"down":{"uv":[0,0,6.5,3],"texture":"#planks_jungle"},"up":{"uv":[0,0,6.5,3],"texture":"#planks_jungle"},"north":{"uv":[6.5,10,9,12.5],"texture":"#planks_jungle"},"south":{"uv":[7,10,9.5,12.5],"texture":"#planks_jungle"},"west":{"uv":[7,10,9.5,12.5],"texture":"#planks_jungle"},"east":{"uv":[7,10,9.5,12.5],"texture":"#planks_jungle"}}},{"from":[9,3.5,-10],"to":[9.5,5.5,-2],"faces":{"down":{"uv":[0,0,6.5,3],"texture":"#planks_jungle"},"up":{"uv":[0,0,6.5,3],"texture":"#planks_jungle"},"north":{"uv":[6.5,10,9,12.5],"texture":"#planks_jungle"},"south":{"uv":[7,10,9.5,12.5],"texture":"#planks_jungle"},"west":{"uv":[7,10,9.5,12.5],"texture":"#planks_jungle"},"east":{"uv":[7,10,9.5,12.5],"texture":"#planks_jungle"}}},{"from":[7,3.5,-10],"to":[7.5,5.5,-2],"faces":{"down":{"uv":[0,0,6.5,3],"texture":"#planks_jungle"},"up":{"uv":[0,0,6.5,3],"texture":"#planks_jungle"},"north":{"uv":[6.5,10,9,12.5],"texture":"#planks_jungle"},"south":{"uv":[7,10,9.5,12.5],"texture":"#planks_jungle"},"west":{"uv":[7,10,9.5,12.5],"texture":"#planks_jungle"},"east":{"uv":[7,10,9.5,12.5],"texture":"#planks_jungle"}}},{"from":[7,4,-11],"to":[7.5,5.5,-10],"faces":{"down":{"uv":[0,0,6.5,3],"texture":"#planks_jungle"},"up":{"uv":[0,0,6.5,3],"texture":"#planks_jungle"},"north":{"uv":[6.5,10,9,12.5],"texture":"#planks_jungle"},"south":{"uv":[7,10,9.5,12.5],"texture":"#planks_jungle"},"west":{"uv":[7,10,9.5,12.5],"texture":"#planks_jungle"},"east":{"uv":[7,10,9.5,12.5],"texture":"#planks_jungle"}}}],"display":{"thirdperson_righthand":{"rotation":[0,180,0],"translation":[-0.695,3.4782,-3.478],"scale":[0.6868,0.6868,0.6868]},"thirdperson_lefthand":{"rotation":[0,180,0],"translation":[-0.695,3.4782,-3.478],"scale":[0.6868,0.6868,0.6868]},"firstperson_righthand":{"rotation":[6,180,-2],"translation":[0,6.2608,0]},"firstperson_lefthand":{"rotation":[6,180,-2],"translation":[0,6.2608,0]},"gui":{"rotation":[1,40,9],"translation":[0.25,1.3913,0],"scale":[0.7216,0.7216,0.6172]},"head":{"rotation":[0,177,0],"translation":[0,38.954,0],"scale":[1.4519,1.4519,1.4519]},"fixed":{"rotation":[0,-90,0],"scale":[0.4782,0.4782,0.4782]}}}
+{
+  "__comment": "Designed_by_Slinx_with_Cubik_Studio_-_https://cubik.studio",
+  "textures": {
+    "particle": "block/e_particle",
+    "stone_slab_top": "block/smooth_stone",
+    "concrete_black": "block/black_concrete",
+    "planks_jungle": "block/jungle_planks",
+    "hardened_clay_stained_yellow": "block/yellow_terracotta"
+  },
+  "elements": [
+    {
+      "__comment": "stone_slab",
+      "from": [
+        8,
+        5,
+        13.5
+      ],
+      "to": [
+        8.375,
+        5.375,
+        15.375
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            12.5,
+            6,
+            13,
+            7
+          ],
+          "texture": "#stone_slab_top"
+        },
+        "up": {
+          "uv": [
+            12.5,
+            6,
+            13,
+            7
+          ],
+          "texture": "#stone_slab_top"
+        },
+        "north": {
+          "uv": [
+            1,
+            1,
+            10.5,
+            1.5
+          ],
+          "texture": "#stone_slab_top"
+        },
+        "south": {
+          "uv": [
+            1,
+            1,
+            10.5,
+            1.5
+          ],
+          "texture": "#stone_slab_top"
+        },
+        "west": {
+          "uv": [
+            1,
+            1,
+            10.5,
+            1.5
+          ],
+          "texture": "#stone_slab_top"
+        },
+        "east": {
+          "uv": [
+            1,
+            1,
+            10.5,
+            1.5
+          ],
+          "texture": "#stone_slab_top"
+        }
+      }
+    },
+    {
+      "__comment": "concrete_black",
+      "from": [
+        6.6,
+        6,
+        2
+      ],
+      "to": [
+        6.975,
+        6.75,
+        2.375
+      ],
+      "rotation": {
+        "origin": [
+          6.6,
+          6,
+          2
+        ],
+        "axis": "x",
+        "angle": 22.5
+      },
+      "faces": {
+        "down": {
+          "uv": [
+            6.5,
+            14,
+            7,
+            14.5
+          ],
+          "texture": "#concrete_black"
+        },
+        "up": {
+          "uv": [
+            6.5,
+            1.5,
+            7,
+            2
+          ],
+          "texture": "#concrete_black"
+        },
+        "north": {
+          "uv": [
+            9,
+            9,
+            9.5,
+            10
+          ],
+          "texture": "#concrete_black"
+        },
+        "south": {
+          "uv": [
+            6.5,
+            9,
+            7,
+            10
+          ],
+          "texture": "#concrete_black"
+        },
+        "west": {
+          "uv": [
+            1.5,
+            9,
+            2,
+            10
+          ],
+          "texture": "#concrete_black"
+        },
+        "east": {
+          "uv": [
+            14,
+            9,
+            14.5,
+            10
+          ],
+          "texture": "#concrete_black"
+        }
+      }
+    },
+    {
+      "__comment": "concrete_black",
+      "from": [
+        7.7,
+        5.4,
+        3
+      ],
+      "to": [
+        8.7,
+        6.4,
+        25.5
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            7.7,
+            0,
+            8.7,
+            13
+          ],
+          "texture": "#concrete_black"
+        },
+        "up": {
+          "uv": [
+            7.7,
+            3,
+            8.7,
+            16
+          ],
+          "texture": "#concrete_black"
+        },
+        "north": {
+          "uv": [
+            7.3,
+            9.6,
+            8.3,
+            10.6
+          ],
+          "texture": "#concrete_black"
+        },
+        "south": {
+          "uv": [
+            7.7,
+            9.6,
+            8.7,
+            10.6
+          ],
+          "texture": "#concrete_black"
+        },
+        "west": {
+          "uv": [
+            3,
+            9.6,
+            16,
+            10.6
+          ],
+          "texture": "#concrete_black"
+        },
+        "east": {
+          "uv": [
+            0,
+            9.6,
+            13,
+            10.6
+          ],
+          "texture": "#concrete_black"
+        }
+      }
+    },
+    {
+      "__comment": "hardened_clay_stained_yellow",
+      "from": [
+        7.25,
+        5,
+        12.375
+      ],
+      "to": [
+        9.125,
+        6.125,
+        13.5
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            8,
+            3,
+            8.5,
+            4
+          ],
+          "texture": "#hardened_clay_stained_yellow"
+        },
+        "up": {
+          "uv": [
+            8,
+            12,
+            8.5,
+            13
+          ],
+          "texture": "#hardened_clay_stained_yellow"
+        },
+        "north": {
+          "uv": [
+            7.5,
+            15.5,
+            8,
+            16
+          ],
+          "texture": "#hardened_clay_stained_yellow"
+        },
+        "south": {
+          "uv": [
+            7.5,
+            15.5,
+            8,
+            16
+          ],
+          "texture": "#hardened_clay_stained_yellow"
+        },
+        "west": {
+          "uv": [
+            7.5,
+            15.5,
+            8,
+            16
+          ],
+          "texture": "#hardened_clay_stained_yellow"
+        },
+        "east": {
+          "uv": [
+            7.5,
+            15.5,
+            8,
+            16
+          ],
+          "texture": "#hardened_clay_stained_yellow"
+        }
+      }
+    },
+    {
+      "__comment": "hardened_clay_stained_yellow",
+      "from": [
+        8,
+        5,
+        24.375
+      ],
+      "to": [
+        8.375,
+        5.375,
+        25.125
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            8,
+            3,
+            8.5,
+            4
+          ],
+          "texture": "#hardened_clay_stained_yellow"
+        },
+        "up": {
+          "uv": [
+            8,
+            12,
+            8.5,
+            13
+          ],
+          "texture": "#hardened_clay_stained_yellow"
+        },
+        "north": {
+          "uv": [
+            7.5,
+            15.5,
+            8,
+            16
+          ],
+          "texture": "#hardened_clay_stained_yellow"
+        },
+        "south": {
+          "uv": [
+            7.5,
+            15.5,
+            8,
+            16
+          ],
+          "texture": "#hardened_clay_stained_yellow"
+        },
+        "west": {
+          "uv": [
+            7.5,
+            15.5,
+            8,
+            16
+          ],
+          "texture": "#hardened_clay_stained_yellow"
+        },
+        "east": {
+          "uv": [
+            7.5,
+            15.5,
+            8,
+            16
+          ],
+          "texture": "#hardened_clay_stained_yellow"
+        }
+      }
+    },
+    {
+      "__comment": "hardened_clay_stained_yellow",
+      "from": [
+        8,
+        5,
+        19.125
+      ],
+      "to": [
+        8.375,
+        5.375,
+        20.25
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            8,
+            3,
+            8.5,
+            4
+          ],
+          "texture": "#hardened_clay_stained_yellow"
+        },
+        "up": {
+          "uv": [
+            8,
+            12,
+            8.5,
+            13
+          ],
+          "texture": "#hardened_clay_stained_yellow"
+        },
+        "north": {
+          "uv": [
+            7.5,
+            15.5,
+            8,
+            16
+          ],
+          "texture": "#hardened_clay_stained_yellow"
+        },
+        "south": {
+          "uv": [
+            7.5,
+            15.5,
+            8,
+            16
+          ],
+          "texture": "#hardened_clay_stained_yellow"
+        },
+        "west": {
+          "uv": [
+            7.5,
+            15.5,
+            8,
+            16
+          ],
+          "texture": "#hardened_clay_stained_yellow"
+        },
+        "east": {
+          "uv": [
+            7.5,
+            15.5,
+            8,
+            16
+          ],
+          "texture": "#hardened_clay_stained_yellow"
+        }
+      }
+    },
+    {
+      "__comment": "stone_slab",
+      "from": [
+        8,
+        5,
+        20.25
+      ],
+      "to": [
+        8.375,
+        5.375,
+        24.375
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            12.5,
+            6,
+            13,
+            7
+          ],
+          "texture": "#stone_slab_top"
+        },
+        "up": {
+          "uv": [
+            12.5,
+            6,
+            13,
+            7
+          ],
+          "texture": "#stone_slab_top"
+        },
+        "north": {
+          "uv": [
+            1,
+            1,
+            15,
+            1.5
+          ],
+          "texture": "#stone_slab_top"
+        },
+        "south": {
+          "uv": [
+            1,
+            1,
+            15,
+            1.5
+          ],
+          "texture": "#stone_slab_top"
+        },
+        "west": {
+          "uv": [
+            1,
+            1,
+            15,
+            1.5
+          ],
+          "texture": "#stone_slab_top"
+        },
+        "east": {
+          "uv": [
+            1,
+            1,
+            15,
+            1.5
+          ],
+          "texture": "#stone_slab_top"
+        }
+      }
+    },
+    {
+      "__comment": "stone_slab",
+      "from": [
+        8,
+        5,
+        16.5
+      ],
+      "to": [
+        8.375,
+        5.375,
+        19.125
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            12.5,
+            6,
+            13,
+            7
+          ],
+          "texture": "#stone_slab_top"
+        },
+        "up": {
+          "uv": [
+            12.5,
+            6,
+            13,
+            7
+          ],
+          "texture": "#stone_slab_top"
+        },
+        "north": {
+          "uv": [
+            1,
+            1,
+            12,
+            1.5
+          ],
+          "texture": "#stone_slab_top"
+        },
+        "south": {
+          "uv": [
+            1,
+            1,
+            12,
+            1.5
+          ],
+          "texture": "#stone_slab_top"
+        },
+        "west": {
+          "uv": [
+            1,
+            1,
+            12,
+            1.5
+          ],
+          "texture": "#stone_slab_top"
+        },
+        "east": {
+          "uv": [
+            1,
+            1,
+            12,
+            1.5
+          ],
+          "texture": "#stone_slab_top"
+        }
+      }
+    },
+    {
+      "__comment": "hardened_clay_stained_yellow",
+      "from": [
+        8,
+        5,
+        15.375
+      ],
+      "to": [
+        8.375,
+        5.375,
+        16.5
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            8,
+            3,
+            8.5,
+            4
+          ],
+          "texture": "#hardened_clay_stained_yellow"
+        },
+        "up": {
+          "uv": [
+            8,
+            12,
+            8.5,
+            13
+          ],
+          "texture": "#hardened_clay_stained_yellow"
+        },
+        "north": {
+          "uv": [
+            7.5,
+            15.5,
+            8,
+            16
+          ],
+          "texture": "#hardened_clay_stained_yellow"
+        },
+        "south": {
+          "uv": [
+            7.5,
+            15.5,
+            8,
+            16
+          ],
+          "texture": "#hardened_clay_stained_yellow"
+        },
+        "west": {
+          "uv": [
+            7.5,
+            15.5,
+            8,
+            16
+          ],
+          "texture": "#hardened_clay_stained_yellow"
+        },
+        "east": {
+          "uv": [
+            7.5,
+            15.5,
+            8,
+            16
+          ],
+          "texture": "#hardened_clay_stained_yellow"
+        }
+      }
+    },
+    {
+      "__comment": "planks_jungle",
+      "from": [
+        7.5,
+        3,
+        -11.5
+      ],
+      "to": [
+        9,
+        3.5,
+        -3
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            7,
+            16,
+            16,
+            12
+          ],
+          "texture": "#planks_jungle"
+        },
+        "up": {
+          "uv": [
+            7,
+            16,
+            16,
+            12
+          ],
+          "texture": "#planks_jungle"
+        },
+        "north": {
+          "uv": [
+            6.5,
+            12.5,
+            9,
+            13
+          ],
+          "texture": "#planks_jungle"
+        },
+        "south": {
+          "uv": [
+            7,
+            12.5,
+            9.5,
+            13
+          ],
+          "texture": "#planks_jungle"
+        },
+        "west": {
+          "uv": [
+            7,
+            12.5,
+            9.5,
+            13
+          ],
+          "texture": "#planks_jungle"
+        },
+        "east": {
+          "uv": [
+            7,
+            12.5,
+            9.5,
+            13
+          ],
+          "texture": "#planks_jungle"
+        }
+      }
+    },
+    {
+      "__comment": "planks_jungle",
+      "from": [
+        7,
+        4.5,
+        3
+      ],
+      "to": [
+        9.5,
+        6,
+        12.5
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            7,
+            3.5,
+            9.5,
+            13
+          ],
+          "texture": "#planks_jungle"
+        },
+        "up": {
+          "uv": [
+            7,
+            3,
+            9.5,
+            12.5
+          ],
+          "texture": "#planks_jungle"
+        },
+        "north": {
+          "uv": [
+            6.5,
+            10,
+            9,
+            11.5
+          ],
+          "texture": "#planks_jungle"
+        },
+        "south": {
+          "uv": [
+            7,
+            10,
+            9.5,
+            11.5
+          ],
+          "texture": "#planks_jungle"
+        },
+        "west": {
+          "uv": [
+            3,
+            10,
+            12.5,
+            11.5
+          ],
+          "texture": "#planks_jungle"
+        },
+        "east": {
+          "uv": [
+            3.5,
+            10,
+            13,
+            11.5
+          ],
+          "texture": "#planks_jungle"
+        }
+      }
+    },
+    {
+      "__comment": "planks_jungle",
+      "from": [
+        7,
+        4.5,
+        1
+      ],
+      "to": [
+        9.5,
+        6.5,
+        3
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            7,
+            13,
+            9.5,
+            15
+          ],
+          "texture": "#planks_jungle"
+        },
+        "up": {
+          "uv": [
+            7,
+            1,
+            9.5,
+            3
+          ],
+          "texture": "#planks_jungle"
+        },
+        "north": {
+          "uv": [
+            6.5,
+            9.5,
+            9,
+            11.5
+          ],
+          "texture": "#planks_jungle"
+        },
+        "south": {
+          "uv": [
+            7,
+            9.5,
+            9.5,
+            11.5
+          ],
+          "texture": "#planks_jungle"
+        },
+        "west": {
+          "uv": [
+            1,
+            9.5,
+            3,
+            11.5
+          ],
+          "texture": "#planks_jungle"
+        },
+        "east": {
+          "uv": [
+            13,
+            9.5,
+            15,
+            11.5
+          ],
+          "texture": "#planks_jungle"
+        }
+      }
+    },
+    {
+      "__comment": "Cube13",
+      "from": [
+        7.5,
+        4,
+        2.5
+      ],
+      "to": [
+        9,
+        4.5,
+        3
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            0,
+            0,
+            16,
+            16
+          ],
+          "texture": "#hardened_clay_stained_yellow"
+        },
+        "up": {
+          "uv": [
+            0,
+            0,
+            16,
+            16
+          ],
+          "texture": "#hardened_clay_stained_yellow"
+        },
+        "north": {
+          "uv": [
+            0,
+            0,
+            16,
+            16
+          ],
+          "texture": "#hardened_clay_stained_yellow"
+        },
+        "south": {
+          "uv": [
+            0,
+            0,
+            16,
+            16
+          ],
+          "texture": "#hardened_clay_stained_yellow"
+        },
+        "west": {
+          "uv": [
+            0,
+            0,
+            16,
+            16
+          ],
+          "texture": "#hardened_clay_stained_yellow"
+        },
+        "east": {
+          "uv": [
+            0,
+            0,
+            16,
+            16
+          ],
+          "texture": "#hardened_clay_stained_yellow"
+        }
+      }
+    },
+    {
+      "__comment": "Cube13",
+      "from": [
+        7.5,
+        3.5,
+        1
+      ],
+      "to": [
+        9,
+        4,
+        2.5
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            0,
+            0,
+            16,
+            16
+          ],
+          "texture": "#hardened_clay_stained_yellow"
+        },
+        "up": {
+          "uv": [
+            0,
+            0,
+            16,
+            16
+          ],
+          "texture": "#hardened_clay_stained_yellow"
+        },
+        "north": {
+          "uv": [
+            0,
+            0,
+            16,
+            16
+          ],
+          "texture": "#hardened_clay_stained_yellow"
+        },
+        "south": {
+          "uv": [
+            0,
+            0,
+            16,
+            16
+          ],
+          "texture": "#hardened_clay_stained_yellow"
+        },
+        "west": {
+          "uv": [
+            0,
+            0,
+            16,
+            16
+          ],
+          "texture": "#hardened_clay_stained_yellow"
+        },
+        "east": {
+          "uv": [
+            0,
+            0,
+            16,
+            16
+          ],
+          "texture": "#hardened_clay_stained_yellow"
+        }
+      }
+    },
+    {
+      "__comment": "planks_jungle",
+      "from": [
+        7,
+        3.5,
+        -2
+      ],
+      "to": [
+        9.5,
+        5.5,
+        -0.5
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            10.5,
+            14.5,
+            16,
+            13
+          ],
+          "texture": "#planks_jungle"
+        },
+        "up": {
+          "uv": [
+            10.5,
+            14.5,
+            16,
+            13
+          ],
+          "texture": "#planks_jungle"
+        },
+        "north": {
+          "uv": [
+            6.5,
+            10.5,
+            9,
+            12.5
+          ],
+          "texture": "#planks_jungle"
+        },
+        "south": {
+          "uv": [
+            7,
+            10.5,
+            9.5,
+            12.5
+          ],
+          "texture": "#planks_jungle"
+        },
+        "west": {
+          "uv": [
+            7,
+            10.5,
+            9.5,
+            12.5
+          ],
+          "texture": "#planks_jungle"
+        },
+        "east": {
+          "uv": [
+            7,
+            10.5,
+            9.5,
+            12.5
+          ],
+          "texture": "#planks_jungle"
+        }
+      }
+    },
+    {
+      "__comment": "planks_jungle",
+      "from": [
+        7,
+        4,
+        -0.5
+      ],
+      "to": [
+        9.5,
+        6,
+        1
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            7,
+            15,
+            9.5,
+            16
+          ],
+          "texture": "#planks_jungle"
+        },
+        "up": {
+          "uv": [
+            7,
+            0,
+            9.5,
+            1
+          ],
+          "texture": "#planks_jungle"
+        },
+        "north": {
+          "uv": [
+            6.5,
+            10,
+            9,
+            12
+          ],
+          "texture": "#planks_jungle"
+        },
+        "south": {
+          "uv": [
+            7,
+            10,
+            9.5,
+            12
+          ],
+          "texture": "#planks_jungle"
+        },
+        "west": {
+          "uv": [
+            0,
+            10,
+            1,
+            12
+          ],
+          "texture": "#planks_jungle"
+        },
+        "east": {
+          "uv": [
+            15,
+            10,
+            16,
+            12
+          ],
+          "texture": "#planks_jungle"
+        }
+      }
+    },
+    {
+      "__comment": "concrete_black",
+      "from": [
+        8,
+        6.4,
+        23
+      ],
+      "to": [
+        8.5,
+        6.9,
+        24
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            0,
+            0,
+            16,
+            16
+          ],
+          "texture": "#concrete_black"
+        },
+        "up": {
+          "uv": [
+            0,
+            0,
+            16,
+            16
+          ],
+          "texture": "#concrete_black"
+        },
+        "north": {
+          "uv": [
+            0,
+            0,
+            16,
+            16
+          ],
+          "texture": "#concrete_black"
+        },
+        "south": {
+          "uv": [
+            0,
+            0,
+            16,
+            16
+          ],
+          "texture": "#concrete_black"
+        },
+        "west": {
+          "uv": [
+            0,
+            0,
+            16,
+            16
+          ],
+          "texture": "#concrete_black"
+        },
+        "east": {
+          "uv": [
+            0,
+            0,
+            16,
+            16
+          ],
+          "texture": "#concrete_black"
+        }
+      }
+    },
+    {
+      "__comment": "planks_jungle",
+      "from": [
+        7.5,
+        3.5,
+        -12
+      ],
+      "to": [
+        9,
+        6,
+        -2
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            13,
+            0,
+            15,
+            3
+          ],
+          "texture": "#planks_jungle"
+        },
+        "up": {
+          "uv": [
+            13,
+            0,
+            15,
+            3
+          ],
+          "texture": "#planks_jungle"
+        },
+        "north": {
+          "uv": [
+            6.5,
+            10,
+            9,
+            12.5
+          ],
+          "texture": "#planks_jungle"
+        },
+        "south": {
+          "uv": [
+            7,
+            10,
+            9.5,
+            12.5
+          ],
+          "texture": "#planks_jungle"
+        },
+        "west": {
+          "uv": [
+            7,
+            10,
+            9.5,
+            12.5
+          ],
+          "texture": "#planks_jungle"
+        },
+        "east": {
+          "uv": [
+            7,
+            10,
+            9.5,
+            12.5
+          ],
+          "texture": "#planks_jungle"
+        }
+      }
+    },
+    {
+      "__comment": "planks_jungle",
+      "from": [
+        9,
+        4,
+        -11
+      ],
+      "to": [
+        9.5,
+        5.5,
+        -10
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            0,
+            0,
+            6.5,
+            3
+          ],
+          "texture": "#planks_jungle"
+        },
+        "up": {
+          "uv": [
+            0,
+            0,
+            6.5,
+            3
+          ],
+          "texture": "#planks_jungle"
+        },
+        "north": {
+          "uv": [
+            6.5,
+            10,
+            9,
+            12.5
+          ],
+          "texture": "#planks_jungle"
+        },
+        "south": {
+          "uv": [
+            7,
+            10,
+            9.5,
+            12.5
+          ],
+          "texture": "#planks_jungle"
+        },
+        "west": {
+          "uv": [
+            7,
+            10,
+            9.5,
+            12.5
+          ],
+          "texture": "#planks_jungle"
+        },
+        "east": {
+          "uv": [
+            7,
+            10,
+            9.5,
+            12.5
+          ],
+          "texture": "#planks_jungle"
+        }
+      }
+    },
+    {
+      "__comment": "planks_jungle",
+      "from": [
+        9,
+        3.5,
+        -10
+      ],
+      "to": [
+        9.5,
+        5.5,
+        -2
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            0,
+            0,
+            6.5,
+            3
+          ],
+          "texture": "#planks_jungle"
+        },
+        "up": {
+          "uv": [
+            0,
+            0,
+            6.5,
+            3
+          ],
+          "texture": "#planks_jungle"
+        },
+        "north": {
+          "uv": [
+            6.5,
+            10,
+            9,
+            12.5
+          ],
+          "texture": "#planks_jungle"
+        },
+        "south": {
+          "uv": [
+            7,
+            10,
+            9.5,
+            12.5
+          ],
+          "texture": "#planks_jungle"
+        },
+        "west": {
+          "uv": [
+            7,
+            10,
+            9.5,
+            12.5
+          ],
+          "texture": "#planks_jungle"
+        },
+        "east": {
+          "uv": [
+            7,
+            10,
+            9.5,
+            12.5
+          ],
+          "texture": "#planks_jungle"
+        }
+      }
+    },
+    {
+      "__comment": "planks_jungle",
+      "from": [
+        7,
+        3.5,
+        -10
+      ],
+      "to": [
+        7.5,
+        5.5,
+        -2
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            0,
+            0,
+            6.5,
+            3
+          ],
+          "texture": "#planks_jungle"
+        },
+        "up": {
+          "uv": [
+            0,
+            0,
+            6.5,
+            3
+          ],
+          "texture": "#planks_jungle"
+        },
+        "north": {
+          "uv": [
+            6.5,
+            10,
+            9,
+            12.5
+          ],
+          "texture": "#planks_jungle"
+        },
+        "south": {
+          "uv": [
+            7,
+            10,
+            9.5,
+            12.5
+          ],
+          "texture": "#planks_jungle"
+        },
+        "west": {
+          "uv": [
+            7,
+            10,
+            9.5,
+            12.5
+          ],
+          "texture": "#planks_jungle"
+        },
+        "east": {
+          "uv": [
+            7,
+            10,
+            9.5,
+            12.5
+          ],
+          "texture": "#planks_jungle"
+        }
+      }
+    },
+    {
+      "__comment": "planks_jungle",
+      "from": [
+        7,
+        4,
+        -11
+      ],
+      "to": [
+        7.5,
+        5.5,
+        -10
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            0,
+            0,
+            6.5,
+            3
+          ],
+          "texture": "#planks_jungle"
+        },
+        "up": {
+          "uv": [
+            0,
+            0,
+            6.5,
+            3
+          ],
+          "texture": "#planks_jungle"
+        },
+        "north": {
+          "uv": [
+            6.5,
+            10,
+            9,
+            12.5
+          ],
+          "texture": "#planks_jungle"
+        },
+        "south": {
+          "uv": [
+            7,
+            10,
+            9.5,
+            12.5
+          ],
+          "texture": "#planks_jungle"
+        },
+        "west": {
+          "uv": [
+            7,
+            10,
+            9.5,
+            12.5
+          ],
+          "texture": "#planks_jungle"
+        },
+        "east": {
+          "uv": [
+            7,
+            10,
+            9.5,
+            12.5
+          ],
+          "texture": "#planks_jungle"
+        }
+      }
+    }
+  ],
+  "display": {
+    "thirdperson_righthand": {
+      "rotation": [
+        0,
+        180,
+        0
+      ],
+      "translation": [
+        -0.695,
+        3.4782,
+        -3.478
+      ],
+      "scale": [
+        0.6868,
+        0.6868,
+        0.6868
+      ]
+    },
+    "thirdperson_lefthand": {
+      "rotation": [
+        0,
+        180,
+        0
+      ],
+      "translation": [
+        -0.695,
+        3.4782,
+        -3.478
+      ],
+      "scale": [
+        0.6868,
+        0.6868,
+        0.6868
+      ]
+    },
+    "firstperson_righthand": {
+      "rotation": [
+        6,
+        180,
+        -2
+      ],
+      "translation": [
+        0,
+        6.2608,
+        0
+      ]
+    },
+    "firstperson_lefthand": {
+      "rotation": [
+        6,
+        180,
+        -2
+      ],
+      "translation": [
+        0,
+        6.2608,
+        0
+      ]
+    },
+    "gui": {
+      "rotation": [
+        1,
+        40,
+        9
+      ],
+      "translation": [
+        0.25,
+        1.3913,
+        0
+      ],
+      "scale": [
+        0.7216,
+        0.7216,
+        0.6172
+      ]
+    },
+    "head": {
+      "rotation": [
+        0,
+        177,
+        0
+      ],
+      "translation": [
+        0,
+        38.954,
+        0
+      ],
+      "scale": [
+        1.4519,
+        1.4519,
+        1.4519
+      ]
+    },
+    "fixed": {
+      "rotation": [
+        0,
+        -90,
+        0
+      ],
+      "scale": [
+        0.4782,
+        0.4782,
+        0.4782
+      ]
+    }
+  }
+}

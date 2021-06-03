@@ -4,7 +4,8 @@
     "3": "block/black_concrete",
     "7": "block/yellow_concrete",
     "8": "block/cyan_concrete",
-    "particle": "block/black_wool"
+    "particle": "block/black_wool",
+    "texture": "custom/switchui"
   },
   "elements": [
     {
@@ -27,7 +28,7 @@
             0.5,
             10
           ],
-          "texture": "#particle"
+          "texture": "#texture"
         },
         "up": {
           "uv": [
@@ -36,7 +37,7 @@
             0.5,
             10
           ],
-          "texture": "#particle"
+          "texture": "#texture"
         },
         "north": {
           "uv": [
@@ -45,7 +46,7 @@
             0.5,
             5.5
           ],
-          "texture": "#particle"
+          "texture": "#texture"
         },
         "south": {
           "uv": [
@@ -54,7 +55,7 @@
             0.5,
             5.5
           ],
-          "texture": "#particle"
+          "texture": "#texture"
         },
         "west": {
           "uv": [
@@ -63,7 +64,7 @@
             16,
             16
           ],
-          "texture": "#particle"
+          "texture": "#texture"
         },
         "east": {
           "uv": [
@@ -72,7 +73,7 @@
             10,
             5.5
           ],
-          "texture": "#particle"
+          "texture": "#texture"
         }
       }
     },

@@ -1,1 +1,200 @@
-{"textures":{"texture":"block/pink_concrete_powder"},"elements":[{"from":[6,6,1],"to":[10,10,8.5],"faces":{"down":{"uv":[12,1,13,2],"texture":"#texture"},"up":{"uv":[12,1,13,2],"texture":"#texture"},"north":{"uv":[12,1,13,2],"texture":"#texture"},"south":{"uv":[12,1,13,2],"texture":"#texture"},"west":{"uv":[12,1,13,2],"texture":"#texture"},"east":{"uv":[12,1,13,2],"texture":"#texture"}}},{"from":[6,6,8.5],"to":[10,10,15.5],"rotation":{"origin":[6,6,8.5],"axis":"x","angle":-45},"faces":{"down":{"uv":[12,1,13,2],"texture":"#texture"},"up":{"uv":[12,1,13,2],"texture":"#texture"},"north":{"uv":[12,1,13,2],"texture":"#texture"},"south":{"uv":[12,1,13,2],"texture":"#texture"},"west":{"uv":[12,1,13,2],"texture":"#texture"},"east":{"uv":[12,1,13,2],"texture":"#texture"}}}],"display":{"thirdperson_righthand":{"rotation":[45,0,0],"translation":[0,-2.2,6.1]},"thirdperson_lefthand":{"rotation":[45,0,0],"translation":[0,-2.2,6.1]},"gui":{"rotation":[0,125,0],"translation":[0,-1.391,0]},"fixed":{"rotation":[0,90,0]}}}
+{
+  "__comment": "Designed_by_Slinx_for_ImagineFun",
+  "textures": {
+    "texture": "block/pink_concrete_powder"
+  },
+  "elements": [
+    {
+      "__comment": "Box1",
+      "from": [
+        6,
+        6,
+        1
+      ],
+      "to": [
+        10,
+        10,
+        8.5
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            12,
+            1,
+            13,
+            2
+          ],
+          "texture": "#texture"
+        },
+        "up": {
+          "uv": [
+            12,
+            1,
+            13,
+            2
+          ],
+          "texture": "#texture"
+        },
+        "north": {
+          "uv": [
+            12,
+            1,
+            13,
+            2
+          ],
+          "texture": "#texture"
+        },
+        "south": {
+          "uv": [
+            12,
+            1,
+            13,
+            2
+          ],
+          "texture": "#texture"
+        },
+        "west": {
+          "uv": [
+            12,
+            1,
+            13,
+            2
+          ],
+          "texture": "#texture"
+        },
+        "east": {
+          "uv": [
+            12,
+            1,
+            13,
+            2
+          ],
+          "texture": "#texture"
+        }
+      }
+    },
+    {
+      "__comment": "Box1",
+      "from": [
+        6,
+        6,
+        8.5
+      ],
+      "to": [
+        10,
+        10,
+        15.5
+      ],
+      "rotation": {
+        "origin": [
+          6,
+          6,
+          8.5
+        ],
+        "axis": "x",
+        "angle": -45
+      },
+      "faces": {
+        "down": {
+          "uv": [
+            12,
+            1,
+            13,
+            2
+          ],
+          "texture": "#texture"
+        },
+        "up": {
+          "uv": [
+            12,
+            1,
+            13,
+            2
+          ],
+          "texture": "#texture"
+        },
+        "north": {
+          "uv": [
+            12,
+            1,
+            13,
+            2
+          ],
+          "texture": "#texture"
+        },
+        "south": {
+          "uv": [
+            12,
+            1,
+            13,
+            2
+          ],
+          "texture": "#texture"
+        },
+        "west": {
+          "uv": [
+            12,
+            1,
+            13,
+            2
+          ],
+          "texture": "#texture"
+        },
+        "east": {
+          "uv": [
+            12,
+            1,
+            13,
+            2
+          ],
+          "texture": "#texture"
+        }
+      }
+    }
+  ],
+  "display": {
+    "thirdperson_righthand": {
+      "rotation": [
+        45,
+        0,
+        0
+      ],
+      "translation": [
+        0,
+        -2.2,
+        6.1
+      ]
+    },
+    "thirdperson_lefthand": {
+      "rotation": [
+        45,
+        0,
+        0
+      ],
+      "translation": [
+        0,
+        -2.2,
+        6.1
+      ]
+    },
+    "gui": {
+      "rotation": [
+        0,
+        125,
+        0
+      ],
+      "translation": [
+        0,
+        -1.391,
+        0
+      ]
+    },
+    "fixed": {
+      "rotation": [
+        0,
+        90,
+        0
+      ]
+    }
+  }
+}

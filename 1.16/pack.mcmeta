@@ -1,1 +1,9 @@
-{"pack":{"pack_format":6,"description":"Enchanting!"}}
+{
+  "pack": {
+    "pack_format": 6,
+    "description": "Enchanting!"
+  },
+  "meta": {
+    "game_version": "1.16.5"
+  }
+}
