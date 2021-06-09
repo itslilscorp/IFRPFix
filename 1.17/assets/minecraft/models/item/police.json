@@ -1,0 +1,97 @@
+{
+  "__comment": "Designed_by_Mouskegamer_with_Cubik_Studio_-_https://cubik.studio",
+  "textures": {
+    "particle": "block/e_particle",
+    "texture": "custom/policedude"
+  },
+  "elements": [
+    {
+      "__comment": "Box1",
+      "from": [
+        -8,
+        0,
+        2.5
+      ],
+      "to": [
+        24,
+        32,
+        3.5
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            0,
+            9,
+            4.5,
+            10.5
+          ],
+          "texture": "#texture"
+        },
+        "up": {
+          "uv": [
+            0,
+            9,
+            4.5,
+            10.5
+          ],
+          "texture": "#texture"
+        },
+        "north": {
+          "uv": [
+            0,
+            7.5,
+            3,
+            12
+          ],
+          "texture": "#texture"
+        },
+        "south": {
+          "uv": [
+            0,
+            0,
+            16,
+            16
+          ],
+          "texture": "#texture"
+        },
+        "west": {
+          "uv": [
+            0,
+            9,
+            4.5,
+            10.5
+          ],
+          "texture": "#texture"
+        },
+        "east": {
+          "uv": [
+            0,
+            9,
+            4.5,
+            10.5
+          ],
+          "texture": "#texture"
+        }
+      }
+    }
+  ],
+  "display": {
+    "head": {
+      "rotation": [
+        0,
+        -180,
+        0
+      ],
+      "translation": [
+        2,
+        -31,
+        -16
+      ],
+      "scale": [
+        1.8,
+        1.8,
+        1.8
+      ]
+    }
+  }
+}

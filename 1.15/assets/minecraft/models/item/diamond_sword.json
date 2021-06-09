@@ -5518,6 +5518,97 @@
         "damage": 0.50544522741,
         "damaged": 1
       },
+      "model": "item/swchair2"
+    },
+    {
+      "predicate": {
+        "damage": 0.5060858424,
+        "damaged": 1
+      },
+      "model": "item/cart/cc_arm"
+    },
+    {
+      "predicate": {
+        "damage": 0.50672645739,
+        "damaged": 1
+      },
+      "model": "item/cart/cc_bun"
+    },
+    {
+      "predicate": {
+        "damage": 0.50736707238,
+        "damaged": 1
+      },
+      "model": "item/cart/cc_rac"
+    },
+    {
+      "predicate": {
+        "damage": 0.50800768738,
+        "damaged": 1
+      },
+      "model": "item/door/swend1"
+    },
+    {
+      "predicate": {
+        "damage": 0.50864830237,
+        "damaged": 1
+      },
+      "model": "item/door/swend2"
+    },
+    {
+      "predicate": {
+        "damage": 0.50928891736,
+        "damaged": 1
+      },
+      "model": "item/swbeam"
+    },
+    {
+      "predicate": {
+        "damage": 0.50992953235,
+        "damaged": 1
+      },
+      "model": "item/incredisign"
+    },
+    {
+      "predicate": {
+        "damage": 0.51057014734,
+        "damaged": 1
+      },
+      "model": "item/c4c"
+    },
+    {
+      "predicate": {
+        "damage": 0.51121076233,
+        "damaged": 1
+      },
+      "model": "item/pp1"
+    },
+    {
+      "predicate": {
+        "damage": 0.51185137732,
+        "damaged": 1
+      },
+      "model": "item/pp2"
+    },
+    {
+      "predicate": {
+        "damage": 0.51249199231,
+        "damaged": 1
+      },
+      "model": "item/pplamp4"
+    },
+    {
+      "predicate": {
+        "damage": 0.5131326073,
+        "damaged": 1
+      },
+      "model": "item/trash/pp"
+    },
+    {
+      "predicate": {
+        "damage": 0.51377322229,
+        "damaged": 1
+      },
       "model": "item/placeholder"
     }
   ]

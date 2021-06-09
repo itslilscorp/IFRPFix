@@ -1385,7 +1385,7 @@
         "damaged": 0,
         "damage": 0.688
       },
-      "model": "item/cars/frank"
+      "model": "item/froge"
     },
     {
       "_cmd_": "give_@p_minecraft:iron_shovel_1_172_{unbreakable:1}",
@@ -1393,7 +1393,7 @@
         "damaged": 0,
         "damage": 0.692
       },
-      "model": "item/cars/liz_1"
+      "model": "item/pet/mickeypride"
     },
     {
       "_cmd_": "give_@p_minecraft:iron_shovel_1_173_{unbreakable:1}",
@@ -1401,7 +1401,7 @@
         "damaged": 0,
         "damage": 0.696
       },
-      "model": "item/cars/liz_2"
+      "model": "item/pet/prideshibe"
     },
     {
       "_cmd_": "give_@p_minecraft:iron_shovel_1_174_{unbreakable:1}",
@@ -1409,7 +1409,7 @@
         "damaged": 0,
         "damage": 0.700
       },
-      "model": "item/newswire_mic"
+      "model": "item/prideshield"
     },
     {
       "_cmd_": "give_@p_minecraft:iron_shovel_1_175_{unbreakable:1}",

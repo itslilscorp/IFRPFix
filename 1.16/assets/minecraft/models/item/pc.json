@@ -2,7 +2,7 @@
   "__comment": "Designed_by_Mouskegamer_with_Cubik_Studio_-_https://cubik.studio",
   "textures": {
     "particle": "block/light_gray_wool",
-    "texture": "block/lime_concrete",
+    "texture": "custom/concept_gp",
     "texture1": "block/anvil",
     "texture2": "block/black_wool"
   },
@@ -454,10 +454,10 @@
         },
         "north": {
           "uv": [
-            3,
-            8.5,
-            12.5,
-            14
+            0,
+            7,
+            16,
+            15.5
           ],
           "texture": "#texture"
         },
@@ -468,7 +468,7 @@
             13,
             14
           ],
-          "texture": "#texture"
+          "texture": "#texture1"
         },
         "west": {
           "uv": [
@@ -493,14 +493,14 @@
     {
       "__comment": "Box1",
       "from": [
-        -1.5,
+        -2.5,
         0.5,
-        6
+        3
       ],
       "to": [
-        1,
+        0,
         6.5,
-        12.5
+        9.5
       ],
       "faces": {
         "down": {
@@ -562,14 +562,14 @@
     {
       "__comment": "Box1",
       "from": [
-        -1.5,
+        -2.5,
         0,
-        6
+        3
       ],
       "to": [
-        -1,
+        -2,
         0.5,
-        6.5
+        3.5
       ],
       "faces": {
         "down": {
@@ -631,14 +631,14 @@
     {
       "__comment": "Box1",
       "from": [
-        0.5,
+        -0.5,
         0,
-        6
+        3
       ],
       "to": [
-        1,
+        0,
         0.5,
-        6.5
+        3.5
       ],
       "faces": {
         "down": {
@@ -700,14 +700,14 @@
     {
       "__comment": "Box1",
       "from": [
-        0.5,
+        -0.5,
         0,
-        12
+        9
       ],
       "to": [
-        1,
+        0,
         0.5,
-        12.5
+        9.5
       ],
       "faces": {
         "down": {
@@ -769,14 +769,14 @@
     {
       "__comment": "Box1",
       "from": [
-        -1.5,
+        -2.5,
         0,
-        12
+        9
       ],
       "to": [
-        -1,
+        -2,
         0.5,
-        12.5
+        9.5
       ],
       "faces": {
         "down": {
@@ -976,14 +976,14 @@
     {
       "__comment": "Box1",
       "from": [
-        -1,
+        -2,
         6.5,
-        6.5
+        3.5
       ],
       "to": [
-        -0.5,
+        -1.5,
         7.5,
-        7
+        4
       ],
       "faces": {
         "down": {

@@ -1,0 +1,312 @@
+{
+  "__comment": "Designed_by_Mouskegamer_with_Cubik_Studio_-_https://cubik.studio",
+  "textures": {
+    "particle": "block/white_wool",
+    "texture": "block/jungle_planks"
+  },
+  "elements": [
+    {
+      "__comment": "Box1",
+      "from": [
+        7.5,
+        -3,
+        7.5
+      ],
+      "to": [
+        8.5,
+        19,
+        8.5
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            7.5,
+            7.5,
+            8.5,
+            8.5
+          ],
+          "texture": "#texture"
+        },
+        "up": {
+          "uv": [
+            7.5,
+            7.5,
+            8.5,
+            8.5
+          ],
+          "texture": "#texture"
+        },
+        "north": {
+          "uv": [
+            7.5,
+            0,
+            8.5,
+            16
+          ],
+          "texture": "#texture"
+        },
+        "south": {
+          "uv": [
+            7.5,
+            0,
+            8.5,
+            16
+          ],
+          "texture": "#texture"
+        },
+        "west": {
+          "uv": [
+            7.5,
+            0,
+            8.5,
+            16
+          ],
+          "texture": "#texture"
+        },
+        "east": {
+          "uv": [
+            7.5,
+            0,
+            8.5,
+            16
+          ],
+          "texture": "#texture"
+        }
+      }
+    },
+    {
+      "__comment": "Box1",
+      "from": [
+        7,
+        4.5,
+        7.5
+      ],
+      "to": [
+        9,
+        11.5,
+        8.5
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            7,
+            7.5,
+            9,
+            8.5
+          ],
+          "texture": "#particle"
+        },
+        "up": {
+          "uv": [
+            7,
+            7.5,
+            9,
+            8.5
+          ],
+          "texture": "#particle"
+        },
+        "north": {
+          "uv": [
+            7,
+            4.5,
+            9,
+            11.5
+          ],
+          "texture": "#particle"
+        },
+        "south": {
+          "uv": [
+            7,
+            4.5,
+            9,
+            11.5
+          ],
+          "texture": "#particle"
+        },
+        "west": {
+          "uv": [
+            7.5,
+            4.5,
+            8.5,
+            11.5
+          ],
+          "texture": "#particle"
+        },
+        "east": {
+          "uv": [
+            7.5,
+            4.5,
+            8.5,
+            11.5
+          ],
+          "texture": "#particle"
+        }
+      }
+    },
+    {
+      "__comment": "Box1",
+      "from": [
+        7.5,
+        4.5,
+        7
+      ],
+      "to": [
+        8.5,
+        11.5,
+        9
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            7.5,
+            7,
+            8.5,
+            9
+          ],
+          "texture": "#particle"
+        },
+        "up": {
+          "uv": [
+            7.5,
+            7,
+            8.5,
+            9
+          ],
+          "texture": "#particle"
+        },
+        "north": {
+          "uv": [
+            7.5,
+            4.5,
+            8.5,
+            11.5
+          ],
+          "texture": "#particle"
+        },
+        "south": {
+          "uv": [
+            7.5,
+            4.5,
+            8.5,
+            11.5
+          ],
+          "texture": "#particle"
+        },
+        "west": {
+          "uv": [
+            7,
+            4.5,
+            9,
+            11.5
+          ],
+          "texture": "#particle"
+        },
+        "east": {
+          "uv": [
+            7,
+            4.5,
+            9,
+            11.5
+          ],
+          "texture": "#particle"
+        }
+      }
+    }
+  ],
+  "display": {
+    "thirdperson_righthand": {
+      "translation": [
+        0,
+        -2,
+        0
+      ],
+      "scale": [
+        0.8,
+        0.8,
+        0.8
+      ]
+    },
+    "thirdperson_lefthand": {
+      "translation": [
+        0,
+        -2,
+        0
+      ],
+      "scale": [
+        0.8,
+        0.8,
+        0.8
+      ]
+    },
+    "firstperson_righthand": {
+      "rotation": [
+        0,
+        0,
+        -20
+      ],
+      "translation": [
+        0,
+        5,
+        0
+      ],
+      "scale": [
+        0.6,
+        0.6,
+        0.6
+      ]
+    },
+    "firstperson_lefthand": {
+      "rotation": [
+        0,
+        0,
+        -20
+      ],
+      "translation": [
+        0,
+        5,
+        0
+      ],
+      "scale": [
+        0.6,
+        0.6,
+        0.6
+      ]
+    },
+    "gui": {
+      "rotation": [
+        0,
+        -23,
+        -44
+      ],
+      "scale": [
+        0.9,
+        0.9,
+        0.9
+      ]
+    },
+    "ground": {
+      "rotation": [
+        0,
+        0,
+        -45
+      ],
+      "translation": [
+        0,
+        5,
+        0
+      ]
+    },
+    "fixed": {
+      "rotation": [
+        0,
+        0,
+        40
+      ],
+      "translation": [
+        0,
+        0,
+        -2
+      ]
+    }
+  }
+}

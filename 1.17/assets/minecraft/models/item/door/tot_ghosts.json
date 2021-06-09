@@ -1,0 +1,93 @@
+{
+  "__comment": "Designed_by_Mouskegamer_with_Cubik_Studio_-_https://cubik.studio",
+  "textures": {
+    "particle": "custom/50th_ears_gold_darker",
+    "texture": "custom/50th_ears_gold",
+    "texture1": "custom/pm_texture/tot_ghosts"
+  },
+  "elements": [
+    {
+      "__comment": "Box1",
+      "from": [
+        -5,
+        -9,
+        7.5
+      ],
+      "to": [
+        21,
+        19,
+        8.5
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            8,
+            0,
+            14,
+            2
+          ],
+          "texture": "#texture1"
+        },
+        "up": {
+          "uv": [
+            8,
+            0,
+            14,
+            2
+          ],
+          "texture": "#texture1"
+        },
+        "north": {
+          "uv": [
+            0,
+            0,
+            16,
+            16
+          ],
+          "texture": "#texture1"
+        },
+        "south": {
+          "uv": [
+            8,
+            0,
+            14,
+            2
+          ],
+          "texture": "#texture1"
+        },
+        "west": {
+          "uv": [
+            8,
+            0,
+            9,
+            1.5
+          ],
+          "texture": "#texture1"
+        },
+        "east": {
+          "uv": [
+            8,
+            0,
+            9,
+            2
+          ],
+          "texture": "#texture1"
+        }
+      }
+    }
+  ],
+  "display": {
+    "head": {
+      "translation": [
+        0,
+        -48,
+        0
+      ],
+      "scale": [
+        2,
+        2,
+        2
+      ]
+    }
+  }
+}

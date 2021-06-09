@@ -1,0 +1,90 @@
+{
+  "__comment": "Designed_by_SeanGause_with_Cubik_Studio_-_https://cubik.studio",
+  "textures": {
+    "particle": "block/e_particle",
+    "texture": "custom/indy_queuescript"
+  },
+  "elements": [
+    {
+      "__comment": "PlaneZ1",
+      "from": [
+        -6,
+        -14.5,
+        8
+      ],
+      "to": [
+        22,
+        31,
+        8.001
+      ],
+      "faces": {
+        "north": {
+          "uv": [
+            9,
+            0.5,
+            10.5,
+            1.5
+          ],
+          "texture": "#texture"
+        },
+        "south": {
+          "uv": [
+            10,
+            6,
+            15.5,
+            15
+          ],
+          "texture": "#texture"
+        }
+      }
+    }
+  ],
+  "display": {
+    "gui": {
+      "translation": [
+        0,
+        1.3913,
+        -3.477
+      ],
+      "scale": [
+        0.3739,
+        0.6173,
+        0.8608
+      ]
+    },
+    "head": {
+      "rotation": [
+        0,
+        180,
+        0
+      ],
+      "translation": [
+        0,
+        -15.3,
+        2.0869
+      ],
+      "scale": [
+        2,
+        2,
+        2
+      ]
+    },
+    "fixed": {
+      "rotation": [
+        0,
+        180,
+        0
+      ],
+      "translation": [
+        0,
+        -18.08,
+        0
+      ],
+      "scale": [
+        4,
+        4,
+        4
+      ]
+    }
+  }
+}

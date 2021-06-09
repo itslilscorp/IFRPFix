@@ -2516,6 +2516,14 @@
       "model": "item/pin/pr12"
     },
     {
+      "_cmd_": "give_@p_minecraft:diamond_hoe_1_116_{unbreakable:1}",
+      "predicate": {
+        "damaged": 0,
+        "damage": 0.20179372197
+      },
+      "model": "item/pin/stacypride"
+    },
+    {
       "predicate": {
         "damaged": 1,
         "damage": 0

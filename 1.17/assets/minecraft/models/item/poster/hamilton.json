@@ -1,0 +1,473 @@
+{
+  "__comment": "Designed_by_Mouskegamer_with_Cubik_Studio_-_https://cubik.studio",
+  "textures": {
+    "particle": "block/black_concrete",
+    "poster_face": "custom/ride_poster_02",
+    "texture": "block/light_gray_wool"
+  },
+  "elements": [
+    {
+      "__comment": "poster",
+      "from": [
+        -5.5,
+        -11,
+        -0.5
+      ],
+      "to": [
+        22,
+        28,
+        0.5
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            0,
+            15.5,
+            16,
+            16
+          ],
+          "texture": "#texture"
+        },
+        "up": {
+          "uv": [
+            0,
+            0,
+            16,
+            0.5
+          ],
+          "texture": "#texture"
+        },
+        "north": {
+          "uv": [
+            0,
+            0,
+            16,
+            16
+          ],
+          "texture": "#texture"
+        },
+        "south": {
+          "uv": [
+            8,
+            9,
+            10,
+            12
+          ],
+          "texture": "#poster_face"
+        },
+        "west": {
+          "uv": [
+            0,
+            0,
+            0.5,
+            16
+          ],
+          "texture": "#texture"
+        },
+        "east": {
+          "uv": [
+            15.5,
+            0,
+            16,
+            16
+          ],
+          "texture": "#texture"
+        }
+      }
+    },
+    {
+      "__comment": "poster",
+      "from": [
+        -6.5,
+        -12,
+        -1
+      ],
+      "to": [
+        -5.5,
+        29,
+        0.5
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            1.5,
+            15.5,
+            2,
+            16
+          ],
+          "texture": "#particle"
+        },
+        "up": {
+          "uv": [
+            1.5,
+            0,
+            2,
+            0.5
+          ],
+          "texture": "#particle"
+        },
+        "north": {
+          "uv": [
+            14,
+            0,
+            14.5,
+            16
+          ],
+          "texture": "#particle"
+        },
+        "south": {
+          "uv": [
+            1.5,
+            0,
+            2,
+            16
+          ],
+          "texture": "#particle"
+        },
+        "west": {
+          "uv": [
+            0,
+            0,
+            0.5,
+            16
+          ],
+          "texture": "#particle"
+        },
+        "east": {
+          "uv": [
+            15.5,
+            0,
+            16,
+            16
+          ],
+          "texture": "#particle"
+        }
+      }
+    },
+    {
+      "__comment": "poster",
+      "from": [
+        22,
+        -12,
+        -1
+      ],
+      "to": [
+        23,
+        29,
+        0.5
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            13.5,
+            15.5,
+            14,
+            16
+          ],
+          "texture": "#particle"
+        },
+        "up": {
+          "uv": [
+            13.5,
+            0,
+            14,
+            0.5
+          ],
+          "texture": "#particle"
+        },
+        "north": {
+          "uv": [
+            2,
+            0,
+            2.5,
+            16
+          ],
+          "texture": "#particle"
+        },
+        "south": {
+          "uv": [
+            13.5,
+            0,
+            14,
+            16
+          ],
+          "texture": "#particle"
+        },
+        "west": {
+          "uv": [
+            0,
+            0,
+            0.5,
+            16
+          ],
+          "texture": "#particle"
+        },
+        "east": {
+          "uv": [
+            15.5,
+            0,
+            16,
+            16
+          ],
+          "texture": "#particle"
+        }
+      }
+    },
+    {
+      "__comment": "poster",
+      "from": [
+        -5.5,
+        28,
+        -1
+      ],
+      "to": [
+        22,
+        29,
+        0.5
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            2,
+            15.5,
+            16,
+            16
+          ],
+          "texture": "#particle"
+        },
+        "up": {
+          "uv": [
+            2,
+            0,
+            16,
+            0.5
+          ],
+          "texture": "#particle"
+        },
+        "north": {
+          "uv": [
+            0,
+            0.5,
+            14,
+            1
+          ],
+          "texture": "#particle"
+        },
+        "south": {
+          "uv": [
+            2,
+            0.5,
+            16,
+            1
+          ],
+          "texture": "#particle"
+        },
+        "west": {
+          "uv": [
+            0,
+            0.5,
+            0.5,
+            1
+          ],
+          "texture": "#particle"
+        },
+        "east": {
+          "uv": [
+            15.5,
+            0.5,
+            16,
+            1
+          ],
+          "texture": "#particle"
+        }
+      }
+    },
+    {
+      "__comment": "poster",
+      "from": [
+        -5.5,
+        -12,
+        -1
+      ],
+      "to": [
+        22,
+        -11,
+        0.5
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            2,
+            15.5,
+            16,
+            16
+          ],
+          "texture": "#particle"
+        },
+        "up": {
+          "uv": [
+            2,
+            0,
+            16,
+            0.5
+          ],
+          "texture": "#particle"
+        },
+        "north": {
+          "uv": [
+            0,
+            8,
+            14,
+            8.5
+          ],
+          "texture": "#particle"
+        },
+        "south": {
+          "uv": [
+            2,
+            8,
+            16,
+            8.5
+          ],
+          "texture": "#particle"
+        },
+        "west": {
+          "uv": [
+            0,
+            8,
+            0.5,
+            8.5
+          ],
+          "texture": "#particle"
+        },
+        "east": {
+          "uv": [
+            15.5,
+            8,
+            16,
+            8.5
+          ],
+          "texture": "#particle"
+        }
+      }
+    }
+  ],
+  "display": {
+    "thirdperson_righthand": {
+      "rotation": [
+        90,
+        -180,
+        0
+      ],
+      "translation": [
+        -1,
+        2.7,
+        3.9565
+      ],
+      "scale": [
+        0.3,
+        0.3,
+        0.3
+      ]
+    },
+    "thirdperson_lefthand": {
+      "rotation": [
+        90,
+        -180,
+        0
+      ],
+      "translation": [
+        -1,
+        2.7,
+        3.9565
+      ],
+      "scale": [
+        0.3,
+        0.3,
+        0.3
+      ]
+    },
+    "firstperson_righthand": {
+      "translation": [
+        2.6956,
+        6.2608,
+        0
+      ],
+      "scale": [
+        0.4,
+        0.4,
+        1
+      ]
+    },
+    "firstperson_lefthand": {
+      "translation": [
+        -14.3,
+        -23.73,
+        0
+      ],
+      "scale": [
+        0.4,
+        0.4,
+        1
+      ]
+    },
+    "gui": {
+      "translation": [
+        0,
+        -0.2,
+        0
+      ],
+      "scale": [
+        0.4,
+        0.4,
+        1
+      ]
+    },
+    "head": {
+      "rotation": [
+        0,
+        -180,
+        0
+      ],
+      "translation": [
+        0.1,
+        -1.191,
+        -11.6
+      ],
+      "scale": [
+        0.5,
+        0.5,
+        0.5
+      ]
+    },
+    "ground": {
+      "translation": [
+        -0.17,
+        8.6507,
+        3.4782
+      ],
+      "scale": [
+        0.5,
+        0.5,
+        0.5
+      ]
+    },
+    "fixed": {
+      "rotation": [
+        0,
+        180,
+        0
+      ],
+      "translation": [
+        0.2,
+        -1.75,
+        -6.956
+      ],
+      "scale": [
+        0.5,
+        0.5,
+        1
+      ]
+    }
+  }
+}

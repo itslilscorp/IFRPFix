@@ -1,0 +1,35 @@
+{
+	"__comment": "Designed by Mouskegamer with Cubik Studio - https://cubik.studio",
+	"textures": {
+		"texture": "blocks/wool_colored_silver",
+		"texture1": "blocks/wool_colored_yellow",
+		"texture2": "blocks/wool_colored_red",
+		"texture3": "blocks/wool_colored_white",
+		"texture4": "custom/tan",
+		"texture5": "blocks/wool_colored_brown",
+		"texture6": "custom/blue_walkman02",
+		"texture7": "blocks/coal_ore"
+	},
+	"elements": [ 	 
+		{
+			"__comment": "Box2",
+			"from": [ 3, 11.5, 3.5 ],
+			"to": [ 5, 13.5, 13.5 ],
+			"faces": {
+				"down": { "uv": [ 3, 2.5, 5, 12.5 ], "texture": "#texture3" },
+				"up": { "uv": [ 3, 3.5, 5, 13.5 ], "texture": "#texture3" },
+				"north": { "uv": [ 11, 2.5, 13, 4.5 ], "texture": "#texture3" },
+				"south": { "uv": [ 3, 2.5, 5, 4.5 ], "texture": "#texture3" },
+				"west": { "uv": [ 3.5, 2.5, 13.5, 4.5 ], "texture": "#texture3" },
+				"east": { "uv": [ 2.5, 2.5, 12.5, 4.5 ], "texture": "#texture3" }
+			}
+		}
+	],
+	"display": {
+		"head": {
+			"rotation":  [ 0, -90, 0 ],
+			"translation":  [ 0, -16, 0 ],
+			"scale":  [ 2.7, 2.7, 2.7 ]
+		}
+	}
+}

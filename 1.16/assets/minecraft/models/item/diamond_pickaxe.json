@@ -4545,6 +4545,34 @@
         "damage": 0.42280589365,
         "damaged": 1
       },
+      "model": "item/hat/news_blue"
+    },
+    {
+      "predicate": {
+        "damage": 0.42344650864,
+        "damaged": 1
+      },
+      "model": "item/hat/pridehelmet"
+    },
+    {
+      "predicate": {
+        "damage": 0.42408712363,
+        "damaged": 1
+      },
+      "model": "item/hat/c4c"
+    },
+    {
+      "predicate": {
+        "damage": 0.42472773862,
+        "damaged": 1
+      },
+      "model": "item/hat/grad_red"
+    },
+    {
+      "predicate": {
+        "damage": 0.42536835361,
+        "damaged": 1
+      },
       "model": "item/placeholder"
     }
   ]

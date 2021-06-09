@@ -1,0 +1,86 @@
+{
+  "__comment": "Designed_by_Mouskegamer_with_Cubik_Studio_-_https://cubik.studio",
+  "textures": {
+    "texture": "custom/gui"
+  },
+  "elements": [
+    {
+      "__comment": "Box1",
+      "from": [
+        0,
+        0,
+        7
+      ],
+      "to": [
+        16,
+        16,
+        8
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            3,
+            0,
+            0,
+            1
+          ],
+          "texture": "#texture"
+        },
+        "up": {
+          "uv": [
+            3,
+            0,
+            0,
+            1
+          ],
+          "texture": "#texture"
+        },
+        "north": {
+          "uv": [
+            0,
+            0,
+            4,
+            4
+          ],
+          "texture": "#texture"
+        },
+        "south": {
+          "uv": [
+            3,
+            0,
+            0,
+            1
+          ],
+          "texture": "#texture"
+        },
+        "west": {
+          "uv": [
+            3,
+            0,
+            0,
+            1
+          ],
+          "texture": "#texture"
+        },
+        "east": {
+          "uv": [
+            3,
+            0,
+            0,
+            1
+          ],
+          "texture": "#texture"
+        }
+      }
+    }
+  ],
+  "display": {
+    "gui": {
+      "rotation": [
+        0,
+        180,
+        0
+      ]
+    }
+  }
+}

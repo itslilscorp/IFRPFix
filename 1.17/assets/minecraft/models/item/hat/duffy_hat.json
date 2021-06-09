@@ -1,0 +1,1491 @@
+{
+  "__comment": "Designed_by_Gamerkm_with_Cubik_Studio_-_https://cubik.studio",
+  "textures": {
+    "wool_black": "block/blue_concrete_powder",
+    "nether_brick": "block/quartz_block_bottom",
+    "particle": "custom/duffy"
+  },
+  "elements": [
+    {
+      "__comment": "nether_brick91",
+      "from": [
+        3.5,
+        10,
+        4
+      ],
+      "to": [
+        4,
+        12,
+        12
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            3.5,
+            11,
+            4,
+            12
+          ],
+          "texture": "#nether_brick"
+        },
+        "up": {
+          "uv": [
+            3.5,
+            4.000005,
+            4,
+            5.000005
+          ],
+          "texture": "#nether_brick"
+        },
+        "north": {
+          "uv": [
+            12,
+            4,
+            12.5,
+            5.5
+          ],
+          "texture": "#nether_brick"
+        },
+        "south": {
+          "uv": [
+            3.5,
+            4,
+            4,
+            5.5
+          ],
+          "texture": "#nether_brick"
+        },
+        "west": {
+          "uv": [
+            4.000005,
+            4,
+            5.000005,
+            5.5
+          ],
+          "texture": "#nether_brick"
+        },
+        "east": {
+          "uv": [
+            11,
+            4,
+            12,
+            5.5
+          ],
+          "texture": "#nether_brick"
+        }
+      }
+    },
+    {
+      "__comment": "nether_brick1",
+      "from": [
+        12,
+        10,
+        4
+      ],
+      "to": [
+        12.5,
+        12,
+        12
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            12,
+            11,
+            12.5,
+            12
+          ],
+          "texture": "#nether_brick"
+        },
+        "up": {
+          "uv": [
+            12,
+            4,
+            12.5,
+            5
+          ],
+          "texture": "#nether_brick"
+        },
+        "north": {
+          "uv": [
+            3.500002,
+            4,
+            4.000002,
+            5.5
+          ],
+          "texture": "#nether_brick"
+        },
+        "south": {
+          "uv": [
+            12,
+            4,
+            12.5,
+            5.5
+          ],
+          "texture": "#nether_brick"
+        },
+        "west": {
+          "uv": [
+            4,
+            4,
+            5,
+            5.5
+          ],
+          "texture": "#nether_brick"
+        },
+        "east": {
+          "uv": [
+            11,
+            4,
+            12,
+            5.5
+          ],
+          "texture": "#nether_brick"
+        }
+      }
+    },
+    {
+      "__comment": "nether_brick87",
+      "from": [
+        4,
+        10,
+        3.5
+      ],
+      "to": [
+        12,
+        11.5,
+        12.5
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            4.00001,
+            3.5,
+            6.50001,
+            4
+          ],
+          "texture": "#nether_brick"
+        },
+        "up": {
+          "uv": [
+            4.00001,
+            12,
+            6.50001,
+            12.5
+          ],
+          "texture": "#nether_brick"
+        },
+        "north": {
+          "uv": [
+            9.49999,
+            4,
+            11.99999,
+            5.5
+          ],
+          "texture": "#nether_brick"
+        },
+        "south": {
+          "uv": [
+            4.00001,
+            4,
+            6.50001,
+            5.5
+          ],
+          "texture": "#nether_brick"
+        },
+        "west": {
+          "uv": [
+            12,
+            4,
+            12.5,
+            5.5
+          ],
+          "texture": "#nether_brick"
+        },
+        "east": {
+          "uv": [
+            3.5,
+            4,
+            4,
+            5.5
+          ],
+          "texture": "#nether_brick"
+        }
+      }
+    },
+    {
+      "__comment": "nether_brick91",
+      "from": [
+        3,
+        11.5,
+        4
+      ],
+      "to": [
+        3.5,
+        13,
+        12
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            3.5,
+            11,
+            4,
+            12
+          ],
+          "texture": "#nether_brick"
+        },
+        "up": {
+          "uv": [
+            3.5,
+            4.000005,
+            4,
+            5.000005
+          ],
+          "texture": "#nether_brick"
+        },
+        "north": {
+          "uv": [
+            12,
+            4,
+            12.5,
+            5.5
+          ],
+          "texture": "#nether_brick"
+        },
+        "south": {
+          "uv": [
+            3.5,
+            4,
+            4,
+            5.5
+          ],
+          "texture": "#nether_brick"
+        },
+        "west": {
+          "uv": [
+            4.000005,
+            4,
+            5.000005,
+            5.5
+          ],
+          "texture": "#nether_brick"
+        },
+        "east": {
+          "uv": [
+            11,
+            4,
+            12,
+            5.5
+          ],
+          "texture": "#nether_brick"
+        }
+      }
+    },
+    {
+      "__comment": "nether_brick87",
+      "from": [
+        4,
+        11.5,
+        3
+      ],
+      "to": [
+        12,
+        13,
+        3.5
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            4.00001,
+            3.5,
+            6.50001,
+            4
+          ],
+          "texture": "#nether_brick"
+        },
+        "up": {
+          "uv": [
+            4.00001,
+            12,
+            6.50001,
+            12.5
+          ],
+          "texture": "#nether_brick"
+        },
+        "north": {
+          "uv": [
+            9.49999,
+            4,
+            11.99999,
+            5.5
+          ],
+          "texture": "#nether_brick"
+        },
+        "south": {
+          "uv": [
+            4.00001,
+            4,
+            6.50001,
+            5.5
+          ],
+          "texture": "#nether_brick"
+        },
+        "west": {
+          "uv": [
+            12,
+            4,
+            12.5,
+            5.5
+          ],
+          "texture": "#nether_brick"
+        },
+        "east": {
+          "uv": [
+            3.5,
+            4,
+            4,
+            5.5
+          ],
+          "texture": "#nether_brick"
+        }
+      }
+    },
+    {
+      "__comment": "nether_brick1",
+      "from": [
+        12.5,
+        11.5,
+        4
+      ],
+      "to": [
+        13,
+        13,
+        12
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            12,
+            11,
+            12.5,
+            12
+          ],
+          "texture": "#nether_brick"
+        },
+        "up": {
+          "uv": [
+            12,
+            4,
+            12.5,
+            5
+          ],
+          "texture": "#nether_brick"
+        },
+        "north": {
+          "uv": [
+            3.500002,
+            4,
+            4.000002,
+            5.5
+          ],
+          "texture": "#nether_brick"
+        },
+        "south": {
+          "uv": [
+            12,
+            4,
+            12.5,
+            5.5
+          ],
+          "texture": "#nether_brick"
+        },
+        "west": {
+          "uv": [
+            4,
+            4,
+            5,
+            5.5
+          ],
+          "texture": "#nether_brick"
+        },
+        "east": {
+          "uv": [
+            11,
+            4,
+            12,
+            5.5
+          ],
+          "texture": "#nether_brick"
+        }
+      }
+    },
+    {
+      "__comment": "nether_brick87",
+      "from": [
+        3.5,
+        11.5,
+        12
+      ],
+      "to": [
+        12.5,
+        13,
+        12.5
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            4.00001,
+            3.5,
+            6.50001,
+            4
+          ],
+          "texture": "#nether_brick"
+        },
+        "up": {
+          "uv": [
+            4.00001,
+            12,
+            6.50001,
+            12.5
+          ],
+          "texture": "#nether_brick"
+        },
+        "north": {
+          "uv": [
+            9.49999,
+            4,
+            11.99999,
+            5.5
+          ],
+          "texture": "#nether_brick"
+        },
+        "south": {
+          "uv": [
+            4.00001,
+            4,
+            6.50001,
+            5.5
+          ],
+          "texture": "#nether_brick"
+        },
+        "west": {
+          "uv": [
+            12,
+            4,
+            12.5,
+            5.5
+          ],
+          "texture": "#nether_brick"
+        },
+        "east": {
+          "uv": [
+            3.5,
+            4,
+            4,
+            5.5
+          ],
+          "texture": "#nether_brick"
+        }
+      }
+    },
+    {
+      "__comment": "nether_brick87",
+      "from": [
+        3.5,
+        11.5,
+        3.5
+      ],
+      "to": [
+        4,
+        13,
+        4
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            4.00001,
+            3.5,
+            6.50001,
+            4
+          ],
+          "texture": "#nether_brick"
+        },
+        "up": {
+          "uv": [
+            4.00001,
+            12,
+            6.50001,
+            12.5
+          ],
+          "texture": "#nether_brick"
+        },
+        "north": {
+          "uv": [
+            9.49999,
+            4,
+            11.99999,
+            5.5
+          ],
+          "texture": "#nether_brick"
+        },
+        "south": {
+          "uv": [
+            4.00001,
+            4,
+            6.50001,
+            5.5
+          ],
+          "texture": "#nether_brick"
+        },
+        "west": {
+          "uv": [
+            12,
+            4,
+            12.5,
+            5.5
+          ],
+          "texture": "#nether_brick"
+        },
+        "east": {
+          "uv": [
+            3.5,
+            4,
+            4,
+            5.5
+          ],
+          "texture": "#nether_brick"
+        }
+      }
+    },
+    {
+      "__comment": "nether_brick87",
+      "from": [
+        12,
+        11.5,
+        3.5
+      ],
+      "to": [
+        12.5,
+        13,
+        4
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            4.00001,
+            3.5,
+            6.50001,
+            4
+          ],
+          "texture": "#nether_brick"
+        },
+        "up": {
+          "uv": [
+            4.00001,
+            12,
+            6.50001,
+            12.5
+          ],
+          "texture": "#nether_brick"
+        },
+        "north": {
+          "uv": [
+            9.49999,
+            4,
+            11.99999,
+            5.5
+          ],
+          "texture": "#nether_brick"
+        },
+        "south": {
+          "uv": [
+            4.00001,
+            4,
+            6.50001,
+            5.5
+          ],
+          "texture": "#nether_brick"
+        },
+        "west": {
+          "uv": [
+            12,
+            4,
+            12.5,
+            5.5
+          ],
+          "texture": "#nether_brick"
+        },
+        "east": {
+          "uv": [
+            3.5,
+            4,
+            4,
+            5.5
+          ],
+          "texture": "#nether_brick"
+        }
+      }
+    },
+    {
+      "__comment": "wool_black",
+      "from": [
+        5,
+        11.5,
+        5
+      ],
+      "to": [
+        11,
+        13,
+        10.5
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            0.5000019,
+            7.999997,
+            5.500002,
+            8.499997
+          ],
+          "texture": "#nether_brick"
+        },
+        "up": {
+          "uv": [
+            0.5000019,
+            7.500003,
+            5.500002,
+            8.000003
+          ],
+          "texture": "#nether_brick"
+        },
+        "north": {
+          "uv": [
+            10.5,
+            0,
+            15.5,
+            2
+          ],
+          "texture": "#nether_brick"
+        },
+        "south": {
+          "uv": [
+            0.5000019,
+            0,
+            5.500002,
+            2
+          ],
+          "texture": "#nether_brick"
+        },
+        "west": {
+          "uv": [
+            7.500003,
+            0,
+            8.000003,
+            2
+          ],
+          "texture": "#nether_brick"
+        },
+        "east": {
+          "uv": [
+            7.999997,
+            0,
+            8.499997,
+            2
+          ],
+          "texture": "#nether_brick"
+        }
+      }
+    },
+    {
+      "__comment": "wool_black",
+      "from": [
+        5,
+        13,
+        5.5
+      ],
+      "to": [
+        11,
+        14,
+        10
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            0.5000019,
+            7.999997,
+            5.500002,
+            8.499997
+          ],
+          "texture": "#nether_brick"
+        },
+        "up": {
+          "uv": [
+            0.5000019,
+            7.500003,
+            5.500002,
+            8.000003
+          ],
+          "texture": "#nether_brick"
+        },
+        "north": {
+          "uv": [
+            10.5,
+            0,
+            15.5,
+            2
+          ],
+          "texture": "#nether_brick"
+        },
+        "south": {
+          "uv": [
+            0.5000019,
+            0,
+            5.500002,
+            2
+          ],
+          "texture": "#nether_brick"
+        },
+        "west": {
+          "uv": [
+            7.500003,
+            0,
+            8.000003,
+            2
+          ],
+          "texture": "#nether_brick"
+        },
+        "east": {
+          "uv": [
+            7.999997,
+            0,
+            8.499997,
+            2
+          ],
+          "texture": "#nether_brick"
+        }
+      }
+    },
+    {
+      "__comment": "wool_black",
+      "from": [
+        5.5,
+        13,
+        5
+      ],
+      "to": [
+        10.5,
+        14,
+        10.5
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            0.5000019,
+            7.999997,
+            5.500002,
+            8.499997
+          ],
+          "texture": "#nether_brick"
+        },
+        "up": {
+          "uv": [
+            0.5000019,
+            7.500003,
+            5.500002,
+            8.000003
+          ],
+          "texture": "#nether_brick"
+        },
+        "north": {
+          "uv": [
+            10.5,
+            0,
+            15.5,
+            2
+          ],
+          "texture": "#nether_brick"
+        },
+        "south": {
+          "uv": [
+            0.5000019,
+            0,
+            5.500002,
+            2
+          ],
+          "texture": "#nether_brick"
+        },
+        "west": {
+          "uv": [
+            7.500003,
+            0,
+            8.000003,
+            2
+          ],
+          "texture": "#nether_brick"
+        },
+        "east": {
+          "uv": [
+            7.999997,
+            0,
+            8.499997,
+            2
+          ],
+          "texture": "#nether_brick"
+        }
+      }
+    },
+    {
+      "__comment": "wool_black",
+      "from": [
+        5.5,
+        14,
+        5.5
+      ],
+      "to": [
+        10.5,
+        15,
+        10
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            0.5000019,
+            7.999997,
+            5.500002,
+            8.499997
+          ],
+          "texture": "#nether_brick"
+        },
+        "up": {
+          "uv": [
+            0.5000019,
+            7.500003,
+            5.500002,
+            8.000003
+          ],
+          "texture": "#nether_brick"
+        },
+        "north": {
+          "uv": [
+            10.5,
+            0,
+            15.5,
+            2
+          ],
+          "texture": "#nether_brick"
+        },
+        "south": {
+          "uv": [
+            0.5000019,
+            0,
+            5.500002,
+            2
+          ],
+          "texture": "#nether_brick"
+        },
+        "west": {
+          "uv": [
+            7.500003,
+            0,
+            8.000003,
+            2
+          ],
+          "texture": "#nether_brick"
+        },
+        "east": {
+          "uv": [
+            7.999997,
+            0,
+            8.499997,
+            2
+          ],
+          "texture": "#nether_brick"
+        }
+      }
+    },
+    {
+      "__comment": "nether_brick87",
+      "from": [
+        4.5,
+        10.5,
+        12.5
+      ],
+      "to": [
+        11.5,
+        13,
+        12.6
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            4.00001,
+            3.5,
+            6.50001,
+            4
+          ],
+          "texture": "#particle"
+        },
+        "up": {
+          "uv": [
+            4.00001,
+            12,
+            6.50001,
+            12.5
+          ],
+          "texture": "#particle"
+        },
+        "north": {
+          "uv": [
+            0,
+            0,
+            2.5,
+            1.5
+          ],
+          "texture": "#particle"
+        },
+        "south": {
+          "uv": [
+            0,
+            4.5,
+            16,
+            10
+          ],
+          "texture": "#particle"
+        },
+        "west": {
+          "uv": [
+            12,
+            4,
+            12.5,
+            5.5
+          ],
+          "texture": "#particle"
+        },
+        "east": {
+          "uv": [
+            3.5,
+            4,
+            4,
+            5.5
+          ],
+          "texture": "#particle"
+        }
+      }
+    },
+    {
+      "__comment": "nether_brick91",
+      "from": [
+        3,
+        13,
+        4
+      ],
+      "to": [
+        3.5,
+        13.5,
+        12
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            3.5,
+            11,
+            4,
+            12
+          ],
+          "texture": "#wool_black"
+        },
+        "up": {
+          "uv": [
+            3.5,
+            4.000005,
+            4,
+            5.000005
+          ],
+          "texture": "#wool_black"
+        },
+        "north": {
+          "uv": [
+            12,
+            4,
+            12.5,
+            5.5
+          ],
+          "texture": "#wool_black"
+        },
+        "south": {
+          "uv": [
+            3.5,
+            4,
+            4,
+            5.5
+          ],
+          "texture": "#wool_black"
+        },
+        "west": {
+          "uv": [
+            4.000005,
+            4,
+            5.000005,
+            5.5
+          ],
+          "texture": "#wool_black"
+        },
+        "east": {
+          "uv": [
+            11,
+            4,
+            12,
+            5.5
+          ],
+          "texture": "#wool_black"
+        }
+      }
+    },
+    {
+      "__comment": "nether_brick87",
+      "from": [
+        3.5,
+        13,
+        12
+      ],
+      "to": [
+        12.5,
+        13.5,
+        12.5
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            4.00001,
+            3.5,
+            6.50001,
+            4
+          ],
+          "texture": "#wool_black"
+        },
+        "up": {
+          "uv": [
+            4.00001,
+            12,
+            6.50001,
+            12.5
+          ],
+          "texture": "#wool_black"
+        },
+        "north": {
+          "uv": [
+            9.49999,
+            4,
+            11.99999,
+            5.5
+          ],
+          "texture": "#wool_black"
+        },
+        "south": {
+          "uv": [
+            4.00001,
+            4,
+            6.50001,
+            5.5
+          ],
+          "texture": "#wool_black"
+        },
+        "west": {
+          "uv": [
+            12,
+            4,
+            12.5,
+            5.5
+          ],
+          "texture": "#wool_black"
+        },
+        "east": {
+          "uv": [
+            3.5,
+            4,
+            4,
+            5.5
+          ],
+          "texture": "#wool_black"
+        }
+      }
+    },
+    {
+      "__comment": "nether_brick87",
+      "from": [
+        4,
+        13,
+        3
+      ],
+      "to": [
+        12,
+        13.5,
+        3.5
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            4.00001,
+            3.5,
+            6.50001,
+            4
+          ],
+          "texture": "#wool_black"
+        },
+        "up": {
+          "uv": [
+            4.00001,
+            12,
+            6.50001,
+            12.5
+          ],
+          "texture": "#wool_black"
+        },
+        "north": {
+          "uv": [
+            9.49999,
+            4,
+            11.99999,
+            5.5
+          ],
+          "texture": "#wool_black"
+        },
+        "south": {
+          "uv": [
+            4.00001,
+            4,
+            6.50001,
+            5.5
+          ],
+          "texture": "#wool_black"
+        },
+        "west": {
+          "uv": [
+            12,
+            4,
+            12.5,
+            5.5
+          ],
+          "texture": "#wool_black"
+        },
+        "east": {
+          "uv": [
+            3.5,
+            4,
+            4,
+            5.5
+          ],
+          "texture": "#wool_black"
+        }
+      }
+    },
+    {
+      "__comment": "nether_brick1",
+      "from": [
+        12.5,
+        13,
+        4
+      ],
+      "to": [
+        13,
+        13.5,
+        12
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            12,
+            11,
+            12.5,
+            12
+          ],
+          "texture": "#wool_black"
+        },
+        "up": {
+          "uv": [
+            12,
+            4,
+            12.5,
+            5
+          ],
+          "texture": "#wool_black"
+        },
+        "north": {
+          "uv": [
+            3.500002,
+            4,
+            4.000002,
+            5.5
+          ],
+          "texture": "#wool_black"
+        },
+        "south": {
+          "uv": [
+            12,
+            4,
+            12.5,
+            5.5
+          ],
+          "texture": "#wool_black"
+        },
+        "west": {
+          "uv": [
+            4,
+            4,
+            5,
+            5.5
+          ],
+          "texture": "#wool_black"
+        },
+        "east": {
+          "uv": [
+            11,
+            4,
+            12,
+            5.5
+          ],
+          "texture": "#wool_black"
+        }
+      }
+    },
+    {
+      "__comment": "nether_brick87",
+      "from": [
+        3.5,
+        13,
+        3.5
+      ],
+      "to": [
+        4,
+        13.5,
+        4
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            4.00001,
+            3.5,
+            6.50001,
+            4
+          ],
+          "texture": "#wool_black"
+        },
+        "up": {
+          "uv": [
+            4.00001,
+            12,
+            6.50001,
+            12.5
+          ],
+          "texture": "#wool_black"
+        },
+        "north": {
+          "uv": [
+            9.49999,
+            4,
+            11.99999,
+            5.5
+          ],
+          "texture": "#wool_black"
+        },
+        "south": {
+          "uv": [
+            4.00001,
+            4,
+            6.50001,
+            5.5
+          ],
+          "texture": "#wool_black"
+        },
+        "west": {
+          "uv": [
+            12,
+            4,
+            12.5,
+            5.5
+          ],
+          "texture": "#wool_black"
+        },
+        "east": {
+          "uv": [
+            3.5,
+            4,
+            4,
+            5.5
+          ],
+          "texture": "#wool_black"
+        }
+      }
+    },
+    {
+      "__comment": "nether_brick87",
+      "from": [
+        12,
+        13,
+        3.5
+      ],
+      "to": [
+        12.5,
+        13.5,
+        4
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            4.00001,
+            3.5,
+            6.50001,
+            4
+          ],
+          "texture": "#wool_black"
+        },
+        "up": {
+          "uv": [
+            4.00001,
+            12,
+            6.50001,
+            12.5
+          ],
+          "texture": "#wool_black"
+        },
+        "north": {
+          "uv": [
+            9.49999,
+            4,
+            11.99999,
+            5.5
+          ],
+          "texture": "#wool_black"
+        },
+        "south": {
+          "uv": [
+            4.00001,
+            4,
+            6.50001,
+            5.5
+          ],
+          "texture": "#wool_black"
+        },
+        "west": {
+          "uv": [
+            12,
+            4,
+            12.5,
+            5.5
+          ],
+          "texture": "#wool_black"
+        },
+        "east": {
+          "uv": [
+            3.5,
+            4,
+            4,
+            5.5
+          ],
+          "texture": "#wool_black"
+        }
+      }
+    }
+  ],
+  "display": {
+    "thirdperson_righthand": {
+      "rotation": [
+        73,
+        -148,
+        47
+      ],
+      "translation": [
+        -2.084,
+        0.6963,
+        -2.086
+      ],
+      "scale": [
+        0.7,
+        0.7,
+        0.7
+      ]
+    },
+    "thirdperson_lefthand": {
+      "rotation": [
+        73,
+        -148,
+        47
+      ],
+      "translation": [
+        -2.084,
+        0.6963,
+        -2.086
+      ],
+      "scale": [
+        0.7,
+        0.7,
+        0.7
+      ]
+    },
+    "firstperson_righthand": {
+      "rotation": [
+        -7,
+        -62,
+        5
+      ],
+      "translation": [
+        4.1739,
+        -3.375,
+        -5.564
+      ]
+    },
+    "firstperson_lefthand": {
+      "rotation": [
+        -7,
+        -62,
+        5
+      ],
+      "translation": [
+        4.1739,
+        -3.375,
+        -5.564
+      ]
+    },
+    "gui": {
+      "rotation": [
+        0,
+        -32,
+        0
+      ],
+      "translation": [
+        0,
+        -6,
+        0
+      ]
+    },
+    "head": {
+      "rotation": [
+        0,
+        180,
+        0
+      ],
+      "translation": [
+        0,
+        -0.9,
+        0
+      ],
+      "scale": [
+        1.81,
+        1.81,
+        1.81
+      ]
+    },
+    "fixed": {
+      "rotation": [
+        0,
+        180,
+        0
+      ],
+      "translation": [
+        0,
+        -6,
+        -0.66
+      ]
+    }
+  }
+}

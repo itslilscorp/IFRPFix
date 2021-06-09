@@ -1,0 +1,144 @@
+{
+  "__comment": "Designed_by_SeanGause_with_Cubik_Studio_-_https://cubik.studio",
+  "textures": {
+    "texture": "custom/indy_ridedartart"
+  },
+  "elements": [
+    {
+      "__comment": "PlaneX3",
+      "from": [
+        8,
+        -15,
+        -15
+      ],
+      "to": [
+        9.5,
+        31,
+        31
+      ],
+      "faces": {
+        "west": {
+          "uv": [
+            0,
+            0,
+            16,
+            16
+          ],
+          "texture": "#texture"
+        },
+        "east": {
+          "uv": [
+            0,
+            0,
+            16,
+            16
+          ],
+          "texture": "#texture"
+        }
+      }
+    }
+  ],
+  "display": {
+    "thirdperson_righthand": {
+      "rotation": [
+        0,
+        67,
+        0
+      ],
+      "translation": [
+        2.7826,
+        2.7826,
+        0.6956
+      ],
+      "scale": [
+        0.2,
+        0.2,
+        0.2
+      ]
+    },
+    "thirdperson_lefthand": {
+      "rotation": [
+        0,
+        67,
+        0
+      ],
+      "translation": [
+        2.7826,
+        2.7826,
+        0.6956
+      ],
+      "scale": [
+        0.2,
+        0.2,
+        0.2
+      ]
+    },
+    "firstperson_righthand": {
+      "translation": [
+        0,
+        3.4786,
+        0
+      ],
+      "scale": [
+        0.3,
+        0.3,
+        0.3
+      ]
+    },
+    "firstperson_lefthand": {
+      "translation": [
+        0,
+        3.4786,
+        0
+      ],
+      "scale": [
+        0.3,
+        0.3,
+        0.3
+      ]
+    },
+    "gui": {
+      "rotation": [
+        0,
+        90,
+        0
+      ],
+      "scale": [
+        0.4,
+        0.4,
+        0.4
+      ]
+    },
+    "head": {
+      "rotation": [
+        0,
+        -90,
+        0
+      ],
+      "translation": [
+        43,
+        0,
+        0
+      ],
+      "scale": [
+        2.3,
+        2.3,
+        2.3
+      ]
+    },
+    "ground": {
+      "translation": [
+        0,
+        21.565,
+        0
+      ]
+    },
+    "fixed": {
+      "rotation": [
+        0,
+        90,
+        0
+      ]
+    }
+  }
+}

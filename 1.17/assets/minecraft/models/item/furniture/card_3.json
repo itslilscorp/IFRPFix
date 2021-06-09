@@ -1,0 +1,184 @@
+{
+  "__comment": "Designed_by_Mouskegamer_with_Cubik_Studio_-_https://cubik.studio",
+  "textures": {
+    "particle": "block/bone_block_side",
+    "texture": "custom/oogiecards"
+  },
+  "elements": [
+    {
+      "__comment": "Box1",
+      "from": [
+        -1,
+        -5.5,
+        7.5
+      ],
+      "to": [
+        17,
+        23.5,
+        8.5
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            3,
+            7.5,
+            13,
+            8.5
+          ],
+          "texture": "#particle"
+        },
+        "up": {
+          "uv": [
+            3,
+            7.5,
+            13,
+            8.5
+          ],
+          "texture": "#particle"
+        },
+        "north": {
+          "uv": [
+            8,
+            0,
+            12,
+            6
+          ],
+          "texture": "#texture"
+        },
+        "south": {
+          "uv": [
+            0,
+            12,
+            4,
+            16
+          ],
+          "texture": "#texture"
+        },
+        "west": {
+          "uv": [
+            7.5,
+            1.5,
+            8.5,
+            16
+          ],
+          "texture": "#particle"
+        },
+        "east": {
+          "uv": [
+            7.5,
+            1.5,
+            8.5,
+            16
+          ],
+          "texture": "#particle"
+        }
+      }
+    }
+  ],
+  "display": {
+    "thirdperson_righthand": {
+      "rotation": [
+        90,
+        0,
+        0
+      ],
+      "translation": [
+        -2,
+        0,
+        8
+      ],
+      "scale": [
+        0.2,
+        0.2,
+        0.2
+      ]
+    },
+    "thirdperson_lefthand": {
+      "rotation": [
+        90,
+        0,
+        0
+      ],
+      "translation": [
+        -2,
+        0,
+        8
+      ],
+      "scale": [
+        0.2,
+        0.2,
+        0.2
+      ]
+    },
+    "firstperson_righthand": {
+      "rotation": [
+        0,
+        149,
+        0
+      ],
+      "translation": [
+        0,
+        5,
+        0
+      ],
+      "scale": [
+        0.3,
+        0.3,
+        0.3
+      ]
+    },
+    "firstperson_lefthand": {
+      "rotation": [
+        0,
+        149,
+        0
+      ],
+      "translation": [
+        0,
+        5,
+        0
+      ],
+      "scale": [
+        0.3,
+        0.3,
+        0.3
+      ]
+    },
+    "gui": {
+      "rotation": [
+        0,
+        -180,
+        0
+      ],
+      "translation": [
+        0,
+        -0.5,
+        0
+      ],
+      "scale": [
+        0.5,
+        0.5,
+        0.5
+      ]
+    },
+    "head": {
+      "scale": [
+        3,
+        3,
+        1.5
+      ]
+    },
+    "ground": {
+      "translation": [
+        0,
+        7,
+        0
+      ],
+      "scale": [
+        0.4,
+        0.4,
+        0.4
+      ]
+    }
+  }
+}

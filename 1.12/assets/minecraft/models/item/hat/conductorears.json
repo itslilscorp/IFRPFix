@@ -1,0 +1,4331 @@
+{
+	"credit": "Made with Blockbench, a free, modern block model editor by JannisX11",
+	"textures": {
+		"1": "blocks/hardened_clay_stained_red",
+		"wool_black": "blocks/wool_colored_black",
+		"white_wool": "blocks/quartz_block_top",
+		"nether_brick": "blocks/wool_colored_blue",
+		"hardened_clay_stained_lime": "blocks/hardened_clay_stained_yellow",
+		"hardened_clay_stained_lightblue": "blocks/shulker_top_blue"
+	},
+	"elements": [
+		{
+			"name": "cube",
+			"from": [11.5, 13.5, 6],
+			"to": [12, 14, 10],
+			"shade": true,
+			"faces": {
+				"north": {
+					"uv": [4, 2, 4.5, 2.5],
+					"texture": "#nether_brick"
+				},
+				"east": {
+					"uv": [6.000002, 2, 10, 2.5],
+					"texture": "#nether_brick"
+				},
+				"south": {
+					"uv": [11.5, 2, 12, 2.5],
+					"texture": "#nether_brick"
+				},
+				"west": {
+					"uv": [5.999998, 2, 9.999998, 2.5],
+					"texture": "#nether_brick"
+				},
+				"up": {
+					"uv": [11.5, 5.999998, 12, 9.999998],
+					"texture": "#nether_brick"
+				},
+				"down": {
+					"uv": [11.5, 6.000002, 12, 10],
+					"texture": "#nether_brick"
+				}
+			},
+			"__comment": "nether_brick33"
+		},
+		{
+			"name": "cube",
+			"from": [12, 12.5, 5],
+			"to": [12.5, 13, 6],
+			"shade": true,
+			"faces": {
+				"north": {
+					"uv": [3.500004, 3, 4.000004, 3.5],
+					"texture": "#nether_brick"
+				},
+				"east": {
+					"uv": [10, 3, 11, 3.5],
+					"texture": "#nether_brick"
+				},
+				"south": {
+					"uv": [12, 3, 12.5, 3.5],
+					"texture": "#nether_brick"
+				},
+				"west": {
+					"uv": [5, 3, 6, 3.5],
+					"texture": "#nether_brick"
+				},
+				"up": {
+					"uv": [12, 5, 12.5, 6],
+					"texture": "#nether_brick"
+				},
+				"down": {
+					"uv": [12, 10, 12.5, 11],
+					"texture": "#nether_brick"
+				}
+			},
+			"__comment": "nether_brick9"
+		},
+		{
+			"name": "cube",
+			"from": [5, 14, 9.5],
+			"to": [6.5, 14.5, 10.5],
+			"shade": true,
+			"faces": {
+				"north": {
+					"uv": [9.5, 1.5, 11, 2],
+					"texture": "#nether_brick"
+				},
+				"east": {
+					"uv": [5.5, 1.5, 6.5, 2],
+					"texture": "#nether_brick"
+				},
+				"south": {
+					"uv": [5, 1.5, 6.5, 2],
+					"texture": "#nether_brick"
+				},
+				"west": {
+					"uv": [9.5, 1.5, 10.5, 2],
+					"texture": "#nether_brick"
+				},
+				"up": {
+					"uv": [5, 9.5, 6.5, 10.5],
+					"texture": "#nether_brick"
+				},
+				"down": {
+					"uv": [5, 5.5, 6.5, 6.5],
+					"texture": "#nether_brick"
+				}
+			},
+			"__comment": "nether_brick69"
+		},
+		{
+			"name": "cube",
+			"from": [5.5, 14, 10.5],
+			"to": [6.5, 14.5, 11],
+			"shade": true,
+			"faces": {
+				"north": {
+					"uv": [9.5, 1.5, 10.5, 2],
+					"texture": "#nether_brick"
+				},
+				"east": {
+					"uv": [5, 1.5, 5.5, 2],
+					"texture": "#nether_brick"
+				},
+				"south": {
+					"uv": [5.5, 1.5, 6.5, 2],
+					"texture": "#nether_brick"
+				},
+				"west": {
+					"uv": [10.5, 1.5, 11, 2],
+					"texture": "#nether_brick"
+				},
+				"up": {
+					"uv": [5.5, 10.5, 6.5, 11],
+					"texture": "#nether_brick"
+				},
+				"down": {
+					"uv": [5.5, 5, 6.5, 5.5],
+					"texture": "#nether_brick"
+				}
+			},
+			"__comment": "nether_brick64"
+		},
+		{
+			"name": "cube",
+			"from": [5, 14, 5.5],
+			"to": [6.5, 14.5, 6.5],
+			"shade": true,
+			"faces": {
+				"north": {
+					"uv": [9.5, 1.5, 11, 2],
+					"texture": "#nether_brick"
+				},
+				"east": {
+					"uv": [9.5, 1.5, 10.5, 2],
+					"texture": "#nether_brick"
+				},
+				"south": {
+					"uv": [5, 1.5, 6.5, 2],
+					"texture": "#nether_brick"
+				},
+				"west": {
+					"uv": [5.5, 1.5, 6.5, 2],
+					"texture": "#nether_brick"
+				},
+				"up": {
+					"uv": [5, 5.5, 6.5, 6.5],
+					"texture": "#nether_brick"
+				},
+				"down": {
+					"uv": [5, 9.5, 6.5, 10.5],
+					"texture": "#nether_brick"
+				}
+			},
+			"__comment": "nether_brick70"
+		},
+		{
+			"name": "cube",
+			"from": [5.5, 14, 5],
+			"to": [6.5, 14.5, 5.5],
+			"shade": true,
+			"faces": {
+				"north": {
+					"uv": [9.5, 1.5, 10.5, 2],
+					"texture": "#nether_brick"
+				},
+				"east": {
+					"uv": [10.5, 1.5, 11, 2],
+					"texture": "#nether_brick"
+				},
+				"south": {
+					"uv": [5.5, 1.5, 6.5, 2],
+					"texture": "#nether_brick"
+				},
+				"west": {
+					"uv": [5, 1.5, 5.5, 2],
+					"texture": "#nether_brick"
+				},
+				"up": {
+					"uv": [5.5, 5, 6.5, 5.5],
+					"texture": "#nether_brick"
+				},
+				"down": {
+					"uv": [5.5, 10.5, 6.5, 11],
+					"texture": "#nether_brick"
+				}
+			},
+			"__comment": "nether_brick65"
+		},
+		{
+			"name": "cube",
+			"from": [9.5, 14, 5],
+			"to": [10.5, 14.5, 5.5],
+			"shade": true,
+			"faces": {
+				"north": {
+					"uv": [5.5, 1.5, 6.5, 2],
+					"texture": "#nether_brick"
+				},
+				"east": {
+					"uv": [10.5, 1.5, 11, 2],
+					"texture": "#nether_brick"
+				},
+				"south": {
+					"uv": [9.5, 1.5, 10.5, 2],
+					"texture": "#nether_brick"
+				},
+				"west": {
+					"uv": [5, 1.5, 5.5, 2],
+					"texture": "#nether_brick"
+				},
+				"up": {
+					"uv": [9.5, 5, 10.5, 5.5],
+					"texture": "#nether_brick"
+				},
+				"down": {
+					"uv": [9.5, 10.5, 10.5, 11],
+					"texture": "#nether_brick"
+				}
+			},
+			"__comment": "nether_brick42"
+		},
+		{
+			"name": "cube",
+			"from": [9.5, 14, 5.5],
+			"to": [11, 14.5, 6.5],
+			"shade": true,
+			"faces": {
+				"north": {
+					"uv": [5, 1.5, 6.5, 2],
+					"texture": "#nether_brick"
+				},
+				"east": {
+					"uv": [9.5, 1.5, 10.5, 2],
+					"texture": "#nether_brick"
+				},
+				"south": {
+					"uv": [9.5, 1.5, 11, 2],
+					"texture": "#nether_brick"
+				},
+				"west": {
+					"uv": [5.5, 1.5, 6.5, 2],
+					"texture": "#nether_brick"
+				},
+				"up": {
+					"uv": [9.5, 5.5, 11, 6.5],
+					"texture": "#nether_brick"
+				},
+				"down": {
+					"uv": [9.5, 9.5, 11, 10.5],
+					"texture": "#nether_brick"
+				}
+			},
+			"__comment": "nether_brick43"
+		},
+		{
+			"name": "cube",
+			"from": [9.5, 14, 9.5],
+			"to": [11, 14.5, 10.5],
+			"shade": true,
+			"faces": {
+				"north": {
+					"uv": [5, 1.5, 6.5, 2],
+					"texture": "#nether_brick"
+				},
+				"east": {
+					"uv": [5.5, 1.5, 6.5, 2],
+					"texture": "#nether_brick"
+				},
+				"south": {
+					"uv": [9.5, 1.5, 11, 2],
+					"texture": "#nether_brick"
+				},
+				"west": {
+					"uv": [9.5, 1.5, 10.5, 2],
+					"texture": "#nether_brick"
+				},
+				"up": {
+					"uv": [9.5, 9.5, 11, 10.5],
+					"texture": "#nether_brick"
+				},
+				"down": {
+					"uv": [9.5, 5.5, 11, 6.5],
+					"texture": "#nether_brick"
+				}
+			},
+			"__comment": "nether_brick44"
+		},
+		{
+			"name": "cube",
+			"from": [9.5, 14, 10.5],
+			"to": [10.5, 14.5, 11],
+			"shade": true,
+			"faces": {
+				"north": {
+					"uv": [5.5, 1.5, 6.5, 2],
+					"texture": "#nether_brick"
+				},
+				"east": {
+					"uv": [5, 1.5, 5.5, 2],
+					"texture": "#nether_brick"
+				},
+				"south": {
+					"uv": [9.5, 1.5, 10.5, 2],
+					"texture": "#nether_brick"
+				},
+				"west": {
+					"uv": [10.5, 1.5, 11, 2],
+					"texture": "#nether_brick"
+				},
+				"up": {
+					"uv": [9.5, 10.5, 10.5, 11],
+					"texture": "#nether_brick"
+				},
+				"down": {
+					"uv": [9.5, 5, 10.5, 5.5],
+					"texture": "#nether_brick"
+				}
+			},
+			"__comment": "nether_brick45"
+		},
+		{
+			"name": "cube",
+			"from": [6.5, 14, 4.5],
+			"to": [9.5, 14.5, 11.5],
+			"shade": true,
+			"faces": {
+				"north": {
+					"uv": [6.5, 1.5, 9.5, 2],
+					"texture": "#nether_brick"
+				},
+				"east": {
+					"uv": [4.5, 1.5, 11.5, 2],
+					"texture": "#nether_brick"
+				},
+				"south": {
+					"uv": [6.5, 1.5, 9.5, 2],
+					"texture": "#nether_brick"
+				},
+				"west": {
+					"uv": [4.5, 1.5, 11.5, 2],
+					"texture": "#nether_brick"
+				},
+				"up": {
+					"uv": [6.5, 4.5, 9.5, 11.5],
+					"texture": "#nether_brick"
+				},
+				"down": {
+					"uv": [6.5, 4.5, 9.5, 11.5],
+					"texture": "#nether_brick"
+				}
+			},
+			"__comment": "nether_brick46"
+		},
+		{
+			"name": "cube",
+			"from": [4, 13.5, 6],
+			"to": [11.5, 14, 10],
+			"shade": true,
+			"faces": {
+				"north": {
+					"uv": [4.5, 2, 12, 2.5],
+					"texture": "#nether_brick"
+				},
+				"east": {
+					"uv": [6, 2, 10, 2.5],
+					"texture": "#nether_brick"
+				},
+				"south": {
+					"uv": [4, 2, 11.5, 2.5],
+					"texture": "#nether_brick"
+				},
+				"west": {
+					"uv": [6, 2, 10, 2.5],
+					"texture": "#nether_brick"
+				},
+				"up": {
+					"uv": [4, 6, 11.5, 10],
+					"texture": "#nether_brick"
+				},
+				"down": {
+					"uv": [4, 6, 11.5, 10],
+					"texture": "#nether_brick"
+				}
+			},
+			"__comment": "nether_brick82"
+		},
+		{
+			"name": "cube",
+			"from": [10, 13.5, 4.5],
+			"to": [11, 14, 6],
+			"shade": true,
+			"faces": {
+				"north": {
+					"uv": [5, 2, 6, 2.5],
+					"texture": "#nether_brick"
+				},
+				"east": {
+					"uv": [10, 2, 11.5, 2.5],
+					"texture": "#nether_brick"
+				},
+				"south": {
+					"uv": [10, 2, 11, 2.5],
+					"texture": "#nether_brick"
+				},
+				"west": {
+					"uv": [4.5, 2, 6, 2.5],
+					"texture": "#nether_brick"
+				},
+				"up": {
+					"uv": [10, 4.5, 11, 6],
+					"texture": "#nether_brick"
+				},
+				"down": {
+					"uv": [10, 10, 11, 11.5],
+					"texture": "#nether_brick"
+				}
+			},
+			"__comment": "nether_brick34"
+		},
+		{
+			"name": "cube",
+			"from": [10, 13.5, 10],
+			"to": [11, 14, 11.5],
+			"shade": true,
+			"faces": {
+				"north": {
+					"uv": [5, 2, 6, 2.5],
+					"texture": "#nether_brick"
+				},
+				"east": {
+					"uv": [4.5, 2, 6, 2.5],
+					"texture": "#nether_brick"
+				},
+				"south": {
+					"uv": [10, 2, 11, 2.5],
+					"texture": "#nether_brick"
+				},
+				"west": {
+					"uv": [10, 2, 11.5, 2.5],
+					"texture": "#nether_brick"
+				},
+				"up": {
+					"uv": [10, 10, 11, 11.5],
+					"texture": "#nether_brick"
+				},
+				"down": {
+					"uv": [10, 4.5, 11, 6],
+					"texture": "#nether_brick"
+				}
+			},
+			"__comment": "nether_brick35"
+		},
+		{
+			"name": "cube",
+			"from": [12, 12.5, 10],
+			"to": [12.5, 13, 11],
+			"shade": true,
+			"faces": {
+				"north": {
+					"uv": [3.5, 3, 4, 3.5],
+					"texture": "#nether_brick"
+				},
+				"east": {
+					"uv": [5.000006, 3, 6.000006, 3.5],
+					"texture": "#nether_brick"
+				},
+				"south": {
+					"uv": [12, 3, 12.5, 3.5],
+					"texture": "#nether_brick"
+				},
+				"west": {
+					"uv": [9.999994, 3, 10.99999, 3.5],
+					"texture": "#nether_brick"
+				},
+				"up": {
+					"uv": [12, 9.999994, 12.5, 10.99999],
+					"texture": "#nether_brick"
+				},
+				"down": {
+					"uv": [12, 5.000006, 12.5, 6.000006],
+					"texture": "#nether_brick"
+				}
+			},
+			"__comment": "nether_brick10"
+		},
+		{
+			"name": "cube",
+			"from": [5, 13.5, 10],
+			"to": [6, 14, 11.5],
+			"shade": true,
+			"faces": {
+				"north": {
+					"uv": [10, 2, 11, 2.5],
+					"texture": "#nether_brick"
+				},
+				"east": {
+					"uv": [4.5, 2, 6, 2.5],
+					"texture": "#nether_brick"
+				},
+				"south": {
+					"uv": [5, 2, 6, 2.5],
+					"texture": "#nether_brick"
+				},
+				"west": {
+					"uv": [10, 2, 11.5, 2.5],
+					"texture": "#nether_brick"
+				},
+				"up": {
+					"uv": [5, 10, 6, 11.5],
+					"texture": "#nether_brick"
+				},
+				"down": {
+					"uv": [5, 4.5, 6, 6],
+					"texture": "#nether_brick"
+				}
+			},
+			"__comment": "nether_brick71"
+		},
+		{
+			"name": "cube",
+			"from": [5, 13.5, 4.5],
+			"to": [6, 14, 6],
+			"shade": true,
+			"faces": {
+				"north": {
+					"uv": [10, 2, 11, 2.5],
+					"texture": "#nether_brick"
+				},
+				"east": {
+					"uv": [10, 2, 11.5, 2.5],
+					"texture": "#nether_brick"
+				},
+				"south": {
+					"uv": [5, 2, 6, 2.5],
+					"texture": "#nether_brick"
+				},
+				"west": {
+					"uv": [4.5, 2, 6, 2.5],
+					"texture": "#nether_brick"
+				},
+				"up": {
+					"uv": [5, 4.5, 6, 6],
+					"texture": "#nether_brick"
+				},
+				"down": {
+					"uv": [5, 10, 6, 11.5],
+					"texture": "#nether_brick"
+				}
+			},
+			"__comment": "nether_brick72"
+		},
+		{
+			"name": "cube",
+			"from": [4.5, 13.5, 10],
+			"to": [5, 14, 11],
+			"shade": true,
+			"faces": {
+				"north": {
+					"uv": [11, 2, 11.5, 2.5],
+					"texture": "#nether_brick"
+				},
+				"east": {
+					"uv": [5, 2, 6, 2.5],
+					"texture": "#nether_brick"
+				},
+				"south": {
+					"uv": [4.5, 2, 5, 2.5],
+					"texture": "#nether_brick"
+				},
+				"west": {
+					"uv": [10, 2, 11, 2.5],
+					"texture": "#nether_brick"
+				},
+				"up": {
+					"uv": [4.5, 10, 5, 11],
+					"texture": "#nether_brick"
+				},
+				"down": {
+					"uv": [4.5, 5, 5, 6],
+					"texture": "#nether_brick"
+				}
+			},
+			"__comment": "nether_brick77"
+		},
+		{
+			"name": "cube",
+			"from": [4.5, 13.5, 5],
+			"to": [5, 14, 6],
+			"shade": true,
+			"faces": {
+				"north": {
+					"uv": [11, 2, 11.5, 2.5],
+					"texture": "#nether_brick"
+				},
+				"east": {
+					"uv": [9.999998, 2, 11, 2.5],
+					"texture": "#nether_brick"
+				},
+				"south": {
+					"uv": [4.5, 2, 5, 2.5],
+					"texture": "#nether_brick"
+				},
+				"west": {
+					"uv": [5.000002, 2, 6.000002, 2.5],
+					"texture": "#nether_brick"
+				},
+				"up": {
+					"uv": [4.5, 5.000002, 5, 6.000002],
+					"texture": "#nether_brick"
+				},
+				"down": {
+					"uv": [4.5, 9.999998, 5, 11],
+					"texture": "#nether_brick"
+				}
+			},
+			"__comment": "nether_brick78"
+		},
+		{
+			"name": "cube",
+			"from": [6, 13.5, 4],
+			"to": [10, 14, 11.5],
+			"shade": true,
+			"faces": {
+				"north": {
+					"uv": [6, 2, 10, 2.5],
+					"texture": "#nether_brick"
+				},
+				"east": {
+					"uv": [4.5, 2, 12, 2.5],
+					"texture": "#nether_brick"
+				},
+				"south": {
+					"uv": [6, 2, 10, 2.5],
+					"texture": "#nether_brick"
+				},
+				"west": {
+					"uv": [4, 2, 11.5, 2.5],
+					"texture": "#nether_brick"
+				},
+				"up": {
+					"uv": [6, 4, 10, 11.5],
+					"texture": "#nether_brick"
+				},
+				"down": {
+					"uv": [6, 4.5, 10, 12],
+					"texture": "#nether_brick"
+				}
+			},
+			"__comment": "nether_brick54"
+		},
+		{
+			"name": "cube",
+			"from": [12, 12.5, 6],
+			"to": [12.5, 13.5, 10],
+			"shade": true,
+			"faces": {
+				"north": {
+					"uv": [3.5, 2.5, 4, 3.5],
+					"texture": "#nether_brick"
+				},
+				"east": {
+					"uv": [6.000002, 2.5, 10, 3.5],
+					"texture": "#nether_brick"
+				},
+				"south": {
+					"uv": [12, 2.5, 12.5, 3.5],
+					"texture": "#nether_brick"
+				},
+				"west": {
+					"uv": [5.999998, 2.5, 9.999998, 3.5],
+					"texture": "#nether_brick"
+				},
+				"up": {
+					"uv": [12, 5.999998, 12.5, 9.999998],
+					"texture": "#nether_brick"
+				},
+				"down": {
+					"uv": [12, 6.000002, 12.5, 10],
+					"texture": "#nether_brick"
+				}
+			},
+			"__comment": "nether_brick11"
+		},
+		{
+			"name": "cube",
+			"from": [4, 12.5, 10],
+			"to": [4.5, 13.5, 11],
+			"shade": true,
+			"faces": {
+				"north": {
+					"uv": [11.5, 2.5, 12, 3.5],
+					"texture": "#nether_brick"
+				},
+				"east": {
+					"uv": [5, 2.5, 6, 3.5],
+					"texture": "#nether_brick"
+				},
+				"south": {
+					"uv": [4.000002, 2.5, 4.500002, 3.5],
+					"texture": "#nether_brick"
+				},
+				"west": {
+					"uv": [10, 2.5, 11, 3.5],
+					"texture": "#nether_brick"
+				},
+				"up": {
+					"uv": [4.000002, 10, 4.500002, 11],
+					"texture": "#nether_brick"
+				},
+				"down": {
+					"uv": [4.000002, 5, 4.500002, 6],
+					"texture": "#nether_brick"
+				}
+			},
+			"__comment": "nether_brick83"
+		},
+		{
+			"name": "cube",
+			"from": [11, 12.5, 11],
+			"to": [11.5, 13.5, 11.5],
+			"shade": true,
+			"faces": {
+				"north": {
+					"uv": [4.5, 2.5, 5, 3.5],
+					"texture": "#nether_brick"
+				},
+				"east": {
+					"uv": [4.500006, 2.5, 5.000006, 3.5],
+					"texture": "#nether_brick"
+				},
+				"south": {
+					"uv": [11, 2.5, 11.5, 3.5],
+					"texture": "#nether_brick"
+				},
+				"west": {
+					"uv": [10.99999, 2.5, 11.49999, 3.5],
+					"texture": "#nether_brick"
+				},
+				"up": {
+					"uv": [11, 10.99999, 11.5, 11.49999],
+					"texture": "#nether_brick"
+				},
+				"down": {
+					"uv": [11, 4.500006, 11.5, 5.000006],
+					"texture": "#nether_brick"
+				}
+			},
+			"__comment": "nether_brick12"
+		},
+		{
+			"name": "cube",
+			"from": [4.5, 12.5, 11],
+			"to": [5, 13.5, 11.5],
+			"shade": true,
+			"faces": {
+				"north": {
+					"uv": [10.99999, 2.5, 11.49999, 3.5],
+					"texture": "#nether_brick"
+				},
+				"east": {
+					"uv": [4.5, 2.5, 5, 3.5],
+					"texture": "#nether_brick"
+				},
+				"south": {
+					"uv": [4.500006, 2.5, 5.000006, 3.5],
+					"texture": "#nether_brick"
+				},
+				"west": {
+					"uv": [11, 2.5, 11.5, 3.5],
+					"texture": "#nether_brick"
+				},
+				"up": {
+					"uv": [4.500006, 11, 5.000006, 11.5],
+					"texture": "#nether_brick"
+				},
+				"down": {
+					"uv": [4.500006, 4.5, 5.000006, 5],
+					"texture": "#nether_brick"
+				}
+			},
+			"__comment": "nether_brick79"
+		},
+		{
+			"name": "cube",
+			"from": [4, 12.5, 5],
+			"to": [4.5, 13.5, 6],
+			"shade": true,
+			"faces": {
+				"north": {
+					"uv": [11.5, 2.5, 12, 3.5],
+					"texture": "#nether_brick"
+				},
+				"east": {
+					"uv": [9.999995, 2.5, 11, 3.5],
+					"texture": "#nether_brick"
+				},
+				"south": {
+					"uv": [4, 2.5, 4.5, 3.5],
+					"texture": "#nether_brick"
+				},
+				"west": {
+					"uv": [5.000005, 2.5, 6.000005, 3.5],
+					"texture": "#nether_brick"
+				},
+				"up": {
+					"uv": [4, 5.000005, 4.5, 6.000005],
+					"texture": "#nether_brick"
+				},
+				"down": {
+					"uv": [4, 9.999995, 4.5, 11],
+					"texture": "#nether_brick"
+				}
+			},
+			"__comment": "nether_brick84"
+		},
+		{
+			"name": "cube",
+			"from": [4.5, 12.5, 4.5],
+			"to": [5, 13.5, 5],
+			"shade": true,
+			"faces": {
+				"north": {
+					"uv": [11, 2.5, 11.5, 3.5],
+					"texture": "#nether_brick"
+				},
+				"east": {
+					"uv": [11, 2.5, 11.5, 3.5],
+					"texture": "#nether_brick"
+				},
+				"south": {
+					"uv": [4.5, 2.5, 5, 3.5],
+					"texture": "#nether_brick"
+				},
+				"west": {
+					"uv": [4.500004, 2.5, 5.000004, 3.5],
+					"texture": "#nether_brick"
+				},
+				"up": {
+					"uv": [4.5, 4.500004, 5, 5.000004],
+					"texture": "#nether_brick"
+				},
+				"down": {
+					"uv": [4.5, 11, 5, 11.5],
+					"texture": "#nether_brick"
+				}
+			},
+			"__comment": "nether_brick80"
+		},
+		{
+			"name": "cube",
+			"from": [5, 12.5, 4],
+			"to": [6, 13.5, 4.5],
+			"shade": true,
+			"faces": {
+				"north": {
+					"uv": [10, 2.5, 11, 3.5],
+					"texture": "#nether_brick"
+				},
+				"east": {
+					"uv": [11.5, 2.5, 12, 3.5],
+					"texture": "#nether_brick"
+				},
+				"south": {
+					"uv": [5, 2.5, 6, 3.5],
+					"texture": "#nether_brick"
+				},
+				"west": {
+					"uv": [4.000002, 2.5, 4.500002, 3.5],
+					"texture": "#nether_brick"
+				},
+				"up": {
+					"uv": [5, 4.000002, 6, 4.500002],
+					"texture": "#nether_brick"
+				},
+				"down": {
+					"uv": [5, 11.5, 6, 12],
+					"texture": "#nether_brick"
+				}
+			},
+			"__comment": "nether_brick73"
+		},
+		{
+			"name": "cube",
+			"from": [10, 12.5, 4],
+			"to": [11, 13.5, 4.5],
+			"shade": true,
+			"faces": {
+				"north": {
+					"uv": [5.000006, 2.5, 6.000006, 3.5],
+					"texture": "#nether_brick"
+				},
+				"east": {
+					"uv": [11.5, 2.5, 12, 3.5],
+					"texture": "#nether_brick"
+				},
+				"south": {
+					"uv": [9.999994, 2.5, 10.99999, 3.5],
+					"texture": "#nether_brick"
+				},
+				"west": {
+					"uv": [4, 2.5, 4.5, 3.5],
+					"texture": "#nether_brick"
+				},
+				"up": {
+					"uv": [9.999994, 4, 10.99999, 4.5],
+					"texture": "#nether_brick"
+				},
+				"down": {
+					"uv": [9.999994, 11.5, 10.99999, 12],
+					"texture": "#nether_brick"
+				}
+			},
+			"__comment": "nether_brick14"
+		},
+		{
+			"name": "cube",
+			"from": [11, 12.5, 4.5],
+			"to": [11.5, 13.5, 5],
+			"shade": true,
+			"faces": {
+				"north": {
+					"uv": [4.500004, 2.5, 5.000004, 3.5],
+					"texture": "#nether_brick"
+				},
+				"east": {
+					"uv": [11, 2.5, 11.5, 3.5],
+					"texture": "#nether_brick"
+				},
+				"south": {
+					"uv": [11, 2.5, 11.5, 3.5],
+					"texture": "#nether_brick"
+				},
+				"west": {
+					"uv": [4.5, 2.5, 5, 3.5],
+					"texture": "#nether_brick"
+				},
+				"up": {
+					"uv": [11, 4.5, 11.5, 5],
+					"texture": "#nether_brick"
+				},
+				"down": {
+					"uv": [11, 11, 11.5, 11.5],
+					"texture": "#nether_brick"
+				}
+			},
+			"__comment": "nether_brick15"
+		},
+		{
+			"name": "cube",
+			"from": [6, 12.5, 3.5],
+			"to": [10, 13.5, 4],
+			"shade": true,
+			"faces": {
+				"north": {
+					"uv": [6.000004, 2.5, 10, 3.5],
+					"texture": "#nether_brick"
+				},
+				"east": {
+					"uv": [12, 2.5, 12.5, 3.5],
+					"texture": "#nether_brick"
+				},
+				"south": {
+					"uv": [5.999997, 2.5, 9.999997, 3.5],
+					"texture": "#nether_brick"
+				},
+				"west": {
+					"uv": [3.5, 2.5, 4, 3.5],
+					"texture": "#nether_brick"
+				},
+				"up": {
+					"uv": [5.999997, 3.5, 9.999997, 4],
+					"texture": "#nether_brick"
+				},
+				"down": {
+					"uv": [5.999997, 12, 9.999997, 12.5],
+					"texture": "#nether_brick"
+				}
+			},
+			"__comment": "nether_brick55"
+		},
+		{
+			"name": "cube",
+			"from": [11, 12, 11.5],
+			"to": [12, 12.5, 12],
+			"shade": true,
+			"faces": {
+				"north": {
+					"uv": [4, 3.5, 5, 4],
+					"texture": "#nether_brick"
+				},
+				"east": {
+					"uv": [4.000006, 3.5, 4.500006, 4],
+					"texture": "#nether_brick"
+				},
+				"south": {
+					"uv": [11, 3.5, 12, 4],
+					"texture": "#nether_brick"
+				},
+				"west": {
+					"uv": [11.49999, 3.5, 11.99999, 4],
+					"texture": "#nether_brick"
+				},
+				"up": {
+					"uv": [11, 11.49999, 12, 11.99999],
+					"texture": "#nether_brick"
+				},
+				"down": {
+					"uv": [11, 4.000006, 12, 4.500006],
+					"texture": "#nether_brick"
+				}
+			},
+			"__comment": "nether_brick17"
+		},
+		{
+			"name": "cube",
+			"from": [11, 10.5, 3.5],
+			"to": [12, 15, 4],
+			"shade": true,
+			"faces": {
+				"north": {
+					"uv": [4.000004, 4, 5.000004, 8.5],
+					"texture": "#nether_brick"
+				},
+				"east": {
+					"uv": [12, 4, 12.5, 8.5],
+					"texture": "#nether_brick"
+				},
+				"south": {
+					"uv": [11, 4, 12, 8.5],
+					"texture": "#nether_brick"
+				},
+				"west": {
+					"uv": [3.500001, 4, 4.000001, 8.5],
+					"texture": "#nether_brick"
+				},
+				"up": {
+					"uv": [11, 3.500001, 12, 4.000001],
+					"texture": "#nether_brick"
+				},
+				"down": {
+					"uv": [11, 12, 12, 12.5],
+					"texture": "#nether_brick"
+				}
+			},
+			"__comment": "nether_brick6"
+		},
+		{
+			"name": "cube",
+			"from": [11, 12, 4],
+			"to": [12, 12.5, 4.5],
+			"shade": true,
+			"faces": {
+				"north": {
+					"uv": [4.000006, 3.5, 5.000006, 4],
+					"texture": "#nether_brick"
+				},
+				"east": {
+					"uv": [11.5, 3.5, 12, 4],
+					"texture": "#nether_brick"
+				},
+				"south": {
+					"uv": [10.99999, 3.5, 11.99999, 4],
+					"texture": "#nether_brick"
+				},
+				"west": {
+					"uv": [4, 3.5, 4.5, 4],
+					"texture": "#nether_brick"
+				},
+				"up": {
+					"uv": [10.99999, 4, 11.99999, 4.5],
+					"texture": "#nether_brick"
+				},
+				"down": {
+					"uv": [10.99999, 11.5, 11.99999, 12],
+					"texture": "#nether_brick"
+				}
+			},
+			"__comment": "nether_brick19"
+		},
+		{
+			"name": "cube",
+			"from": [4, 12, 11.5],
+			"to": [5, 12.5, 12],
+			"shade": true,
+			"faces": {
+				"north": {
+					"uv": [10.99999, 3.5, 11.99999, 4],
+					"texture": "#nether_brick"
+				},
+				"east": {
+					"uv": [4, 3.5, 4.5, 4],
+					"texture": "#nether_brick"
+				},
+				"south": {
+					"uv": [4.000012, 3.5, 5.000012, 4],
+					"texture": "#nether_brick"
+				},
+				"west": {
+					"uv": [11.5, 3.5, 12, 4],
+					"texture": "#nether_brick"
+				},
+				"up": {
+					"uv": [4.000012, 11.5, 5.000012, 12],
+					"texture": "#nether_brick"
+				},
+				"down": {
+					"uv": [4.000012, 4, 5.000012, 4.5],
+					"texture": "#nether_brick"
+				}
+			},
+			"__comment": "nether_brick85"
+		},
+		{
+			"name": "cube",
+			"from": [10.5, 12, 12],
+			"to": [11, 12.5, 12.5],
+			"shade": true,
+			"faces": {
+				"north": {
+					"uv": [5, 3.5, 5.5, 4],
+					"texture": "#nether_brick"
+				},
+				"east": {
+					"uv": [3.500006, 3.5, 4.000006, 4],
+					"texture": "#nether_brick"
+				},
+				"south": {
+					"uv": [10.5, 3.5, 11, 4],
+					"texture": "#nether_brick"
+				},
+				"west": {
+					"uv": [11.99999, 3.5, 12.49999, 4],
+					"texture": "#nether_brick"
+				},
+				"up": {
+					"uv": [10.5, 11.99999, 11, 12.49999],
+					"texture": "#nether_brick"
+				},
+				"down": {
+					"uv": [10.5, 3.500006, 11, 4.000006],
+					"texture": "#nether_brick"
+				}
+			},
+			"__comment": "nether_brick20"
+		},
+		{
+			"name": "cube",
+			"from": [10, 10.5, 3.5],
+			"to": [11, 15, 4],
+			"shade": true,
+			"faces": {
+				"north": {
+					"uv": [5.000006, 3.5, 6.000006, 8],
+					"texture": "#nether_brick"
+				},
+				"east": {
+					"uv": [12, 3.5, 12.5, 8],
+					"texture": "#nether_brick"
+				},
+				"south": {
+					"uv": [9.999994, 3.5, 10.999994, 8],
+					"texture": "#nether_brick"
+				},
+				"west": {
+					"uv": [3.5, 3.5, 4, 8],
+					"texture": "#nether_brick"
+				},
+				"up": {
+					"uv": [9.999994, 3.5, 10.999994, 4],
+					"texture": "#nether_brick"
+				},
+				"down": {
+					"uv": [9.999994, 12, 10.999994, 12.5],
+					"texture": "#nether_brick"
+				}
+			},
+			"__comment": "nether_brick7"
+		},
+		{
+			"name": "cube",
+			"from": [5, 10.5, 3.5],
+			"to": [6, 15, 4],
+			"shade": true,
+			"faces": {
+				"north": {
+					"uv": [10, 3.5, 11, 8],
+					"texture": "#nether_brick"
+				},
+				"east": {
+					"uv": [12, 3.5, 12.5, 8],
+					"texture": "#nether_brick"
+				},
+				"south": {
+					"uv": [5, 3.5, 6, 8],
+					"texture": "#nether_brick"
+				},
+				"west": {
+					"uv": [3.500004, 3.5, 4.000004000000001, 8],
+					"texture": "#nether_brick"
+				},
+				"up": {
+					"uv": [5, 3.500004, 6, 4.000004000000001],
+					"texture": "#nether_brick"
+				},
+				"down": {
+					"uv": [5, 12, 6, 12.5],
+					"texture": "#nether_brick"
+				}
+			},
+			"__comment": "nether_brick74"
+		},
+		{
+			"name": "cube",
+			"from": [4, 10, 3.5],
+			"to": [12, 10.5, 4],
+			"shade": true,
+			"faces": {
+				"north": {
+					"uv": [4.000002, 5.5, 12, 6],
+					"texture": "#wool_black"
+				},
+				"east": {
+					"uv": [12, 5.5, 12.5, 6],
+					"texture": "#wool_black"
+				},
+				"south": {
+					"uv": [3.999998, 5.5, 12, 6],
+					"texture": "#wool_black"
+				},
+				"west": {
+					"uv": [3.5, 5.5, 4, 6],
+					"texture": "#wool_black"
+				},
+				"up": {
+					"uv": [3.999998, 3.5, 12, 4],
+					"texture": "#wool_black"
+				},
+				"down": {
+					"uv": [3.999998, 12, 12, 12.5],
+					"texture": "#wool_black"
+				}
+			},
+			"__comment": "wool_black"
+		},
+		{
+			"name": "cube",
+			"from": [4, 12, 4],
+			"to": [5, 12.5, 4.5],
+			"shade": true,
+			"faces": {
+				"north": {
+					"uv": [11, 3.5, 12, 4],
+					"texture": "#nether_brick"
+				},
+				"east": {
+					"uv": [11.5, 3.5, 12, 4],
+					"texture": "#nether_brick"
+				},
+				"south": {
+					"uv": [4, 3.5, 5, 4],
+					"texture": "#nether_brick"
+				},
+				"west": {
+					"uv": [4.000005, 3.5, 4.500005, 4],
+					"texture": "#nether_brick"
+				},
+				"up": {
+					"uv": [4, 4.000005, 5, 4.500005],
+					"texture": "#nether_brick"
+				},
+				"down": {
+					"uv": [4, 11.5, 5, 12],
+					"texture": "#nether_brick"
+				}
+			},
+			"__comment": "nether_brick86"
+		},
+		{
+			"name": "cube",
+			"from": [12.5, 12, 10],
+			"to": [13, 15, 11],
+			"shade": true,
+			"faces": {
+				"north": {
+					"uv": [2.999998, 3.5, 3.499998, 6.5],
+					"texture": "#nether_brick"
+				},
+				"east": {
+					"uv": [5.000004, 3.5, 6.000004, 6.5],
+					"texture": "#nether_brick"
+				},
+				"south": {
+					"uv": [12, 3.5, 12.5, 6.5],
+					"texture": "#nether_brick"
+				},
+				"west": {
+					"uv": [9.999996, 3.5, 10.999996, 6.5],
+					"texture": "#nether_brick"
+				},
+				"up": {
+					"uv": [12, 9.999996, 12.5, 10.999996],
+					"texture": "#nether_brick"
+				},
+				"down": {
+					"uv": [12, 5.000004, 12.5, 6.000004],
+					"texture": "#nether_brick"
+				}
+			},
+			"__comment": "nether_brick22"
+		},
+		{
+			"name": "cube",
+			"from": [12.5, 12, 5],
+			"to": [13, 15, 6],
+			"shade": true,
+			"faces": {
+				"north": {
+					"uv": [3.000004, 3.5, 3.500004, 6.5],
+					"texture": "#nether_brick"
+				},
+				"east": {
+					"uv": [9.999999, 3.5, 10.999999, 6.5],
+					"texture": "#nether_brick"
+				},
+				"south": {
+					"uv": [12, 3.5, 12.5, 6.5],
+					"texture": "#nether_brick"
+				},
+				"west": {
+					"uv": [5.000001, 3.5, 6.000001, 6.5],
+					"texture": "#nether_brick"
+				},
+				"up": {
+					"uv": [12, 5.000001, 12.5, 6.000001],
+					"texture": "#nether_brick"
+				},
+				"down": {
+					"uv": [12, 9.999999, 12.5, 10.999999],
+					"texture": "#nether_brick"
+				}
+			},
+			"__comment": "nether_brick23"
+		},
+		{
+			"name": "cube",
+			"from": [3.5, 10.5, 4],
+			"to": [4, 15, 5],
+			"shade": true,
+			"faces": {
+				"north": {
+					"uv": [12, 4, 12.5, 8.5],
+					"texture": "#nether_brick"
+				},
+				"east": {
+					"uv": [11, 4, 12, 8.5],
+					"texture": "#nether_brick"
+				},
+				"south": {
+					"uv": [3.5, 4, 4, 8.5],
+					"texture": "#nether_brick"
+				},
+				"west": {
+					"uv": [4.000005, 4, 5.000005, 8.5],
+					"texture": "#nether_brick"
+				},
+				"up": {
+					"uv": [3.5, 4.000005, 4, 5.000005],
+					"texture": "#nether_brick"
+				},
+				"down": {
+					"uv": [3.5, 11, 4, 12],
+					"texture": "#nether_brick"
+				}
+			},
+			"__comment": "nether_brick91"
+		},
+		{
+			"name": "cube",
+			"from": [12.5, 11, 6],
+			"to": [13, 15, 10],
+			"shade": true,
+			"faces": {
+				"north": {
+					"uv": [2.999998, 3.5, 3.499998, 7.5],
+					"texture": "#nether_brick"
+				},
+				"east": {
+					"uv": [6.000002, 3.5, 10.000002, 7.5],
+					"texture": "#nether_brick"
+				},
+				"south": {
+					"uv": [12.5, 3.5, 13, 7.5],
+					"texture": "#nether_brick"
+				},
+				"west": {
+					"uv": [5.999998, 3.5, 9.999998, 7.5],
+					"texture": "#nether_brick"
+				},
+				"up": {
+					"uv": [12.5, 5.999998, 13, 9.999998],
+					"texture": "#nether_brick"
+				},
+				"down": {
+					"uv": [12.5, 6.000002, 13, 10.000002],
+					"texture": "#nether_brick"
+				}
+			},
+			"__comment": "nether_brick"
+		},
+		{
+			"name": "cube",
+			"from": [4.5, 14, 6.5],
+			"to": [11, 14.5, 9.5],
+			"shade": true,
+			"faces": {
+				"north": {
+					"uv": [5, 1.5, 11.5, 2],
+					"texture": "#nether_brick"
+				},
+				"east": {
+					"uv": [6.5, 1.5, 9.5, 2],
+					"texture": "#nether_brick"
+				},
+				"south": {
+					"uv": [4.5, 1.5, 11, 2],
+					"texture": "#nether_brick"
+				},
+				"west": {
+					"uv": [6.5, 1.5, 9.5, 2],
+					"texture": "#nether_brick"
+				},
+				"up": {
+					"uv": [4.5, 6.5, 11, 9.5],
+					"texture": "#nether_brick"
+				},
+				"down": {
+					"uv": [4.5, 6.5, 11, 9.5],
+					"texture": "#nether_brick"
+				}
+			},
+			"__comment": "nether_brick81"
+		},
+		{
+			"name": "cube",
+			"from": [12, 10.5, 4],
+			"to": [12.5, 15, 5],
+			"shade": true,
+			"faces": {
+				"north": {
+					"uv": [3.500002, 4, 4.000002, 8.5],
+					"texture": "#nether_brick"
+				},
+				"east": {
+					"uv": [11, 4, 12, 8.5],
+					"texture": "#nether_brick"
+				},
+				"south": {
+					"uv": [12, 4, 12.5, 8.5],
+					"texture": "#nether_brick"
+				},
+				"west": {
+					"uv": [4, 4, 5, 8.5],
+					"texture": "#nether_brick"
+				},
+				"up": {
+					"uv": [12, 4, 12.5, 5],
+					"texture": "#nether_brick"
+				},
+				"down": {
+					"uv": [12, 11, 12.5, 12],
+					"texture": "#nether_brick"
+				}
+			},
+			"__comment": "nether_brick1"
+		},
+		{
+			"name": "cube",
+			"from": [12.5, 11, 5],
+			"to": [13, 12, 6],
+			"shade": true,
+			"faces": {
+				"north": {
+					"uv": [3.000002, 4, 3.500002, 5],
+					"texture": "#nether_brick"
+				},
+				"east": {
+					"uv": [10, 4, 11, 5],
+					"texture": "#nether_brick"
+				},
+				"south": {
+					"uv": [12.5, 4, 13, 5],
+					"texture": "#nether_brick"
+				},
+				"west": {
+					"uv": [5, 4, 6, 5],
+					"texture": "#nether_brick"
+				},
+				"up": {
+					"uv": [12.5, 5, 13, 6],
+					"texture": "#nether_brick"
+				},
+				"down": {
+					"uv": [12.5, 10, 13, 11],
+					"texture": "#nether_brick"
+				}
+			},
+			"__comment": "nether_brick2"
+		},
+		{
+			"name": "cube",
+			"from": [4, 10.5, 12],
+			"to": [6, 15, 12.5],
+			"shade": true,
+			"faces": {
+				"north": {
+					"uv": [9.999992, 4, 11.999992, 8.5],
+					"texture": "#nether_brick"
+				},
+				"east": {
+					"uv": [3.5, 4, 4, 8.5],
+					"texture": "#nether_brick"
+				},
+				"south": {
+					"uv": [4.000009, 4, 6.000009, 8.5],
+					"texture": "#nether_brick"
+				},
+				"west": {
+					"uv": [12, 4, 12.5, 8.5],
+					"texture": "#nether_brick"
+				},
+				"up": {
+					"uv": [4.000009, 12, 6.000009, 12.5],
+					"texture": "#nether_brick"
+				},
+				"down": {
+					"uv": [4.000009, 3.5, 6.000009, 4],
+					"texture": "#nether_brick"
+				}
+			},
+			"__comment": "nether_brick87"
+		},
+		{
+			"name": "cube",
+			"from": [4, 10.5, 3.5],
+			"to": [5, 15, 4],
+			"shade": true,
+			"faces": {
+				"north": {
+					"uv": [11, 4, 12, 8.5],
+					"texture": "#nether_brick"
+				},
+				"east": {
+					"uv": [12, 4, 12.5, 8.5],
+					"texture": "#nether_brick"
+				},
+				"south": {
+					"uv": [4, 4, 5, 8.5],
+					"texture": "#nether_brick"
+				},
+				"west": {
+					"uv": [3.500005, 4, 4.000005, 8.5],
+					"texture": "#nether_brick"
+				},
+				"up": {
+					"uv": [4, 3.500005, 5, 4.000005],
+					"texture": "#nether_brick"
+				},
+				"down": {
+					"uv": [4, 12, 5, 12.5],
+					"texture": "#nether_brick"
+				}
+			},
+			"__comment": "nether_brick88"
+		},
+		{
+			"name": "cube",
+			"from": [11, 13.5, 5],
+			"to": [11.5, 14, 6],
+			"shade": true,
+			"faces": {
+				"north": {
+					"uv": [4.500002, 2, 5.000002, 2.5],
+					"texture": "#nether_brick"
+				},
+				"east": {
+					"uv": [10, 2, 11, 2.5],
+					"texture": "#nether_brick"
+				},
+				"south": {
+					"uv": [11, 2, 11.5, 2.5],
+					"texture": "#nether_brick"
+				},
+				"west": {
+					"uv": [5, 2, 6, 2.5],
+					"texture": "#nether_brick"
+				},
+				"up": {
+					"uv": [11, 5, 11.5, 6],
+					"texture": "#nether_brick"
+				},
+				"down": {
+					"uv": [11, 10, 11.5, 11],
+					"texture": "#nether_brick"
+				}
+			},
+			"__comment": "nether_brick37"
+		},
+		{
+			"name": "cube",
+			"from": [11.5, 12.5, 5],
+			"to": [12, 13.5, 6],
+			"shade": true,
+			"faces": {
+				"north": {
+					"uv": [4.000002, 2.5, 4.500002, 3.5],
+					"texture": "#nether_brick"
+				},
+				"east": {
+					"uv": [10, 2.5, 11, 3.5],
+					"texture": "#nether_brick"
+				},
+				"south": {
+					"uv": [11.5, 2.5, 12, 3.5],
+					"texture": "#nether_brick"
+				},
+				"west": {
+					"uv": [5, 2.5, 6, 3.5],
+					"texture": "#nether_brick"
+				},
+				"up": {
+					"uv": [11.5, 5, 12, 6],
+					"texture": "#nether_brick"
+				},
+				"down": {
+					"uv": [11.5, 10, 12, 11],
+					"texture": "#nether_brick"
+				}
+			},
+			"__comment": "nether_brick25"
+		},
+		{
+			"name": "cube",
+			"from": [11, 13.5, 10],
+			"to": [11.5, 14, 11],
+			"shade": true,
+			"faces": {
+				"north": {
+					"uv": [4.5, 2, 5, 2.5],
+					"texture": "#nether_brick"
+				},
+				"east": {
+					"uv": [5.000002, 2, 6.000002, 2.5],
+					"texture": "#nether_brick"
+				},
+				"south": {
+					"uv": [11, 2, 11.5, 2.5],
+					"texture": "#nether_brick"
+				},
+				"west": {
+					"uv": [9.999998, 2, 11, 2.5],
+					"texture": "#nether_brick"
+				},
+				"up": {
+					"uv": [11, 9.999998, 11.5, 11],
+					"texture": "#nether_brick"
+				},
+				"down": {
+					"uv": [11, 5.000002, 11.5, 6.000002],
+					"texture": "#nether_brick"
+				}
+			},
+			"__comment": "nether_brick38"
+		},
+		{
+			"name": "cube",
+			"from": [11.5, 12.5, 10],
+			"to": [12, 13.5, 11],
+			"shade": true,
+			"faces": {
+				"north": {
+					"uv": [4, 2.5, 4.5, 3.5],
+					"texture": "#nether_brick"
+				},
+				"east": {
+					"uv": [5.000006, 2.5, 6.000006, 3.5],
+					"texture": "#nether_brick"
+				},
+				"south": {
+					"uv": [11.5, 2.5, 12, 3.5],
+					"texture": "#nether_brick"
+				},
+				"west": {
+					"uv": [9.999994, 2.5, 10.99999, 3.5],
+					"texture": "#nether_brick"
+				},
+				"up": {
+					"uv": [11.5, 9.999994, 12, 10.99999],
+					"texture": "#nether_brick"
+				},
+				"down": {
+					"uv": [11.5, 5.000006, 12, 6.000006],
+					"texture": "#nether_brick"
+				}
+			},
+			"__comment": "nether_brick26"
+		},
+		{
+			"name": "cube",
+			"from": [11, 14, 6],
+			"to": [11.5, 14.5, 10],
+			"shade": true,
+			"faces": {
+				"north": {
+					"uv": [4.5, 1.5, 5, 2],
+					"texture": "#nether_brick"
+				},
+				"east": {
+					"uv": [6, 1.5, 10, 2],
+					"texture": "#nether_brick"
+				},
+				"south": {
+					"uv": [11, 1.5, 11.5, 2],
+					"texture": "#nether_brick"
+				},
+				"west": {
+					"uv": [6, 1.5, 10, 2],
+					"texture": "#nether_brick"
+				},
+				"up": {
+					"uv": [11, 6, 11.5, 10],
+					"texture": "#nether_brick"
+				},
+				"down": {
+					"uv": [11, 6, 11.5, 10],
+					"texture": "#nether_brick"
+				}
+			},
+			"__comment": "nether_brick48"
+		},
+		{
+			"name": "cube",
+			"from": [3.5, 12.5, 6],
+			"to": [4, 13.5, 10],
+			"shade": true,
+			"faces": {
+				"north": {
+					"uv": [12, 2.5, 12.5, 3.5],
+					"texture": "#nether_brick"
+				},
+				"east": {
+					"uv": [5.999998, 2.5, 9.999998, 3.5],
+					"texture": "#nether_brick"
+				},
+				"south": {
+					"uv": [3.5, 2.5, 4, 3.5],
+					"texture": "#nether_brick"
+				},
+				"west": {
+					"uv": [6.000002, 2.5, 10, 3.5],
+					"texture": "#nether_brick"
+				},
+				"up": {
+					"uv": [3.5, 6.000002, 4, 10],
+					"texture": "#nether_brick"
+				},
+				"down": {
+					"uv": [3.5, 5.999998, 4, 9.999998],
+					"texture": "#nether_brick"
+				}
+			},
+			"__comment": "nether_brick92"
+		},
+		{
+			"name": "cube",
+			"from": [12, 10, 4],
+			"to": [12.5, 10.5, 12],
+			"shade": true,
+			"faces": {
+				"north": {
+					"uv": [3.499998, 5.5, 3.999998, 6],
+					"texture": "#wool_black"
+				},
+				"east": {
+					"uv": [4.000003, 5.5, 12, 6],
+					"texture": "#wool_black"
+				},
+				"south": {
+					"uv": [12, 5.5, 12.5, 6],
+					"texture": "#wool_black"
+				},
+				"west": {
+					"uv": [3.999997, 5.5, 12, 6],
+					"texture": "#wool_black"
+				},
+				"up": {
+					"uv": [12, 3.999996, 12.5, 12],
+					"texture": "#wool_black"
+				},
+				"down": {
+					"uv": [12, 4.000004, 12.5, 12],
+					"texture": "#wool_black"
+				}
+			},
+			"__comment": "wool_black"
+		},
+		{
+			"name": "cube",
+			"from": [12, 10.5, 11],
+			"to": [12.5, 15, 12],
+			"shade": true,
+			"faces": {
+				"north": {
+					"uv": [3.499998, 4, 3.999998, 8.5],
+					"texture": "#nether_brick"
+				},
+				"east": {
+					"uv": [4.000004, 4, 5.000004, 8.5],
+					"texture": "#nether_brick"
+				},
+				"south": {
+					"uv": [12, 4, 12.5, 8.5],
+					"texture": "#nether_brick"
+				},
+				"west": {
+					"uv": [11, 4, 12, 8.5],
+					"texture": "#nether_brick"
+				},
+				"up": {
+					"uv": [12, 11, 12.5, 12],
+					"texture": "#nether_brick"
+				},
+				"down": {
+					"uv": [12, 4.000004, 12.5, 5.000004],
+					"texture": "#nether_brick"
+				}
+			},
+			"__comment": "nether_brick3"
+		},
+		{
+			"name": "cube",
+			"from": [12.5, 11, 10],
+			"to": [13, 12, 11],
+			"shade": true,
+			"faces": {
+				"north": {
+					"uv": [2.999998, 4, 3.499998, 5],
+					"texture": "#nether_brick"
+				},
+				"east": {
+					"uv": [5.000004, 4, 6.000004, 5],
+					"texture": "#nether_brick"
+				},
+				"south": {
+					"uv": [12.5, 4, 13, 5],
+					"texture": "#nether_brick"
+				},
+				"west": {
+					"uv": [9.999996, 4, 11, 5],
+					"texture": "#nether_brick"
+				},
+				"up": {
+					"uv": [12.5, 9.999996, 13, 11],
+					"texture": "#nether_brick"
+				},
+				"down": {
+					"uv": [12.5, 5.000004, 13, 6.000004],
+					"texture": "#nether_brick"
+				}
+			},
+			"__comment": "nether_brick4"
+		},
+		{
+			"name": "left",
+			"from": [3, 10.5, 5],
+			"to": [3.5, 15, 11],
+			"shade": true,
+			"faces": {
+				"north": {
+					"uv": [14, 5, 14.5, 9.5],
+					"texture": "#nether_brick"
+				},
+				"east": {
+					"uv": [9, 1, 15, 5.5],
+					"texture": "#nether_brick"
+				},
+				"south": {
+					"uv": [0, 0, 1, 4.5],
+					"texture": "#nether_brick"
+				},
+				"west": {
+					"uv": [0, 0, 10, 4],
+					"texture": "#nether_brick"
+				},
+				"up": {
+					"uv": [1, 9, 1.5, 15],
+					"texture": "#nether_brick"
+				},
+				"down": {
+					"uv": [3.000004, 4.999997, 3.500004, 10.999997],
+					"texture": "#nether_brick"
+				}
+			},
+			"__comment": "nether_brick99"
+		},
+		{
+			"name": "cube",
+			"from": [12.5, 10.5, 5],
+			"to": [13, 11, 11],
+			"shade": true,
+			"faces": {
+				"north": {
+					"uv": [2.999998, 5, 3.499998, 5.5],
+					"texture": "#nether_brick"
+				},
+				"east": {
+					"uv": [9, 1, 10.99921875, 1.5],
+					"texture": "#nether_brick"
+				},
+				"south": {
+					"uv": [12.5, 5, 13, 5.5],
+					"texture": "#nether_brick"
+				},
+				"west": {
+					"uv": [4.999997, 5, 11, 5.5],
+					"texture": "#nether_brick"
+				},
+				"up": {
+					"uv": [12.5, 4.999996, 13, 11],
+					"texture": "#nether_brick"
+				},
+				"down": {
+					"uv": [12.5, 5.000004, 13, 11],
+					"texture": "#nether_brick"
+				}
+			},
+			"__comment": "nether_brick5"
+		},
+		{
+			"name": "cube",
+			"from": [12.5, 10, 5],
+			"to": [13, 10.5, 11],
+			"shade": true,
+			"faces": {
+				"north": {
+					"uv": [2.999998, 5.5, 3.499998, 6],
+					"texture": "#wool_black"
+				},
+				"east": {
+					"uv": [6.500002, 5.5, 12.500002, 6],
+					"texture": "#wool_black"
+				},
+				"south": {
+					"uv": [12.5, 5.5, 13, 6],
+					"texture": "#wool_black"
+				},
+				"west": {
+					"uv": [6.499998, 5.5, 12.499998, 6],
+					"texture": "#wool_black"
+				},
+				"up": {
+					"uv": [12.5, 6.499998, 13, 12.499998],
+					"texture": "#wool_black"
+				},
+				"down": {
+					"uv": [12.5, 6.500002, 13, 12.500002],
+					"texture": "#wool_black"
+				}
+			},
+			"__comment": "wool_black"
+		},
+		{
+			"name": "cube",
+			"from": [3.5, 14.5, 5],
+			"to": [12.5, 15, 11],
+			"shade": true,
+			"faces": {
+				"north": {
+					"uv": [6, 1, 15, 1.5],
+					"texture": "#nether_brick"
+				},
+				"east": {
+					"uv": [6, 1, 12, 1.5],
+					"texture": "#nether_brick"
+				},
+				"south": {
+					"uv": [6, 1, 15, 1.5],
+					"texture": "#nether_brick"
+				},
+				"west": {
+					"uv": [6, 1, 12, 1.5],
+					"texture": "#nether_brick"
+				},
+				"up": {"uv": [0, 0, 12, 5], "texture": "#nether_brick"},
+				"down": {
+					"uv": [6, 6, 15, 12],
+					"texture": "#nether_brick"
+				}
+			},
+			"__comment": "nether_brick66"
+		},
+		{
+			"name": "cube",
+			"from": [0.5, 14, 7.5],
+			"to": [5.5, 17, 8],
+			"shade": true,
+			"faces": {
+				"north": {
+					"uv": [10.5, 0, 15.5, 2],
+					"texture": "#wool_black"
+				},
+				"east": {
+					"uv": [7.999997, 0, 8.499997, 2],
+					"texture": "#wool_black"
+				},
+				"south": {
+					"uv": [0.5000019, 0, 5.500002, 2],
+					"texture": "#wool_black"
+				},
+				"west": {
+					"uv": [7.500003, 0, 8.000003, 2],
+					"texture": "#wool_black"
+				},
+				"up": {
+					"uv": [0.5000019, 7.500003, 5.500002, 8.000003],
+					"texture": "#wool_black"
+				},
+				"down": {
+					"uv": [0.5000019, 7.999997, 5.500002, 8.499997],
+					"texture": "#wool_black"
+				}
+			},
+			"__comment": "wool_black"
+		},
+		{
+			"name": "cube",
+			"from": [14.5, 13.5, 7.5],
+			"to": [15, 14, 8],
+			"shade": true,
+			"faces": {
+				"north": {
+					"uv": [1.000004, 2, 1.500004, 2.5],
+					"texture": "#wool_black"
+				},
+				"east": {
+					"uv": [8.000002, 2, 8.500002, 2.5],
+					"texture": "#wool_black"
+				},
+				"south": {
+					"uv": [14.5, 2, 15, 2.5],
+					"texture": "#wool_black"
+				},
+				"west": {
+					"uv": [7.499998, 2, 7.999998, 2.5],
+					"texture": "#wool_black"
+				},
+				"up": {
+					"uv": [14.5, 7.499998, 15, 7.999998],
+					"texture": "#wool_black"
+				},
+				"down": {
+					"uv": [14.5, 8.000002, 15, 8.500002],
+					"texture": "#wool_black"
+				}
+			},
+			"__comment": "wool_black"
+		},
+		{
+			"name": "cube",
+			"from": [1.5, 17, 7.5],
+			"to": [4.5, 18, 8],
+			"shade": true,
+			"faces": {
+				"north": {
+					"uv": [11.5, 14, 14.5, 15],
+					"texture": "#wool_black"
+				},
+				"east": {
+					"uv": [7.999998, 14, 8.499998, 15],
+					"texture": "#wool_black"
+				},
+				"south": {
+					"uv": [1.500002, 14, 4.500002, 15],
+					"texture": "#wool_black"
+				},
+				"west": {
+					"uv": [7.500002, 14, 8.000002, 15],
+					"texture": "#wool_black"
+				},
+				"up": {
+					"uv": [1.500002, 7.500002, 4.500002, 8.000002],
+					"texture": "#wool_black"
+				},
+				"down": {
+					"uv": [1.500002, 7.999998, 4.500002, 8.499998],
+					"texture": "#wool_black"
+				}
+			},
+			"__comment": "wool_black"
+		},
+		{
+			"name": "cube",
+			"from": [14.5, 17, 7.5],
+			"to": [15, 17.5, 8],
+			"shade": true,
+			"faces": {
+				"north": {
+					"uv": [1.000004, 14.5, 1.500004, 15],
+					"texture": "#wool_black"
+				},
+				"east": {
+					"uv": [8.000002, 14.5, 8.500002, 15],
+					"texture": "#wool_black"
+				},
+				"south": {
+					"uv": [14.5, 14.5, 15, 15],
+					"texture": "#wool_black"
+				},
+				"west": {
+					"uv": [7.499998, 14.5, 7.999998, 15],
+					"texture": "#wool_black"
+				},
+				"up": {
+					"uv": [14.5, 7.499998, 15, 7.999998],
+					"texture": "#wool_black"
+				},
+				"down": {
+					"uv": [14.5, 8.000002, 15, 8.500002],
+					"texture": "#wool_black"
+				}
+			},
+			"__comment": "wool_black"
+		},
+		{
+			"name": "cube",
+			"from": [1, 13.5, 7.5],
+			"to": [1.5, 14, 8],
+			"shade": true,
+			"faces": {
+				"north": {
+					"uv": [14.5, 2, 15, 2.5],
+					"texture": "#wool_black"
+				},
+				"east": {
+					"uv": [7.999997, 2, 8.499996, 2.5],
+					"texture": "#wool_black"
+				},
+				"south": {
+					"uv": [1.000004, 2, 1.500004, 2.5],
+					"texture": "#wool_black"
+				},
+				"west": {
+					"uv": [7.500003, 2, 8.000004, 2.5],
+					"texture": "#wool_black"
+				},
+				"up": {
+					"uv": [1.000004, 7.500004, 1.500004, 8.000004],
+					"texture": "#wool_black"
+				},
+				"down": {
+					"uv": [1.000004, 7.999996, 1.500004, 8.499996],
+					"texture": "#wool_black"
+				}
+			},
+			"__comment": "wool_black"
+		},
+		{
+			"name": "cube",
+			"from": [10.5, 14, 7.5],
+			"to": [15.5, 17, 8],
+			"shade": true,
+			"faces": {
+				"north": {
+					"uv": [0.5000038, 0, 5.500004, 2],
+					"texture": "#wool_black"
+				},
+				"east": {
+					"uv": [8.000004, 0, 8.500004, 2],
+					"texture": "#wool_black"
+				},
+				"south": {
+					"uv": [10.5, 0, 15.5, 2],
+					"texture": "#wool_black"
+				},
+				"west": {
+					"uv": [7.499997, 0, 7.999997, 2],
+					"texture": "#wool_black"
+				},
+				"up": {
+					"uv": [10.5, 7.499996, 15.5, 7.999996],
+					"texture": "#wool_black"
+				},
+				"down": {
+					"uv": [10.5, 8.000004, 15.5, 8.500004],
+					"texture": "#wool_black"
+				}
+			},
+			"__comment": "wool_black"
+		},
+		{
+			"name": "cube",
+			"from": [11.5, 17, 7.5],
+			"to": [14.5, 18, 8],
+			"shade": true,
+			"faces": {
+				"north": {
+					"uv": [1.500002, 14, 4.500002, 15],
+					"texture": "#wool_black"
+				},
+				"east": {
+					"uv": [8.000002, 14, 8.500002, 15],
+					"texture": "#wool_black"
+				},
+				"south": {
+					"uv": [11.5, 14, 14.5, 15],
+					"texture": "#wool_black"
+				},
+				"west": {
+					"uv": [7.499998, 14, 7.999998, 15],
+					"texture": "#wool_black"
+				},
+				"up": {
+					"uv": [11.5, 7.499998, 14.5, 7.999998],
+					"texture": "#wool_black"
+				},
+				"down": {
+					"uv": [11.5, 8.000002, 14.5, 8.500002],
+					"texture": "#wool_black"
+				}
+			},
+			"__comment": "wool_black"
+		},
+		{
+			"name": "cube",
+			"from": [11, 17, 7.5],
+			"to": [11.5, 17.5, 8],
+			"shade": true,
+			"faces": {
+				"north": {
+					"uv": [4.5, 14.5, 5, 15],
+					"texture": "#wool_black"
+				},
+				"east": {
+					"uv": [8, 14.5, 8.5, 15],
+					"texture": "#wool_black"
+				},
+				"south": {
+					"uv": [11, 14.5, 11.5, 15],
+					"texture": "#wool_black"
+				},
+				"west": {
+					"uv": [7.5, 14.5, 8, 15],
+					"texture": "#wool_black"
+				},
+				"up": {
+					"uv": [11, 7.5, 11.5, 8],
+					"texture": "#wool_black"
+				},
+				"down": {
+					"uv": [11, 8, 11.5, 8.5],
+					"texture": "#wool_black"
+				}
+			},
+			"__comment": "wool_black"
+		},
+		{
+			"name": "cube",
+			"from": [4.5, 17, 7.5],
+			"to": [5, 17.5, 8],
+			"shade": true,
+			"faces": {
+				"north": {
+					"uv": [11, 14.5, 11.5, 15],
+					"texture": "#wool_black"
+				},
+				"east": {
+					"uv": [8, 14.5, 8.5, 15],
+					"texture": "#wool_black"
+				},
+				"south": {
+					"uv": [4.5, 14.5, 5, 15],
+					"texture": "#wool_black"
+				},
+				"west": {
+					"uv": [7.5, 14.5, 8, 15],
+					"texture": "#wool_black"
+				},
+				"up": {
+					"uv": [4.5, 7.5, 5, 8],
+					"texture": "#wool_black"
+				},
+				"down": {
+					"uv": [4.5, 8, 5, 8.5],
+					"texture": "#wool_black"
+				}
+			},
+			"__comment": "wool_black"
+		},
+		{
+			"name": "cube",
+			"from": [1, 17, 7.5],
+			"to": [1.5, 17.5, 8],
+			"shade": true,
+			"faces": {
+				"north": {
+					"uv": [14.5, 14.5, 15, 15],
+					"texture": "#wool_black"
+				},
+				"east": {
+					"uv": [7.999997, 14.5, 8.499996, 15],
+					"texture": "#wool_black"
+				},
+				"south": {
+					"uv": [1.000004, 14.5, 1.500004, 15],
+					"texture": "#wool_black"
+				},
+				"west": {
+					"uv": [7.500003, 14.5, 8.000004, 15],
+					"texture": "#wool_black"
+				},
+				"up": {
+					"uv": [1.000004, 7.500004, 1.500004, 8.000004],
+					"texture": "#wool_black"
+				},
+				"down": {
+					"uv": [1.000004, 7.999996, 1.500004, 8.499996],
+					"texture": "#wool_black"
+				}
+			},
+			"__comment": "wool_black"
+		},
+		{
+			"name": "cube",
+			"from": [1.5, 13, 7.5],
+			"to": [4, 14, 8],
+			"shade": true,
+			"faces": {
+				"north": {
+					"uv": [12, 2, 14.5, 3],
+					"texture": "#wool_black"
+				},
+				"east": {
+					"uv": [7.999997, 2, 8.499996, 3],
+					"texture": "#wool_black"
+				},
+				"south": {
+					"uv": [1.500002, 2, 4.000002, 3],
+					"texture": "#wool_black"
+				},
+				"west": {
+					"uv": [7.500003, 2, 8.000004, 3],
+					"texture": "#wool_black"
+				},
+				"up": {
+					"uv": [1.500002, 7.500004, 4.000002, 8.000004],
+					"texture": "#wool_black"
+				},
+				"down": {
+					"uv": [1.500002, 7.999996, 4.000002, 8.499996],
+					"texture": "#wool_black"
+				}
+			},
+			"__comment": "wool_black"
+		},
+		{
+			"name": "cube",
+			"from": [12, 13, 7.5],
+			"to": [14.5, 14, 8],
+			"shade": true,
+			"faces": {
+				"north": {
+					"uv": [1.500002, 2, 4.000002, 3],
+					"texture": "#wool_black"
+				},
+				"east": {
+					"uv": [8.000002, 2, 8.500002, 3],
+					"texture": "#wool_black"
+				},
+				"south": {
+					"uv": [12, 2, 14.5, 3],
+					"texture": "#wool_black"
+				},
+				"west": {
+					"uv": [7.499998, 2, 7.999998, 3],
+					"texture": "#wool_black"
+				},
+				"up": {
+					"uv": [12, 7.499998, 14.5, 7.999998],
+					"texture": "#wool_black"
+				},
+				"down": {
+					"uv": [12, 8.000002, 14.5, 8.500002],
+					"texture": "#wool_black"
+				}
+			},
+			"__comment": "wool_black"
+		},
+		{
+			"name": "cube",
+			"from": [10, 12.5, 11.5],
+			"to": [11, 13.5, 12],
+			"shade": true,
+			"faces": {
+				"north": {
+					"uv": [4.999996, 2.5, 5.999996, 3.5],
+					"texture": "#nether_brick"
+				},
+				"east": {
+					"uv": [4, 2.5, 4.5, 3.5],
+					"texture": "#nether_brick"
+				},
+				"south": {
+					"uv": [10, 2.5, 11, 3.5],
+					"texture": "#nether_brick"
+				},
+				"west": {
+					"uv": [11.5, 2.5, 12, 3.5],
+					"texture": "#nether_brick"
+				},
+				"up": {
+					"uv": [10, 11.5, 11, 12],
+					"texture": "#nether_brick"
+				},
+				"down": {
+					"uv": [10, 4, 11, 4.5],
+					"texture": "#nether_brick"
+				}
+			},
+			"__comment": "nether_brick76"
+		},
+		{
+			"name": "cube",
+			"from": [4, 10, 12],
+			"to": [12, 10.5, 12.5],
+			"shade": true,
+			"faces": {
+				"north": {
+					"uv": [3.999996, 5.5, 12, 6],
+					"texture": "#wool_black"
+				},
+				"east": {
+					"uv": [3.5, 5.5, 4, 6],
+					"texture": "#wool_black"
+				},
+				"south": {
+					"uv": [4.000004, 5.5, 12, 6],
+					"texture": "#wool_black"
+				},
+				"west": {
+					"uv": [12, 5.5, 12.5, 6],
+					"texture": "#wool_black"
+				},
+				"up": {
+					"uv": [4.000004, 12, 12, 12.5],
+					"texture": "#wool_black"
+				},
+				"down": {
+					"uv": [4.000004, 3.5, 12, 4],
+					"texture": "#wool_black"
+				}
+			},
+			"__comment": "wool_black"
+		},
+		{
+			"name": "cube",
+			"from": [3, 10, 5],
+			"to": [3.5, 10.5, 11],
+			"shade": true,
+			"faces": {
+				"north": {
+					"uv": [12.5, 5.5, 13, 6],
+					"texture": "#wool_black"
+				},
+				"east": {
+					"uv": [6.499999, 5.5, 12.499998999999999, 6],
+					"texture": "#wool_black"
+				},
+				"south": {
+					"uv": [3.000002, 5.5, 3.500002, 6],
+					"texture": "#wool_black"
+				},
+				"west": {
+					"uv": [6.500001, 5.5, 12.500001000000001, 6],
+					"texture": "#wool_black"
+				},
+				"up": {
+					"uv": [3.000002, 6.500002, 3.500002, 12.500002],
+					"texture": "#wool_black"
+				},
+				"down": {
+					"uv": [3.000002, 6.499998, 3.500002, 12.499998],
+					"texture": "#wool_black"
+				}
+			},
+			"__comment": "wool_black"
+		},
+		{
+			"name": "cube",
+			"from": [3.5, 10, 4],
+			"to": [4, 10.5, 12],
+			"shade": true,
+			"faces": {
+				"north": {
+					"uv": [12, 5.5, 12.5, 6],
+					"texture": "#wool_black"
+				},
+				"east": {
+					"uv": [3.999997, 5.5, 12, 6],
+					"texture": "#wool_black"
+				},
+				"south": {
+					"uv": [3.500002, 5.5, 4.000002, 6],
+					"texture": "#wool_black"
+				},
+				"west": {
+					"uv": [4.000003, 5.5, 12, 6],
+					"texture": "#wool_black"
+				},
+				"up": {
+					"uv": [3.500002, 4.000003, 4.000002, 12],
+					"texture": "#wool_black"
+				},
+				"down": {
+					"uv": [3.500002, 3.999997, 4.000002, 12],
+					"texture": "#wool_black"
+				}
+			},
+			"__comment": "wool_black"
+		},
+		{
+			"name": "cube",
+			"from": [6, 10, 3],
+			"to": [10, 10.5, 3.5],
+			"shade": true,
+			"faces": {
+				"north": {
+					"uv": [6.499996, 5.5, 10.499996, 6],
+					"texture": "#wool_black"
+				},
+				"east": {
+					"uv": [12.5, 5.5, 13, 6],
+					"texture": "#wool_black"
+				},
+				"south": {
+					"uv": [6.500003, 5.5, 10.500003, 6],
+					"texture": "#wool_black"
+				},
+				"west": {
+					"uv": [3, 5.5, 3.5, 6],
+					"texture": "#wool_black"
+				},
+				"up": {
+					"uv": [6.500003, 3, 10.500003, 3.5],
+					"texture": "#wool_black"
+				},
+				"down": {
+					"uv": [6.500003, 12.5, 10.500003, 13],
+					"texture": "#wool_black"
+				}
+			},
+			"__comment": "wool_black"
+		},
+		{
+			"name": "cube",
+			"from": [6, 10.5, 3],
+			"to": [10, 11.5, 3.5],
+			"shade": true,
+			"faces": {
+				"north": {
+					"uv": [6.000004, 4.5, 10, 5.5],
+					"texture": "#nether_brick"
+				},
+				"east": {
+					"uv": [12.5, 4.5, 13, 5.5],
+					"texture": "#nether_brick"
+				},
+				"south": {
+					"uv": [5.999997, 4.5, 9.999997, 5.5],
+					"texture": "#nether_brick"
+				},
+				"west": {
+					"uv": [3, 4.5, 3.5, 5.5],
+					"texture": "#nether_brick"
+				},
+				"up": {
+					"uv": [5.999997, 3, 9.999997, 3.5],
+					"texture": "#nether_brick"
+				},
+				"down": {
+					"uv": [5.999997, 12.5, 9.999997, 13],
+					"texture": "#nether_brick"
+				}
+			},
+			"__comment": "nether_brick59"
+		},
+		{
+			"name": "cube",
+			"from": [6, 12, 3],
+			"to": [10, 15, 3.5],
+			"shade": true,
+			"faces": {
+				"north": {
+					"uv": [6.000004, 3.5, 10.000004, 6.5],
+					"texture": "#nether_brick"
+				},
+				"east": {
+					"uv": [12.5, 3.5, 13, 6.5],
+					"texture": "#nether_brick"
+				},
+				"south": {
+					"uv": [5.999997, 3.5, 9.999997, 6.5],
+					"texture": "#nether_brick"
+				},
+				"west": {
+					"uv": [3, 3.5, 3.5, 6.5],
+					"texture": "#nether_brick"
+				},
+				"up": {
+					"uv": [5.999997, 3, 9.999997, 3.5],
+					"texture": "#nether_brick"
+				},
+				"down": {
+					"uv": [5.999997, 12.5, 9.999997, 13],
+					"texture": "#nether_brick"
+				}
+			},
+			"__comment": "nether_brick60"
+		},
+		{
+			"name": "cube",
+			"from": [6, 11.5, 3],
+			"to": [10, 12, 3.5],
+			"shade": true,
+			"faces": {
+				"north": {
+					"uv": [7.000002, 4, 11.000002, 4.5],
+					"texture": "#nether_brick"
+				},
+				"east": {
+					"uv": [12.5, 4, 13, 4.5],
+					"texture": "#nether_brick"
+				},
+				"south": {
+					"uv": [8.499998, 4, 12.499998, 4.5],
+					"texture": "#nether_brick"
+				},
+				"west": {
+					"uv": [3.000001, 4, 3.500001, 4.5],
+					"texture": "#nether_brick"
+				},
+				"up": {
+					"uv": [8.499998, 3.000002, 12.499998, 3.500002],
+					"texture": "#nether_brick"
+				},
+				"down": {
+					"uv": [8.499998, 12.5, 12.499998, 13],
+					"texture": "#nether_brick"
+				}
+			},
+			"__comment": "nether_brick31"
+		},
+		{
+			"name": "cube",
+			"from": [3.5, 10.5, 11],
+			"to": [4, 15, 12],
+			"shade": true,
+			"faces": {
+				"north": {
+					"uv": [11.99999, 4, 12.49999, 8.5],
+					"texture": "#nether_brick"
+				},
+				"east": {
+					"uv": [4, 4, 5, 8.5],
+					"texture": "#nether_brick"
+				},
+				"south": {
+					"uv": [3.500006, 4, 4.000006, 8.5],
+					"texture": "#nether_brick"
+				},
+				"west": {
+					"uv": [11, 4, 12, 8.5],
+					"texture": "#nether_brick"
+				},
+				"up": {
+					"uv": [3.500006, 11, 4.000006, 12],
+					"texture": "#nether_brick"
+				},
+				"down": {
+					"uv": [3.500006, 4, 4.000006, 5],
+					"texture": "#nether_brick"
+				}
+			},
+			"__comment": "nether_brick93"
+		},
+		{
+			"name": "cube",
+			"from": [9, 11, 12],
+			"to": [9.5, 11.5, 12.5],
+			"shade": true,
+			"faces": {
+				"north": {
+					"uv": [6.5, 4.5, 7, 5],
+					"texture": "#white_wool"
+				},
+				"east": {
+					"uv": [3.5, 4.5, 4, 5],
+					"texture": "#white_wool"
+				},
+				"south": {
+					"uv": [9.000001, 4.5, 9.500001, 5],
+					"texture": "#white_wool"
+				},
+				"west": {
+					"uv": [12, 4.5, 12.5, 5],
+					"texture": "#white_wool"
+				},
+				"up": {
+					"uv": [9.000001, 12, 9.500001, 12.5],
+					"texture": "#white_wool"
+				},
+				"down": {
+					"uv": [9.000001, 3.5, 9.500001, 4],
+					"texture": "#white_wool"
+				}
+			},
+			"__comment": "white_wool2"
+		},
+		{
+			"name": "cube",
+			"from": [7.5, 11.5, 12],
+			"to": [8, 12, 12.5],
+			"shade": true,
+			"faces": {
+				"north": {
+					"uv": [8, 4, 8.5, 4.5],
+					"texture": "#white_wool"
+				},
+				"east": {
+					"uv": [3.5, 4, 4, 4.5],
+					"texture": "#white_wool"
+				},
+				"south": {
+					"uv": [7.500001, 4, 8.000001, 4.5],
+					"texture": "#white_wool"
+				},
+				"west": {
+					"uv": [12, 4, 12.5, 4.5],
+					"texture": "#white_wool"
+				},
+				"up": {
+					"uv": [7.500001, 12, 8.000001, 12.5],
+					"texture": "#white_wool"
+				},
+				"down": {
+					"uv": [7.500001, 3.5, 8.000001, 4],
+					"texture": "#white_wool"
+				}
+			},
+			"__comment": "white_wool2"
+		},
+		{
+			"name": "cube",
+			"from": [10, 10.5, 12.5],
+			"to": [10.5, 15, 13],
+			"shade": true,
+			"faces": {
+				"north": {
+					"uv": [5.5, 5, 6, 9.5],
+					"texture": "#nether_brick"
+				},
+				"east": {
+					"uv": [3.000004, 5, 3.500004, 9.5],
+					"texture": "#nether_brick"
+				},
+				"south": {
+					"uv": [10, 5, 10.5, 9.5],
+					"texture": "#nether_brick"
+				},
+				"west": {
+					"uv": [12.5, 5, 13, 9.5],
+					"texture": "#nether_brick"
+				},
+				"up": {
+					"uv": [10, 12.5, 10.5, 13],
+					"texture": "#nether_brick"
+				},
+				"down": {
+					"uv": [10, 3.000004, 10.5, 3.500004],
+					"texture": "#nether_brick"
+				}
+			},
+			"__comment": "nether_brick29"
+		},
+		{
+			"name": "cube",
+			"from": [5.5, 10.5, 12.5],
+			"to": [6, 15, 13],
+			"shade": true,
+			"faces": {
+				"north": {
+					"uv": [9.5, 5, 10, 9.5],
+					"texture": "#nether_brick"
+				},
+				"east": {
+					"uv": [3.000004, 5, 3.500004, 9.5],
+					"texture": "#nether_brick"
+				},
+				"south": {
+					"uv": [6, 5, 6.5, 9.5],
+					"texture": "#nether_brick"
+				},
+				"west": {
+					"uv": [12.5, 5, 13, 9.5],
+					"texture": "#nether_brick"
+				},
+				"up": {
+					"uv": [6, 12.5, 6.5, 13],
+					"texture": "#nether_brick"
+				},
+				"down": {
+					"uv": [6, 3.000004, 6.5, 3.500004],
+					"texture": "#nether_brick"
+				}
+			},
+			"__comment": "nether_brick29"
+		},
+		{
+			"name": "cube",
+			"from": [10.5, 10.5, 12],
+			"to": [12, 15, 12.5],
+			"shade": true,
+			"faces": {
+				"north": {
+					"uv": [3.999996, 4, 5.499995999999999, 8.5],
+					"texture": "#nether_brick"
+				},
+				"east": {
+					"uv": [3.500004, 4, 4.000004000000001, 8.5],
+					"texture": "#nether_brick"
+				},
+				"south": {
+					"uv": [10.5, 4, 12, 8.5],
+					"texture": "#nether_brick"
+				},
+				"west": {
+					"uv": [12, 4, 12.5, 8.5],
+					"texture": "#nether_brick"
+				},
+				"up": {
+					"uv": [10.5, 12, 12, 12.5],
+					"texture": "#nether_brick"
+				},
+				"down": {
+					"uv": [10.5, 3.500004, 12, 4.000004000000001],
+					"texture": "#nether_brick"
+				}
+			},
+			"__comment": "nether_brick24"
+		},
+		{
+			"name": "cube",
+			"from": [6, 10.5, 12.5],
+			"to": [10, 11.5, 13],
+			"shade": true,
+			"faces": {
+				"north": {
+					"uv": [9, 5, 13, 6],
+					"texture": "#nether_brick"
+				},
+				"east": {
+					"uv": [3.000004, 5, 3.500004, 6],
+					"texture": "#nether_brick"
+				},
+				"south": {
+					"uv": [6.500001, 5, 10.500001000000001, 6],
+					"texture": "#nether_brick"
+				},
+				"west": {
+					"uv": [12.5, 5, 13, 6],
+					"texture": "#nether_brick"
+				},
+				"up": {
+					"uv": [6.500001, 12.5, 10.500001000000001, 13],
+					"texture": "#nether_brick"
+				},
+				"down": {
+					"uv": [
+						6.500001,
+						3.000004,
+						10.500001000000001,
+						3.500004
+					],
+					"texture": "#nether_brick"
+				}
+			},
+			"__comment": "nether_brick24"
+		},
+		{
+			"name": "cube",
+			"from": [7.5, 11, 12],
+			"to": [9, 11.5, 12.5],
+			"shade": true,
+			"faces": {
+				"north": {
+					"uv": [6.999996, 4.5, 8.499996, 5],
+					"texture": "#hardened_clay_stained_lightblue"
+				},
+				"east": {
+					"uv": [3.500004, 4.5, 4.000004, 5],
+					"texture": "#hardened_clay_stained_lightblue"
+				},
+				"south": {
+					"uv": [7.500003, 4.5, 9.000003, 5],
+					"texture": "#hardened_clay_stained_lightblue"
+				},
+				"west": {
+					"uv": [12, 4.5, 12.5, 5],
+					"texture": "#hardened_clay_stained_lightblue"
+				},
+				"up": {
+					"uv": [7.500003, 12, 9.000003, 12.5],
+					"texture": "#hardened_clay_stained_lightblue"
+				},
+				"down": {
+					"uv": [7.500003, 3.500004, 9.000003, 4.000004],
+					"texture": "#hardened_clay_stained_lightblue"
+				}
+			},
+			"__comment": "nether_brick1"
+		},
+		{
+			"name": "cube",
+			"from": [7, 11.5, 12],
+			"to": [7.5, 12, 12.5],
+			"shade": true,
+			"faces": {
+				"north": {
+					"uv": [8.5, 4, 9, 4.5],
+					"texture": "#hardened_clay_stained_lightblue"
+				},
+				"east": {
+					"uv": [3.500004, 4, 4.000004, 4.5],
+					"texture": "#hardened_clay_stained_lightblue"
+				},
+				"south": {
+					"uv": [7.000001, 4, 7.500001, 4.5],
+					"texture": "#hardened_clay_stained_lightblue"
+				},
+				"west": {
+					"uv": [12, 4, 12.5, 4.5],
+					"texture": "#hardened_clay_stained_lightblue"
+				},
+				"up": {
+					"uv": [7.000001, 12, 7.500001, 12.5],
+					"texture": "#hardened_clay_stained_lightblue"
+				},
+				"down": {
+					"uv": [7.000001, 3.500004, 7.500001, 4.000004],
+					"texture": "#hardened_clay_stained_lightblue"
+				}
+			},
+			"__comment": "nether_brick2"
+		},
+		{
+			"name": "cube",
+			"from": [9, 11.5, 12],
+			"to": [9.5, 13, 12.5],
+			"shade": true,
+			"faces": {
+				"north": {
+					"uv": [6.5, 3, 7, 4.5],
+					"texture": "#hardened_clay_stained_lightblue"
+				},
+				"east": {
+					"uv": [3.500004, 3, 4.000004, 4.5],
+					"texture": "#hardened_clay_stained_lightblue"
+				},
+				"south": {
+					"uv": [9.000001, 3, 9.500001, 4.5],
+					"texture": "#hardened_clay_stained_lightblue"
+				},
+				"west": {
+					"uv": [12, 3, 12.5, 4.5],
+					"texture": "#hardened_clay_stained_lightblue"
+				},
+				"up": {
+					"uv": [9.000001, 12, 9.500001, 12.5],
+					"texture": "#hardened_clay_stained_lightblue"
+				},
+				"down": {
+					"uv": [9.000001, 3.500004, 9.500001, 4.000004],
+					"texture": "#hardened_clay_stained_lightblue"
+				}
+			},
+			"__comment": "nether_brick4"
+		},
+		{
+			"name": "cube",
+			"from": [8, 11.5, 12],
+			"to": [8.5, 12, 12.5],
+			"shade": true,
+			"faces": {
+				"north": {
+					"uv": [7.5, 4, 8, 4.5],
+					"texture": "#hardened_clay_stained_lightblue"
+				},
+				"east": {
+					"uv": [3.500004, 4, 4.000004, 4.5],
+					"texture": "#hardened_clay_stained_lightblue"
+				},
+				"south": {
+					"uv": [8.000001, 4, 8.500001, 4.5],
+					"texture": "#hardened_clay_stained_lightblue"
+				},
+				"west": {
+					"uv": [12, 4, 12.5, 4.5],
+					"texture": "#hardened_clay_stained_lightblue"
+				},
+				"up": {
+					"uv": [8.000001, 12, 8.500001, 12.5],
+					"texture": "#hardened_clay_stained_lightblue"
+				},
+				"down": {
+					"uv": [8.000001, 3.500004, 8.500001, 4.000004],
+					"texture": "#hardened_clay_stained_lightblue"
+				}
+			},
+			"__comment": "hardened_clay_stained_lightblue3"
+		},
+		{
+			"name": "cube",
+			"from": [7, 12.5, 12],
+			"to": [7.5, 13, 12.5],
+			"shade": true,
+			"faces": {
+				"north": {
+					"uv": [8.5, 3, 9, 3.5],
+					"texture": "#hardened_clay_stained_lightblue"
+				},
+				"east": {
+					"uv": [3.500004, 3, 4.000004, 3.5],
+					"texture": "#hardened_clay_stained_lightblue"
+				},
+				"south": {
+					"uv": [7.000001, 3, 7.500001, 3.5],
+					"texture": "#hardened_clay_stained_lightblue"
+				},
+				"west": {
+					"uv": [12, 3, 12.5, 3.5],
+					"texture": "#hardened_clay_stained_lightblue"
+				},
+				"up": {
+					"uv": [7.000001, 12, 7.500001, 12.5],
+					"texture": "#hardened_clay_stained_lightblue"
+				},
+				"down": {
+					"uv": [7.000001, 3.500004, 7.500001, 4.000004],
+					"texture": "#hardened_clay_stained_lightblue"
+				}
+			},
+			"__comment": "nether_brick3"
+		},
+		{
+			"name": "cube",
+			"from": [7.5, 12, 12],
+			"to": [8.5, 13, 12.5],
+			"shade": true,
+			"faces": {
+				"north": {
+					"uv": [7.499998, 3, 8.499998, 4],
+					"texture": "#hardened_clay_stained_lightblue"
+				},
+				"east": {
+					"uv": [3.500004, 3, 4.000004, 4],
+					"texture": "#hardened_clay_stained_lightblue"
+				},
+				"south": {
+					"uv": [7.500002, 3, 8.500002, 4],
+					"texture": "#hardened_clay_stained_lightblue"
+				},
+				"west": {
+					"uv": [12, 3, 12.5, 4],
+					"texture": "#hardened_clay_stained_lightblue"
+				},
+				"up": {
+					"uv": [7.500002, 12, 8.500002, 12.5],
+					"texture": "#hardened_clay_stained_lightblue"
+				},
+				"down": {
+					"uv": [7.500002, 3.500004, 8.500002, 4.000004],
+					"texture": "#hardened_clay_stained_lightblue"
+				}
+			},
+			"__comment": "hardened_clay_stained_lightblue2"
+		},
+		{
+			"name": "cube",
+			"from": [5, 12.5, 11.5],
+			"to": [6.5, 13.5, 12],
+			"shade": true,
+			"faces": {
+				"north": {
+					"uv": [9.499992, 2.5, 10.99999, 3.5],
+					"texture": "#nether_brick"
+				},
+				"east": {
+					"uv": [4, 2.5, 4.5, 3.5],
+					"texture": "#nether_brick"
+				},
+				"south": {
+					"uv": [5.000007, 2.5, 6.500007, 3.5],
+					"texture": "#nether_brick"
+				},
+				"west": {
+					"uv": [11.5, 2.5, 12, 3.5],
+					"texture": "#nether_brick"
+				},
+				"up": {
+					"uv": [5.000007, 11.5, 6.500007, 12],
+					"texture": "#nether_brick"
+				},
+				"down": {
+					"uv": [5.000007, 4, 6.500007, 4.5],
+					"texture": "#nether_brick"
+				}
+			},
+			"__comment": "nether_brick76"
+		},
+		{
+			"name": "cube",
+			"from": [7.5, 13, 12],
+			"to": [9, 13.5, 12.5],
+			"shade": true,
+			"faces": {
+				"north": {
+					"uv": [6.999996, 2.5, 8.499996, 3],
+					"texture": "#hardened_clay_stained_lightblue"
+				},
+				"east": {
+					"uv": [3.500004, 2.5, 4.000004, 3],
+					"texture": "#hardened_clay_stained_lightblue"
+				},
+				"south": {
+					"uv": [7.500003, 2.5, 9.000003, 3],
+					"texture": "#hardened_clay_stained_lightblue"
+				},
+				"west": {
+					"uv": [12, 2.5, 12.5, 3],
+					"texture": "#hardened_clay_stained_lightblue"
+				},
+				"up": {
+					"uv": [7.500003, 12, 9.000003, 12.5],
+					"texture": "#hardened_clay_stained_lightblue"
+				},
+				"down": {
+					"uv": [7.500003, 3.500004, 9.000003, 4.000004],
+					"texture": "#hardened_clay_stained_lightblue"
+				}
+			},
+			"__comment": "nether_brick"
+		},
+		{
+			"name": "cube side 1",
+			"from": [4, 9.5, 12.5],
+			"to": [4.5, 10, 13],
+			"shade": true,
+			"faces": {
+				"north": {
+					"uv": [3.999996, 5.5, 4.499995999999999, 6],
+					"texture": "#wool_black"
+				},
+				"east": {
+					"uv": [3.5, 5.5, 4, 6],
+					"texture": "#wool_black"
+				},
+				"south": {
+					"uv": [4.000004, 5.5, 4.500004, 6],
+					"texture": "#wool_black"
+				},
+				"west": {
+					"uv": [12, 5.5, 12.5, 6],
+					"texture": "#wool_black"
+				},
+				"up": {
+					"uv": [4.000004, 12, 4.500004, 12.5],
+					"texture": "#wool_black"
+				},
+				"down": {
+					"uv": [4.000004, 3.5, 4.500004, 4],
+					"texture": "#wool_black"
+				}
+			},
+			"__comment": "wool_black"
+		},
+		{
+			"name": "cube side 2",
+			"from": [11.5, 9.5, 12.5],
+			"to": [12, 10, 13],
+			"shade": true,
+			"faces": {
+				"north": {
+					"uv": [3.999996, 5.5, 4.499995999999999, 6],
+					"texture": "#wool_black"
+				},
+				"east": {
+					"uv": [3.5, 5.5, 4, 6],
+					"texture": "#wool_black"
+				},
+				"south": {
+					"uv": [4.000004, 5.5, 4.500004, 6],
+					"texture": "#wool_black"
+				},
+				"west": {
+					"uv": [12, 5.5, 12.5, 6],
+					"texture": "#wool_black"
+				},
+				"up": {
+					"uv": [4.000004, 12, 4.500004, 12.5],
+					"texture": "#wool_black"
+				},
+				"down": {
+					"uv": [4.000004, 3.5, 4.500004, 4],
+					"texture": "#wool_black"
+				}
+			},
+			"__comment": "wool_black"
+		},
+		{
+			"name": "cube middle 1",
+			"from": [5.5, 10, 13],
+			"to": [10.5, 10.5, 14.5],
+			"shade": true,
+			"faces": {
+				"north": {
+					"uv": [6.499996, 5.5, 11.499996, 6],
+					"texture": "#wool_black"
+				},
+				"east": {
+					"uv": [3, 5.5, 4.5, 6],
+					"texture": "#wool_black"
+				},
+				"south": {
+					"uv": [6.500003, 5.5, 11.500003, 6],
+					"texture": "#wool_black"
+				},
+				"west": {
+					"uv": [12.5, 5.5, 14, 6],
+					"texture": "#wool_black"
+				},
+				"up": {
+					"uv": [6.500003, 12.5, 11.500003, 14],
+					"texture": "#wool_black"
+				},
+				"down": {
+					"uv": [6.500003, 3, 11.500003, 4.5],
+					"texture": "#wool_black"
+				}
+			},
+			"__comment": "wool_black"
+		},
+		{
+			"name": "cube mid 2",
+			"from": [5, 10, 13],
+			"to": [5.5, 10.5, 14],
+			"shade": true,
+			"faces": {
+				"north": {
+					"uv": [3.999996, 5.5, 4.499995999999999, 6],
+					"texture": "#wool_black"
+				},
+				"east": {
+					"uv": [3.5, 5.5, 4.5, 6],
+					"texture": "#wool_black"
+				},
+				"south": {
+					"uv": [4.000004, 5.5, 4.500004, 6],
+					"texture": "#wool_black"
+				},
+				"west": {
+					"uv": [12, 5.5, 13, 6],
+					"texture": "#wool_black"
+				},
+				"up": {
+					"uv": [4.000004, 12, 4.500004, 13],
+					"texture": "#wool_black"
+				},
+				"down": {
+					"uv": [4.000004, 3.5, 4.500004, 4.5],
+					"texture": "#wool_black"
+				}
+			},
+			"__comment": "wool_black"
+		},
+		{
+			"name": "cube mid 3",
+			"from": [10.5, 10, 13],
+			"to": [11, 10.5, 14],
+			"shade": true,
+			"faces": {
+				"north": {
+					"uv": [3.999996, 5.5, 4.499995999999999, 6],
+					"texture": "#wool_black"
+				},
+				"east": {
+					"uv": [3.5, 5.5, 4.5, 6],
+					"texture": "#wool_black"
+				},
+				"south": {
+					"uv": [4.000004, 5.5, 4.500004, 6],
+					"texture": "#wool_black"
+				},
+				"west": {
+					"uv": [12, 5.5, 13, 6],
+					"texture": "#wool_black"
+				},
+				"up": {
+					"uv": [4.000004, 12, 4.500004, 13],
+					"texture": "#wool_black"
+				},
+				"down": {
+					"uv": [4.000004, 3.5, 4.500004, 4.5],
+					"texture": "#wool_black"
+				}
+			},
+			"__comment": "wool_black"
+		},
+		{
+			"name": "cube side 3",
+			"from": [4.5, 9.5, 13],
+			"to": [5, 10, 14],
+			"shade": true,
+			"faces": {
+				"north": {
+					"uv": [3.999996, 5.5, 4.499995999999999, 6],
+					"texture": "#wool_black"
+				},
+				"east": {
+					"uv": [3.5, 5.5, 4.5, 6],
+					"texture": "#wool_black"
+				},
+				"south": {
+					"uv": [4.000004, 5.5, 4.500004, 6],
+					"texture": "#wool_black"
+				},
+				"west": {
+					"uv": [12, 5.5, 13, 6],
+					"texture": "#wool_black"
+				},
+				"up": {
+					"uv": [4.000004, 12, 4.500004, 13],
+					"texture": "#wool_black"
+				},
+				"down": {
+					"uv": [4.000004, 3.5, 4.500004, 4.5],
+					"texture": "#wool_black"
+				}
+			},
+			"__comment": "wool_black"
+		},
+		{
+			"name": "cube side 4",
+			"from": [11, 9.5, 13],
+			"to": [11.5, 10, 14],
+			"shade": true,
+			"faces": {
+				"north": {
+					"uv": [3.999996, 5.5, 4.499995999999999, 6],
+					"texture": "#wool_black"
+				},
+				"east": {
+					"uv": [3.5, 5.5, 4.5, 6],
+					"texture": "#wool_black"
+				},
+				"south": {
+					"uv": [4.000004, 5.5, 4.500004, 6],
+					"texture": "#wool_black"
+				},
+				"west": {
+					"uv": [12, 5.5, 13, 6],
+					"texture": "#wool_black"
+				},
+				"up": {
+					"uv": [4.000004, 12, 4.500004, 13],
+					"texture": "#wool_black"
+				},
+				"down": {
+					"uv": [4.000004, 3.5, 4.500004, 4.5],
+					"texture": "#wool_black"
+				}
+			},
+			"__comment": "wool_black"
+		},
+		{
+			"name": "cube middle 4",
+			"from": [6, 10, 14.5],
+			"to": [10, 10.5, 15],
+			"shade": true,
+			"faces": {
+				"north": {
+					"uv": [6.499996, 5.5, 10.499996, 6],
+					"texture": "#wool_black"
+				},
+				"east": {
+					"uv": [3, 5.5, 3.5, 6],
+					"texture": "#wool_black"
+				},
+				"south": {
+					"uv": [6.500003, 5.5, 10.500003, 6],
+					"texture": "#wool_black"
+				},
+				"west": {
+					"uv": [12.5, 5.5, 13, 6],
+					"texture": "#wool_black"
+				},
+				"up": {
+					"uv": [6.500003, 12.5, 10.500003, 13],
+					"texture": "#wool_black"
+				},
+				"down": {
+					"uv": [6.500003, 3, 10.500003, 3.5],
+					"texture": "#wool_black"
+				}
+			},
+			"__comment": "wool_black"
+		},
+		{
+			"name": "cube side 5",
+			"from": [5, 9.5, 14],
+			"to": [5.5, 10, 14.5],
+			"shade": true,
+			"faces": {
+				"north": {
+					"uv": [3.999996, 5.5, 4.499995999999999, 6],
+					"texture": "#wool_black"
+				},
+				"east": {
+					"uv": [3.5, 5.5, 4, 6],
+					"texture": "#wool_black"
+				},
+				"south": {
+					"uv": [4.000004, 5.5, 4.500004, 6],
+					"texture": "#wool_black"
+				},
+				"west": {
+					"uv": [12, 5.5, 12.5, 6],
+					"texture": "#wool_black"
+				},
+				"up": {
+					"uv": [4.000004, 12, 4.500004, 12.5],
+					"texture": "#wool_black"
+				},
+				"down": {
+					"uv": [4.000004, 3.5, 4.500004, 4],
+					"texture": "#wool_black"
+				}
+			},
+			"__comment": "wool_black"
+		},
+		{
+			"name": "cube side 6",
+			"from": [10.5, 9.5, 14],
+			"to": [11, 10, 14.5],
+			"shade": true,
+			"faces": {
+				"north": {
+					"uv": [3.999996, 5.5, 4.499995999999999, 6],
+					"texture": "#wool_black"
+				},
+				"east": {
+					"uv": [3.5, 5.5, 4, 6],
+					"texture": "#wool_black"
+				},
+				"south": {
+					"uv": [4.000004, 5.5, 4.500004, 6],
+					"texture": "#wool_black"
+				},
+				"west": {
+					"uv": [12, 5.5, 12.5, 6],
+					"texture": "#wool_black"
+				},
+				"up": {
+					"uv": [4.000004, 12, 4.500004, 12.5],
+					"texture": "#wool_black"
+				},
+				"down": {
+					"uv": [4.000004, 3.5, 4.500004, 4],
+					"texture": "#wool_black"
+				}
+			},
+			"__comment": "wool_black"
+		},
+		{
+			"name": "cube middle 5",
+			"from": [6.5, 10, 15],
+			"to": [9.5, 10.5, 15.5],
+			"shade": true,
+			"faces": {
+				"north": {
+					"uv": [6.499996, 5.5, 9.499996, 6],
+					"texture": "#wool_black"
+				},
+				"east": {
+					"uv": [3, 5.5, 3.5, 6],
+					"texture": "#wool_black"
+				},
+				"south": {
+					"uv": [6.500003, 5.5, 9.500003, 6],
+					"texture": "#wool_black"
+				},
+				"west": {
+					"uv": [12.5, 5.5, 13, 6],
+					"texture": "#wool_black"
+				},
+				"up": {
+					"uv": [6.500003, 12.5, 9.500003, 13],
+					"texture": "#wool_black"
+				},
+				"down": {
+					"uv": [6.500003, 3, 9.500003, 3.5],
+					"texture": "#wool_black"
+				}
+			},
+			"__comment": "wool_black"
+		},
+		{
+			"name": "cube side 6",
+			"from": [5.5, 9.5, 14.5],
+			"to": [6, 10, 15],
+			"shade": true,
+			"faces": {
+				"north": {
+					"uv": [3.999996, 5.5, 4.499995999999999, 6],
+					"texture": "#wool_black"
+				},
+				"east": {
+					"uv": [3.5, 5.5, 4, 6],
+					"texture": "#wool_black"
+				},
+				"south": {
+					"uv": [4.000004, 5.5, 4.500004, 6],
+					"texture": "#wool_black"
+				},
+				"west": {
+					"uv": [12, 5.5, 12.5, 6],
+					"texture": "#wool_black"
+				},
+				"up": {
+					"uv": [4.000004, 12, 4.500004, 12.5],
+					"texture": "#wool_black"
+				},
+				"down": {
+					"uv": [4.000004, 3.5, 4.500004, 4],
+					"texture": "#wool_black"
+				}
+			},
+			"__comment": "wool_black"
+		},
+		{
+			"name": "cube side 7",
+			"from": [10, 9.5, 14.5],
+			"to": [10.5, 10, 15],
+			"shade": true,
+			"faces": {
+				"north": {
+					"uv": [3.999996, 5.5, 4.499995999999999, 6],
+					"texture": "#wool_black"
+				},
+				"east": {
+					"uv": [3.5, 5.5, 4, 6],
+					"texture": "#wool_black"
+				},
+				"south": {
+					"uv": [4.000004, 5.5, 4.500004, 6],
+					"texture": "#wool_black"
+				},
+				"west": {
+					"uv": [12, 5.5, 12.5, 6],
+					"texture": "#wool_black"
+				},
+				"up": {
+					"uv": [4.000004, 12, 4.500004, 12.5],
+					"texture": "#wool_black"
+				},
+				"down": {
+					"uv": [4.000004, 3.5, 4.500004, 4],
+					"texture": "#wool_black"
+				}
+			},
+			"__comment": "wool_black"
+		},
+		{
+			"name": "cube side 8",
+			"from": [6, 9.5, 15],
+			"to": [6.5, 10, 15.5],
+			"shade": true,
+			"faces": {
+				"north": {
+					"uv": [3.999996, 5.5, 4.499995999999999, 6],
+					"texture": "#wool_black"
+				},
+				"east": {
+					"uv": [3.5, 5.5, 4, 6],
+					"texture": "#wool_black"
+				},
+				"south": {
+					"uv": [4.000004, 5.5, 4.500004, 6],
+					"texture": "#wool_black"
+				},
+				"west": {
+					"uv": [12, 5.5, 12.5, 6],
+					"texture": "#wool_black"
+				},
+				"up": {
+					"uv": [4.000004, 12, 4.500004, 12.5],
+					"texture": "#wool_black"
+				},
+				"down": {
+					"uv": [4.000004, 3.5, 4.500004, 4],
+					"texture": "#wool_black"
+				}
+			},
+			"__comment": "wool_black"
+		},
+		{
+			"name": "cube side 9",
+			"from": [6, 9.5, 15],
+			"to": [6.5, 10, 15.5],
+			"shade": true,
+			"faces": {
+				"north": {
+					"uv": [3.999996, 5.5, 4.499995999999999, 6],
+					"texture": "#wool_black"
+				},
+				"east": {
+					"uv": [3.5, 5.5, 4, 6],
+					"texture": "#wool_black"
+				},
+				"south": {
+					"uv": [4.000004, 5.5, 4.500004, 6],
+					"texture": "#wool_black"
+				},
+				"west": {
+					"uv": [12, 5.5, 12.5, 6],
+					"texture": "#wool_black"
+				},
+				"up": {
+					"uv": [4.000004, 12, 4.500004, 12.5],
+					"texture": "#wool_black"
+				},
+				"down": {
+					"uv": [4.000004, 3.5, 4.500004, 4],
+					"texture": "#wool_black"
+				}
+			},
+			"__comment": "wool_black"
+		},
+		{
+			"name": "cube side 10",
+			"from": [9.5, 9.5, 15],
+			"to": [10, 10, 15.5],
+			"shade": true,
+			"faces": {
+				"north": {
+					"uv": [3.999996, 5.5, 4.499995999999999, 6],
+					"texture": "#wool_black"
+				},
+				"east": {
+					"uv": [3.5, 5.5, 4, 6],
+					"texture": "#wool_black"
+				},
+				"south": {
+					"uv": [4.000004, 5.5, 4.500004, 6],
+					"texture": "#wool_black"
+				},
+				"west": {
+					"uv": [12, 5.5, 12.5, 6],
+					"texture": "#wool_black"
+				},
+				"up": {
+					"uv": [4.000004, 12, 4.500004, 12.5],
+					"texture": "#wool_black"
+				},
+				"down": {
+					"uv": [4.000004, 3.5, 4.500004, 4],
+					"texture": "#wool_black"
+				}
+			},
+			"__comment": "wool_black"
+		},
+		{
+			"name": "cube side 11",
+			"from": [6.5, 9.5, 15.5],
+			"to": [9.5, 10, 16],
+			"shade": true,
+			"faces": {
+				"north": {
+					"uv": [3.999996, 5.5, 6.999995999999999, 6],
+					"texture": "#wool_black"
+				},
+				"east": {
+					"uv": [3.5, 5.5, 4, 6],
+					"texture": "#wool_black"
+				},
+				"south": {
+					"uv": [4.000004, 5.5, 7.000004, 6],
+					"texture": "#wool_black"
+				},
+				"west": {
+					"uv": [12, 5.5, 12.5, 6],
+					"texture": "#wool_black"
+				},
+				"up": {
+					"uv": [4.000004, 12, 7.000004, 12.5],
+					"texture": "#wool_black"
+				},
+				"down": {
+					"uv": [4.000004, 3.5, 7.000004, 4],
+					"texture": "#wool_black"
+				}
+			},
+			"__comment": "wool_black"
+		},
+		{
+			"name": "gold 1",
+			"from": [6.5, 11.5, 12.5],
+			"to": [9.5, 12, 13],
+			"shade": true,
+			"faces": {
+				"north": {
+					"uv": [9, 5, 12, 5.5],
+					"texture": "#hardened_clay_stained_lime"
+				},
+				"east": {
+					"uv": [3.000004, 5, 3.500004, 5.5],
+					"texture": "#hardened_clay_stained_lime"
+				},
+				"south": {
+					"uv": [6.500001, 5, 9.500001000000001, 5.5],
+					"texture": "#hardened_clay_stained_lime"
+				},
+				"west": {
+					"uv": [12.5, 5, 13, 5.5],
+					"texture": "#hardened_clay_stained_lime"
+				},
+				"up": {
+					"uv": [6.500001, 12.5, 9.500001000000001, 13],
+					"texture": "#hardened_clay_stained_lime"
+				},
+				"down": {
+					"uv": [
+						6.500001,
+						3.000004,
+						9.500001000000001,
+						3.500004
+					],
+					"texture": "#hardened_clay_stained_lime"
+				}
+			},
+			"__comment": "nether_brick24"
+		},
+		{
+			"name": "gold 2",
+			"from": [7, 12, 12.5],
+			"to": [7.5, 12.5, 13],
+			"shade": true,
+			"faces": {
+				"north": {
+					"uv": [9, 5, 9.5, 5.5],
+					"texture": "#hardened_clay_stained_lime"
+				},
+				"east": {
+					"uv": [3.000004, 5, 3.500004, 5.5],
+					"texture": "#hardened_clay_stained_lime"
+				},
+				"south": {
+					"uv": [6.500001, 5, 7.000001, 5.5],
+					"texture": "#hardened_clay_stained_lime"
+				},
+				"west": {
+					"uv": [12.5, 5, 13, 5.5],
+					"texture": "#hardened_clay_stained_lime"
+				},
+				"up": {
+					"uv": [6.500001, 12.5, 7.000001, 13],
+					"texture": "#hardened_clay_stained_lime"
+				},
+				"down": {
+					"uv": [6.500001, 3.000004, 7.000001, 3.500004],
+					"texture": "#hardened_clay_stained_lime"
+				}
+			},
+			"__comment": "nether_brick24"
+		},
+		{
+			"name": "gold 3",
+			"from": [8.5, 12, 12.5],
+			"to": [9, 12.5, 13],
+			"shade": true,
+			"faces": {
+				"north": {
+					"uv": [9, 5, 9.5, 5.5],
+					"texture": "#hardened_clay_stained_lime"
+				},
+				"east": {
+					"uv": [3.000004, 5, 3.500004, 5.5],
+					"texture": "#hardened_clay_stained_lime"
+				},
+				"south": {
+					"uv": [6.500001, 5, 7.000001, 5.5],
+					"texture": "#hardened_clay_stained_lime"
+				},
+				"west": {
+					"uv": [12.5, 5, 13, 5.5],
+					"texture": "#hardened_clay_stained_lime"
+				},
+				"up": {
+					"uv": [6.500001, 12.5, 7.000001, 13],
+					"texture": "#hardened_clay_stained_lime"
+				},
+				"down": {
+					"uv": [6.500001, 3.000004, 7.000001, 3.500004],
+					"texture": "#hardened_clay_stained_lime"
+				}
+			},
+			"__comment": "nether_brick24"
+		},
+		{
+			"name": "red",
+			"from": [7.5, 12, 12.5],
+			"to": [8.5, 13, 13],
+			"shade": true,
+			"faces": {
+				"north": {"uv": [9, 5, 10, 6], "texture": "#1"},
+				"east": {
+					"uv": [3.000004, 5, 3.500004, 6],
+					"texture": "#1"
+				},
+				"south": {
+					"uv": [6.500001, 5, 7.500001, 6],
+					"texture": "#1"
+				},
+				"west": {"uv": [12.5, 5, 13, 6], "texture": "#1"},
+				"up": {
+					"uv": [6.500001, 12.5, 7.500001, 13],
+					"texture": "#1"
+				},
+				"down": {
+					"uv": [6.500001, 3.000004, 7.500001, 3.500004],
+					"texture": "#1"
+				}
+			},
+			"__comment": "nether_brick24"
+		},
+		{
+			"name": "cube",
+			"from": [6, 11.5, 12.5],
+			"to": [6.5, 15, 13],
+			"shade": true,
+			"faces": {
+				"north": {
+					"uv": [9.5, 5, 10, 8.5],
+					"texture": "#nether_brick"
+				},
+				"east": {
+					"uv": [3.000004, 5, 3.500004, 8.5],
+					"texture": "#nether_brick"
+				},
+				"south": {
+					"uv": [6, 5, 6.5, 8.5],
+					"texture": "#nether_brick"
+				},
+				"west": {
+					"uv": [12.5, 5, 13, 8.5],
+					"texture": "#nether_brick"
+				},
+				"up": {
+					"uv": [6, 12.5, 6.5, 13],
+					"texture": "#nether_brick"
+				},
+				"down": {
+					"uv": [6, 3.000004, 6.5, 3.500004],
+					"texture": "#nether_brick"
+				}
+			},
+			"__comment": "nether_brick29"
+		},
+		{
+			"name": "cube",
+			"from": [9.5, 11.5, 12.5],
+			"to": [10, 15, 13],
+			"shade": true,
+			"faces": {
+				"north": {
+					"uv": [5.5, 5, 6, 8.5],
+					"texture": "#nether_brick"
+				},
+				"east": {
+					"uv": [3.000004, 5, 3.500004, 8.5],
+					"texture": "#nether_brick"
+				},
+				"south": {
+					"uv": [10, 5, 10.5, 8.5],
+					"texture": "#nether_brick"
+				},
+				"west": {
+					"uv": [12.5, 5, 13, 8.5],
+					"texture": "#nether_brick"
+				},
+				"up": {
+					"uv": [10, 12.5, 10.5, 13],
+					"texture": "#nether_brick"
+				},
+				"down": {
+					"uv": [10, 3.000004, 10.5, 3.500004],
+					"texture": "#nether_brick"
+				}
+			},
+			"__comment": "nether_brick29"
+		},
+		{
+			"name": "cube",
+			"from": [7.5, 13, 12.5],
+			"to": [8, 15, 13],
+			"shade": true,
+			"faces": {
+				"north": {
+					"uv": [9.5, 5, 10, 7],
+					"texture": "#nether_brick"
+				},
+				"east": {
+					"uv": [3.000004, 5, 3.500004, 7],
+					"texture": "#nether_brick"
+				},
+				"south": {
+					"uv": [6, 5, 6.5, 7],
+					"texture": "#nether_brick"
+				},
+				"west": {
+					"uv": [12.5, 5, 13, 7],
+					"texture": "#nether_brick"
+				},
+				"up": {
+					"uv": [6, 12.5, 6.5, 13],
+					"texture": "#nether_brick"
+				},
+				"down": {
+					"uv": [6, 3.000004, 6.5, 3.500004],
+					"texture": "#nether_brick"
+				}
+			},
+			"__comment": "nether_brick29"
+		},
+		{
+			"name": "cube",
+			"from": [8.5, 12.5, 12.5],
+			"to": [9, 15, 13],
+			"shade": true,
+			"faces": {
+				"north": {
+					"uv": [5.5, 5, 6, 7.5],
+					"texture": "#nether_brick"
+				},
+				"east": {
+					"uv": [3.000004, 5, 3.500004, 7.5],
+					"texture": "#nether_brick"
+				},
+				"south": {
+					"uv": [10, 5, 10.5, 7.5],
+					"texture": "#nether_brick"
+				},
+				"west": {
+					"uv": [12.5, 5, 13, 7.5],
+					"texture": "#nether_brick"
+				},
+				"up": {
+					"uv": [10, 12.5, 10.5, 13],
+					"texture": "#nether_brick"
+				},
+				"down": {
+					"uv": [10, 3.000004, 10.5, 3.500004],
+					"texture": "#nether_brick"
+				}
+			},
+			"__comment": "nether_brick29"
+		},
+		{
+			"name": "cube",
+			"from": [7, 12.5, 12.5],
+			"to": [7.5, 15, 13],
+			"shade": true,
+			"faces": {
+				"north": {
+					"uv": [9.5, 5, 10, 7.5],
+					"texture": "#nether_brick"
+				},
+				"east": {
+					"uv": [3.000004, 5, 3.500004, 7.5],
+					"texture": "#nether_brick"
+				},
+				"south": {
+					"uv": [6, 5, 6.5, 7.5],
+					"texture": "#nether_brick"
+				},
+				"west": {
+					"uv": [12.5, 5, 13, 7.5],
+					"texture": "#nether_brick"
+				},
+				"up": {
+					"uv": [6, 12.5, 6.5, 13],
+					"texture": "#nether_brick"
+				},
+				"down": {
+					"uv": [6, 3.000004, 6.5, 3.500004],
+					"texture": "#nether_brick"
+				}
+			},
+			"__comment": "nether_brick29"
+		},
+		{
+			"name": "cube",
+			"from": [8, 13, 12.5],
+			"to": [8.5, 15, 13],
+			"shade": true,
+			"faces": {
+				"north": {
+					"uv": [5.5, 5, 6, 7],
+					"texture": "#nether_brick"
+				},
+				"east": {
+					"uv": [3.000004, 5, 3.500004, 7],
+					"texture": "#nether_brick"
+				},
+				"south": {
+					"uv": [10, 5, 10.5, 7],
+					"texture": "#nether_brick"
+				},
+				"west": {
+					"uv": [12.5, 5, 13, 7],
+					"texture": "#nether_brick"
+				},
+				"up": {
+					"uv": [10, 12.5, 10.5, 13],
+					"texture": "#nether_brick"
+				},
+				"down": {
+					"uv": [10, 3.000004, 10.5, 3.500004],
+					"texture": "#nether_brick"
+				}
+			},
+			"__comment": "nether_brick29"
+		},
+		{
+			"name": "cube",
+			"from": [9, 12, 12.5],
+			"to": [9.5, 15, 13],
+			"shade": true,
+			"faces": {
+				"north": {
+					"uv": [5.5, 5, 6, 8],
+					"texture": "#nether_brick"
+				},
+				"east": {
+					"uv": [3.000004, 5, 3.500004, 8],
+					"texture": "#nether_brick"
+				},
+				"south": {
+					"uv": [10, 5, 10.5, 8],
+					"texture": "#nether_brick"
+				},
+				"west": {
+					"uv": [12.5, 5, 13, 8],
+					"texture": "#nether_brick"
+				},
+				"up": {
+					"uv": [10, 12.5, 10.5, 13],
+					"texture": "#nether_brick"
+				},
+				"down": {
+					"uv": [10, 3.000004, 10.5, 3.500004],
+					"texture": "#nether_brick"
+				}
+			},
+			"__comment": "nether_brick29"
+		},
+		{
+			"name": "cube",
+			"from": [6.5, 12, 12.5],
+			"to": [7, 15, 13],
+			"shade": true,
+			"faces": {
+				"north": {
+					"uv": [9.5, 5, 10, 8],
+					"texture": "#nether_brick"
+				},
+				"east": {
+					"uv": [3.000004, 5, 3.500004, 8],
+					"texture": "#nether_brick"
+				},
+				"south": {
+					"uv": [6, 5, 6.5, 8],
+					"texture": "#nether_brick"
+				},
+				"west": {
+					"uv": [12.5, 5, 13, 8],
+					"texture": "#nether_brick"
+				},
+				"up": {
+					"uv": [6, 12.5, 6.5, 13],
+					"texture": "#nether_brick"
+				},
+				"down": {
+					"uv": [6, 3.000004, 6.5, 3.500004],
+					"texture": "#nether_brick"
+				}
+			},
+			"__comment": "nether_brick29"
+		},
+		{
+			"name": "cube",
+			"from": [4, 14.5, 11],
+			"to": [12, 15, 12],
+			"shade": true,
+			"faces": {
+				"north": {
+					"uv": [6, 1, 14, 1.5],
+					"texture": "#nether_brick"
+				},
+				"east": {
+					"uv": [6, 1, 7, 1.5],
+					"texture": "#nether_brick"
+				},
+				"south": {
+					"uv": [6, 1, 14, 1.5],
+					"texture": "#nether_brick"
+				},
+				"west": {
+					"uv": [6, 1, 7, 1.5],
+					"texture": "#nether_brick"
+				},
+				"up": {"uv": [0, 0, 8, 1], "texture": "#nether_brick"},
+				"down": {
+					"uv": [6, 6, 14, 7],
+					"texture": "#nether_brick"
+				}
+			},
+			"__comment": "nether_brick66"
+		},
+		{
+			"name": "cube",
+			"from": [4, 14.5, 4],
+			"to": [12, 15, 5],
+			"shade": true,
+			"faces": {
+				"north": {
+					"uv": [6, 1, 14, 1.5],
+					"texture": "#nether_brick"
+				},
+				"east": {
+					"uv": [6, 1, 7, 1.5],
+					"texture": "#nether_brick"
+				},
+				"south": {
+					"uv": [6, 1, 14, 1.5],
+					"texture": "#nether_brick"
+				},
+				"west": {
+					"uv": [6, 1, 7, 1.5],
+					"texture": "#nether_brick"
+				},
+				"up": {"uv": [0, 0, 8, 1], "texture": "#nether_brick"},
+				"down": {
+					"uv": [6, 6, 14, 7],
+					"texture": "#nether_brick"
+				}
+			},
+			"__comment": "nether_brick66"
+		},
+		{
+			"name": "cube",
+			"from": [6, 14.5, 12],
+			"to": [10.5, 15, 12.5],
+			"shade": true,
+			"faces": {
+				"north": {
+					"uv": [6, 1, 10.5, 1.5],
+					"texture": "#nether_brick"
+				},
+				"east": {
+					"uv": [6, 1, 6.5, 1.5],
+					"texture": "#nether_brick"
+				},
+				"south": {
+					"uv": [6, 1, 10.5, 1.5],
+					"texture": "#nether_brick"
+				},
+				"west": {
+					"uv": [6, 1, 6.5, 1.5],
+					"texture": "#nether_brick"
+				},
+				"up": {
+					"uv": [0, 0, 4.5, 0.5],
+					"texture": "#nether_brick"
+				},
+				"down": {
+					"uv": [6, 6, 10.5, 6.5],
+					"texture": "#nether_brick"
+				}
+			},
+			"__comment": "nether_brick66"
+		},
+		{
+			"name": "cube",
+			"from": [6, 14.5, 3.5],
+			"to": [10, 15, 4],
+			"shade": true,
+			"faces": {
+				"north": {
+					"uv": [6, 1, 10, 1.5],
+					"texture": "#nether_brick"
+				},
+				"east": {
+					"uv": [6, 1, 6.5, 1.5],
+					"texture": "#nether_brick"
+				},
+				"south": {
+					"uv": [6, 1, 10, 1.5],
+					"texture": "#nether_brick"
+				},
+				"west": {
+					"uv": [6, 1, 6.5, 1.5],
+					"texture": "#nether_brick"
+				},
+				"up": {
+					"uv": [0, 0, 4, 0.5],
+					"texture": "#nether_brick"
+				},
+				"down": {
+					"uv": [6, 6, 10, 6.5],
+					"texture": "#nether_brick"
+				}
+			},
+			"__comment": "nether_brick66"
+		},
+		{
+			"name": "cube",
+			"from": [4.5, 10, 12.5],
+			"to": [11.5, 10.5, 13],
+			"shade": true,
+			"faces": {
+				"north": {
+					"uv": [3.999996, 5.5, 10.999996, 6],
+					"texture": "#wool_black"
+				},
+				"east": {
+					"uv": [3.5, 5.5, 4, 6],
+					"texture": "#wool_black"
+				},
+				"south": {
+					"uv": [4.000004, 5.5, 11.000004, 6],
+					"texture": "#wool_black"
+				},
+				"west": {
+					"uv": [12, 5.5, 12.5, 6],
+					"texture": "#wool_black"
+				},
+				"up": {
+					"uv": [4.000004, 12, 11.000004, 12.5],
+					"texture": "#wool_black"
+				},
+				"down": {
+					"uv": [4.000004, 3.5, 11.000004, 4],
+					"texture": "#wool_black"
+				}
+			},
+			"__comment": "wool_black"
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [73, -148, 47],
+			"translation": [-2.084, 0.6963, -2.086],
+			"scale": [0.7, 0.7, 0.7]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [73, -148, 47],
+			"translation": [-2.084, 0.6963, -2.086],
+			"scale": [0.7, 0.7, 0.7]
+		},
+		"firstperson_righthand": {
+			"rotation": [-7, -62, 5],
+			"translation": [4.1739, -3.375, -5.564]
+		},
+		"firstperson_lefthand": {
+			"rotation": [-7, -62, 5],
+			"translation": [4.1739, -3.375, -5.564]
+		},
+		"gui": {
+			"rotation": [21, -32, 2],
+			"translation": [0.5006, -4.498, 0]
+		},
+		"head": {
+			"rotation": [0, 180, 0],
+			"translation": [0, -0.9, 0],
+			"scale": [1.81, 1.81, 1.81]
+		},
+		"fixed": {
+			"rotation": [-10, 164, 1],
+			"translation": [0, -3.478, -4.869]
+		}
+	}
+}

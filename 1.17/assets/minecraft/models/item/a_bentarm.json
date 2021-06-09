@@ -1,0 +1,200 @@
+{
+  "__comment": "Designed_by_Slinx_for_ImagineFun",
+  "textures": {
+    "texture": "custom/ariel"
+  },
+  "elements": [
+    {
+      "__comment": "Box1",
+      "from": [
+        6,
+        6,
+        1.5
+      ],
+      "to": [
+        9,
+        9,
+        8.5
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            9.5,
+            3,
+            10.5,
+            4
+          ],
+          "texture": "#texture"
+        },
+        "up": {
+          "uv": [
+            9.5,
+            3,
+            10.5,
+            4
+          ],
+          "texture": "#texture"
+        },
+        "north": {
+          "uv": [
+            9.5,
+            3,
+            10.5,
+            4
+          ],
+          "texture": "#texture"
+        },
+        "south": {
+          "uv": [
+            9.5,
+            3,
+            10.5,
+            4
+          ],
+          "texture": "#texture"
+        },
+        "west": {
+          "uv": [
+            9.5,
+            3,
+            10.5,
+            4
+          ],
+          "texture": "#texture"
+        },
+        "east": {
+          "uv": [
+            9.5,
+            3,
+            10.5,
+            4
+          ],
+          "texture": "#texture"
+        }
+      }
+    },
+    {
+      "__comment": "Box1",
+      "from": [
+        6,
+        6,
+        8.5
+      ],
+      "to": [
+        9,
+        9,
+        15.5
+      ],
+      "rotation": {
+        "origin": [
+          6,
+          6,
+          8.5
+        ],
+        "axis": "x",
+        "angle": -45
+      },
+      "faces": {
+        "down": {
+          "uv": [
+            9.5,
+            3,
+            10.5,
+            4
+          ],
+          "texture": "#texture"
+        },
+        "up": {
+          "uv": [
+            9.5,
+            3,
+            10.5,
+            4
+          ],
+          "texture": "#texture"
+        },
+        "north": {
+          "uv": [
+            9.5,
+            3,
+            10.5,
+            4
+          ],
+          "texture": "#texture"
+        },
+        "south": {
+          "uv": [
+            9.5,
+            3,
+            10.5,
+            4
+          ],
+          "texture": "#texture"
+        },
+        "west": {
+          "uv": [
+            9.5,
+            3,
+            10.5,
+            4
+          ],
+          "texture": "#texture"
+        },
+        "east": {
+          "uv": [
+            9.5,
+            3,
+            10.5,
+            4
+          ],
+          "texture": "#texture"
+        }
+      }
+    }
+  ],
+  "display": {
+    "thirdperson_righthand": {
+      "rotation": [
+        45,
+        0,
+        0
+      ],
+      "translation": [
+        0,
+        -2.2,
+        6.1
+      ]
+    },
+    "thirdperson_lefthand": {
+      "rotation": [
+        45,
+        0,
+        0
+      ],
+      "translation": [
+        -1,
+        -2.2,
+        6.1
+      ]
+    },
+    "gui": {
+      "rotation": [
+        0,
+        125,
+        0
+      ],
+      "translation": [
+        0,
+        -1.391,
+        0
+      ]
+    },
+    "fixed": {
+      "rotation": [
+        0,
+        90,
+        0
+      ]
+    }
+  }
+}

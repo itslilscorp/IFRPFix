@@ -1,0 +1,142 @@
+{
+  "__comment": "Designed_by_Mouskegamer_with_Cubik_Studio_-_https://cubik.studio",
+  "textures": {
+    "texture5": "custom/pm_texture/pm_001/tot_intro_2"
+  },
+  "elements": [
+    {
+      "__comment": "Box1",
+      "from": [
+        -1.75,
+        6.75,
+        0.3
+      ],
+      "to": [
+        16.718,
+        20.601,
+        1.0695
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            0,
+            14.5,
+            16,
+            15.5
+          ],
+          "texture": "#texture5"
+        },
+        "up": {
+          "uv": [
+            0,
+            0.5,
+            16,
+            1.5
+          ],
+          "texture": "#texture5"
+        },
+        "north": {
+          "uv": [
+            5.5,
+            0,
+            10.5,
+            4
+          ],
+          "texture": "#texture5"
+        },
+        "south": {
+          "uv": [
+            0,
+            0,
+            16,
+            12
+          ],
+          "texture": "#texture5"
+        },
+        "west": {
+          "uv": [
+            0.5,
+            0,
+            1.5,
+            12
+          ],
+          "texture": "#texture5"
+        },
+        "east": {
+          "uv": [
+            14.5,
+            0,
+            15.5,
+            12
+          ],
+          "texture": "#texture5"
+        }
+      }
+    }
+  ],
+  "display": {
+    "thirdperson_righthand": {
+      "rotation": [
+        92,
+        0,
+        0
+      ],
+      "translation": [
+        0,
+        1,
+        0
+      ],
+      "scale": [
+        0.3,
+        0.3,
+        0.3
+      ]
+    },
+    "thirdperson_lefthand": {
+      "rotation": [
+        92,
+        0,
+        0
+      ],
+      "translation": [
+        0,
+        1,
+        0
+      ],
+      "scale": [
+        0.3,
+        0.3,
+        0.3
+      ]
+    },
+    "gui": {
+      "rotation": [
+        9,
+        -164,
+        0
+      ],
+      "translation": [
+        -0.3,
+        -2,
+        0
+      ],
+      "scale": [
+        0.35,
+        0.35,
+        0.35
+      ]
+    },
+    "head": {
+      "translation": [
+        0,
+        -22,
+        18
+      ],
+      "scale": [
+        1.75,
+        1.75,
+        1.75
+      ]
+    }
+  }
+}

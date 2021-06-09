@@ -1,0 +1,47 @@
+{
+	"__comment": "Designed by Mouskegamer with Cubik Studio - https://cubik.studio",
+	"textures": {
+		"particle": "blocks/e_particle",
+		"texture": "custom/holocron"
+	},
+	"elements": [ 	 
+		{
+			"__comment": "Box1",
+			"from": [ 2, 0, 0 ],
+			"to": [ 9.5, 7.5, 7.5 ],
+			"faces": {
+				"down": { "uv": [ 1, 1, 16, 16 ], "texture": "#texture" },
+				"up": { "uv": [ 1, 1, 16, 16 ], "texture": "#texture" },
+				"north": { "uv": [ 1, 1, 16, 16 ], "texture": "#texture" },
+				"south": { "uv": [ 1, 1, 16, 16 ], "texture": "#texture" },
+				"west": { "uv": [ 1, 1, 16, 16 ], "texture": "#texture" },
+				"east": { "uv": [ 1, 1, 16, 16 ], "texture": "#texture" }
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"translation":  [ 1, 2.0869, 0.6956 ],
+			"scale":  [ 0.5, 0.5, 0.5 ]
+		},
+		"thirdperson_lefthand": {
+			"translation":  [ -1, 2.0869, 0.6956 ],
+			"scale":  [ 0.5, 0.5, 0.5 ]
+		},
+		"firstperson_righthand": {
+			"translation":  [ 2, 5.5, 0 ]
+		},
+		"firstperson_lefthand": {
+			"translation":  [ -2, 5.5652, 0 ]
+		},
+		"gui": {
+			"translation":  [ 2, 4, 0 ]
+		},
+		"ground": {
+			"translation":  [ 3, 4, 4 ]
+		},
+		"fixed": {
+			"translation":  [ 2, 4, 5.5652 ]
+		}
+	}
+}

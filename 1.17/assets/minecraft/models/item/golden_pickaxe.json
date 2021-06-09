@@ -1,0 +1,278 @@
+{
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "item/golden_pickaxe"
+  },
+  "overrides": [
+    {
+      "predicate": {
+        "damaged": 0,
+        "damage": 0
+      },
+      "model": "item/golden_pickaxe"
+    },
+    {
+      "_cmd_": "give_@p_minecraft:golden_pickaxe_1_1_{unbreakable:1}",
+      "predicate": {
+        "damaged": 0,
+        "damage": 0.030303030303030304
+      },
+      "model": "item/cart/spacemountain"
+    },
+    {
+      "_cmd_": "give_@p_minecraft:golden_pickaxe_1_2_{unbreakable:1}",
+      "predicate": {
+        "damaged": 0,
+        "damage": 0.06060606060606061
+      },
+      "model": "item/cart/mrtoadvehicle"
+    },
+    {
+      "_cmd_": "give_@p_minecraft:golden_pickaxe_1_3_{unbreakable:1}",
+      "predicate": {
+        "damaged": 0,
+        "damage": 0.09090909090909091
+      },
+      "model": "item/cart/indy_vehicle"
+    },
+    {
+      "_cmd_": "give_@p_minecraft:golden_pickaxe_1_4_{unbreakable:1}",
+      "predicate": {
+        "damaged": 0,
+        "damage": 0.12121212121212122
+      },
+      "model": "item/boat"
+    },
+    {
+      "_cmd_": "give_@p_minecraft:golden_pickaxe_1_5_{unbreakable:1}",
+      "predicate": {
+        "damaged": 0,
+        "damage": 0.15151515151515152
+      },
+      "model": "item/cart/btmtrain02"
+    },
+    {
+      "_cmd_": "give_@p_minecraft:golden_pickaxe_1_6_{unbreakable:1}",
+      "predicate": {
+        "damaged": 0,
+        "damage": 0.18181818181818182
+      },
+      "model": "item/cart/smugglers_run"
+    },
+    {
+      "_cmd_": "give_@p_minecraft:golden_pickaxe_1_7_{unbreakable:1}",
+      "predicate": {
+        "damaged": 0,
+        "damage": 0.21212121212121213
+      },
+      "model": "item/cart/alice_cart_green"
+    },
+    {
+      "_cmd_": "give_@p_minecraft:golden_pickaxe_1_8_{unbreakable:1}",
+      "predicate": {
+        "damaged": 0,
+        "damage": 0.24242424242424243
+      },
+      "model": "item/cart/alice_cart_orange"
+    },
+    {
+      "_cmd_": "give_@p_minecraft:golden_pickaxe_1_9_{unbreakable:1}",
+      "predicate": {
+        "damaged": 0,
+        "damage": 0.2727272727272727
+      },
+      "model": "item/cart/dumboblue"
+    },
+    {
+      "_cmd_": "give_@p_minecraft:golden_pickaxe_1_10_{unbreakable:1}",
+      "predicate": {
+        "damaged": 0,
+        "damage": 0.30303030303030304
+      },
+      "model": "item/hm_cart"
+    },
+    {
+      "_cmd_": "give_@p_minecraft:golden_pickaxe_1_11_{unbreakable:1}",
+      "predicate": {
+        "damaged": 0,
+        "damage": 0.33333333333333337
+      },
+      "model": "item/cart/dumbopole"
+    },
+    {
+      "_cmd_": "give_@p_minecraft:golden_pickaxe_1_12_{unbreakable:1}",
+      "predicate": {
+        "damaged": 0,
+        "damage": 0.36363636363636365
+      },
+      "model": "item/cart/peterpans_flight_ship"
+    },
+    {
+      "_cmd_": "give_@p_minecraft:golden_pickaxe_1_13_{unbreakable:1}",
+      "predicate": {
+        "damaged": 0,
+        "damage": 0.3939393939393939
+      },
+      "model": "item/cart/snowwhite"
+    },
+    {
+      "_cmd_": "give_@p_minecraft:golden_pickaxe_1_14_{unbreakable:1}",
+      "predicate": {
+        "damaged": 0,
+        "damage": 0.42424242424242425
+      },
+      "model": "item/cart/carouselhorse"
+    },
+    {
+      "_cmd_": "give_@p_minecraft:golden_pickaxe_1_15_{unbreakable:1}",
+      "predicate": {
+        "damaged": 0,
+        "damage": 0.4545454545454546
+      },
+      "model": "item/cart/btmtrain01"
+    },
+    {
+      "_cmd_": "give_@p_minecraft:golden_pickaxe_1_16_{unbreakable:1}",
+      "predicate": {
+        "damaged": 0,
+        "damage": 0.48484848484848486
+      },
+      "model": "item/cart/potc_boat"
+    },
+    {
+      "_cmd_": "give_@p_minecraft:golden_pickaxe_1_17_{unbreakable:1}",
+      "predicate": {
+        "damaged": 0,
+        "damage": 0.5151515151515151
+      },
+      "model": "item/cart/spacemountain"
+    },
+    {
+      "_cmd_": "give_@p_minecraft:golden_pickaxe_1_18_{unbreakable:1}",
+      "predicate": {
+        "damaged": 0,
+        "damage": 0.5454545454545454
+      },
+      "model": "item/cart/rotr"
+    },
+    {
+      "_cmd_": "give_@p_minecraft:golden_pickaxe_1_19_{unbreakable:1}",
+      "predicate": {
+        "damaged": 0,
+        "damage": 0.5757575757575758
+      },
+      "model": "item/cart/mainstreet_carriage"
+    },
+    {
+      "_cmd_": "give_@p_minecraft:golden_pickaxe_1_20_{unbreakable:1}",
+      "predicate": {
+        "damaged": 0,
+        "damage": 0.6060606060606061
+      },
+      "model": "item/shootintrain_01"
+    },
+    {
+      "_cmd_": "give_@p_minecraft:golden_pickaxe_1_21_{unbreakable:1}",
+      "predicate": {
+        "damaged": 0,
+        "damage": 0.6363636363636364
+      },
+      "model": "item/cart/teacup_01"
+    },
+    {
+      "_cmd_": "give_@p_minecraft:golden_pickaxe_1_22_{unbreakable:1}",
+      "predicate": {
+        "damaged": 0,
+        "damage": 0.6666666666666667
+      },
+      "model": "item/cart/teacup_02"
+    },
+    {
+      "_cmd_": "give_@p_minecraft:golden_pickaxe_1_23_{unbreakable:1}",
+      "predicate": {
+        "damaged": 0,
+        "damage": 0.696969696969697
+      },
+      "model": "item/cart/teacup_03"
+    },
+    {
+      "_cmd_": "give_@p_minecraft:golden_pickaxe_1_24_{unbreakable:1}",
+      "predicate": {
+        "damaged": 0,
+        "damage": 0.7272727272727273
+      },
+      "model": "item/toy_train_02"
+    },
+    {
+      "_cmd_": "give_@p_minecraft:golden_pickaxe_1_25_{unbreakable:1}",
+      "predicate": {
+        "damaged": 0,
+        "damage": 0.7575757575757576
+      },
+      "model": "item/cart/ep_ripley_tender"
+    },
+    {
+      "_cmd_": "give_@p_minecraft:golden_pickaxe_1_26_{unbreakable:1}",
+      "predicate": {
+        "damaged": 0,
+        "damage": 0.7878787878787878
+      },
+      "model": "item/cart/dl_train_passenger"
+    },
+    {
+      "_cmd_": "give_@p_minecraft:golden_pickaxe_1_27_{unbreakable:1}",
+      "predicate": {
+        "damaged": 0,
+        "damage": 0.8181818181818182
+      },
+      "model": "item/startours_panel_right"
+    },
+    {
+      "_cmd_": "give_@p_minecraft:golden_pickaxe_1_28_{unbreakable:1}",
+      "predicate": {
+        "damaged": 0,
+        "damage": 0.8484848484848485
+      },
+      "model": "item/startours_blashshield_window_bottom"
+    },
+    {
+      "_cmd_": "give_@p_minecraft:golden_pickaxe_1_29_{unbreakable:1}",
+      "predicate": {
+        "damaged": 0,
+        "damage": 0.8787878787878788
+      },
+      "model": "item/startours_row"
+    },
+    {
+      "_cmd_": "give_@p_minecraft:golden_pickaxe_1_30_{unbreakable:1}",
+      "predicate": {
+        "damaged": 0,
+        "damage": 0.9090909090909092
+      },
+      "model": "item/cart/matterhornbobsled_aqua"
+    },
+    {
+      "_cmd_": "give_@p_minecraft:golden_pickaxe_1_31_{unbreakable:1}",
+      "predicate": {
+        "damaged": 0,
+        "damage": 0.9393939393939394
+      },
+      "model": "item/cart/matterhornbobsled_blue"
+    },
+    {
+      "_cmd_": "give_@p_minecraft:golden_pickaxe_1_32_{unbreakable:1}",
+      "predicate": {
+        "damaged": 0,
+        "damage": 0.9696969696969697
+      },
+      "model": "item/cart/matterhornbobsled_red"
+    },
+    {
+      "predicate": {
+        "damaged": 1,
+        "damage": 0
+      },
+      "model": "item/golden_pickaxe"
+    }
+  ]
+}

@@ -1,0 +1,186 @@
+{
+  "__comment": "Designed_by_Mouskegamer_with_Cubik_Studio_-_https://cubik.studio",
+  "textures": {
+    "particle": "custom/grandopeningticket",
+    "texture": "custom/blue_walkman01"
+  },
+  "elements": [
+    {
+      "__comment": "Box1",
+      "from": [
+        -2,
+        0,
+        7.5
+      ],
+      "to": [
+        18,
+        10,
+        8
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            0,
+            4,
+            16,
+            4.5
+          ],
+          "texture": "#particle"
+        },
+        "up": {
+          "uv": [
+            0,
+            4,
+            16,
+            4.5
+          ],
+          "texture": "#particle"
+        },
+        "north": {
+          "uv": [
+            0,
+            4,
+            0.5,
+            11.5
+          ],
+          "texture": "#particle"
+        },
+        "south": {
+          "uv": [
+            0,
+            3.999999,
+            16,
+            12
+          ],
+          "texture": "#particle"
+        },
+        "west": {
+          "uv": [
+            0,
+            4,
+            0.5,
+            12
+          ],
+          "texture": "#particle"
+        },
+        "east": {
+          "uv": [
+            15.5,
+            4,
+            16,
+            12
+          ],
+          "texture": "#particle"
+        }
+      }
+    }
+  ],
+  "display": {
+    "thirdperson_righthand": {
+      "rotation": [
+        0,
+        0,
+        -19
+      ],
+      "translation": [
+        1.3913,
+        2.0869,
+        0
+      ],
+      "scale": [
+        0.3,
+        0.3,
+        0.3
+      ]
+    },
+    "thirdperson_lefthand": {
+      "rotation": [
+        0,
+        0,
+        -19
+      ],
+      "translation": [
+        1.3913,
+        2.0869,
+        0
+      ],
+      "scale": [
+        0.3,
+        0.3,
+        0.3
+      ]
+    },
+    "firstperson_righthand": {
+      "translation": [
+        -2.086,
+        5.5652,
+        0
+      ],
+      "scale": [
+        0.5,
+        0.5,
+        0.5
+      ]
+    },
+    "firstperson_lefthand": {
+      "translation": [
+        -2.086,
+        5.5652,
+        0
+      ],
+      "scale": [
+        0.5,
+        0.5,
+        0.5
+      ]
+    },
+    "gui": {
+      "rotation": [
+        0,
+        -14,
+        0
+      ],
+      "translation": [
+        0,
+        1.3913,
+        0
+      ],
+      "scale": [
+        0.9,
+        0.9,
+        0.9
+      ]
+    },
+    "head": {
+      "rotation": [
+        0,
+        180,
+        0
+      ],
+      "translation": [
+        0,
+        2.7826,
+        -6.956
+      ]
+    },
+    "ground": {
+      "translation": [
+        0,
+        6.2608,
+        0
+      ]
+    },
+    "fixed": {
+      "rotation": [
+        0,
+        180,
+        0
+      ],
+      "translation": [
+        0,
+        2.7826,
+        0
+      ]
+    }
+  }
+}
