@@ -10,7 +10,7 @@
 - [Known Issues](#issues)
 - [Credits/Disclaimers](#credit)
 - [Version History](#version)
-## <a name="whats-new"></a>What's New? &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;  &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;  &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;  &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;  &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;  &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;  &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;  &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;  &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;  &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;  &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;    &nbsp;[ᴮᵃᶜᵏ ᵗᵒ ᵀᵒᵖ](#top)
+## <a name="whats-new"></a>What's New? <div style="text-align: right"> <a href="#top">ᴮᵃᶜᵏ ᵗᵒ ᵀᵒᵖ</a> </div>
 
 This is stuff that is in this pack that is not live on the current IF pack. 
 
@@ -34,7 +34,7 @@ This is stuff that is in this pack that is not live on the current IF pack.
 
 
 
-## <a name="fixed"></a>What's Been Fixed So Far? &nbsp;   &nbsp;   &nbsp;  &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;  &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;  &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;  &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;  &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;  &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;  &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;  &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;    &nbsp;      [ᴮᵃᶜᵏ ᵗᵒ ᵀᵒᵖ](#top)
+## <a name="fixed"></a>What's Been Fixed So Far? <div style="text-align: right"> <a href="#top">ᴮᵃᶜᵏ ᵗᵒ ᵀᵒᵖ</a> </div>
 
 This is stuff that was an issue in the past that IF has fixed in the official packs.
 
@@ -70,7 +70,7 @@ This is stuff that was an issue in the past that IF has fixed in the official pa
   - Before ![image](https://user-images.githubusercontent.com/84101121/118089204-1ee93b80-b396-11eb-81ae-585fe4806bb7.png)
   - After ![image](https://user-images.githubusercontent.com/84101121/118089242-24df1c80-b396-11eb-8301-e0df517509b6.png)
 
-## <a name="issues"></a>Known Issues &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;  &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;  &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;  &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;  &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;  &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;  &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;  &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;  &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;  &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;  &nbsp;   &nbsp;   &nbsp;   &nbsp;&nbsp; &nbsp;[ᴮᵃᶜᵏ ᵗᵒ ᵀᵒᵖ](#top)
+## <a name="issues"></a>Known Issues <div style="text-align: right"> <a href="#top">ᴮᵃᶜᵏ ᵗᵒ ᵀᵒᵖ</a> </div>
 
 - #### Due to the way Minecraft handles rendering entities through transparent entities on 1.13-1.14, Tink doesn't show up in her lantern outside Peter Pan when it becomes translucent. The one closer to Fantasyland's entrance seems unaffected by this.
   - 1.12, 1.15-1.16 ![image](https://user-images.githubusercontent.com/84101121/118096527-78099d00-b39f-11eb-94c2-234f55472b67.png)
@@ -79,7 +79,7 @@ This is stuff that was an issue in the past that IF has fixed in the official pa
   - 1.14- ![image](https://user-images.githubusercontent.com/84101121/118100844-ec930a80-b3a4-11eb-920d-3385a18fab40.png)
   - 1.15+ ![image](https://user-images.githubusercontent.com/84101121/118100872-f61c7280-b3a4-11eb-8610-d0fa2633e045.png)
 
-## <a name="credit"></a>Credits/Disclaimers &nbsp;   &nbsp;   &nbsp;  &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;  &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;  &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;  &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;  &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;  &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;  &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;  &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;    &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;[ᴮᵃᶜᵏ ᵗᵒ ᵀᵒᵖ](#top)
+## <a name="credit"></a>Credits/Disclaimers <div style="text-align: right"> <a href="#top">ᴮᵃᶜᵏ ᵗᵒ ᵀᵒᵖ</a> </div>
 
 I did not create any of the original textures or models - those were created by the staff at [Imagine Fun](https://imaginefun.net/).
 
@@ -89,7 +89,7 @@ While I discovered this myself before seeing it, user @Kumki Sakura🌸#9388 (on
 ![image](https://user-images.githubusercontent.com/84101121/118082611-7b932900-b38b-11eb-991d-e59b156481d6.png)
 
 
-## <a name="version"></a>Version History &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;  &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;  &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;  &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;  &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;  &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;  &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;  &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;  &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;  &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;  &nbsp;   &nbsp;   &nbsp; &nbsp;[ᴮᵃᶜᵏ ᵗᵒ ᵀᵒᵖ](#top)
+## <a name="version"></a>Version History <div style="text-align: right"> <a href="#top">ᴮᵃᶜᵏ ᵗᵒ ᵀᵒᵖ</a> </div>
 
 * 1.0.0
     * Initial Release - Updated Pack as of 5/13/21.
