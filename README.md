@@ -1,6 +1,8 @@
 # <a name="top"></a>Imagine Fun Resource Pack Fixed
 
 ![image](https://lingtalfi.com/services/pngtext?color=cc0000&size=25&text=Please%20let%20me%20know%20if%20any%20issues%20are%20found%20so%20they%20can%20be%20fixed%20ASAP)
+<p align="center"> <img src=https://lingtalfi.com/services/pngtext?color=0000FF&size=15&text=Since%20the%20majority%20of%20the%20IF%20pack%27s%20issues%20seem%20to%20be%20getting%20fixed%20and%20a%20purpose%20for> </p>
+<p align="center"> <img src=https://lingtalfi.com/services/pngtext?color=0000FF&size=15&text=this%20pack%20keeps%20getting%20slimmer,%20this%20github%20may%20soon%20stop%20receiving%20updates.> </p>
 
 #### It's widely known by anyone that plays on Imagine Fun that the best way to experience the server is on 1.12. This is in part due to the fact that the resource packs on higher versions aren't as complete as the one on the original version. I've sought to try and bring the resource pack for the other versions since then up to speed with 1.12 while also fixing any issues 1.12 has along the way. 
 
@@ -23,14 +25,6 @@ This is stuff that is in this pack that is not live on the current IF pack.
 - #### The 1.12 paintings have been brought up to 1.14+
   - Before ![image](https://user-images.githubusercontent.com/84101121/118090589-c024c180-b397-11eb-9a61-a5532ed6849e.png)
   - After![image](https://user-images.githubusercontent.com/84101121/118090557-b438ff80-b397-11eb-87a7-51d9d8d21b94.png)
-
-- #### The Slinky Pet is no longer missing textures across all pack versions.
-  - Before ![image](https://user-images.githubusercontent.com/84101121/121484709-7b437900-c99d-11eb-92c8-9c55538b6e9d.png)
-  - After ![image](https://user-images.githubusercontent.com/84101121/121484732-80a0c380-c99d-11eb-9da1-ffe87d114a3d.png)
-
-- #### Snow White and The Prince are no longer missing arm textures across all versions at the end of Snow White's Enchanted Wish
-  - Before ![image](https://user-images.githubusercontent.com/84101121/121485394-26ecc900-c99e-11eb-816d-c40e8da1878b.png)
-  - After ![image](https://user-images.githubusercontent.com/84101121/121485417-29e7b980-c99e-11eb-9b0d-8c77bb4e4250.png)
 
 
 
@@ -69,12 +63,16 @@ This is stuff that was an issue in the past that IF has fixed in the official pa
 - #### Cheshire Cat's eyes
   - Before ![image](https://user-images.githubusercontent.com/84101121/118089204-1ee93b80-b396-11eb-81ae-585fe4806bb7.png)
   - After ![image](https://user-images.githubusercontent.com/84101121/118089242-24df1c80-b396-11eb-8301-e0df517509b6.png)
+- #### Slinky Pet missing textures
+  - Before ![image](https://user-images.githubusercontent.com/84101121/121484709-7b437900-c99d-11eb-92c8-9c55538b6e9d.png)
+  - After ![image](https://user-images.githubusercontent.com/84101121/121484732-80a0c380-c99d-11eb-9da1-ffe87d114a3d.png)
+
+- #### Snow White's Enchanted Wish missing arm textures
+  - Before ![image](https://user-images.githubusercontent.com/84101121/121485394-26ecc900-c99e-11eb-816d-c40e8da1878b.png)
+  - After ![image](https://user-images.githubusercontent.com/84101121/121485417-29e7b980-c99e-11eb-9b0d-8c77bb4e4250.png)
 
 ## <a name="issues"></a>Known Issues <div style="text-align: right"> <a href="#top">ᴮᵃᶜᵏ ᵗᵒ ᵀᵒᵖ</a> </div>
 
-- #### Due to the way Minecraft handles rendering entities through transparent entities on 1.13-1.14, Tink doesn't show up in her lantern outside Peter Pan when it becomes translucent. The one closer to Fantasyland's entrance seems unaffected by this.
-  - 1.12, 1.15-1.16 ![image](https://user-images.githubusercontent.com/84101121/118096527-78099d00-b39f-11eb-94c2-234f55472b67.png)
-  - 1.13-1.14 ![image](https://user-images.githubusercontent.com/84101121/118096510-70e28f00-b39f-11eb-8436-2d5bee2e726e.png)
 - #### Due to the way Minecraft handles rendering transparent paintings in 1.15+, some paintings that were previously invisible now appear black.
   - 1.14- ![image](https://user-images.githubusercontent.com/84101121/118100844-ec930a80-b3a4-11eb-920d-3385a18fab40.png)
   - 1.15+ ![image](https://user-images.githubusercontent.com/84101121/118100872-f61c7280-b3a4-11eb-8610-d0fa2633e045.png)
@@ -103,3 +101,5 @@ While I discovered this myself before seeing it, user @Kumki Sakura🌸#9388 (on
     * 1.17/CoinsForChange Update - Updated Pack as of 6/4/21, and replaced a couple of small missing textures. Also included 1.12 and 1.17 pack versions.
 * 1.3.1
     * 1.17/CoinsForChange Hotfix 1 - Fixed an issue where the lang file wasn't correctly converted from 1.12. Also fixed a missing textures on Snow White's arms.
+* 1.4.0
+    * Pixar Pier Teaser Update - Updated Pack as of 6/14/21

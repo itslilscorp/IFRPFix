@@ -5609,6 +5609,132 @@
         "damage": 0.51377322229,
         "damaged": 1
       },
+      "model": "item/pplamp5"
+    },
+    {
+      "predicate": {
+        "damage": 0.51441383728,
+        "damaged": 1
+      },
+      "model": "item/trash/ts"
+    },
+    {
+      "predicate": {
+        "damage": 0.51505445227,
+        "damaged": 1
+      },
+      "model": "item/trash/io"
+    },
+    {
+      "predicate": {
+        "damage": 0.51569506726,
+        "damaged": 1
+      },
+      "model": "item/pplamp6"
+    },
+    {
+      "predicate": {
+        "damage": 0.51633568225,
+        "damaged": 1
+      },
+      "model": "item/pplamp7"
+    },
+    {
+      "predicate": {
+        "damage": 0.51697629724,
+        "damaged": 1
+      },
+      "model": "item/pplamp8"
+    },
+    {
+      "predicate": {
+        "damage": 0.51761691223,
+        "damaged": 1
+      },
+      "model": "item/pplamp9"
+    },
+    {
+      "predicate": {
+        "damage": 0.51825752722,
+        "damaged": 1
+      },
+      "model": "item/cog1"
+    },
+    {
+      "predicate": {
+        "damage": 0.51889814221,
+        "damaged": 1
+      },
+      "model": "item/iosign"
+    },
+    {
+      "predicate": {
+        "damage": 0.5195387572,
+        "damaged": 1
+      },
+      "model": "item/iolamp1"
+    },
+    {
+      "predicate": {
+        "damage": 0.52017937219,
+        "damaged": 1
+      },
+      "model": "item/iolamp2"
+    },
+    {
+      "predicate": {
+        "damage": 0.52081998718,
+        "damaged": 1
+      },
+      "model": "item/pp_luxolampanima_head"
+    },
+    {
+      "predicate": {
+        "damage": 0.52146060217,
+        "damaged": 1
+      },
+      "model": "item/pp_luxolampanima_base"
+    },
+    {
+      "predicate": {
+        "damage": 0.52210121716,
+        "damaged": 1
+      },
+      "model": "item/skyschoolsign"
+    },
+    {
+      "predicate": {
+        "damage": 0.52274183215,
+        "damaged": 1
+      },
+      "model": "item/jumpinsign"
+    },
+    {
+      "predicate": {
+        "damage": 0.52338244714,
+        "damaged": 1
+      },
+      "model": "item/iosign2"
+    },
+    {
+      "predicate": {
+        "damage": 0.52402306214,
+        "damaged": 1
+      },
+      "model": "item/cog2"
+    },
+    {
+      "predicate": {
+        "damage": 0.52466367713,
+        "damaged": 1
+      },
+      "model": "item/cog3"
+    },
+    {
+      "predicate": {
+        "damage": 0.52530429212,
+        "damaged": 1
+      },
       "model": "item/placeholder"
     }
   ]

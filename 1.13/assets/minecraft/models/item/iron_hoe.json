@@ -1417,7 +1417,7 @@
         "damaged": 0,
         "damage": 0.704
       },
-      "model": "item/pet/recognizer"
+      "model": "item/cart/io1"
     },
     {
       "_cmd_": "give_@p_minecraft:iron_shovel_1_176_{unbreakable:1}",
@@ -1425,7 +1425,7 @@
         "damaged": 0,
         "damage": 0.708
       },
-      "model": "item/homerunbat"
+      "model": "item/cart/io2"
     },
     {
       "_cmd_": "give_@p_minecraft:iron_shovel_1_177_{unbreakable:1}",
@@ -1433,7 +1433,7 @@
         "damaged": 0,
         "damage": 0.712
       },
-      "model": "item/wiisportbat"
+      "model": "item/cart/io3"
     },
     {
       "_cmd_": "give_@p_minecraft:iron_shovel_1_178_{unbreakable:1}",
@@ -1441,7 +1441,7 @@
         "damaged": 0,
         "damage": 0.716
       },
-      "model": "item/pet/oneone"
+      "model": "item/cart/io4"
     },
     {
       "_cmd_": "give_@p_minecraft:iron_shovel_1_179_{unbreakable:1}",
@@ -1449,7 +1449,7 @@
         "damaged": 0,
         "damage": 0.720
       },
-      "model": "item/triforce"
+      "model": "item/phone/base"
     },
     {
       "_cmd_": "give_@p_minecraft:iron_shovel_1_180_{unbreakable:1}",
